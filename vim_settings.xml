@@ -140,8 +140,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" timestamp="1495114677267">
+      <file name="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" timestamp="1495128418765">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="88" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data_0" timestamp="1494767961893">
         <mark key="'" line="720" column="12" />
@@ -169,11 +171,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1495114513902">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1495131680845">
+        <mark key="'" line="95" column="12" />
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="69" column="23" />
+        <mark key="." line="69" column="23" />
+        <mark key="^" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/one-ring/yoga/tests/MeshDensityEstimatorTests.cpp" timestamp="1494113928629">
         <mark key="'" line="24" column="9" />
@@ -233,29 +236,23 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495114490773">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="22" />
+      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495131685510">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="141" />
+        <mark key="." line="24" column="108" />
+        <mark key="^" line="24" column="68" />
       </file>
       <file name="_mac/applicationLibraries.xml" timestamp="1494855062835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1495114497662">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1495131700166">
+        <mark key="[" line="9" column="129" />
+        <mark key="]" line="9" column="129" />
+        <mark key="." line="9" column="129" />
+        <mark key="^" line="9" column="129" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/hefss++/src/thermodynamics.cpp" />
-      <jump line="28" column="37" filename="$USER_HOME$/hefss++/unit_tests/thermodynamicsTests.cpp" />
-      <jump line="41" column="29" filename="$USER_HOME$/hefss++/src/thermodynamics.cpp" />
-      <jump line="14" column="0" filename="$USER_HOME$/hefss++/src/thermodynamics.h" />
-      <jump line="0" column="11" filename="$USER_HOME$/hefss++/src/thermodynamics.h" />
-      <jump line="23" column="49" filename="$USER_HOME$/hefss++/data/species_thermo_data" />
       <jump line="1077" column="0" filename="$USER_HOME$/hefss++/data/species_thermo_data" />
       <jump line="1057" column="50" filename="$USER_HOME$/hefss++/data/species_thermo_data" />
       <jump line="249" column="29" filename="$USER_HOME$/hefss++/data/species_thermo_data" />
@@ -350,55 +347,61 @@
       <jump line="26" column="45" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
       <jump line="68" column="51" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
+      <jump line="44" column="0" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
+      <jump line="67" column="25" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
+      <jump line="68" column="12" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
+      <jump line="69" column="12" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
+      <jump line="74" column="12" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
+      <jump line="79" column="12" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Approx(mo)</text>
+        <text encoding="base64">ID0gMDs=</text>
       </register>
       <register name="-" type="4">
-        <text>Approx(mo)</text>
+        <text encoding="base64">ID0gMDs=</text>
       </register>
       <register name="/" type="4">
-        <text>double</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKCB0aGVybW8uY2FsY1ByZXNzdXJlUmhvVChyaG8sIFQpID09IEFwcHJveChwcmVzc3VyZSkgKTsK</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBjYWxjU3RhdGUoVGhlcm1vSW5wdXQgaW5fcXVhbnRpdHksIFRoZXJtb091dHB1dCBvdXRfcXVhbnRpdHksIGRvdWJsZSAqaW5fc3RhdGUsIGRvdWJsZSAqb3V0cHV0X3N0YXRlKSBjb25zdCA9IDA7CiAgICB2aXJ0dWFsIHZvaWQgY2FsY1N0YXRlKFRoZXJtb0lucHV0IGluX3F1YW50aXR5LCBUaGVybW9PdXRwdXQgb3V0X3F1YW50aXR5LCBkb3VibGUgKnJobywgZG91YmxlICppbl9zdGF0ZSwgZG91YmxlICpvdXRwdXRfc3RhdGUpIGNvbnN0ID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBtb2xlY3VsYXJXZWlnaHQoZG91YmxlICpyaG8pIGNvbnN0ID0gMDsK</text>
+        <text encoding="base64">ICAgIHZvaWQgY2FsY1N0YXRlKFRoZXJtb091dHB1dCBxdWFudGl0eSwgZG91YmxlICppbl9zdGF0ZSwgZG91YmxlICpvdXRwdXRfc3RhdGUpIGNvbnN0OwogICAgdm9pZCBjYWxjU3RhdGUoVGhlcm1vT3V0cHV0IHF1YW50aXR5LCBkb3VibGUgKmluX3N0YXRlMSwgZG91YmxlICppbl9zdGF0ZTIsIGRvdWJsZSAqb3V0cHV0X3N0YXRlKSBjb25zdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFByZXNzdXJlUmhvUDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzcGVlZF9vZl9zb3VuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAocXVhbnRpdHkpIHsKICAgICAgICBjYXNlIFByZXNzdXJlUmhvVCwgOgogICAgfQogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUK</text>
+        <text encoding="base64">ICAgIFByZXNzdXJlUmhvVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNwZWVkT2ZTb3VuZFJob3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudGhhbHB5LnB1c2hfYmFjayhoKTsKICAgIHJldHVybiBlbnRoYWxweTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudGhhbHB5LnB1c2hfYmFjayhoKTsKICAgIHJldHVybiBlbnRoYWxweTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZW5zaXR5ID0gaW5fc3RhdGUxWzBdOwogICAgICAgICAgICBwcmVzc3VyZSA9IGluX3N0YXRlMlswXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>double</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern>double</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -410,12 +413,13 @@
         <entry encoding="base64">Jg==</entry>
         <entry>*</entry>
         <entry>double</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>qa</entry>
         <entry>vsp TdataReaderTests.cpp</entry>
         <entry>vsp Thermodynamics.h</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

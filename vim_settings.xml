@@ -42,11 +42,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/CMakeLists.txt" timestamp="1494110091577">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/thermodynamicsTests.cpp" timestamp="1494776585234">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="48" />
@@ -72,18 +67,8 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/he_physics/main.cpp" timestamp="1493579912629">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/data/species_transport.json" timestamp="1494769279541">
         <mark key="'" line="3513" column="0" />
-      </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/Alltests.cpp" timestamp="1494109259620">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/thermodynamics.h" timestamp="1493853380575">
         <mark key="[" line="13" column="26" />
@@ -100,13 +85,14 @@
         <mark key="]" line="251" column="56" />
         <mark key="." line="251" column="56" />
       </file>
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495159802251">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1494772286187">
         <mark key="'" line="1401" column="9" />
-      </file>
-      <file name="$USER_HOME$/hefss++/src/main.cpp" timestamp="1494246142275">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/CMakeLists.txt" timestamp="1494878656705">
         <mark key="[" line="9" column="15" />
@@ -114,29 +100,20 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/hefss++/thermodynamics.h" timestamp="1494104078394">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" timestamp="1495158600735">
         <mark key="[" line="37" column="29" />
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/tdata_reader.h" timestamp="1494878448706">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" timestamp="1494968489895">
         <mark key="'" line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495157107468">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495160029882">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data" timestamp="1494540170735">
         <mark key="'" line="1165" column="0" />
@@ -292,25 +269,34 @@
       <jump line="68" column="51" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>24.1452209766</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtb19kYXRhID0gZGF0YVsidGhlcm1vX2RhdGEiXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>24.1452209766</text>
+        <text>'mol_wt'</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoZW50aGFscHlDdXJ2ZUZpdChjb2VmcywgdGVtcGVyYXR1cmUpID09IEFwcHJveCgyNC4xNDUyMjA5NzY2KSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gdXBwZXJfdGVtcGVyYXR1cmVfYm91bmQ7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtb19kYXRhID0gZGF0YVsidGhlcm1vX2RhdGEiXTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>(
 (
 (
@@ -320,7 +306,7 @@
 (
 (</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>(
 (
 (
@@ -330,22 +316,15 @@
 (
 (</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAwOwogICAgMjQuMTQ1MjIwOTc2Ngo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>Cp
 Cp</text>
-      </register>
-      <register name="8" type="8">
-        <text>specificHeat
-specificHeat</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp PerfectGas.cpp</text>

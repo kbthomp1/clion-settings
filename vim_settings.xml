@@ -24,12 +24,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.h" timestamp="1495456161885">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="12" column="63" />
-        <mark key="." line="12" column="63" />
-        <mark key="^" line="12" column="35" />
+      <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.h" timestamp="1495457340452">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="17" column="99" />
       </file>
       <file name="$USER_HOME$/hefss++/src/Thermodynamics.cpp" timestamp="1495137140285">
         <mark key="'" line="4" column="20" />
@@ -78,12 +78,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1495455159102">
+      <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1495456943234">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="47" column="52" />
-        <mark key="^" line="47" column="52" />
-        <mark key="." line="47" column="52" />
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/main.cpp" timestamp="1495142792514">
         <mark key="'" line="14" column="41" />
@@ -160,11 +160,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" timestamp="1495456213168">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" timestamp="1495457389022">
+        <mark key="'" line="26" column="3" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/tdata_reader.h" timestamp="1494878448706">
         <mark key="[" line="6" column="6" />
@@ -236,6 +236,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/one-ring/t_infinity/unit_tests/DivineLoadBalancerTests.cpp" timestamp="1495456246697">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/FiniteRateOneTempTests.cpp" timestamp="1495141897569">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -258,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/hefss++/data/species_transport.json" />
       <jump line="3513" column="0" filename="$USER_HOME$/hefss++/data/species_transport.json" />
       <jump line="780" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
       <jump line="41" column="4" filename="$USER_HOME$/hefss++/data/species_thermo_converter.py" />
@@ -358,52 +363,53 @@
       <jump line="22" column="0" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
       <jump line="60" column="0" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" />
+      <jump line="24" column="3" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>computeOutofRangcomputeOutofRangeecomputeOutofRangecomputeOutofRange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>computeOutofRangcomputeOutofRangeecomputeOutofRangecomputeOutofRange</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>number_of</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgZG91YmxlIGN1cnZlRml0KGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSkgY29uc3QgPSAwOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBjb21wdXRlT3V0b2ZSYW5nZShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUsIGNvbnN0IGRvdWJsZSBUX2JvdW5kLCBjb25zdCBpbnQgcmFuZ2UpIGNvbnN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcHV0ZU91dG9mUmFuZ2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBnZXRUaGVybW9SYW5nZShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUpOwo=</text>
+        <text encoding="base64">ZG91YmxlIEVudGhhbHB5Q3VydmVGaXQ6OmNvbXB1dGVPdXRvZlJhbmdlKGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSwgY29uc3QgZG91YmxlIFRfYm91bmQsIGNvbnN0IGludCByYW5nZSkgY29uc3QgewogICAgcmV0dXJuIDA7Cn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjaGVja0R1YWxSYW5nZShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUsIGNvbnN0IGRvdWJsZSBsb3dlcl9ib3VuZCwgY29uc3QgZG91YmxlIHVwcGVyX2JvdW5kKSBjb25zdDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2V0VGhlcm1vUmFuZ2UoY29uc3QgZG91YmxlIHRlbXBlcmF0dXJlLCBpbnQgJnJhbmdlLCBib29sICZvdXRfb2ZfcmFuZ2UpIGNvbnN0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjaGVja0R1YWxSYW5nZShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUsIGNvbnN0IGRvdWJsZSBsb3dlcl9ib3VuZCwgY29uc3QgZG91YmxlIHVwcGVyX2JvdW5kKSBjb25zdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RW50cm9weUN1cnZlRml0OjpFbnRyb3B5Q3VydmVGaXQoKSB7fQoK</text>
+        <text encoding="base64">ICAgIGludCBnZXRUaGVybW9SYW5nZShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUpIGNvbnN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RW50aGFscHlDdXJ2ZUZpdDo6RW50aGFscHlDdXJ2ZUZpdCgpIHt9Cgo=</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgZG91YmxlIGN1cnZlRml0KGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSkgY29uc3QgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFQK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBjdXJ2ZUZpdChjb25zdCBkb3VibGUgVCkgY29uc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlcm1vQ3VydmVGaXRzOjpUaGVybW9DdXJ2ZUZpdHMoc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDEwPj4gY29lZnMsIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbG93ZXJfdGVtcGVyYXR1cmVfYm91bmQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gdXBwZXJfdGVtcGVyYXR1cmVfYm91bmQpIHsKCn0KCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBjdXJ2ZUZpdChjb25zdCBkb3VibGUgVCkgY29uc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

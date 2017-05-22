@@ -91,12 +91,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="88" column="4" />
       </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" timestamp="1495486423371">
-        <mark key="'" line="29" column="16" />
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" timestamp="1495489669170">
+        <mark key="'" line="30" column="16" />
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" timestamp="1495143132866">
         <mark key="'" line="17" column="60" />
@@ -181,12 +181,12 @@
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" timestamp="1495137693805">
         <mark key="'" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495485158344">
-        <mark key="'" line="123" column="17" />
-        <mark key="[" line="126" column="92" />
-        <mark key="]" line="126" column="97" />
-        <mark key="." line="126" column="97" />
-        <mark key="^" line="126" column="97" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495489573013">
+        <mark key="'" line="126" column="17" />
+        <mark key="[" line="106" column="5" />
+        <mark key="]" line="107" column="49" />
+        <mark key="." line="107" column="49" />
+        <mark key="^" line="107" column="49" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data" timestamp="1494540170735">
         <mark key="'" line="1165" column="0" />
@@ -376,50 +376,50 @@
       <jump line="29" column="16" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>energy</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PerfectGas</text>
+        <text>energy</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRoZXJtb2R5bmFtaWNzOjpUaGVybW9JbnB1dCBpbjsK</text>
+        <text encoding="base64">ICAgIFRoZXJtb2R5bmFtaWNzOjpUaGVybW9PdXRwdXQgb3V0ID0gVGhlcm1vZHluYW1pY3M6OlRoZXJtb091dHB1dDo6UHJlc3N1cmU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBtb2xlY3VsYXJfd2VpZ2h0ID0gMjAuMzY1OyAvLyBrZy9tb2wK</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KTsKICAgCiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5lcmd5ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXM7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSAqaW5wdXQgPSAmdGVtcGVyYXR1cmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXM7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSAqaW5wdXQgPSAmdGVtcGVyYXR1cmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3N0YXRlWzBdID0gbG9nKHRlbXBlcmF0dXJlKSpDdipnYW1tYTsK</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoc3RhdGUgPT0gQXBwcm94KHByZXNzdXJlKSk7CiAgICBSRVFVSVJFKHN0YXRlID09IEFwcHJveChwcmVzc3VyZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3N0YXRlWzBdID0gc3FydChnYW1tYSAqIHByZXNzdXJlIC8gZGVuc2l0eSk7Cg==</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoc3RhdGUgPT0gQXBwcm94KHByZXNzdXJlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3Rvcjxkb3VibGU+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG91YmxlIE5vbkVxdWlsaWJyaXVtT25lVGVtcDo6Y29tcHV0ZVNwZWNpZXNFbnRoYWxweShjb25zdCBkb3VibGUgdGVtcGVyYXR1cmUpIHsKICAgIHJldHVybiAwOwp9Cg==</text>
+        <text encoding="base64">ICAgIGluID0gVGhlcm1vZHluYW1pY3M6OlRoZXJtb0lucHV0OjpUZW1wZXJhdHVyZUlOOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRoZXJtb2R5bmFtaWNzOjpUaGVybW9PdXRwdXQgb3V0ID0gVGhlcm1vZHluYW1pY3M6OlRoZXJtb091dHB1dDo6UHJlc3N1cmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

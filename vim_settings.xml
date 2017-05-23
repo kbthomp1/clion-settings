@@ -25,8 +25,6 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.h" timestamp="1495465135611">
-        <mark key="'" line="37" column="7" />
-        <mark key="[" line="11" column="45" />
         <mark key="]" line="10" column="53" />
         <mark key="^" line="10" column="53" />
         <mark key="." line="10" column="53" />
@@ -66,9 +64,11 @@
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1495418619807">
         <mark key="'" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" timestamp="1495156528349">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" timestamp="1495500318419">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="45" />
+        <mark key="." line="50" column="45" />
+        <mark key="^" line="50" column="45" />
       </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/main.cpp" timestamp="1493579912629">
         <mark key="[" line="1" column="0" />
@@ -98,12 +98,6 @@
         <mark key="]" line="251" column="56" />
         <mark key="." line="251" column="56" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495159802251">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-      </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1494772286187">
         <mark key="'" line="1401" column="9" />
       </file>
@@ -123,12 +117,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" timestamp="1495464718819">
-        <mark key="[" line="120" column="18" />
-        <mark key="]" line="120" column="27" />
-        <mark key="^" line="120" column="27" />
-        <mark key="." line="120" column="27" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/tdata_reader.h" timestamp="1494878448706">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -136,12 +124,6 @@
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" timestamp="1494968489895">
         <mark key="'" line="34" column="8" />
-      </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495160029882">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data" timestamp="1494540170735">
         <mark key="'" line="1165" column="0" />
@@ -298,16 +280,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>MolecularWeight</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>MolecularWeight</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZG91YmxlIFNwZWNpZmljSGVhdEN1cnZlRml0OjpjdXJ2ZUZpdChjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgMTA+IGNvZWZzLCBjb25zdCBkb3VibGUgVCkgY29uc3Qgewo=</text>
+        <text encoding="base64">ICAgIG91dCA9IFRoZXJtb2R5bmFtaWNzOjpUaGVybW9PdXRwdXQ6Ok1vbGVjdWxhcldlaWdodDsKICAgIHRoZXJtby5jYWxjU3RhdGUoaW4sIG91dCwgcmhvX2ksIGlucHV0LCBzKTsKICAgIFJFUVVJUkUoc3RhdGUgPT0gQXBwcm94KG1vbGVjdWxhcl93ZWlnaHQpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgZnJpZW5kIGRvdWJsZSBTcGVjaWZpY0hlYXRDdXJ2ZUZpdDo6Y3VydmVGaXQoY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIDEwPiBjb2VmcywgY29uc3QgZG91YmxlIFQpIGNvbnN0Owo=</text>

@@ -155,13 +155,12 @@
         <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495557367499">
-        <mark key="[" line="22" column="121" />
-        <mark key="]" line="22" column="120" />
-        <mark key="." line="22" column="120" />
-        <mark key="^" line="22" column="120" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495644459000">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+        <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1495639077328" />
       <file name="$USER_HOME$/hefss++/src/main.cpp" timestamp="1494246142275">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="1" />
@@ -194,12 +193,12 @@
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" timestamp="1495137693805">
         <mark key="'" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495639736813">
-        <mark key="'" line="92" column="24" />
-        <mark key="[" line="98" column="13" />
-        <mark key="]" line="98" column="27" />
-        <mark key="." line="98" column="27" />
-        <mark key="^" line="98" column="27" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1495644973305">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="105" column="38" />
+        <mark key="]" line="106" column="79" />
+        <mark key="." line="106" column="79" />
+        <mark key="^" line="106" column="79" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data" timestamp="1494540170735">
         <mark key="'" line="1165" column="0" />
@@ -264,11 +263,11 @@
       <file name="/fragment.mm" timestamp="1495568887532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495639679898">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495644345156">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="66" />
+        <mark key="." line="13" column="66" />
+        <mark key="^" line="13" column="66" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1495485411645">
         <mark key="[" line="12" column="0" />
@@ -277,9 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="101" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="243" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="238" column="52" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="246" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="66" column="12" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="83" column="12" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
@@ -377,67 +373,69 @@
       <jump line="66" column="54" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
       <jump line="6" column="22" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
+      <jump line="158" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
+      <jump line="264" column="43" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
+      <jump line="19" column="8" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Enthalpy</text>
+        <text>enthalpy_i</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Enthalpy</text>
+        <text>enthalpy_i</text>
       </register>
       <register name="/" type="4">
-        <text>Enthalpy</text>
+        <text>r_gas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBhdm9nYWRybyAgPSA2LjAyMjE2OWUrMjY7CiAgICBjb25zdCBkb3VibGUgYm9sdHptYW5uID0gMS4zODA2MjJlLTIzOwogICAgY29uc3QgZG91YmxlIHVuaXZlcnNhbF9nYXNfY29uc3QgPSBhdm9nYWRybyAqIGJvbHR6bWFubjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuX3NwZWNpZXM7ICsraSkgewogICAgICAgICAgICAgICAgb3V0cHV0X3N0YXRlW2ldID0gZW50aGFscHlfaVtpXTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBhdm9nYWRybyAgPSBUaGVybW9keW5hbWljQ29uc3RhbnRzOjphdm9nYWRybwogICAgY29uc3QgZG91YmxlIGJvbHR6bWFubiA9IFRoZXJtb2R5bmFtaWNDb25zdGFudHM6OmJvbHR6bWFubgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3Rvcjxkb3VibGU+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZ2liYnMgPSAoaCAtIHMgKiB0ZW1wZXJhdHVyZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb2wgY2hlY2tTcGVjaWVzSW5SZWFjdGlvbihzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gc3BlY2llc19uYW1lcywgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHByb2R1Y3RzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiByZWFjdGFudHMpOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiByZWFjdGFudHMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBnaWJic19pID0gY29tcHV0ZVNwZWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoYXV0byAmcmVhY3RhbnQgOiByZWFjdGFudHMpIHsKICAgICAgICBpZiAocmVhY3RhbnQgPT0gIk0iKSB7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KICAgICAgICBpZihzdGQ6OmZpbmQoc3BlY2llc19uYW1lcy5iZWdpbigpLCBzcGVjaWVzX25hbWVzLmVuZCgpLCByZWFjdGFudCkgPT0gc3BlY2llc19uYW1lcy5lbmQoKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBhdm9nYWRybyAgPSBUaGVybW9keW5hbWljQ29uc3RhbnRzOjphdm9nYWRybwogICAgY29uc3QgZG91YmxlIGJvbHR6bWFubiA9IFRoZXJtb2R5bmFtaWNDb25zdGFudHM6OmJvbHR6bWFubgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gcHJvZHVjdHMgPSByZWFjdGlvbi52YWx1ZSgpWyJwcm9kdWN0cyJdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbS5ncm91cHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2UK</text>
+        <text encoding="base64">ICAgIGJvb2wgY2hlY2tTcGVjaWVzSW5SZWFjdGlvbihzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gc3BlY2llc19uYW1lcywgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHByb2R1Y3RzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiByZWFjdGFudHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Enthalpy</last-search>
+      <last-search>r_gas</last-search>
       <last-offset />
-      <last-pattern>Enthalpy</last-pattern>
+      <last-pattern>r_gas</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>check_state</entry>
         <entry>min</entry>
         <entry>EnergyIN</entry>
         <entry>_</entry>
@@ -457,6 +455,7 @@
         <entry>.5</entry>
         <entry>Enth</entry>
         <entry>Enthalpy</entry>
+        <entry>r_gas</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

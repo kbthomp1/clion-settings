@@ -105,6 +105,9 @@
         <mark key="^" line="78" column="107" />
         <mark key="." line="78" column="107" />
       </file>
+      <file name="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" timestamp="1495803350890">
+        <mark key="'" line="114" column="29" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data" timestamp="1495562453713">
         <mark key="'" line="52" column="0" />
       </file>
@@ -207,8 +210,8 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" timestamp="1495736248046">
-        <mark key="'" line="39" column="25" />
+      <file name="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" timestamp="1495803278822">
+        <mark key="'" line="74" column="64" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data_0" timestamp="1494767961893">
         <mark key="'" line="720" column="12" />
@@ -253,12 +256,12 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1495743971030">
-        <mark key="'" line="60" column="5" />
-        <mark key="[" line="71" column="34" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1495803687657">
+        <mark key="'" line="59" column="5" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="70" column="37" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/FiniteRateOneTempTests.cpp" timestamp="1495141897569">
         <mark key="[" line="6" column="0" />
@@ -282,15 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="445" column="17" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="0" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="505" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="720" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="510" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="520" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="530" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
-      <jump line="540" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
       <jump line="550" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
       <jump line="560" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
       <jump line="789" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
@@ -382,10 +376,19 @@
       <jump line="164" column="4" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="23" column="4" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
       <jump line="55" column="5" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="13" column="18" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
+      <jump line="74" column="64" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
+      <jump line="15" column="17" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="55" column="37" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="73" column="36" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="110" column="19" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="113" column="29" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
+      <jump line="114" column="29" filename="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9keW5hbWljczo6VGVtcGVyYXR1cmVJTiwgVGhlcm1vZHluYW1pY3M6OlNwZWNpZXNHaWJic0ZyZWVFbmVyZ3ksICZ0eltpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnaWJic19pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -394,56 +397,54 @@
         <text>n_species];</text>
       </register>
       <register name="/" type="4">
-        <text>reaction_dict</text>
+        <text>shared_ptr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhYSgxLCAzKSA9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9keW5hbWljczo6VGVtcGVyYXR1cmVJTiwgVGhlcm1vZHluYW1pY3M6OlNwZWNpZXNHaWJic0ZyZWVFbmVyZ3ksICZ0eltpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnaWJic19pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXMgPSB0aGVybW8uZ2V0TnNwZWNpZXMoKTsK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBbXSBnaWJic19pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXMgPSB0aGVybW8uZ2V0TnNwZWNpZXMoKTsK</text>
+        <text encoding="base64">ICAgIGdpYmJzX2kgPSBuZXcgZG91YmxlW3RoZXJtby5nZXROc3BlY2llcygpXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlICpnaWJic19pOwogICAgICAgICAgICBnaWJic19pID0gbmV3IGRvdWJsZVtuX3NwZWNpZXNdOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSAqZ2liYnNfaTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9keW5hbWljczo6VGVtcGVyYXR1cmVJTiwgVGhlcm1vZHluYW1pY3M6OlNwZWNpZXNHaWJic0ZyZWVFbmVyZ3ksICZ0eltpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnaWJic19pKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IGdpYmJzX2k7CiAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9keW5hbWljczo6VGVtcGVyYXR1cmVJTiwgVGhlcm1vZHluYW1pY3M6OlNwZWNpZXNHaWJic0ZyZWVFbmVyZ3ksICZ0eltpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGdpYmJzX2kuZGF0YSgpKTsK</text>
+        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXMgPSB0aGVybW8uZ2V0TnNwZWNpZXMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGludCBuX3NwZWNpZXMgPSB0aGVybW8uZ2V0TnNwZWNpZXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB0ZW1wZXJhdHVyZSA9IDUwMC4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlICpnaWJic19pOwogICAgICAgICAgICBnaWJic19pID0gbmV3IGRvdWJsZVtuX3NwZWNpZXNdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gZ2liYnNfaTsKICAgIHRoZXJtby5jYWxjU3RhdGUoVGhlcm1vZHluYW1pY3M6OlRlbXBlcmF0dXJlSU4sIFRoZXJtb2R5bmFtaWNzOjpTcGVjaWVzR2liYnNGcmVlRW5lcmd5LCAmdGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICAgICAgIGdpYmJzX2kuZGF0YSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reaction_dict</last-search>
+      <last-search>shared_ptr</last-search>
       <last-offset />
-      <last-pattern>reaction_dict</last-pattern>
+      <last-pattern>shared_ptr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>N2 + M</entry>
-        <entry>json</entry>
         <entry>2N</entry>
         <entry>print</entry>
         <entry>species</entry>
@@ -462,6 +463,8 @@
         <entry>ma</entry>
         <entry>max</entry>
         <entry>reaction_dict</entry>
+        <entry>shared_pt</entry>
+        <entry>shared_ptr</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

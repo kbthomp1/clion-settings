@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/hefss++/data/species_transport_0.json" timestamp="1494769220124">
         <mark key="'" line="6834" column="24" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496351754145">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="34" column="53" />
-        <mark key="^" line="34" column="76" />
-        <mark key="." line="34" column="53" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496354865090">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="52" />
+        <mark key="^" line="35" column="52" />
+        <mark key="." line="35" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1494769446788">
         <mark key="[" line="0" column="0" />
@@ -82,7 +82,7 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1496239416332">
+      <file name="/LLDB" timestamp="1496354737081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/unit_tests/catch.hpp" timestamp="1494104731671">
@@ -158,11 +158,10 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496352767134">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496353815111">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495652750316">
         <mark key="[" line="29" column="0" />
@@ -216,7 +215,7 @@
       <file name="/GDB" timestamp="1495224541206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496353151186">
+      <file name="/Dummy.txt" timestamp="1496353820113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/yoga/tests/MeshDensityEstimatorTests.cpp" timestamp="1494113928629">
@@ -241,14 +240,14 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496353616813">
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496354718604">
         <mark key="'" line="116" column="22" />
-        <mark key="[" line="157" column="42" />
-        <mark key="]" line="159" column="39" />
-        <mark key="." line="159" column="39" />
-        <mark key="^" line="159" column="39" />
+        <mark key="[" line="161" column="27" />
+        <mark key="]" line="161" column="26" />
+        <mark key="." line="161" column="26" />
+        <mark key="^" line="161" column="26" />
       </file>
-      <file name="/fragment.mm" timestamp="1496353189166">
+      <file name="/fragment.mm" timestamp="1496354795738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495812253185">
@@ -363,49 +362,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>forward_rate_coefficients</text>
+        <text encoding="base64">PCM=</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>forward_rate_coefficients</text>
+        <text encoding="base64">PCM=</text>
       </register>
       <register name="/" type="4">
         <text>cout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBmb3J3YXJkX3JhdGUgPSAwLjA7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IHByb2R1Y3Rfc3BlY2llc19pbmRpY2llcy5zaXplKCk7ICsraSkgewogICAgICAgIGRvdWJsZSBudW1iZXJfZGVuc2l0eSA9IGRlbnNpdHlfaVtpXSAvIG1vbF93dFtpXTsKICAgICAgICBmb3J3YXJkX3JhdGUgKj0gcG93KGNnc19jb252ZXJzaW9uICogbnVtYmVyX2RlbnNpdHksIHByb2R1Y3Rfc3RvaWNoX2NvZWZzW2ldKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcHJvZHVjdF9zcGVjaWVzX2luZGljaWVzLnNpemUoKTsgKytpKSB7CiAgICAgICAgaW50IHNwZWNpZXMgPSBwcm9kdWN0X3NwZWNpZXNfaW5kaWNpZXNbaV07CiAgICAgICAgc291cmNlX3Rlcm1bc3BlY2llc10gKz0gcHJvZHVjdF9zdG9pY2hfY29lZnNbaV0gKiByYXRlOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBudW1iZXJfZGVuc2l0eV9pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gY29lZl9kaWZmKG5fc3BlY2llcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yIGNvZWZfZGlmZihuX3NwZWNpZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGZvciAoYXV0byBzcGVjaWVzIDogcHJvZHVjdF9zcGVjaWVzX2luZGljaWVzKSB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbnVtYmVyX2RlbnNpdHkgPSBkZW5zaXR5X2lbc3BlY2llc10gLyBtb2xfd3Rbc3BlY2llc10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBudW1iZXJfZGVuc2l0eV9pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbnVtYmVyX2RlbnNpdHlfaQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

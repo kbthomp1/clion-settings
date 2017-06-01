@@ -15,11 +15,12 @@
       <file name="$USER_HOME$/hefss++/data/species_transport_0.json" timestamp="1494769220124">
         <mark key="'" line="6834" column="24" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496247619229">
-        <mark key="[" line="29" column="71" />
-        <mark key="]" line="29" column="71" />
-        <mark key="." line="29" column="71" />
-        <mark key="^" line="29" column="71" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496351754145">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="76" />
+        <mark key="." line="34" column="53" />
       </file>
       <file name="/a.dummy" timestamp="1494769446788">
         <mark key="[" line="0" column="0" />
@@ -157,12 +158,11 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496343279365">
-        <mark key="'" line="9" column="48" />
-        <mark key="[" line="7" column="81" />
-        <mark key="]" line="27" column="9" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="27" column="9" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496352767134">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495652750316">
         <mark key="[" line="29" column="0" />
@@ -216,7 +216,7 @@
       <file name="/GDB" timestamp="1495224541206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496239785137">
+      <file name="/Dummy.txt" timestamp="1496353151186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/yoga/tests/MeshDensityEstimatorTests.cpp" timestamp="1494113928629">
@@ -241,14 +241,14 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496343031631">
-        <mark key="'" line="106" column="68" />
-        <mark key="[" line="57" column="7" />
-        <mark key="]" line="57" column="7" />
-        <mark key="." line="57" column="7" />
-        <mark key="^" line="57" column="7" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496353616813">
+        <mark key="'" line="116" column="22" />
+        <mark key="[" line="157" column="42" />
+        <mark key="]" line="159" column="39" />
+        <mark key="." line="159" column="39" />
+        <mark key="^" line="159" column="39" />
       </file>
-      <file name="/fragment.mm" timestamp="1496239815616">
+      <file name="/fragment.mm" timestamp="1496353189166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1495812253185">
@@ -260,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="868" column="21" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
-      <jump line="3538" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
-      <jump line="209" column="19" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="18" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="36" column="27" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="80" column="13" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
@@ -360,52 +357,55 @@
       <jump line="12" column="32" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
       <jump line="118" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
       <jump line="107" column="68" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="37" column="8" filename="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="116" column="22" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEtfYyA9IGV4cChha2UvdHogKyBia2UgKyBsb2codHopKmNrZSArIGRrZSp0eiArIGVrZSp0eioqMik7IHR6ID0gMTAwMDAuL2VmZmVjdGl2ZV90ZW1wZXJhdHVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>forward_rate_coefficients</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forward_rate_coefficients</text>
       </register>
       <register name="/" type="4">
         <text>cout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogICBLcCA9IGV4cCggQSooMS96KSArIEIgKyBDKmxuKHopICsgRCp6ICsgRSp6XjIgKTsgICAgeiA9IDEwLDAwMC90ZW1wZXJhdHVyZQo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBmb3J3YXJkX3JhdGUgPSAwLjA7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IHByb2R1Y3Rfc3BlY2llc19pbmRpY2llcy5zaXplKCk7ICsraSkgewogICAgICAgIGRvdWJsZSBudW1iZXJfZGVuc2l0eSA9IGRlbnNpdHlfaVtpXSAvIG1vbF93dFtpXTsKICAgICAgICBmb3J3YXJkX3JhdGUgKj0gcG93KGNnc19jb252ZXJzaW9uICogbnVtYmVyX2RlbnNpdHksIHByb2R1Y3Rfc3RvaWNoX2NvZWZzW2ldKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEtfYyA9IGV4cChha2UvdHogKyBia2UgKyBsb2codHopKmNrZSArIGRrZSp0eiArIGVrZSp0eioqMik7IHR6ID0gMTAwMDAuL2VmZmVjdGl2ZV90ZW1wZXJhdHVyZQo=</text>
+        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBudW1iZXJfZGVuc2l0eV9pCg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IGdpYmJzX2lbc3BlY2llc19pbmR4XSAvIHJfZ2FzW3NwZWNpZXNfaW5keF07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZXF1aWxpYl9jb2VmcyA9IHJlYWN0aW9uLmdldEVxdWlsaWJyaXVtQ29uc3RhbnRDb2VmZmljaWVudHMoKTsKICAgIGZvciAoaW50IGogPSAwOyBqIDwgNTsgKytqKSB7CiAgICAgICAgUkVRVUlSRShlcXVpbGliX2NvZWZzW2pdID09IGNvcnJlY3RfZXF1aWxpYl9jb2Vmc1tqXSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIGZvciAoYXV0byBzcGVjaWVzIDogcHJvZHVjdF9zcGVjaWVzX2luZGljaWVzKSB7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGRvdWJsZSBnIDogZ2liYnNfaSkgewogICAgICAgICAgICBzdGQ6OmNvdXQgPDwgImdpYmJzOiAiIDw8IGcgPDwgc3RkOjplbmRsOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbnVtYmVyX2RlbnNpdHkgPSBkZW5zaXR5X2lbc3BlY2llc10gLyBtb2xfd3Rbc3BlY2llc10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBhYSA8PCBzdGQ6OmVuZGw7CiAgICBzdGQ6OmNvdXQgPDwgcmhzIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgc29sdXRpb24oaikgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB0aGVybW8uZ2V0U3BlY2llc05hbWVzKCkuc2l6ZSgpIDw8IHN0ZDo6ZW5kbDsKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbnVtYmVyX2RlbnNpdHlfaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

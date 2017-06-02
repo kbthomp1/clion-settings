@@ -121,8 +121,8 @@
       <file name="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" timestamp="1495803350890">
         <mark key="'" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/kinetic_data" timestamp="1496409744464">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/hefss++/data/kinetic_data" timestamp="1496412001840">
+        <mark key="'" line="330" column="5" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermodynamicConstants.h" timestamp="1495638668910">
         <mark key="[" line="5" column="13" />
@@ -158,10 +158,11 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496353815111">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496412153269">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+        <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495652750316">
         <mark key="[" line="29" column="0" />
@@ -169,8 +170,8 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1496409010346">
-        <mark key="'" line="4591" column="20" />
+      <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1496411948670">
+        <mark key="'" line="4480" column="10" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/CMakeLists.txt" timestamp="1495810159927">
         <mark key="[" line="13" column="35" />
@@ -240,12 +241,11 @@
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496406261350">
-        <mark key="'" line="116" column="22" />
-        <mark key="[" line="163" column="27" />
-        <mark key="]" line="163" column="26" />
-        <mark key="." line="130" column="19" />
-        <mark key="^" line="163" column="26" />
+      <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1496412899426">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1496354795738">
         <mark key="[" line="0" column="0" />
@@ -259,47 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="82" column="50" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="92" column="24" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="57" column="25" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="6" column="22" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="158" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="264" column="43" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="267" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="1295" column="8" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
-      <jump line="77" column="38" filename="$USER_HOME$/hefss++/data/kinetic_data_converter.py" />
-      <jump line="78" column="24" filename="$USER_HOME$/hefss++/data/kinetic_data_converter.py" />
-      <jump line="580" column="8" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
-      <jump line="27" column="4" filename="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" />
-      <jump line="6" column="5" filename="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" />
-      <jump line="140" column="4" filename="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" />
-      <jump line="33" column="23" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="41" column="36" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="74" column="37" filename="$USER_HOME$/hefss++/unit_tests/NonEquilibriumOneTempTests.cpp" />
-      <jump line="64" column="4" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="66" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="68" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="70" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="72" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="74" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="76" column="22" filename="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" />
-      <jump line="81" column="85" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="6" column="17" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="8" column="33" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="17" column="30" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="9" column="25" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="13" column="45" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="5" column="8" filename="$USER_HOME$/hefss++/src/PerfectGas.cpp" />
-      <jump line="31" column="1" filename="$USER_HOME$/hefss++/src/Thermodynamics.h" />
-      <jump line="26" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.h" />
-      <jump line="18" column="44" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
-      <jump line="28" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.h" />
-      <jump line="19" column="46" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
-      <jump line="26" column="27" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
-      <jump line="73" column="23" filename="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" />
-      <jump line="39" column="25" filename="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" />
       <jump line="59" column="8" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="398" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="27" column="16" filename="$USER_HOME$/hefss++/data/kinetic_data_converter.py" />
@@ -359,68 +318,107 @@
       <jump line="116" column="22" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
       <jump line="386" column="15" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="4591" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
+      <jump line="327" column="24" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="3034" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
+      <jump line="4480" column="10" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
+      <jump line="339" column="6" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="0" column="0" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="353" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="358" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="429" column="21" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="454" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="464" column="82" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="467" column="82" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="470" column="82" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="476" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="479" column="27" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="485" column="82" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="488" column="82" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="491" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="494" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="505" column="17" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="33" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="44" column="21" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="49" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="57" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="69" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="81" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="92" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="97" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="111" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="116" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="124" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="135" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="153" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="172" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="227" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="257" column="21" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="278" column="23" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="283" column="25" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="330" column="5" filename="$USER_HOME$/hefss++/data/kinetic_data" />
+      <jump line="53" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="227" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCM=</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</text>
+        <text>M</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcHJvZHVjdF9zcGVjaWVzX2luZGljaWVzLnNpemUoKTsgKytpKSB7CiAgICAgICAgaW50IHNwZWNpZXMgPSBwcm9kdWN0X3NwZWNpZXNfaW5kaWNpZXNbaV07CiAgICAgICAgc291cmNlX3Rlcm1bc3BlY2llc10gKz0gcHJvZHVjdF9zdG9pY2hfY29lZnNbaV0gKiByYXRlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3BlY2llcyA9PSAiTSIpIHsKICAgICAgICAgICAgZ2VuZXJpY19jb2xsaXNpb25fcGFydG5lciA9IHRydWU7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gY29lZl9kaWZmKG5fc3BlY2llcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yIGNvZWZfZGlmZihuX3NwZWNpZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmb3J3YXJkX3JhdGUgLSBiYWNrd2FyZF9yYXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChnZW5lcmljX2NvbGxpc2lvbl9wYXJ0bmVyKSB7CiAgICAgICAgbnVtYmVyX2RlbnNpdHkKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBudW1iZXJfZGVuc2l0eV9pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gY29lZl9kaWZmKG5fc3BlY2llcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</last-search>
+      <last-search>M</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</last-pattern>
+      <last-pattern>M</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_state</entry>
-        <entry>molecular_weight</entry>
         <entry>using</entry>
         <entry>ma</entry>
         <entry>max</entry>
@@ -439,6 +437,8 @@
         <entry>*</entry>
         <entry>\*</entry>
         <entry encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</entry>
+        <entry>2M</entry>
+        <entry>M</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

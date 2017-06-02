@@ -121,7 +121,7 @@
       <file name="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" timestamp="1495803350890">
         <mark key="'" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/kinetic_data" timestamp="1495562453713">
+      <file name="$USER_HOME$/hefss++/data/kinetic_data" timestamp="1496408964972">
         <mark key="'" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermodynamicConstants.h" timestamp="1495638668910">
@@ -169,8 +169,8 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1496406067118">
-        <mark key="'" line="19" column="19" />
+      <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1496409010346">
+        <mark key="'" line="4591" column="20" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/CMakeLists.txt" timestamp="1495810159927">
         <mark key="[" line="13" column="35" />
@@ -259,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="36" column="27" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="80" column="13" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="82" column="50" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="92" column="24" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
@@ -359,6 +357,8 @@
       <jump line="37" column="8" filename="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
       <jump line="116" column="22" filename="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" />
+      <jump line="386" column="15" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
+      <jump line="4591" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -371,7 +371,7 @@
         <text encoding="base64">PCM=</text>
       </register>
       <register name="/" type="4">
-        <text>cout</text>
+        <text encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcHJvZHVjdF9zcGVjaWVzX2luZGljaWVzLnNpemUoKTsgKytpKSB7CiAgICAgICAgaW50IHNwZWNpZXMgPSBwcm9kdWN0X3NwZWNpZXNfaW5kaWNpZXNbaV07CiAgICAgICAgc291cmNlX3Rlcm1bc3BlY2llc10gKz0gcHJvZHVjdF9zdG9pY2hfY29lZnNbaV0gKiByYXRlOwogICAgfQo=</text>
@@ -411,17 +411,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cout</last-search>
+      <last-search encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</last-search>
       <last-offset />
-      <last-pattern>cout</last-pattern>
+      <last-pattern encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>ThermoQuantity</entry>
-        <entry>SpeciesGibbs</entry>
         <entry>get_state</entry>
         <entry>molecular_weight</entry>
         <entry>using</entry>
@@ -439,6 +436,9 @@
         <entry>species</entry>
         <entry>species_names</entry>
         <entry>cout</entry>
+        <entry>*</entry>
+        <entry>\*</entry>
+        <entry encoding="base64">Tk8gKyBNICAgICA8PT4gICBOICsgTyArIE0=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

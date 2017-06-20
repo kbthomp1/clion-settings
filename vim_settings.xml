@@ -130,8 +130,8 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/species_transport.json" timestamp="1497969483899">
-        <mark key="'" line="3541" column="0" />
+      <file name="$USER_HOME$/hefss++/data/species_transport.json" timestamp="1497990198537">
+        <mark key="'" line="519" column="12" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1495214246885">
         <mark key="[" line="0" column="0" />
@@ -165,11 +165,11 @@
         <mark key="." line="17" column="70" />
         <mark key="^" line="17" column="70" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/transport_data_converter.py" timestamp="1497970287659">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="64" />
-        <mark key="^" line="21" column="64" />
-        <mark key="." line="21" column="64" />
+      <file name="$USER_HOME$/hefss++/data/transport_data_converter.py" timestamp="1497990177906">
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="52" />
+        <mark key="." line="17" column="52" />
+        <mark key="^" line="22" column="88" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1495652750316">
         <mark key="[" line="29" column="0" />
@@ -269,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4591" column="20" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="327" column="24" filename="$USER_HOME$/hefss++/data/kinetic_data" />
       <jump line="3034" column="26" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
       <jump line="4480" column="10" filename="$USER_HOME$/hefss++/data/kinetic_data.json" />
@@ -369,10 +368,11 @@
       <jump line="31" column="31" filename="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" />
       <jump line="2441" column="8" filename="$USER_HOME$/hefss++/data/species_transport.json" />
       <jump line="3541" column="0" filename="$USER_HOME$/hefss++/data/species_transport.json" />
+      <jump line="519" column="12" filename="$USER_HOME$/hefss++/data/species_transport.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>coefficients[0:4]</text>
+        <text>[0:1]</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3772,7 +3772,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>coefficients[0:4]</text>
+        <text>[0:1]</text>
       </register>
       <register name="/" type="4">
         <text>cout</text>
@@ -3781,34 +3781,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnRyYW5zcG9ydF9kYXRhW3NwZWNpZXNfcGFpcl0gPSBjb2VmZmljaWVudHNbMDo0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byByZWFjdGlvbl9qc29uID0ga2luZXRpY19kYXRhWyJPMiArIE4gICAgPD0+IE5PICsgTyJdOwo=</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHNvdXJjZV90ZXJtW2pdIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">Ly8gICAgYXV0byByZWFjdGlvbl9qc29uID0ga2luZXRpY19kYXRhWyJPMiArIE4gICAgPD0+IE5PICsgTyJdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIktfZiA9ICIgPDwgS19mIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgIktfYiA9ICIgPDwgS19iIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgImZvcndhcmQgcmF0ZSA9ICIgPDwgbnVtYmVyX2RlbnNpdHlfZ2VuICogZm9yd2FyZF9yYXRlIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgImJhY2t3YXJkIHJhdGUgPSAiIDw8IG51bWJlcl9kZW5zaXR5X2dlbiAqIGJhY2t3YXJkX3JhdGUgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHNvdXJjZV90ZXJtW2pdIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJlZmYgPSAiIDw8IHRoaXJkX2JvZHlfZWZmaWNpZW5jeVtpXSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIktfZiA9ICIgPDwgS19mIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgIktfYiA9ICIgPDwgS19iIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgImZvcndhcmQgcmF0ZSA9ICIgPDwgbnVtYmVyX2RlbnNpdHlfZ2VuICogZm9yd2FyZF9yYXRlIDw8IHN0ZDo6ZW5kbDsKICAgICAgICBzdGQ6OmNvdXQgPDwgImJhY2t3YXJkIHJhdGUgPSAiIDw8IG51bWJlcl9kZW5zaXR5X2dlbiAqIGJhY2t3YXJkX3JhdGUgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIm1vbF93dCA9ICIgPDwgbW9sX3d0W2tdIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJlZmYgPSAiIDw8IHRoaXJkX2JvZHlfZWZmaWNpZW5jeVtpXSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIm1vbF93dCA9ICIgPDwgbW9sX3d0W2tdIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiS19mID0gIiA8PCBLX2YgPDwgc3RkOjplbmRsOwogICAgc3RkOjpjb3V0IDw8ICJmb3J3YXJkIHJhdGUgPSAiIDw8IGZvcndhcmRfcmF0ZSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

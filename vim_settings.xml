@@ -299,12 +299,12 @@
       <file name="/GDB" timestamp="1495224541206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499106781060">
-        <mark key="'" line="91" column="11" />
-        <mark key="[" line="100" column="30" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="32" />
-        <mark key="^" line="100" column="32" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499109877692">
+        <mark key="'" line="103" column="62" />
+        <mark key="[" line="107" column="5" />
+        <mark key="]" line="108" column="3" />
+        <mark key="." line="108" column="3" />
+        <mark key="^" line="108" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1499105991408">
         <mark key="[" line="0" column="0" />
@@ -336,11 +336,11 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1499106636503">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="51" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1499109700895">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" timestamp="1498595453863">
         <mark key="'" line="33" column="8" />
@@ -395,12 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="49" filename="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" />
-      <jump line="58" column="31" filename="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" />
-      <jump line="16" column="15" filename="$USER_HOME$/hefss++/data/PyConvertor/converter.py" />
-      <jump line="6" column="8" filename="$USER_HOME$/hefss++/data/PyConvertor/converter_factory.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" />
-      <jump line="76" column="48" filename="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" />
       <jump line="12" column="31" filename="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" />
       <jump line="65" column="8" filename="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" />
       <jump line="69" column="18" filename="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" />
@@ -495,10 +489,16 @@
       <jump line="29" column="61" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="25" column="104" filename="$USER_HOME$/hefss++/src/Thermodynamics.h" />
       <jump line="91" column="11" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="99" column="21" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="13" column="17" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="64" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="100" column="80" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="101" column="62" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsdGFfMVtpal0gPSBjXzExW2lqXSAvIHNxcnQodGVtcGVyYXR1cmUpICogb21lZ2FfMTE7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3898,59 +3898,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>omega</text>
+        <text>11</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVTdGF0ZShUcmFuc3BvcnRPdXRwdXQgb3V0X3F1YW50aXR5LCBjb25zdCBkb3VibGUgKmRlbnNpdHlfaSwgY29uc3QgZG91YmxlIHRlbXBlcmF0dXJlLAogICAgICAgICAgICAgICAgIGRvdWJsZSAqb3V0X3N0YXRlKSBjb25zdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsdGFfMVtpal0gPSBjXzExW2lqXSAvIHNxcnQodGVtcGVyYXR1cmUpICogb21lZ2FfMTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG91YmxlIGNvbXB1dGVPbWVnYTExKGRvdWJsZSB0ZW1wZXJhdHVyZSkgewogICAgCn07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ZG91YmxlIFRyYW5zcG9ydE5vbkVxdWlsYk9uZVRlbXA6OmNvbXB1dGVPbWVnYTExKGRvdWJsZSB0ZW1wZXJhdHVyZSkgY29uc3QgewogICAgcmV0dXJuIGV4cCgyLjMwMjU4NTEgKiBvbWVnYTExX2xvd2VyICsgbG9nKHRlbXBlcmF0dXJlKSAqIG9tZWdhMTFfdXBwZXIpOwogICAgCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBjb21wdXRlT21lZ2ExMShkb3VibGUgdGVtcGVyYXR1cmUpIGNvbnN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgdm9pZAo=</text>
+        <text encoding="base64">ZG91YmxlIGNvbXB1dGVPbWVnYTExKGRvdWJsZSB0ZW1wZXJhdHVyZSkgewogICAgCn07Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFRoZXJtb2R5bmFtaWNDb25zdGFudHMuaD4K</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb2R5bmFtaWNzLmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>omega</last-search>
+      <last-search>11</last-search>
       <last-offset />
-      <last-pattern>omega</last-pattern>
+      <last-pattern>11</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kinetic_data</entry>
-        <entry>species_thermo_file</entry>
         <entry>self.json</entry>
         <entry>json</entry>
         <entry>species_data</entry>
@@ -3969,6 +3967,8 @@
         <entry>Species</entry>
         <entry>get</entry>
         <entry>omega</entry>
+        <entry>getCo</entry>
+        <entry>11</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

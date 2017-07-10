@@ -244,12 +244,11 @@
       <file name="$USER_HOME$/hefss++/data/species_transp_data.json" timestamp="1498677738237">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1499706699451">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-        <mark key="^" line="33" column="12" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" timestamp="1499707006586">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data.json" timestamp="1496432491875">
         <mark key="'" line="404" column="8" />
@@ -266,12 +265,12 @@
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/PluginLoader.h" timestamp="1495736243454">
         <mark key="'" line="73" column="23" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1499706772773">
-        <mark key="'" line="114" column="14" />
-        <mark key="[" line="51" column="45" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
+      <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1499707309745">
+        <mark key="'" line="115" column="14" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+        <mark key="^" line="55" column="36" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_transp_data" timestamp="1499454614983">
         <mark key="'" line="113" column="0" />
@@ -333,12 +332,12 @@
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1498595897938">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" timestamp="1499704196026">
+      <file name="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" timestamp="1499706960950">
         <mark key="'" line="79" column="25" />
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="21" />
-        <mark key="." line="64" column="21" />
-        <mark key="^" line="64" column="21" />
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+        <mark key="^" line="78" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/data/species_thermo_data.json" timestamp="1499704267069">
         <mark key="'" line="3041" column="6" />
@@ -385,12 +384,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1498848019596">
-        <mark key="'" line="25" column="104" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="15" />
+      <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1499707138658">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/convertor.py" timestamp="1498590446671">
         <mark key="'" line="16" column="10" />
@@ -401,8 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="897" column="0" filename="$USER_HOME$/hefss++/data/species_transp_data" />
-      <jump line="907" column="24" filename="$USER_HOME$/hefss++/data/species_transp_data" />
       <jump line="929" column="21" filename="$USER_HOME$/hefss++/data/species_transp_data" />
       <jump line="977" column="18" filename="$USER_HOME$/hefss++/data/species_transp_data" />
       <jump line="0" column="0" filename="$USER_HOME$/hefss++/data/species_transp_data" />
@@ -501,10 +498,12 @@
       <jump line="2748" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3041" column="6" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="30" column="28" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" />
+      <jump line="35" column="12" filename="$USER_HOME$/hefss++/src/Thermodynamics.h" />
+      <jump line="29" column="12" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>charge</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3904,7 +3903,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>charge</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -3913,34 +3912,34 @@
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6bWFwPHN0ZDo6c3RyaW5nLCBpbnQ+PiBzcGVjaWVzX2VsZW1lbnRzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6bWFwPHN0ZDo6c3RyaW5nLCBpbnQ+PiBzcGVjaWVzX2VsZW1lbnRzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1hcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobl9lbGVtZW50cyA+IDEpIHsK</text>
+        <text encoding="base64">ICAgIGJvb2wgbW9sZWN1bGU7CiAgICBpbnQgY2hhcmdlOwogICAgYm9vbCBpb247CiAgICBzdGQ6OnZlY3RvcjxzdGQ6Om1hcDxzdGQ6OnN0cmluZywgaW50Pj4gc3BlY2llc19lbGVtZW50czsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IGVsZW1lbnQuZmlyc3QgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobl9lbGVtZW50cyA+IDEpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6bWFwPHN0ZDo6c3RyaW5nLCBpbnQ+PiBlbGVtZW50cyA9IGRhdGFbImVsZW1lbnRzIl07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8IGVsZW1lbnQuZmlyc3QgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RkOjpjb3V0IDw8IHNwZWNpZXNfZWxlbWVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

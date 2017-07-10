@@ -310,14 +310,14 @@
       <file name="/GDB" timestamp="1495224541206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499709839006">
-        <mark key="'" line="80" column="32" />
-        <mark key="[" line="141" column="1" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="141" column="0" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499719754401">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499710322216">
+      <file name="/Dummy.txt" timestamp="1499719928312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/yoga/tests/MeshDensityEstimatorTests.cpp" timestamp="1494113928629">
@@ -345,11 +345,11 @@
       <file name="$USER_HOME$/hefss++/data/species_thermo_data.json" timestamp="1499704267069">
         <mark key="'" line="3041" column="6" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1499710283144">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1499719776094">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+        <mark key="^" line="14" column="66" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" timestamp="1499693148920">
         <mark key="[" line="21" column="0" />
@@ -376,11 +376,11 @@
         <mark key="." line="197" column="0" />
         <mark key="^" line="160" column="57" />
       </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1499455883040">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1499719918620">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="/fragment.mm" timestamp="1499706247045">
         <mark key="[" line="0" column="0" />
@@ -403,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="20" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
-      <jump line="39" column="27" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="103" column="14" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="8" column="0" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
       <jump line="200" column="1" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
@@ -503,10 +501,12 @@
       <jump line="9" column="36" filename="$USER_HOME$/one-ring/t_infinity/src/main.cpp" />
       <jump line="8" column="25" filename="$USER_HOME$/one-ring/t_infinity/src/main.cpp" />
       <jump line="19" column="68" filename="$USER_HOME$/one-ring/t_infinity/src/main.cpp" />
+      <jump line="7" column="43" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="8" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBjb21wdXRlVmlzY29zaXR5KGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSwgY29uc3QgZG91YmxlICpzcGVjaWVzX2RlbnNpdHkpIGNvbnN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3906,10 +3906,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>domain</text>
+        <text>thermo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvdWJsZSBjb21wdXRlVmlzY29zaXR5KGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSwgY29uc3QgZG91YmxlICpzcGVjaWVzX2RlbnNpdHkpIGNvbnN0Owo=</text>
@@ -3949,9 +3949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>domain</last-search>
+      <last-search>thermo</last-search>
       <last-offset />
-      <last-pattern>domain</last-pattern>
+      <last-pattern>thermo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -3973,10 +3973,10 @@
         <entry>--</entry>
         <entry>+</entry>
         <entry>species_data</entry>
-        <entry>thermo</entry>
         <entry>species_mol_wt</entry>
         <entry>shared</entry>
         <entry>domain</entry>
+        <entry>thermo</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -310,12 +310,12 @@
       <file name="/GDB" timestamp="1495224541206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499781285820">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="26" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1499782189222">
+        <mark key="'" line="156" column="30" />
+        <mark key="[" line="164" column="56" />
+        <mark key="]" line="164" column="56" />
+        <mark key="." line="164" column="56" />
+        <mark key="^" line="164" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1499780571399">
         <mark key="[" line="0" column="0" />
@@ -403,12 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="8" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
-      <jump line="227" column="8" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
-      <jump line="199" column="1" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
-      <jump line="34" column="21" filename="$USER_HOME$/hefss++/src/ThermoCurveFits.cpp" />
-      <jump line="75" column="0" filename="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" />
       <jump line="6" column="0" filename="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" />
       <jump line="8" column="1" filename="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" />
       <jump line="21" column="8" filename="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" />
@@ -503,10 +497,16 @@
       <jump line="27" column="4" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="31" column="17" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="112" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="160" column="85" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="16" column="9" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="158" column="44" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="161" column="18" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="164" column="56" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="156" column="30" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>22</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3906,59 +3906,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
-        <text>species_mol_wt</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBjb21wdXRlVmlzY29zaXR5KGNvbnN0IGRvdWJsZSB0ZW1wZXJhdHVyZSwgY29uc3QgZG91YmxlICpzcGVjaWVzX2RlbnNpdHkpIGNvbnN0Owo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBkZW5zaXR5ID0gMC4wOwogICAgZm9yIChpbnQgayA9IDA7IGsgPCBuX3NwZWNpZXM7ICsraykgewogICAgICAgIGRlbnNpdHkgKz0gc3BlY2llc19kZW5zaXR5W2tdOwogICAgfQoKICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gbW9sYXJfY29uY2VudHJhdGlvbihuX3NwZWNpZXMpOwogICAgZm9yIChpbnQgbCA9IDA7IGwgPCBuX3NwZWNpZXM7ICsrbCkgewogICAgICAgIG1vbGFyX2NvbmNlbnRyYXRpb25bbF0gPSBzcGVjaWVzX2RlbnNpdHlbbF0gLyAoZGVuc2l0eSAqIHNwZWNpZXNfbW9sX3d0W2xdKTsKICAgIH0KCiAgICBkb3VibGUgdmlzY29zaXR5ID0gMC4wOwogICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBkZWx0YV8yKG1heF9paik7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IG5fc3BlY2llczsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgaiA9IGk7IGogPCBuX3NwZWNpZXM7ICsraikgewogICAgICAgICAgICBpbnQgaWogPSBnZXRDb2xsaXNpb25QYWlySW5kZXgoaSwgaik7CiAgICAgICAgICAgIGRvdWJsZSBvbWVnYV8yMiA9IGNvbXB1dGVPbWVnYSh0ZW1wZXJhdHVyZSwgb21lZ2EyMl9pbnRlcmNlcHRbaWpdLCBvbWVnYTIyX3Nsb3BlW2lqXSk7CiAgICAgICAgICAgIGRlbHRhXzJbaWpdID0gY18yMltpal0gLyBzcXJ0KHRlbXBlcmF0dXJlKSAqIG9tZWdhXzIyOwogICAgICAgIH0KCiAgICAgICAgZG91YmxlIGRlbm9tID0gMC4wOyAvLyBEZW5vbWluYXRvciBzdW0gZm9yIGVxLiA3MgogICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgbl9zcGVjaWVzOyArK2opIHsKICAgICAgICAgICAgaW50IGlqID0gZ2V0Q29sbGlzaW9uUGFpckluZGV4KHN0ZDo6bWluKGksIGopLCBzdGQ6Om1heChpLCBqKSk7CiAgICAgICAgICAgIGRlbm9tICs9IG1vbGFyX2NvbmNlbnRyYXRpb25bal0gKiBkZWx0YV8yW2lqXTsKICAgICAgICB9CiAgICAgICAgdmlzY29zaXR5ICs9IHNwZWNpZXNfZGVuc2l0eVtpXSAvIChkZW5zaXR5ICogZGVub20pOwogICAgfQogICAgcmV0dXJuIHZpc2Nvc2l0eSAvIFRoZXJtb2R5bmFtaWNDb25zdGFudHM6OmF2b2dhZHJvOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb2R5bmFtaWNzLmgiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb2R5bmFtaWNzLmgiCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjaQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjaWVzX2VsZW1lbnRzLnB1c2hfYmFjayhlbGVtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6bWFwPHN0ZDo6c3RyaW5nLCBpbnQ+PiBzcGVjaWVzX2VsZW1lbnRzOwogICAgc3RkOjp2ZWN0b3I8Ym9vbD4gbW9sZWN1bGU7CiAgICBzdGQ6OnZlY3RvcjxpbnQ+IGNoYXJnZTsKICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWVzX2VsZW1lbnRzLnB1c2hfYmFjayhlbGVtZW50cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBzcGVjaWVzX21vbF93dDsKICAgIHN0ZDo6c3RyaW5nIHNwZWNpZXNfbmFtZXM7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6bWFwPHN0ZDo6c3RyaW5nLCBpbnQ+PiBzcGVjaWVzX2VsZW1lbnRzOwogICAgc3RkOjp2ZWN0b3I8Ym9vbD4gbW9sZWN1bGU7CiAgICBzdGQ6OnZlY3RvcjxpbnQ+IGNoYXJnZTsKICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>species_mol_wt</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern>species_mol_wt</last-pattern>
+      <last-pattern>2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nson</entry>
-        <entry>json</entry>
         <entry>ntr</entry>
         <entry>nranges</entry>
         <entry>n_ranges</entry>
@@ -3977,6 +3975,8 @@
         <entry>domain</entry>
         <entry>thermo</entry>
         <entry>species_mol_wt</entry>
+        <entry>22</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

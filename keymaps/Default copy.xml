@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
+  <action id="Macro.cout">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />

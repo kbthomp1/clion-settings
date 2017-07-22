@@ -18,11 +18,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/HyperSolve3D/src/CMakeLists.txt" timestamp="1500728328295">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/HyperSolve3D/src/CMakeLists.txt" timestamp="1500738342560">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496438533179">
         <mark key="'" line="30" column="31" />
@@ -308,6 +308,10 @@
       <file name="/Dummy.txt" timestamp="1500417361451">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500738773486">
+        <mark key="'" line="33" column="19" />
+        <mark key="." line="20" column="16" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/CMakeLists.txt" timestamp="1493580095249">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="11" />
@@ -418,11 +422,6 @@
       <file name="$USER_HOME$/one-ring/yoga/CMakeLists.txt" timestamp="1500726478467" />
     </filemarks>
     <jumps>
-      <jump line="46" column="16" filename="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" />
-      <jump line="58" column="25" filename="$USER_HOME$/hefss++/data/PyConvertor/species_thermo_converter.py" />
-      <jump line="2726" column="20" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="2689" column="20" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="3979" column="12" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3102" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3224" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3458" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
@@ -518,10 +517,15 @@
       <jump line="24" column="21" filename="$USER_HOME$/HyperSolve3D/src/ex50.c" />
       <jump line="75" column="34" filename="$USER_HOME$/HyperSolve3D/src/ex50.c" />
       <jump line="76" column="31" filename="$USER_HOME$/HyperSolve3D/src/ex50.c" />
+      <jump line="174" column="1" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
+      <jump line="41" column="0" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
+      <jump line="127" column="0" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
+      <jump line="33" column="19" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludGYoIiBNIE46ICVkICVkOyB4bSB5bTogJWQgJWQ7IHhzIHlzOiAlZCAlZFxuIixNLE4seG0seW0seHMseXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3921,13 +3925,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ys</text>
+        <text>nonzero</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKiBwcmludGYoIiBNIE46ICVkICVkOyB4bSB5bTogJWQgJWQ7IHhzIHlzOiAlZCAlZFxuIixNLE4seG0seW0seHMseXMpOyAqLwo=</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoZXg1MCBleDUwLmMpCnRhcmdldF9saW5rX2xpYnJhcmllcyggZXg1MAogICAgICAgICR7UEVUU0NfTElCUkFSSUVTfQopCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwcmludGYoIiBNIE46ICVkICVkOyB4bSB5bTogJWQgJWQ7IHhzIHlzOiAlZCAlZFxuIixNLE4seG0seW0seHMseXMpOwo=</text>
@@ -3964,15 +3968,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ys</last-search>
+      <last-search>nonzero</last-search>
       <last-offset />
-      <last-pattern>ys</last-pattern>
+      <last-pattern>nonzero</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>elements</entry>
         <entry>e-</entry>
         <entry>Si</entry>
         <entry>re</entry>
@@ -3992,6 +3995,7 @@
         <entry>\.\.</entry>
         <entry>thermo</entry>
         <entry>ys</entry>
+        <entry>nonzero</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

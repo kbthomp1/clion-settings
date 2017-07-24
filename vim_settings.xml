@@ -163,8 +163,8 @@
         <mark key="^" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="$USER_HOME$/HyperSolve3D/src/ex2.c" timestamp="1500828122481">
-        <mark key="'" line="89" column="4" />
+      <file name="$USER_HOME$/HyperSolve3D/src/ex2.c" timestamp="1500907647754">
+        <mark key="'" line="59" column="11" />
         <mark key="[" line="94" column="54" />
         <mark key="]" line="94" column="54" />
         <mark key="." line="94" column="59" />
@@ -432,10 +432,6 @@
       <file name="$USER_HOME$/one-ring/yoga/CMakeLists.txt" timestamp="1500726478467" />
     </filemarks>
     <jumps>
-      <jump line="3458" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="3595" column="6" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="3656" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="3778" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3962" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="62" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="184" column="6" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
@@ -532,6 +528,10 @@
       <jump line="33" column="19" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
       <jump line="233" column="1" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
       <jump line="89" column="4" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
+      <jump line="110" column="5" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
+      <jump line="119" column="62" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
+      <jump line="51" column="18" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
+      <jump line="59" column="11" filename="$USER_HOME$/HyperSolve3D/src/ex2.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3938,7 +3938,7 @@
         <text>ADD_VALUES</text>
       </register>
       <register name="/" type="4">
-        <text>ADD_VALUES</text>
+        <text>MatCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoZXgxIGV4MS5jKQp0YXJnZXRfbGlua19saWJyYXJpZXMoIGV4MQogICAgICAgICR7UEVUU0NfTElCUkFSSUVTfQogICAgICAgICkK</text>
@@ -3978,16 +3978,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ADD_VALUES</last-search>
+      <last-search>MatCreate</last-search>
       <last-offset />
-      <last-pattern>ADD_VALUES</last-pattern>
+      <last-pattern>MatCreate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Si</entry>
-        <entry>re</entry>
         <entry>++</entry>
         <entry>num_thermo_ranges</entry>
         <entry>_</entry>
@@ -4006,6 +4004,8 @@
         <entry>ys</entry>
         <entry>nonzero</entry>
         <entry>ADD_VALUES</entry>
+        <entry>matCreate</entry>
+        <entry>MatCreate</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

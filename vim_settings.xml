@@ -113,11 +113,12 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/HyperSolve3D/src/main.c" timestamp="1500994316197">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/HyperSolve3D/src/main.c" timestamp="1501012662968">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/spack/opt/spack/darwin-yosemite-x86_64/gcc-6.2.0/petsc-3.7.5-pkcyy2gfnpihmgxfcbxyqeqkoxxahsr6/include/petscts.h" timestamp="1500989601304">
         <mark key="'" line="809" column="0" />
@@ -443,9 +444,6 @@
       <file name="$USER_HOME$/one-ring/yoga/CMakeLists.txt" timestamp="1500726478467" />
     </filemarks>
     <jumps>
-      <jump line="2374" column="6" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="2626" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
-      <jump line="2748" column="7" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="3041" column="6" filename="$USER_HOME$/hefss++/data/species_thermo_data.json" />
       <jump line="30" column="28" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.h" />
       <jump line="35" column="12" filename="$USER_HOME$/hefss++/src/Thermodynamics.h" />
@@ -543,10 +541,13 @@
       <jump line="73" column="21" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
       <jump line="331" column="0" filename="$USER_HOME$/HyperSolve3D/src/main.c" />
       <jump line="37" column="0" filename="$USER_HOME$/HyperSolve3D/src/ex1.c" />
+      <jump line="16" column="21" filename="$USER_HOME$/HyperSolve3D/src/main.c" />
+      <jump line="4" column="0" filename="$USER_HOME$/HyperSolve3D/src/main.c" />
+      <jump line="8" column="4" filename="$USER_HOME$/HyperSolve3D/src/main.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>VECMPI</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFZlY0dldFR5cGUoeCwgJnZlY190eXBlKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3946,58 +3947,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VECMPI</text>
+        <text encoding="base64">IENIS0VSUlEoaWVycik7</text>
       </register>
       <register name="/" type="4">
-        <text>SetSize</text>
+        <text>ierr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBldHNjSW5pdGlhbGl6ZSgmYXJnYywmYXJncywoY2hhciopMCxoZWxwKTsKICAgIGllcnIgPSBNUElfQ29tbV9zaXplKFBFVFNDX0NPTU1fV09STEQsJnNpemUpO0NIS0VSUlEoaWVycik7Cg==</text>
+        <text encoding="base64">ICAgIGllcnIgPSBWZWNBc3NlbWJseUVuZCh4KTsgQ0hLRVJSUShpZXJyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFZlY0dldFR5cGUoeCwgJnZlY190eXBlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGllcnIgPSBQZXRzY09wdGlvbnNHZXRJbnQoUEVUU0NfTlVMTCwgIi1OIiwgKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiTDIgTm9ybSA9ICVlXG4iLCBsMik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBldHNjUmVhbCBsMjsKICAgIFZlY05vcm0oeCwgTk9STV8yLCAmbDIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBtYWluKGludCBhcmdjLGNoYXIgKiphcmdzKQo=</text>
+        <text encoding="base64">ICAgIFBldHNjU2NhbGFyIHZhbCA9IDAuMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFBldHNjRXJyb3JDb2RlIGllcnI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50IG1haW4oKQoK</text>
+        <text encoding="base64">ICAgIFBldHNjRXJyb3JDb2RlIGllcnI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFZlYwo=</text>
+        <text encoding="base64">ICAgIFBldHNjRXJyb3JDb2RlIGllcnI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGllcnIgPSBWZWNWaWV3KHgsUEVUU0NfVklFV0VSX1NURE9VVF9XT1JMRCk7IENIS0VSUlEoaWVycik7Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">aWVyciA9IAppZXJyID0gCmllcnIgPSAKaWVyciA9IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SetSize</last-search>
+      <last-search>ierr</last-search>
       <last-offset />
-      <last-pattern>SetSize</last-pattern>
+      <last-pattern>ierr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>__</entry>
         <entry>--</entry>
         <entry>+</entry>
         <entry>species_data</entry>
@@ -4017,6 +4017,7 @@
         <entry>FormFunc</entry>
         <entry>its</entry>
         <entry>SetSize</entry>
+        <entry>ierr</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -1,13 +1,13 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
-  <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
-  <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
+  <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />

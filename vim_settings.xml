@@ -3980,7 +3980,7 @@
         <text>link_libraries(</text>
       </register>
       <register name="/" type="4">
-        <text>SetSize</text>
+        <text>DM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFBldHNjSW5pdGlhbGl6ZSgmYXJnYywmYXJncywoY2hhciopMCxoZWxwKTsKICAgIGllcnIgPSBNUElfQ29tbV9zaXplKFBFVFNDX0NPTU1fV09STEQsJnNpemUpO0NIS0VSUlEoaWVycik7Cg==</text>
@@ -4020,15 +4020,14 @@
       </register>
     </registers>
     <search>
-      <last-search>SetSize</last-search>
+      <last-search>DM</last-search>
       <last-offset />
-      <last-pattern>SetSize</last-pattern>
+      <last-pattern>DM</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shared_ptr</entry>
         <entry>\.\.</entry>
         <entry>thermo</entry>
         <entry>communicator</entry>
@@ -4048,6 +4047,7 @@
         <entry>[</entry>
         <entry>]</entry>
         <entry>char</entry>
+        <entry>DM</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

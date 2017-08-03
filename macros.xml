@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="cout">
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="65:0;83:0;84:0;68:0;513:1;513:1;67:0;79:0;85:0;84:0">astd::cout</typing>
+      <action id="EditorChooseLookupItem" />
+      <typing text-keycode="32:0;0:1;0:1;32:1;0:1;0:1;32:1;83:0;84:0;68:0;513:1;513:1;69:0;78:0;68:0;76:0;59:0">&amp;#x20;&lt;&lt;&amp;#x20;&lt;&lt;&amp;#x20;std::endl;</typing>
+    </macro>
+  </component>
+</application>

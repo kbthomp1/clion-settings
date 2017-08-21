@@ -276,12 +276,12 @@
         <mark key="." line="17" column="70" />
         <mark key="^" line="17" column="70" />
       </file>
-      <file name="$USER_HOME$/one-ring/sfe/matrix.f90" timestamp="1503351679850">
-        <mark key="'" line="2047" column="23" />
-        <mark key="[" line="2400" column="12" />
-        <mark key="]" line="2400" column="15" />
-        <mark key="." line="2400" column="15" />
-        <mark key="^" line="2400" column="15" />
+      <file name="$USER_HOME$/one-ring/sfe/matrix.f90" timestamp="1503353001623">
+        <mark key="'" line="862" column="9" />
+        <mark key="[" line="947" column="10" />
+        <mark key="]" line="947" column="13" />
+        <mark key="." line="947" column="13" />
+        <mark key="^" line="947" column="13" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/CMakeLists.txt" timestamp="1500468649890">
         <mark key="[" line="5" column="50" />
@@ -377,7 +377,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503352194194">
+      <file name="/Dummy.txt" timestamp="1503352939959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
@@ -472,6 +472,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" timestamp="1503353032240">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="607" column="31" />
+        <mark key="]" line="607" column="33" />
+        <mark key="^" line="607" column="33" />
+        <mark key="." line="607" column="33" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1501776855652">
         <mark key="[" line="37" column="83" />
         <mark key="]" line="37" column="88" />
@@ -507,15 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="15" filename="$USER_HOME$/one-ring/go.sh" />
-      <jump line="45" column="11" filename="$USER_HOME$/one-ring/go.sh" />
-      <jump line="77" column="0" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="6" column="23" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="44" column="44" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="65" column="37" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="80" column="12" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="45" column="12" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="69" column="20" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="88" column="12" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="10" column="15" filename="$USER_HOME$/one-ring/go.py" />
@@ -607,6 +605,15 @@
       <jump line="27" column="17" filename="$USER_HOME$/one-ring/bob-def/src/meshdef_c_interface.F90" />
       <jump line="34" column="40" filename="$USER_HOME$/one-ring/bob-def/src/meshdef_c_interface.F90" />
       <jump line="22" column="38" filename="$USER_HOME$/one-ring/bob-def/src/meshdef_c_interface.F90" />
+      <jump line="6" column="0" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
+      <jump line="67" column="0" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
+      <jump line="9" column="26" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
+      <jump line="171" column="9" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
+      <jump line="1859" column="17" filename="$USER_HOME$/one-ring/sfe/matrix.f90" />
+      <jump line="23" column="16" filename="$USER_HOME$/one-ring/sfe/matrix.f90" />
+      <jump line="868" column="0" filename="$USER_HOME$/one-ring/sfe/matrix.f90" />
+      <jump line="862" column="9" filename="$USER_HOME$/one-ring/sfe/matrix.f90" />
+      <jump line="8" column="26" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4013,7 +4020,7 @@
         <text>sync_vector_double_block</text>
       </register>
       <register name="/" type="4">
-        <text>dp</text>
+        <text>find_negative_diag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW50ZWdlcihjX2ludCksIGludGVudChpbiksIHZhbHVlIDo6IG5vZGVfaWQK</text>
@@ -4053,9 +4060,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dp</last-search>
+      <last-search>find_negative_diag</last-search>
       <last-offset />
-      <last-pattern>dp</last-pattern>
+      <last-pattern>find_negative_diag</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4063,8 +4070,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Mat</entry>
-        <entry>nlohmann</entry>
         <entry>Eigen</entry>
         <entry>aa</entry>
         <entry>cmake</entry>
@@ -4083,6 +4088,8 @@
         <entry>subtractor</entry>
         <entry>meshdef_initialize</entry>
         <entry>dp</entry>
+        <entry>scaleMatri</entry>
+        <entry>find_negative_diag</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -349,12 +349,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" timestamp="1503431062250">
-        <mark key="'" line="101" column="1" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="99" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" timestamp="1503432305803">
+        <mark key="'" line="69" column="9" />
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="68" column="44" />
+        <mark key="^" line="68" column="44" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -451,11 +451,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/main.cpp" timestamp="1503431087722">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/main.cpp" timestamp="1503432788731">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/converter.py" timestamp="1498593513195">
         <mark key="[" line="7" column="38" />
@@ -543,9 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="27" filename="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" />
-      <jump line="68" column="29" filename="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" />
-      <jump line="84" column="36" filename="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" />
       <jump line="96" column="33" filename="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" />
       <jump line="102" column="33" filename="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" />
       <jump line="27" column="17" filename="$USER_HOME$/one-ring/bob-def/src/meshdef_c_interface.F90" />
@@ -643,10 +640,13 @@
       <jump line="86" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="93" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="89" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
+      <jump line="68" column="87" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
+      <jump line="83" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
+      <jump line="69" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50Zigibm56ID0gJWRcbiIsIG5ueik7Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">UGV0c2NJbnQgClBldHNjSW50IApQZXRzY0ludCA=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4046,53 +4046,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>PetscInt</text>
       </register>
       <register name="/" type="4">
-        <text>line</text>
+        <text>vec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlYWRfcHJlc2NyaWJlZF9ibG9jayhmcCwgY3JzLmlhKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50Zigibm56ID0gJWRcbiIsIG5ueik7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">UGV0c2NJbnQgClBldHNjSW50IApQZXRzY0ludCA=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50Zigibm56ID0gJWRcbiIsIG5ueik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBzaGlmdF9mb3J0cmFuX3RvX2NfYXJyYXlfaW5kZXgoQ1JTICZjcnMpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBzaGlmdF9mb3J0cmFuX3RvX2NfYXJyYXlfaW5kZXgoQ1JTICZjcnMpIHsKICAgIGludCBmb3J0cmFuID0gMTsKICAgIGZvcihhdXRvJiBpIDogY3JzLmlhKXsKICAgICAgICBpIC09IGZvcnRyYW47CiAgICB9CiAgICBmb3IoYXV0byYgaSA6IGNycy5pYXUpewogICAgICAgIGkgLT0gZm9ydHJhbjsKICAgIH0KICAgIGZvcihhdXRvJiBpIDogY3JzLmphKXsKICAgICAgICBpIC09IGZvcnRyYW47CiAgICB9Cn0K</text>
+        <text encoding="base64">dm9pZCBzaGlmdF9mb3J0cmFuX3RvX2NfYXJyYXlfaW5kZXgoQ1JTICZjcnMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoaWZ0X2ZvcnRyYW5fdG9fY19hcnJheV9pbmRleChjcnMpCg==</text>
+        <text encoding="base64">dm9pZCBzaGlmdF9mb3J0cmFuX3RvX2NfYXJyYXlfaW5kZXgoQ1JTICZjcnMpIHsKICAgIGludCBmb3J0cmFuID0gMTsKICAgIGZvcihhdXRvJiBpIDogY3JzLmlhKXsKICAgICAgICBpIC09IGZvcnRyYW47CiAgICB9CiAgICBmb3IoYXV0byYgaSA6IGNycy5pYXUpewogICAgICAgIGkgLT0gZm9ydHJhbjsKICAgIH0KICAgIGZvcihhdXRvJiBpIDogY3JzLmphKXsKICAgICAgICBpIC09IGZvcnRyYW47CiAgICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vLyAgICBpbnQgaWFfbGVuZ3RoOwovLy8vICAgIGZnZXRzKGxpbmUsIDEwMjQsIGZwKTsKLy8vLyAgICBzdGQ6OmNvdXQgPDwgbGluZSA8PCBzdGQ6OmVuZGw7Ci8vLy8gICAgc3NjYW5mKGxpbmUsICIlcyAlcyAlZCIsIGxpbmUsIGxpbmUsICZpYV9sZW5ndGgpOwovLy8vICAgIGNycy5pYS5yZXNpemUoaWFfbGVuZ3RoKTsKLy8vLyAgICBmb3IoaW50IGkgPSAwOyBpIDwgY3JzLmlhLnNpemUoKTsgaSsrKXsKLy8vLyAgICAgICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLy8vICAgICAgICBzc2NhbmYobGluZSwgIiVkIiwgJmNycy5pYVtpXSk7Ci8vLy8gICAgfQovLwovLyAgICBpbnQgaWF1X2xlbmd0aDsKLy8gICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLyAgICBzc2NhbmYobGluZSwgIiVzICVzICVkIiwgbGluZSwgbGluZSwgJmlhdV9sZW5ndGgpOwovLyAgICBjcnMuaWF1LnJlc2l6ZShpYXVfbGVuZ3RoKTsKLy8gICAgZm9yKGludCBpID0gMDsgaSA8IGNycy5pYXUuc2l6ZSgpOyBpKyspewovLyAgICAgICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLyAgICAgICAgc3NjYW5mKGxpbmUsICIlZCIsICZjcnMuaWF1W2ldKTsKLy8gICAgfQovLwovLyAgICBmZ2V0cyhsaW5lLCAxMDI0LCBmcCk7IC8vIGNob21wIG5ueiBsaW5lCi8vCi8vICAgIGNycy5qYS5yZXNpemUobm56KTsKLy8gICAgZm9yKGludCBpID0gMDsgaSA8IGNycy5qYS5zaXplKCk7IGkrKyl7Ci8vICAgICAgICBmZ2V0cyhsaW5lLCAxMDI0LCBmcCk7Ci8vICAgICAgICBzc2NhbmYobGluZSwgIiVkIiwgJmNycy5qYVtpXSk7Ci8vICAgIH0KLy8KLy8gICAgZmdldHMobGluZSwgMTAyNCwgZnApOyAvLyBjaG9tcCBubnogbGluZQo=</text>
+        <text encoding="base64">ICAgIHNoaWZ0X2ZvcnRyYW5fdG9fY19hcnJheV9pbmRleChjcnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsb2NrLnJlc2l6ZShibG9ja19sZW5ndGgpOwo=</text>
+        <text encoding="base64">Ly8vLyAgICBpbnQgaWFfbGVuZ3RoOwovLy8vICAgIGZnZXRzKGxpbmUsIDEwMjQsIGZwKTsKLy8vLyAgICBzdGQ6OmNvdXQgPDwgbGluZSA8PCBzdGQ6OmVuZGw7Ci8vLy8gICAgc3NjYW5mKGxpbmUsICIlcyAlcyAlZCIsIGxpbmUsIGxpbmUsICZpYV9sZW5ndGgpOwovLy8vICAgIGNycy5pYS5yZXNpemUoaWFfbGVuZ3RoKTsKLy8vLyAgICBmb3IoaW50IGkgPSAwOyBpIDwgY3JzLmlhLnNpemUoKTsgaSsrKXsKLy8vLyAgICAgICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLy8vICAgICAgICBzc2NhbmYobGluZSwgIiVkIiwgJmNycy5pYVtpXSk7Ci8vLy8gICAgfQovLwovLyAgICBpbnQgaWF1X2xlbmd0aDsKLy8gICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLyAgICBzc2NhbmYobGluZSwgIiVzICVzICVkIiwgbGluZSwgbGluZSwgJmlhdV9sZW5ndGgpOwovLyAgICBjcnMuaWF1LnJlc2l6ZShpYXVfbGVuZ3RoKTsKLy8gICAgZm9yKGludCBpID0gMDsgaSA8IGNycy5pYXUuc2l6ZSgpOyBpKyspewovLyAgICAgICAgZmdldHMobGluZSwgMTAyNCwgZnApOwovLyAgICAgICAgc3NjYW5mKGxpbmUsICIlZCIsICZjcnMuaWF1W2ldKTsKLy8gICAgfQovLwovLyAgICBmZ2V0cyhsaW5lLCAxMDI0LCBmcCk7IC8vIGNob21wIG5ueiBsaW5lCi8vCi8vICAgIGNycy5qYS5yZXNpemUobm56KTsKLy8gICAgZm9yKGludCBpID0gMDsgaSA8IGNycy5qYS5zaXplKCk7IGkrKyl7Ci8vICAgICAgICBmZ2V0cyhsaW5lLCAxMDI0LCBmcCk7Ci8vICAgICAgICBzc2NhbmYobGluZSwgIiVkIiwgJmNycy5qYVtpXSk7Ci8vICAgIH0KLy8KLy8gICAgZmdldHMobGluZSwgMTAyNCwgZnApOyAvLyBjaG9tcCBubnogbGluZQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>ia_
-ia_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJsb2NrLnJlc2l6ZShibG9ja19sZW5ndGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>line</last-search>
+      <last-search>vec</last-search>
       <last-offset />
-      <last-pattern>line</last-pattern>
+      <last-pattern>vec</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4100,7 +4099,6 @@ ia_</text>
     </search>
     <history>
       <history-search>
-        <entry>modules</entry>
         <entry>print\(line</entry>
         <entry>print</entry>
         <entry>exit</entry>
@@ -4120,6 +4118,7 @@ ia_</text>
         <entry>allocatePET</entry>
         <entry>matrix</entry>
         <entry>line</entry>
+        <entry>vec</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

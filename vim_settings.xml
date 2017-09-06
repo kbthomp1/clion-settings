@@ -507,12 +507,10 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" timestamp="1504727602767">
-        <mark key="'" line="36" column="24" />
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" timestamp="1504736912565">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/hefss_fortran_wrappers.cpp" timestamp="1502388260247">
         <mark key="'" line="18" column="0" />
@@ -651,7 +649,6 @@
       <jump line="83" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="69" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="27" column="26" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
-      <jump line="29" column="48" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="33" column="49" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="35" column="62" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="36" column="46" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
@@ -662,12 +659,13 @@
       <jump line="25" column="28" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="10" column="0" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="20" column="24" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
-      <jump line="43" column="40" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
       <jump line="34" column="24" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
+      <jump line="29" column="28" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
+      <jump line="43" column="28" filename="$USER_HOME$/CLionProjects/vtk_example/Rendering/CylinderRenderingProperties.cxx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtYXBwZXItPlNldFNjYWxhclZpc2liaWxpdHkoMSk7CiAgbWFwcGVyLT5TZXRTY2FsYXJSYW5nZSgwLCA5LjApOwogIG1hcHBlci0+U2V0TG9va3VwVGFibGUobHV0KTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4067,7 +4065,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GetPoints();</text>
+        <text>tableSize</text>
       </register>
       <register name="/" type="4">
         <text>Force</text>
@@ -4076,34 +4074,34 @@
         <text encoding="base64">ICB2dGtTbWFydFBvaW50ZXI8dnRrQ3lsaW5kZXJTb3VyY2U+IGN5bGluZGVyID0KICAgIHZ0a1NtYXJ0UG9pbnRlcjx2dGtDeWxpbmRlclNvdXJjZT46Ok5ldygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBtYXBwZXItPlNldFNjYWxhclZpc2liaWxpdHkoMSk7CiAgbWFwcGVyLT5TZXRTY2FsYXJSYW5nZSgwLCA5LjApOwogIG1hcHBlci0+U2V0TG9va3VwVGFibGUobHV0KTsK</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBDcmVhdGUgU2NhbGFycwogIHZ0a1NtYXJ0UG9pbnRlcjx2dGtEb3VibGVBcnJheT4gc2NhbGFycyA9CiAgICAgICAgICB2dGtTbWFydFBvaW50ZXI8dnRrRG91YmxlQXJyYXk+OjpOZXcoKTsKICBpbnQgbnVtYmVyT2ZQb2ludHMgPSByZWFkZXItPkdldE51bWJlck9mUG9pbnRzKCk7CiAgc2NhbGFycy0+U2V0TnVtYmVyT2ZUdXBsZXMobnVtYmVyT2ZQb2ludHMpOwoK</text>
+        <text encoding="base64">ICAvLyBDcmVhdGUgYSBsb29rdXAgdGFibGUgdG8gbWFwIGNlbGwgZGF0YSB0byBjb2xvcnMKICB2dGtTbWFydFBvaW50ZXI8dnRrTG9va3VwVGFibGU+IGx1dCA9CiAgICAgICAgICB2dGtTbWFydFBvaW50ZXI8dnRrTG9va3VwVGFibGU+OjpOZXcoKTsKICBsdXQtPlNldE51bWJlck9mVGFibGVWYWx1ZXMoMTApOwogIGx1dC0+QnVpbGQoKTsKCiAgLy8gRmlsbCBpbiBhIGZldyBrbm93biBjb2xvcnMsIHRoZSByZXN0IHdpbGwgYmUgZ2VuZXJhdGVkIGlmIG5lZWRlZAogIGx1dC0+U2V0VGFibGVWYWx1ZSgwICAgICAsIDAgICAgICwgMCAgICAgLCAwLCAxKTsgIC8vQmxhY2sKICBsdXQtPlNldFRhYmxlVmFsdWUoMSwgMC44OTAwLCAwLjgxMDAsIDAuMzQwMCwgMSk7IC8vIEJhbmFuYQogIGx1dC0+U2V0VGFibGVWYWx1ZSgyLCAxLjAwMDAsIDAuMzg4MiwgMC4yNzg0LCAxKTsgLy8gVG9tYXRvCiAgbHV0LT5TZXRUYWJsZVZhbHVlKDMsIDAuOTYwOCwgMC44NzA2LCAwLjcwMjAsIDEpOyAvLyBXaGVhdAogIGx1dC0+U2V0VGFibGVWYWx1ZSg0LCAwLjkwMjAsIDAuOTAyMCwgMC45ODA0LCAxKTsgLy8gTGF2ZW5kZXIKICBsdXQtPlNldFRhYmxlVmFsdWUoNSwgMS4wMDAwLCAwLjQ5MDAsIDAuMjUwMCwgMSk7IC8vIEZsZXNoCiAgbHV0LT5TZXRUYWJsZVZhbHVlKDYsIDAuNTMwMCwgMC4xNTAwLCAwLjM0MDAsIDEpOyAvLyBSYXNwYmVycnkKICBsdXQtPlNldFRhYmxlVmFsdWUoNywgMC45ODA0LCAwLjUwMjAsIDAuNDQ3MSwgMSk7IC8vIFNhbG1vbgogIGx1dC0+U2V0VGFibGVWYWx1ZSg4LCAwLjc0MDAsIDAuOTkwMCwgMC43OTAwLCAxKTsgLy8gTWludAogIGx1dC0+U2V0VGFibGVWYWx1ZSg5LCAwLjIwMDAsIDAuNjMwMCwgMC43OTAwLCAxKTsgLy8gUGVhY29jawoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2dGtQb2ludHMgKnB0cyA9IHJlYWRlci0+R2V0UG8KICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlck9mUG9pbnRzOyArK2kpCiAgewogICAgZG91YmxlIHBvaW50WzNdOwogICAgcHRzLT5HZXRQb2ludChpLCBwb2ludCk7CiAgICBzY2FsYXJzLT5TZXRUdXBsZTEoaSwgcGxhbmUtPkV2YWx1YXRlRnVuY3Rpb24ocG9pbnQpKTsKICB9CiAgcmVhZGVyLT5HZXRPdXRwdXQoKS0+R2V0UG9pbnREYXRhKCktPlNldFNjYWxhcnMoc2NhbGFycyk7CiAgcmVhZGVyLT5HZXRPdXRwdXQoKS0+R2V0UG9pbnREYXRhKCktPkdldFNjYWxhcnMoKS0+R2V0UmFuZ2UoKTsK</text>
+        <text encoding="base64">ICBtYXBwZXItPlNjYWxhclZpc2liaWxpdHlPbigpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIHZ0a1BvaW50cyAqcHRzID0gcmVhZGVyLT5HZXRPdXRwdXQoKS0+R2V0UG9pbnRzKCk7Ci8vICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlck9mUG9pbnRzOyArK2kpCi8vICB7Ci8vICAgIGRvdWJsZSBwb2ludFszXTsKLy8gICAgcHRzLT5HZXRQb2ludChpLCBwb2ludCk7Ci8vICAgIHNjYWxhcnMtPlNldFR1cGxlMShpLCBwbGFuZS0+RXZhbHVhdGVGdW5jdGlvbihwb2ludCkpOwovLyAgfQovLyAgcmVhZGVyLT5HZXRPdXRwdXQoKS0+R2V0UG9pbnREYXRhKCktPlNldFNjYWxhcnMoc2NhbGFycyk7Ci8vICByZWFkZXItPkdldE91dHB1dCgpLT5HZXRQb2ludERhdGEoKS0+R2V0U2NhbGFycygpLT5HZXRSYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAvL0NyZWF0ZSBhIG1hcHBlcgogIHZ0a1NtYXJ0UG9pbnRlcjx2dGtEYXRhU2V0TWFwcGVyPiBtYXBwZXIgPSB2dGtTbWFydFBvaW50ZXI8dnRrRGF0YVNldE1hcHBlcj46Ok5ldygpOwogIG1hcHBlci0+U2V0SW5wdXRDb25uZWN0aW9uKHJlYWRlci0+R2V0T3V0cHV0UG9ydCgpKTsKICBtYXBwZXItPlNjYWxhclZpc2liaWxpdHlPbigpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBDcmVhdGUgU2NhbGFycwogIHZ0a1NtYXJ0UG9pbnRlcjx2dGtEb3VibGVBcnJheT4gc2NhbGFycyA9CiAgICAgICAgICB2dGtTbWFydFBvaW50ZXI8dnRrRG91YmxlQXJyYXk+OjpOZXcoKTsKICBpbnQgbnVtYmVyT2ZQb2ludHMgPSByZWFkZXItPkdldE51bWJlck9mUG9pbnRzKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhdXRvIG5fcG9pbnRzID0gcmVhZGVyLT5HZXROdW1iZXJPZlBvaW50cygpOwo=</text>
+        <text encoding="base64">ICBpbnQgdGFibGVTaXplID0gc3RkOjptYXgocmVzb2x1dGlvbipyZXNvbHV0aW9uICsgMSwgMTApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzY2FsYXJzLT4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZ0a0RvdWJsZUFycmF5Lmg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBDcmVhdGUgU2NhbGFycwogIHZ0a1NtYXJ0UG9pbnRlcjx2dGtEb3VibGVBcnJheT4gc2NhbGFycyA9CiAgICAgICAgICB2dGtTbWFydFBvaW50ZXI8dnRrRG91YmxlQXJyYXk+OjpOZXcoKTsKICBpbnQgbnVtYmVyT2ZQb2ludHMgPSByZWFkZXItPkdldE91dHB1dCgpLT5HZXROdW1iZXJPZlBvaW50cygpOwogIHNjYWxhcnMtPlNldE51bWJlck9mVHVwbGVzKG51bWJlck9mUG9pbnRzKTsKICB2dGtQb2ludHMgKnB0cyA9IHJlYWRlci0+R2V0T3V0cHV0KCktPkdldFBvaW50cygpOwogIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVyT2ZQb2ludHM7ICsraSkKICB7CiAgICBkb3VibGUgcG9pbnRbM107CiAgICBwdHMtPkdldFBvaW50KGksIHBvaW50KTsKICAgIHNjYWxhcnMtPlNldFR1cGxlMShpLCBwbGFuZS0+RXZhbHVhdGVGdW5jdGlvbihwb2ludCkpOwogIH0KICByZWFkZXItPkdldE91dHB1dCgpLT5HZXRQb2ludERhdGEoKS0+U2V0U2NhbGFycyhzY2FsYXJzKTsKICByZWFkZXItPkdldE91dHB1dCgpLT5HZXRQb2ludERhdGEoKS0+R2V0U2NhbGFycygpLT5HZXRSYW5nZSgpOwoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

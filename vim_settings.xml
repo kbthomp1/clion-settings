@@ -359,12 +359,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/one-ring/go.py" timestamp="1505412552843">
-        <mark key="'" line="224" column="14" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="101" column="62" />
-        <mark key="." line="101" column="62" />
-        <mark key="^" line="101" column="62" />
+      <file name="$USER_HOME$/one-ring/go.py" timestamp="1505419349312">
+        <mark key="'" line="136" column="12" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="227" column="12" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1500377817598">
         <mark key="'" line="5" column="64" />
@@ -522,7 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3261" column="29" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
       <jump line="3340" column="0" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
       <jump line="3345" column="0" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
       <jump line="3557" column="17" filename="$USER_HOME$/one-ring/sfe/sfe_lhs.F90" />
@@ -596,7 +595,6 @@
       <jump line="182" column="56" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="26" column="8" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="67" column="0" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="212" column="35" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="216" column="6" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="10" column="11" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="12" column="13" filename="$USER_HOME$/one-ring/go.py" />
@@ -622,10 +620,12 @@
       <jump line="155" column="8" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="220" column="27" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="221" column="14" filename="$USER_HOME$/one-ring/go.py" />
+      <jump line="212" column="58" filename="$USER_HOME$/one-ring/go.py" />
+      <jump line="132" column="12" filename="$USER_HOME$/one-ring/go.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrX3NwYWNrX21waV9wcm92aWRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAKICAgICAgICBwcmludChjbWQpCiAgICAgICAgY2FsbChjbWQpCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4025,7 +4025,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;spack module loads &quot; + &quot; &quot;.join(all_deps)</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
@@ -4034,37 +4034,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlxuSU5TVEFMTElORyBQQUNLQUdFIC0tLS0tLS0+ICVzIDwtLS0tLS0tXG4iICUgcGFja2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrX3NwYWNrX21waV9wcm92aWRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAKICAgICAgICBwcmludChjbWQpCiAgICAgICAgY2FsbChjbWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaGVja19zcGFja19tcGlfcHJvdmlkZXIoc2VsZik6CiAgICAgICAgIiIiVmVyaWZ5IHRoYXQgdGhlIHByaW1hcnkgbXBpIHByb3ZpZGVyIGZvciBzcGFjayBpcyB0aGUgb25lIHJlcXVlc3RlZC4iIiIKICAgICAgICBjb25maWdfb3V0cHV0ID0gY2hlY2tfb3V0cHV0KCJzcGFjayBjb25maWcgZ2V0IHBhY2thZ2VzIiwgc2hlbGw9VHJ1ZSkKICAgICAgICBzcGFja19jb25maWcgPSB5YW1sLnNhZmVfbG9hZChjb25maWdfb3V0cHV0KQogICAgICAgIHByb3ZpZGVycyA9IHNwYWNrX2NvbmZpZ1sncGFja2FnZXMnXVsnYWxsJ11bJ3Byb3ZpZGVycyddCiAgICAgICAgaWYgJ21waScgaW4gcHJvdmlkZXJzOgogICAgICAgICAgICBwcmltYXJ5X21waV9wcm92aWRlciA9IHByb3ZpZGVyc1snbXBpJ11bMF0KICAgICAgICAgICAgaWYgcHJpbWFyeV9tcGlfcHJvdmlkZXIgIT0gc2VsZi5zcGFja19tcGk6CiAgICAgICAgICAgICAgICBwcmludCgiRXJyb3I6IHRoZSBwcmltYXJ5IHNwYWNrIG1waSBwcm92aWRlciBpczogIiArIHByaW1hcnlfbXBpX3Byb3ZpZGVyKQogICAgICAgICAgICAgICAgcHJpbnQoIiAgICAgICBidXQgeW91IHJlcXVlc3RlZDogIiArIHNlbGYuc3BhY2tfbXBpKQogICAgICAgICAgICAgICAgcHJpbnQoIlxuUGxlYXNlIHNldCAlcyBhcyB0aGUgcHJpbWFyeSBtcGkgcHJvdmlkZXIgZm9yIHNwYWNrLCBhbmQgcmUtcnVuLiIgJSBzZWxmLnNwYWNrX21waSkKICAgICAgICAgICAgICAgIGV4aXQoMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiRXJyb3I6IE5vIG1waSBwcm92aWRlciB3YXMgZm91bmQgZm9yIHNwYWNrIikKICAgICAgICAgICAgcHJpbnQoIlBsZWFzZSBzZXQgYSBwcm92aWRlciwgYW5kIHRoZW4gcmUtcnVuLiIpCiAgICAgICAgICAgIGV4aXQoMSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZGVwIGluIGFsbF9kZXBzOgogICAgICAgICAgICBjYWxsKCJzcGFjayBtb2R1bGUgbG9hZHMgIiArIGRlcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGwoInNwYWNrIG1vZHVsZSBsb2FkcyAiICsgIiAiLmpvaW4oZGVwZW5kZW5jaWVzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhbGxfZGVwcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlX3BhdGhzKGRlcGVuZGVudF9wYWNrYWdlcykKCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZGVwIGluIGRlcGVuZGVuY2llczoKICAgICAgICAgICAgYWxsX2RlcHMgKz0gZGVwIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFja2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrX3NwYWNrX21waV9wcm92aWRlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFja19wYWNrYWdlcyA9IG1hcChsYW1iZGEgeDogeCArICIlIiArIHNlbGYuc3BhY2tfY29tcGlsZXIsIHBhY2thZ2VzX25hbWVzKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjaGVja19zcGFja19tcGlfcHJvdmlkZXIoc2VsZik6CiAgICAgICAgIiIiVmVyaWZ5IHRoYXQgdGhlIHByaW1hcnkgbXBpIHByb3ZpZGVyIGZvciBzcGFjayBpcyB0aGUgb25lIHJlcXVlc3RlZC4iIiIKICAgICAgICBjb25maWdfb3V0cHV0ID0gY2hlY2tfb3V0cHV0KCJzcGFjayBjb25maWcgZ2V0IHBhY2thZ2VzIiwgc2hlbGw9VHJ1ZSkKICAgICAgICBzcGFja19jb25maWcgPSB5YW1sLnNhZmVfbG9hZChjb25maWdfb3V0cHV0KQogICAgICAgIHByb3ZpZGVycyA9IHNwYWNrX2NvbmZpZ1sncGFja2FnZXMnXVsnYWxsJ11bJ3Byb3ZpZGVycyddCiAgICAgICAgaWYgJ21waScgaW4gcHJvdmlkZXJzOgogICAgICAgICAgICBwcmltYXJ5X21waV9wcm92aWRlciA9IHByb3ZpZGVyc1snbXBpJ11bMF0KICAgICAgICAgICAgaWYgcHJpbWFyeV9tcGlfcHJvdmlkZXIgIT0gc2VsZi5zcGFja19tcGk6CiAgICAgICAgICAgICAgICBwcmludCgiRXJyb3I6IHRoZSBwcmltYXJ5IHNwYWNrIG1waSBwcm92aWRlciBpczogIiArIHByaW1hcnlfbXBpX3Byb3ZpZGVyKQogICAgICAgICAgICAgICAgcHJpbnQoIiAgICAgICBidXQgeW91IHJlcXVlc3RlZDogIiArIHNlbGYuc3BhY2tfbXBpKQogICAgICAgICAgICAgICAgcHJpbnQoIlxuUGxlYXNlIHNldCAlcyBhcyB0aGUgcHJpbWFyeSBtcGkgcHJvdmlkZXIgZm9yIHNwYWNrLCBhbmQgcmUtcnVuLiIgJSBzZWxmLnNwYWNrX21waSkKICAgICAgICAgICAgICAgIGV4aXQoMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiRXJyb3I6IE5vIG1waSBwcm92aWRlciB3YXMgZm91bmQgZm9yIHNwYWNrIikKICAgICAgICAgICAgcHJpbnQoIlBsZWFzZSBzZXQgYSBwcm92aWRlciwgYW5kIHRoZW4gcmUtcnVuLiIpCiAgICAgICAgICAgIGV4aXQoMSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrYWdlc19uYW1lcyA9IHBhY2thZ2VzLmtleXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4108,8 +4108,8 @@
         <entry>%s/dp/c_double/g</entry>
         <entry>vsp</entry>
         <entry>5425</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

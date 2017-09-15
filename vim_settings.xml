@@ -381,7 +381,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505479008159">
+      <file name="/Dummy.txt" timestamp="1505479882101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
@@ -4039,7 +4039,7 @@
         <text>&quot;spack module loads &quot; + &quot; &quot;.join(all_deps)</text>
       </register>
       <register name="/" type="4">
-        <text>rank</text>
+        <text>blaster_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlxuSU5TVEFMTElORyBQQUNLQUdFIC0tLS0tLS0+ICVzIDwtLS0tLS0tXG4iICUgcGFja2FnZSkK</text>
@@ -4079,9 +4079,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rank</last-search>
+      <last-search>blaster_</last-search>
       <last-offset />
-      <last-pattern>rank</last-pattern>
+      <last-pattern>blaster_</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4089,7 +4089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>line</entry>
         <entry>vec</entry>
         <entry>check_output</entry>
         <entry>safe_</entry>
@@ -4109,6 +4108,7 @@
         <entry>initial_setup</entry>
         <entry>blaster</entry>
         <entry>rank</entry>
+        <entry>blaster_</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

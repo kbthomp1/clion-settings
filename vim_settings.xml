@@ -634,6 +634,13 @@
       <jump line="25" column="30" filename="$USER_HOME$/one-ring/blaster/src/blaster.F90" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGUoKiwqKSAiQ0hFQ0siCg==</text>
       </register>
@@ -4074,7 +4081,7 @@
         <text encoding="base64">ICAgIGRlZiBjaGVja19zcGFja19tcGlfcHJvdmlkZXIoc2VsZik6CiAgICAgICAgIiIiVmVyaWZ5IHRoYXQgdGhlIHByaW1hcnkgbXBpIHByb3ZpZGVyIGZvciBzcGFjayBpcyB0aGUgb25lIHJlcXVlc3RlZC4iIiIKICAgICAgICBjb25maWdfb3V0cHV0ID0gY2hlY2tfb3V0cHV0KCJzcGFjayBjb25maWcgZ2V0IHBhY2thZ2VzIiwgc2hlbGw9VHJ1ZSkKICAgICAgICBzcGFja19jb25maWcgPSB5YW1sLnNhZmVfbG9hZChjb25maWdfb3V0cHV0KQogICAgICAgIHByb3ZpZGVycyA9IHNwYWNrX2NvbmZpZ1sncGFja2FnZXMnXVsnYWxsJ11bJ3Byb3ZpZGVycyddCiAgICAgICAgaWYgJ21waScgaW4gcHJvdmlkZXJzOgogICAgICAgICAgICBwcmltYXJ5X21waV9wcm92aWRlciA9IHByb3ZpZGVyc1snbXBpJ11bMF0KICAgICAgICAgICAgaWYgcHJpbWFyeV9tcGlfcHJvdmlkZXIgIT0gc2VsZi5zcGFja19tcGk6CiAgICAgICAgICAgICAgICBwcmludCgiRXJyb3I6IHRoZSBwcmltYXJ5IHNwYWNrIG1waSBwcm92aWRlciBpczogIiArIHByaW1hcnlfbXBpX3Byb3ZpZGVyKQogICAgICAgICAgICAgICAgcHJpbnQoIiAgICAgICBidXQgeW91IHJlcXVlc3RlZDogIiArIHNlbGYuc3BhY2tfbXBpKQogICAgICAgICAgICAgICAgcHJpbnQoIlxuUGxlYXNlIHNldCAlcyBhcyB0aGUgcHJpbWFyeSBtcGkgcHJvdmlkZXIgZm9yIHNwYWNrLCBhbmQgcmUtcnVuLiIgJSBzZWxmLnNwYWNrX21waSkKICAgICAgICAgICAgICAgIGV4aXQoMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiRXJyb3I6IE5vIG1waSBwcm92aWRlciB3YXMgZm91bmQgZm9yIHNwYWNrIikKICAgICAgICAgICAgcHJpbnQoIlBsZWFzZSBzZXQgYSBwcm92aWRlciwgYW5kIHRoZW4gcmUtcnVuLiIpCiAgICAgICAgICAgIGV4aXQoMSkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -4114,12 +4121,12 @@
         <entry>vsp Thermodynamics.h</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>%s/dp/c_double/g</entry>
         <entry>5425</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

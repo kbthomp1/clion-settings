@@ -262,12 +262,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1506117917385">
-        <mark key="'" line="148" column="12" />
-        <mark key="[" line="139" column="44" />
-        <mark key="]" line="139" column="46" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1506118920600">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
         <mark key="^" line="139" column="46" />
-        <mark key="." line="139" column="46" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1501776805429">
         <mark key="[" line="9" column="120" />
@@ -301,13 +301,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1506117162181">
-        <mark key="'" line="402" column="30" />
-        <mark key="[" line="323" column="55" />
-        <mark key="]" line="323" column="58" />
-        <mark key="." line="323" column="58" />
-        <mark key="^" line="323" column="58" />
       </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
@@ -585,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="12" column="13" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="14" column="36" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="29" column="11" filename="$USER_HOME$/one-ring/go.py" />
@@ -685,6 +677,7 @@
       <jump line="323" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
       <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="148" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="151" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -695,7 +688,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJLU1AgcGFyYWxsZWwiLCAiW3BhcmFsbGVsXSIpIHsKICAgIGF1dG8gbXAgPSBzdGQ6Om1ha2Vfc2hhcmVkPE1lc3NhZ2VQYXNzZXI+KCk7CiAgICBpZiAobXAtPk51bWJlck9mUHJvY2Vzc2VzKCkgIT0gMikgcmV0dXJuOwoKICAgIHN0ZDo6dmVjdG9yPGxvbmc+IG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWw7CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PiBzcGFyc2l0eTsKICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGRvX293bl9sb2NhbF9tZXNoX25vZGU7CiAgICBpZiAobXAtPlJhbmsoKSA9PSAwKSB7CiAgICAgICAgbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCA9IHN0ZDo6dmVjdG9yPGxvbmc+IHswLCAxLCAyLCAzfTsKICAgICAgICBkb19vd25fbG9jYWxfbWVzaF9ub2RlID0gc3RkOjp2ZWN0b3I8Ym9vbD57dHJ1ZSwgdHJ1ZSwgZmFsc2UsIGZhbHNlfTsKICAgICAgICBzcGFyc2l0eSA9IHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPGludD4+ewogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30KICAgICAgICB9OwogICAgfQogICAgZWxzZSBpZihtcC0+UmFuaygpID09IDEpewogICAgICAgIG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWwgPSBzdGQ6OnZlY3Rvcjxsb25nPiB7MywyLDEsMH07CiAgICAgICAgZG9fb3duX2xvY2FsX21lc2hfbm9kZSA9IHN0ZDo6dmVjdG9yPGJvb2w+e3RydWUsIHRydWUsIGZhbHNlLCBmYWxzZX07CiAgICAgICAgc3BhcnNpdHkgPSBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PnsKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9CiAgICAgICAgfTsKICAgIH0KCiAgICBTcGFyc2VCbG9ja01hdHJpeDw1LCA1PiBtYXRyaXgobXAtPmdldENvbW11bmljYXRvcigpLCBtZXNoX2xvY2FsX3RvX21lc2hfZ2xvYmFsLCBkb19vd25fbG9jYWxfbWVzaF9ub2RlLCBzcGFyc2l0eSk7CgogICAgQmxvY2tNYXRyaXhFbGVtZW50PGRvdWJsZSwgNSwgNT4gSTsKICAgIEkuZmlsbCgwKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7CiAgICAgICAgSShpLCBpKSA9IGZsb2F0KGkgKyAxKTsKICAgIH0KCiAgICBmb3IgKGF1dG8gcm93IDogbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCkgewogICAgICAgIG1hdHJpeChyb3csIHJvdykgPSBJOwogICAgfQoKICAgIG1hdHJpeC5hc3NlbWJsZSgpOwoKICAgIE1hdCBBID0gbWF0cml4LnNoYWxsb3dDb3B5VG9QZXRzYygpOwogICAgVmVjIHgsIGI7CiAgICBNYXRDcmVhdGVWZWNzKEEsICZ4LCAmYik7CiAgICBWZWNTZXQoeCwgMS4wKTsKICAgIE1hdE11bHQoQSwgeCwgYik7CiAgICBLU1Aga3NwOwogICAgS1NQQ3JlYXRlKE1QSV9DT01NX1dPUkxELCAma3NwKTsKICAgIEtTUFNldE9wZXJhdG9ycyhrc3AsIEEsIEEpOwogICAgS1NQU2V0RnJvbU9wdGlvbnMoa3NwKTsKICAgIEtTUFNldFRvbGVyYW5jZXMoa3NwLCAxLjBlLTEwLCBQRVRTQ19ERUZBVUxULCBQRVRTQ19ERUZBVUxULCAxKTsKICAgIEtTUFNldFVwKGtzcCk7CgogICAgS1NQU29sdmUoa3NwLCBiLCB4KTsKCiAgICBQZXRzY1NjYWxhciBub3JtOwogICAgVmVjTm9ybSh4LCBOT1JNXzIsICZub3JtKTsKICAgIFJFUVVJUkUobm9ybSA9PSBBcHByb3goc3RkOjpzcXJ0KDIwLjApKSk7Cn0K</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4095,52 +4088,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>local_cols</text>
+        <text>assemble</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VEVTVF9DQVNFKCJLU1AgcGFyYWxsZWwiLCAiW3BhcmFsbGVsXSIpIHsKICAgIGF1dG8gbXAgPSBzdGQ6Om1ha2Vfc2hhcmVkPE1lc3NhZ2VQYXNzZXI+KCk7CiAgICBpZiAobXAtPk51bWJlck9mUHJvY2Vzc2VzKCkgIT0gMikgcmV0dXJuOwoKICAgIHN0ZDo6dmVjdG9yPGxvbmc+IG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWw7CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PiBzcGFyc2l0eTsKICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGRvX293bl9sb2NhbF9tZXNoX25vZGU7CiAgICBpZiAobXAtPlJhbmsoKSA9PSAwKSB7CiAgICAgICAgbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCA9IHN0ZDo6dmVjdG9yPGxvbmc+IHswLCAxLCAyLCAzfTsKICAgICAgICBkb19vd25fbG9jYWxfbWVzaF9ub2RlID0gc3RkOjp2ZWN0b3I8Ym9vbD57dHJ1ZSwgdHJ1ZSwgZmFsc2UsIGZhbHNlfTsKICAgICAgICBzcGFyc2l0eSA9IHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPGludD4+ewogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30KICAgICAgICB9OwogICAgfQogICAgZWxzZSBpZihtcC0+UmFuaygpID09IDEpewogICAgICAgIG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWwgPSBzdGQ6OnZlY3Rvcjxsb25nPiB7MywyLDEsMH07CiAgICAgICAgZG9fb3duX2xvY2FsX21lc2hfbm9kZSA9IHN0ZDo6dmVjdG9yPGJvb2w+e3RydWUsIHRydWUsIGZhbHNlLCBmYWxzZX07CiAgICAgICAgc3BhcnNpdHkgPSBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PnsKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9CiAgICAgICAgfTsKICAgIH0KCiAgICBTcGFyc2VCbG9ja01hdHJpeDw1LCA1PiBtYXRyaXgobXAtPmdldENvbW11bmljYXRvcigpLCBtZXNoX2xvY2FsX3RvX21lc2hfZ2xvYmFsLCBkb19vd25fbG9jYWxfbWVzaF9ub2RlLCBzcGFyc2l0eSk7CgogICAgQmxvY2tNYXRyaXhFbGVtZW50PGRvdWJsZSwgNSwgNT4gSTsKICAgIEkuZmlsbCgwKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7CiAgICAgICAgSShpLCBpKSA9IGZsb2F0KGkgKyAxKTsKICAgIH0KCiAgICBmb3IgKGF1dG8gcm93IDogbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCkgewogICAgICAgIG1hdHJpeChyb3csIHJvdykgPSBJOwogICAgfQoKICAgIG1hdHJpeC5hc3NlbWJsZSgpOwoKICAgIE1hdCBBID0gbWF0cml4LnNoYWxsb3dDb3B5VG9QZXRzYygpOwogICAgVmVjIHgsIGI7CiAgICBNYXRDcmVhdGVWZWNzKEEsICZ4LCAmYik7CiAgICBWZWNTZXQoeCwgMS4wKTsKICAgIE1hdE11bHQoQSwgeCwgYik7CiAgICBLU1Aga3NwOwogICAgS1NQQ3JlYXRlKE1QSV9DT01NX1dPUkxELCAma3NwKTsKICAgIEtTUFNldE9wZXJhdG9ycyhrc3AsIEEsIEEpOwogICAgS1NQU2V0RnJvbU9wdGlvbnMoa3NwKTsKICAgIEtTUFNldFRvbGVyYW5jZXMoa3NwLCAxLjBlLTEwLCBQRVRTQ19ERUZBVUxULCBQRVRTQ19ERUZBVUxULCAxKTsKICAgIEtTUFNldFVwKGtzcCk7CgogICAgS1NQU29sdmUoa3NwLCBiLCB4KTsKCiAgICBQZXRzY1NjYWxhciBub3JtOwogICAgVmVjTm9ybSh4LCBOT1JNXzIsICZub3JtKTsKICAgIFJFUVVJUkUobm9ybSA9PSBBcHByb3goc3RkOjpzcXJ0KDIwLjApKSk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiQ0hFQ0siKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGV4aXQoMCk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiQ0hFQ0siKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHszLCA0LCA1fX07Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsxMCwgMTEsIDMsIDl9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHszLCA0LCA1fX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHs5LCAxMiwgMTAsIDR9fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsxMCwgMTEsIDMsIDl9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHs0LCAzfX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHs5LCAxMiwgMTAsIDR9fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHszLCAxLCA0LCAxMH0sCiAgICAgICAgICAgICAgICB7MywgMSwgNCwgMTB9LAogICAgICAgICAgICAgICAgezMsIDEsIDQsIDEwfSwKICAgICAgICAgICAgICAgIHsyLCA0fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHs0LCAzfX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEZpcnN0IHJhbmsgb3ducyA4IG5vZGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHszLCAxLCA0LCAxMH0sCiAgICAgICAgICAgICAgICB7MywgMSwgNCwgMTB9LAogICAgICAgICAgICAgICAgezMsIDEsIDQsIDEwfSwKICAgICAgICAgICAgICAgIHsyLCA0fSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local_cols</last-search>
+      <last-search>assemble</last-search>
       <last-offset />
-      <last-pattern>local_cols</last-pattern>
+      <last-pattern>assemble</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4158,7 +4151,6 @@
         <entry>R</entry>
         <entry>create_vector</entry>
         <entry>L2 Res</entry>
-        <entry>assemble</entry>
         <entry>vector</entry>
         <entry>Vector</entry>
         <entry>nodeOwner</entry>
@@ -4168,6 +4160,7 @@
         <entry>sparsity</entry>
         <entry encoding="base64">PGxvbmc+PiBzcGFyc2l0eQ==</entry>
         <entry>local_cols</entry>
+        <entry>assemble</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

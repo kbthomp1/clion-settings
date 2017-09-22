@@ -36,6 +36,9 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1506085006266">
+        <mark key="'" line="56" column="9" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/thermodynamicsTests.cpp" timestamp="1494878491864">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -198,12 +201,12 @@
         <mark key="^" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506038536451">
-        <mark key="'" line="53" column="13" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="40" />
-        <mark key="." line="52" column="40" />
-        <mark key="^" line="52" column="40" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506085354601">
+        <mark key="'" line="338" column="18" />
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="12" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="308" column="7" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex2.c" timestamp="1500907647754">
         <mark key="'" line="59" column="11" />
@@ -531,8 +534,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1506032708798">
-        <mark key="'" line="127" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1506085020067">
+        <mark key="'" line="273" column="21" />
         <mark key="[" line="142" column="39" />
         <mark key="]" line="142" column="40" />
         <mark key="." line="142" column="40" />
@@ -560,20 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="90" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="91" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="136" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/main.cpp" />
-      <jump line="147" column="69" filename="$USER_HOME$/one-ring/hypersolve/test/main.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/main.cpp" />
-      <jump line="12" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/main.cpp" />
-      <jump line="9" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="51" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="49" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="72" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="86" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="93" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
-      <jump line="89" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="68" column="87" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="83" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
       <jump line="69" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/MatrixReader.h" />
@@ -660,6 +649,20 @@
       <jump line="300" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="49" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="53" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="331" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="19" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="160" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="128" column="15" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="129" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="133" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="171" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="221" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="269" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="434" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="46" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="56" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="232" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="273" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -670,7 +673,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4073,49 +4076,49 @@
         <text>R_grid_ordering</text>
       </register>
       <register name="/" type="4">
-        <text>create_vector</text>
+        <text>Vector</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFZlY0Fzc2VtYmx5QmVnaW4oUl9ncmlkX29yZGVyaW5nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApOwo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFZlY0Fzc2VtYmx5QmVnaW4oUl9ncmlkX29yZGVyaW5nKTsKICAgIFZlY0Fzc2VtYmx5RW5kKFJfZ3JpZF9vcmRlcmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZlY0Fzc2VtYmx5QmVnaW4oUl9ncmlkX29yZGVyaW5nKTsKICAgIFZlY0Fzc2VtYmx5RW5kKFJfZ3JpZF9vcmRlcmluZyk7CiAgICAK</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byBwYWlyIDogbWF0cml4X3RvX3BldHNjX29yZGVyaW5nKSB7CiAgICAgICAgcHJpbnRmKCJtYXRyaXg6ICVkIHBldHNjOiAlZFxuIiwgcGFpci5maXJzdCwgcGFpci5zZWNvbmQpOwogICAgfQogICAgZXhpdCgwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJfaW4uYXNzZW1ibGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJfCg==</text>
+        <text encoding="base64">ICAgIFZlY0Fzc2VtYmx5QmVnaW4oUl9ncmlkX29yZGVyaW5nKTsKICAgIFZlY0Fzc2VtYmx5RW5kKFJfZ3JpZF9vcmRlcmluZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGV0c2NJbnQgb25lID0gMTsK</text>
+        <text encoding="base64">ICAgIFZlY0Fzc2VtYmx5QmVnaW4oUl9ncmlkX29yZGVyaW5nKTsKICAgIFZlY0Fzc2VtYmx5RW5kKFJfZ3JpZF9vcmRlcmluZyk7CiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdFtub2RlXSA9IHRvdGFsX3dhdmVfc3BlZWRbbm9kZV0gLyBjZmw7Cg==</text>
+        <text encoding="base64">ICAgIFJfaW4uYXNzZW1ibGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpYWcoaSwgaSkgPSAwLjA7Cg==</text>
+        <text encoding="base64">ICAgIFJfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhZy5maWxsKDAuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGV0c2NJbnQgb25lID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>create_vector</last-search>
+      <last-search>Vector</last-search>
       <last-offset />
-      <last-pattern>create_vector</last-pattern>
+      <last-pattern>Vector</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4123,9 +4126,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>getCom</entry>
-        <entry>comm</entry>
         <entry>initial_setup</entry>
         <entry>blaster</entry>
         <entry>rank</entry>
@@ -4138,11 +4138,14 @@
         <entry>matrix_to_petsc_global_ordering</entry>
         <entry>cfl</entry>
         <entry>printf</entry>
-        <entry>assemble</entry>
         <entry>R_petsc</entry>
         <entry>assembe</entry>
         <entry>R</entry>
         <entry>create_vector</entry>
+        <entry>L2 Res</entry>
+        <entry>assemble</entry>
+        <entry>vector</entry>
+        <entry>Vector</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

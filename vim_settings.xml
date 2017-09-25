@@ -76,8 +76,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1505918511262">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1506362110877">
+        <mark key="'" line="35" column="51" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -88,6 +88,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1506362084763">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/interface.f90" timestamp="1500466518838">
         <mark key="'" line="9" column="15" />
@@ -255,6 +261,10 @@
         <mark key="." line="9" column="53" />
         <mark key="^" line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFlux.h" timestamp="1506362064427">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="85" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/convertor.py" timestamp="1498590446671">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="9" column="0" />
@@ -263,11 +273,7 @@
         <mark key="^" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1506118920600">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
         <mark key="^" line="139" column="46" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1501776805429">
         <mark key="[" line="9" column="120" />
@@ -494,7 +500,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506110438779">
+      <file name="/Dummy.txt" timestamp="1506362164240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
@@ -578,9 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="14" column="36" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="29" column="11" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="68" column="8" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="71" column="24" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="187" column="23" filename="$USER_HOME$/one-ring/go.py" />
@@ -678,6 +681,9 @@
       <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="148" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="151" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="32" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="35" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -687,8 +693,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VtYmxlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>roeInviscidFlux</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4088,13 +4094,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>roeInviscidFlux</text>
       </register>
       <register name="/" type="4">
-        <text>assemble</text>
+        <text>mesh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJLU1AgcGFyYWxsZWwiLCAiW3BhcmFsbGVsXSIpIHsKICAgIGF1dG8gbXAgPSBzdGQ6Om1ha2Vfc2hhcmVkPE1lc3NhZ2VQYXNzZXI+KCk7CiAgICBpZiAobXAtPk51bWJlck9mUHJvY2Vzc2VzKCkgIT0gMikgcmV0dXJuOwoKICAgIHN0ZDo6dmVjdG9yPGxvbmc+IG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWw7CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PiBzcGFyc2l0eTsKICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGRvX293bl9sb2NhbF9tZXNoX25vZGU7CiAgICBpZiAobXAtPlJhbmsoKSA9PSAwKSB7CiAgICAgICAgbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCA9IHN0ZDo6dmVjdG9yPGxvbmc+IHswLCAxLCAyLCAzfTsKICAgICAgICBkb19vd25fbG9jYWxfbWVzaF9ub2RlID0gc3RkOjp2ZWN0b3I8Ym9vbD57dHJ1ZSwgdHJ1ZSwgZmFsc2UsIGZhbHNlfTsKICAgICAgICBzcGFyc2l0eSA9IHN0ZDo6dmVjdG9yPHN0ZDo6dmVjdG9yPGludD4+ewogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30KICAgICAgICB9OwogICAgfQogICAgZWxzZSBpZihtcC0+UmFuaygpID09IDEpewogICAgICAgIG1lc2hfbG9jYWxfdG9fbWVzaF9nbG9iYWwgPSBzdGQ6OnZlY3Rvcjxsb25nPiB7MywyLDEsMH07CiAgICAgICAgZG9fb3duX2xvY2FsX21lc2hfbm9kZSA9IHN0ZDo6dmVjdG9yPGJvb2w+e3RydWUsIHRydWUsIGZhbHNlLCBmYWxzZX07CiAgICAgICAgc3BhcnNpdHkgPSBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PnsKICAgICAgICAgICAgezAsIDEsIDIsIDN9LAogICAgICAgICAgICB7MCwgMSwgMiwgM30sCiAgICAgICAgICAgIHswLCAxLCAyLCAzfSwKICAgICAgICAgICAgezAsIDEsIDIsIDN9CiAgICAgICAgfTsKICAgIH0KCiAgICBTcGFyc2VCbG9ja01hdHJpeDw1LCA1PiBtYXRyaXgobXAtPmdldENvbW11bmljYXRvcigpLCBtZXNoX2xvY2FsX3RvX21lc2hfZ2xvYmFsLCBkb19vd25fbG9jYWxfbWVzaF9ub2RlLCBzcGFyc2l0eSk7CgogICAgQmxvY2tNYXRyaXhFbGVtZW50PGRvdWJsZSwgNSwgNT4gSTsKICAgIEkuZmlsbCgwKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7CiAgICAgICAgSShpLCBpKSA9IGZsb2F0KGkgKyAxKTsKICAgIH0KCiAgICBmb3IgKGF1dG8gcm93IDogbWVzaF9sb2NhbF90b19tZXNoX2dsb2JhbCkgewogICAgICAgIG1hdHJpeChyb3csIHJvdykgPSBJOwogICAgfQoKICAgIG1hdHJpeC5hc3NlbWJsZSgpOwoKICAgIE1hdCBBID0gbWF0cml4LnNoYWxsb3dDb3B5VG9QZXRzYygpOwogICAgVmVjIHgsIGI7CiAgICBNYXRDcmVhdGVWZWNzKEEsICZ4LCAmYik7CiAgICBWZWNTZXQoeCwgMS4wKTsKICAgIE1hdE11bHQoQSwgeCwgYik7CiAgICBLU1Aga3NwOwogICAgS1NQQ3JlYXRlKE1QSV9DT01NX1dPUkxELCAma3NwKTsKICAgIEtTUFNldE9wZXJhdG9ycyhrc3AsIEEsIEEpOwogICAgS1NQU2V0RnJvbU9wdGlvbnMoa3NwKTsKICAgIEtTUFNldFRvbGVyYW5jZXMoa3NwLCAxLjBlLTEwLCBQRVRTQ19ERUZBVUxULCBQRVRTQ19ERUZBVUxULCAxKTsKICAgIEtTUFNldFVwKGtzcCk7CgogICAgS1NQU29sdmUoa3NwLCBiLCB4KTsKCiAgICBQZXRzY1NjYWxhciBub3JtOwogICAgVmVjTm9ybSh4LCBOT1JNXzIsICZub3JtKTsKICAgIFJFUVVJUkUobm9ybSA9PSBBcHByb3goc3RkOjpzcXJ0KDIwLjApKSk7Cn0K</text>
+        <text encoding="base64">ICAgIGlubGluZSBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcm9lSW52aXNjaWRGbHV4KGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiAmcWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiAmcXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiAmbm9ybWFsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gJmZhY2Vfc3BlZWQpewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGFzc2VtYmxlKCk7Cg==</text>
@@ -4127,13 +4133,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHszLCAxLCA0LCAxMH0sCiAgICAgICAgICAgICAgICB7MywgMSwgNCwgMTB9LAogICAgICAgICAgICAgICAgezMsIDEsIDQsIDEwfSwKICAgICAgICAgICAgICAgIHsyLCA0fSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>assemble</last-search>
+      <last-search>mesh</last-search>
       <last-offset />
-      <last-pattern>assemble</last-pattern>
+      <last-pattern>mesh</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4141,7 +4147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>solve(</entry>
         <entry>allocate</entry>
         <entry>matrix_to_petsc_global_ordering</entry>
         <entry>cfl</entry>
@@ -4161,6 +4166,7 @@
         <entry encoding="base64">PGxvbmc+PiBzcGFyc2l0eQ==</entry>
         <entry>local_cols</entry>
         <entry>assemble</entry>
+        <entry>mesh</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4169,11 +4175,11 @@
         <entry>q</entry>
         <entry>%s/dp/c_double/g</entry>
         <entry>5425</entry>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

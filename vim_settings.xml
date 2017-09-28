@@ -76,12 +76,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1506465132126">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1506603889788">
         <mark key="'" line="54" column="55" />
-        <mark key="[" line="62" column="72" />
-        <mark key="]" line="62" column="77" />
-        <mark key="." line="62" column="77" />
-        <mark key="^" line="62" column="77" />
+        <mark key="[" line="69" column="71" />
+        <mark key="]" line="69" column="69" />
+        <mark key="^" line="69" column="69" />
+        <mark key="." line="69" column="86" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.cpp" timestamp="1498836325915">
         <mark key="'" line="19" column="4" />
@@ -421,12 +421,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506601917424">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="335" column="4" />
-        <mark key="]" line="335" column="10" />
-        <mark key="." line="335" column="10" />
-        <mark key="^" line="335" column="10" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506604666047">
+        <mark key="'" line="452" column="47" />
+        <mark key="[" line="70" column="40" />
+        <mark key="]" line="71" column="7" />
+        <mark key="." line="71" column="7" />
+        <mark key="^" line="71" column="7" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -633,10 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="80" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="22" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="32" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="62" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="89" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="105" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
@@ -733,6 +729,10 @@
       <jump line="28" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
       <jump line="106" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="139" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="206" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="111" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="404" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="452" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -743,7 +743,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dG8gZiA9IHJvZUludmlzY2lkRmx1eChRW25vZGVfaWRdLCBxX2V4dCwgY29ybmVyX2FyZWFzW25dLnBvcywgZmFjZV9zcGVlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGZsdXhfZnVuY3Rpb24gPSBzdGQ6OmJpbmQoVmlzY291c0ZsdXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMSwgIC8vIHFsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMiwgIC8vIHFyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMywgIC8vIGZhY2UgYXJlYQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnBsYWNlaG9sZGVyczo6XzQsICAvLyBhbG9uZyBlZGdlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1dGhlcmxhbmRzX3RlbXBlcmF0dXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4143,57 +4143,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cstar);</text>
+        <text>ViscousFlux</text>
       </register>
       <register name="/" type="4">
-        <text>tie</text>
+        <text>solve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4geF9zdHJlc3MsIHlfc3RyZXNzLCB6X3N0cmVzczsKICAgIHN0ZDo6dGllKHhfc3RyZXNzLCB5X3N0cmVzcywgel9zdHJlc3MpID0gY2FsY1N0cmVzc1RlbnNvcih1Z3JhZCwgdmdyYWQsIHdncmFkKTsKCiAgICAvLyBDb21wdXRlIGF2ZXJhZ2UgdmlzY29zaXR5IG9uIGVkZ2UKICAgIC8vRklYTUU6IFNob3VsZCB3ZSByZXF1aXJlIGtub3dsZWRnZSBvZiBub25kaW1lbnNpb25hbGl6YXRpb24/CiAgICBkb3VibGUgY3N0YXIgPSBIUzo6VGhlcm1vU3RhdGU6OnN1dGhlcmxhbmRzX2NvbnN0YW50IC8gVF9yZWY7CiAgICBkb3VibGUgdmlzY29zaXR5X2wgPSBIUzo6VGhlcm1vU3RhdGU6OmNhbGNWaXNjb3NpdHkoVGwsIGNzdGFyKTsKICAgIGRvdWJsZSB2aXNjb3NpdHlfciA9IEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1Zpc2Nvc2l0eShUciwgY3N0YXIpOwogICAgZG91YmxlIHZpc2Nvc2l0eV9hdmcgPSAwLjUgKiAodmlzY29zaXR5X2wgKyB2aXNjb3NpdHlfcik7CgogICAgZG91YmxlIHRoZXJtYWxfY29uZHVjdGl2aXR5X2F2ZyA9IEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1RoZXJtYWxDb25kdWN0aXZpdHkoZ2FtbWEsIHZpc2Nvc2l0eV9hdmcpOwoKICAgIC8vIFZpc2NvdXMgZmx1eGVzCiAgICBkb3VibGUgdmYyID0gdmlzY29zaXR5X2F2ZyAqIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT46OmRvdCh4X3N0cmVzcywgZHVhbF9ub3JtYWwpICogYXJlYTsKICAgIGRvdWJsZSB2ZjMgPSB2aXNjb3NpdHlfYXZnICogUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPjo6ZG90KHlfc3RyZXNzLCBkdWFsX25vcm1hbCkgKiBhcmVhOwogICAgZG91YmxlIHZmNCA9IHZpc2Nvc2l0eV9hdmcgKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpkb3Qoel9zdHJlc3MsIGR1YWxfbm9ybWFsKSAqIGFyZWE7CiAgICBkb3VibGUgdmY1ID0gdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnICogUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPjo6ZG90KFRncmFkLCBkdWFsX25vcm1hbCkgKiBhcmVhICsKICAgICAgICAgICAgICAgICB1YXZnICogdmYyICsgdmF2ZyAqIHZmMyArIHdhdmcgKiB2ZjQ7CgogICAgLy8gTm9uZGltZW5zaW9uYWxpemUKICAgIGRvdWJsZSB4bXIgPSBtYWNoX251bWJlciAvIHJleW5vbGRzX251bWJlcjsKICAgIHZmMiAqPSB4bXI7CiAgICB2ZjMgKj0geG1yOwogICAgdmY0ICo9IHhtcjsKICAgIHZmNSAqPSB4bXI7CgogICAgcmV0dXJuIHswLCB2ZjIsIHZmMywgdmY0LCB2ZjV9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpwbGFjZWhvbGRlcnM6Ol8zLCAgLy8gZmFjZSBhcmVhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dG8gZiA9IHJvZUludmlzY2lkRmx1eChRW25vZGVfaWRdLCBxX2V4dCwgY29ybmVyX2FyZWFzW25dLnBvcywgZmFjZV9zcGVlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGZsdXhfZnVuY3Rpb24gPSBzdGQ6OmJpbmQoVmlzY291c0ZsdXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMSwgIC8vIHFsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMiwgIC8vIHFyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6cGxhY2Vob2xkZXJzOjpfMywgIC8vIGZhY2UgYXJlYQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnBsYWNlaG9sZGVyczo6XzQsICAvLyBhbG9uZyBlZGdlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1dGhlcmxhbmRzX3RlbXBlcmF0dXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
-      <register name="2" type="8">
-        <text>-
--
--</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBtYWNoX251bWJlciA9IDEuMDsKICAgIGRvdWJsZSByZXlub2xkc19udW1iZXIgPSAxLjA7CiAgICAKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGZsdXhfZnVuY3Rpb24gPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIENvbXB1dGUgYXZlcmFnZSB2aXNjb3NpdHkgb24gZWRnZQo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vRklYTUU6IFNob3VsZCB3ZSByZXF1aXJlIGtub3dsZWRnZSBvZiBub25kaW1lbnNpb25hbGl6YXRpb24/CiAgICBkb3VibGUgY3N0YXIgPSBIUzo6VGhlcm1vU3RhdGU6OnN1dGhlcmxhbmRzX2NvbnN0YW50IC8gVF9yZWY7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dGllKFRfZXh0LCBtYWNoLCByZSkgPSBjYWxjUmVmZXJlbmNlVmlzY291cyhnYW1tYSwgSFM6OlFDb252ZXJ0Ojpjb25zZXJ2ZWRfdG9fcHJpbWl0aXZlKHFfZXh0ZXJpb3IsIGdhbW1hKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIE5vbmRpbWVuc2lvbmFsaXplCiAgICBkb3VibGUgeG1yID0gbWFjaF9udW1iZXIgLyByZXlub2xkc19udW1iZXI7CiAgICB2ZjIgKj0geG1yOwogICAgdmYzICo9IHhtcjsKICAgIHZmNCAqPSB4bXI7CiAgICB2ZjUgKj0geG1yOwoK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBUX2V4dCwgbWFjaCwgcmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpwbGFjZWhvbGRlcnM6Ogo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB0eHg7CiAgICBkb3VibGUgdHh5OwogICAgZG91YmxlIHR4ejsKICAgIGRvdWJsZSB0eXk7CiAgICBkb3VibGUgdHl6OwogICAgZG91YmxlIHR6ejsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tie</last-search>
+      <last-search>solve</last-search>
       <last-offset />
-      <last-pattern>tie</last-pattern>
+      <last-pattern>solve</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4201,8 +4199,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ViscousFlux</entry>
-        <entry>getQFrom</entry>
         <entry>q_exterior</entry>
         <entry>reference_temp</entry>
         <entry>Nondim</entry>
@@ -4221,6 +4217,8 @@
         <entry>print</entry>
         <entry>stress</entry>
         <entry>tie</entry>
+        <entry>integrate</entry>
+        <entry>solve</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4233,6 +4231,7 @@
         <entry>wq</entry>
         <entry>vsp</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -140,6 +140,9 @@
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/SfePlugin.cpp" timestamp="1505477863950">
+        <mark key="'" line="265" column="49" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/convertor_factory.py" timestamp="1498590359796">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="14" />
@@ -291,6 +294,9 @@
         <mark key="]" line="12" column="11" />
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/one-ring/parfait/parfait/Point.hpp" timestamp="1506621210465">
+        <mark key="'" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedToPrimitive.h" timestamp="1506366642406">
         <mark key="[" line="4" column="0" />
@@ -563,6 +569,9 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/one-ring/bob-def/src/BobDefPlugin.cpp" timestamp="1505478093745">
+        <mark key="'" line="164" column="32" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/FiniteRateOneTemp.cpp" timestamp="1495141704696">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="3" column="3" />
@@ -648,6 +657,9 @@
         <mark key="." line="37" column="88" />
         <mark key="^" line="37" column="88" />
       </file>
+      <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_c_interface.h" timestamp="1505477728704">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/hefss++/fortran/hefss_interface.f90" timestamp="1503669182822">
         <mark key="'" line="88" column="33" />
         <mark key="[" line="5" column="11" />
@@ -657,7 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="565" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="33" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="53" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="54" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
@@ -757,6 +768,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="13" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="158" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
+      <jump line="69" column="23" filename="$USER_HOME$/one-ring/parfait/parfait/Point.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4170,7 +4182,7 @@
         <text>cfl_controller.currentCFL());</text>
       </register>
       <register name="/" type="4">
-        <text>\/</text>
+        <text>operator*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICgwID09IG1wLT5SYW5rKCkpIHByaW50ZigiaXRlcmF0aW9uICVkLCBjZmwgJWxmIiwgdGltZV9zdGVwLCBjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkpOwo=</text>
@@ -4215,9 +4227,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/</last-search>
+      <last-search>operator*</last-search>
       <last-offset />
-      <last-pattern>\/</last-pattern>
+      <last-pattern>operator*</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4225,7 +4237,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bc_map</entry>
         <entry>CHECK</entry>
         <entry>print</entry>
         <entry>stress</entry>
@@ -4245,6 +4256,7 @@
         <entry>u</entry>
         <entry>printf</entry>
         <entry>\/</entry>
+        <entry>operator*</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

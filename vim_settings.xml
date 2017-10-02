@@ -149,8 +149,8 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1506641434494">
-        <mark key="'" line="25" column="47" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1506707831095">
+        <mark key="'" line="16" column="31" />
         <mark key="[" line="70" column="32" />
         <mark key="]" line="70" column="37" />
         <mark key="^" line="70" column="37" />
@@ -676,11 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="309" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="311" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="303" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="27" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="126" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="589" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -776,6 +771,11 @@
       <jump line="145" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="121" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="65" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="61" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="13" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="64" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="16" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4189,7 +4189,7 @@
         <text>cfl_controller.currentCFL()</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>getBCFromConfig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihqc29uX2NvbmZpZ1siY29uZmlnIl1bImVxbl90eXBlIl0gPT0gInZpc2NvdXMiKXsK</text>
@@ -4234,17 +4234,16 @@ u_reflected</text>
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search>getBCFromConfig</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>getBCFromConfig</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>calcStress</entry>
         <entry>cfl</entry>
         <entry>F[0</entry>
         <entry>u</entry>
@@ -4264,6 +4263,7 @@ u_reflected</text>
         <entry>viscosity_ref</entry>
         <entry>solve(</entry>
         <entry>10</entry>
+        <entry>getBCFromConfig</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

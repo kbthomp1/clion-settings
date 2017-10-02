@@ -82,8 +82,8 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1506946966755">
-        <mark key="'" line="32" column="40" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1506964468696">
+        <mark key="'" line="106" column="38" />
         <mark key="[" line="55" column="41" />
         <mark key="]" line="56" column="42" />
         <mark key="." line="56" column="42" />
@@ -161,12 +161,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1506707831095">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="70" column="32" />
-        <mark key="]" line="70" column="37" />
-        <mark key="^" line="70" column="37" />
-        <mark key="." line="70" column="37" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1506967415874">
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" timestamp="1501777475905">
         <mark key="'" line="71" column="0" />
@@ -399,12 +398,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" timestamp="1506639819172">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="346" column="90" />
-        <mark key="]" line="346" column="103" />
-        <mark key="." line="346" column="103" />
-        <mark key="^" line="346" column="103" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" timestamp="1506967358695">
+        <mark key="[" line="183" column="30" />
+        <mark key="]" line="183" column="39" />
+        <mark key="." line="183" column="39" />
+        <mark key="^" line="183" column="39" />
       </file>
       <file name="$USER_HOME$/hefss++/CMakeLists.txt" timestamp="1502387783327">
         <mark key="'" line="6" column="0" />
@@ -448,12 +446,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506947418776">
-        <mark key="'" line="65" column="47" />
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="78" column="28" />
-        <mark key="^" line="78" column="28" />
-        <mark key="." line="78" column="28" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1506966839153">
+        <mark key="'" line="80" column="60" />
+        <mark key="[" line="237" column="36" />
+        <mark key="]" line="237" column="37" />
+        <mark key="." line="237" column="37" />
+        <mark key="^" line="237" column="37" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -548,17 +546,18 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/BoundaryConditionsTests.cpp" timestamp="1506612296881">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/BoundaryConditionsTests.cpp" timestamp="1506967030452">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="48" column="24" />
+        <mark key="." line="48" column="24" />
+        <mark key="^" line="48" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFluxJacobian.h" timestamp="1506034164694">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFluxJacobian.h" timestamp="1506965849608">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="21" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/QConvertTests.cpp" timestamp="1506461835762">
         <mark key="'" line="4" column="0" />
@@ -693,18 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="20" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" />
-      <jump line="14" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="110" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="7" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="46" column="20" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="130" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="71" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="53" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" />
       <jump line="9" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="145" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="179" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -789,10 +776,22 @@
       <jump line="65" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="61" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="13" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="64" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="16" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="64" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="38" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="53" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="53" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="91" column="79" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="106" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="73" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="74" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="75" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="95" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="166" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
+      <jump line="68" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="80" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -802,8 +801,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmxvY2sxLmZpbGwoMC4wKTsK</text>
+      <register name="&quot;" type="4">
+        <text>dFdq_ext</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4203,55 +4202,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, historyWriter(ConvergenceHistoryWriter()){</text>
+        <text>dFdq_ext</text>
       </register>
       <register name="/" type="4">
-        <text>getBCFromConfig</text>
+        <text>residu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmxvY2sxLmZpbGwoMC4wKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gezAsIDAsIDAsIDAsIDB9OyAvLyBObyBleHRlcm5hbCBzdGF0ZSBkZXBlbmRlbmNlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>q_interior[0]
+q_interior[1]
+q_interior[2]
+q_interior[3]
+q_interior[4]</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBxX2ludGVyaW9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmNfbWFwW21lc2gubWVzaC0+Y2VsbFRhZyhjZWxsX2lkKV0tPmNhbGNGbHV4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGZsdXhfZnVuY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ3JhdGVJbnRlcmlvclZpc2NvdXMoUSwgUik7CiAgICAgICAgaW50ZWdyYXRlQm91bmRhcnlWaXNjb3VzKFEsIFIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9lSW52aXNjaWRGbHV4KTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXREaWFnb25hbEZyb21DRkwoY2ZsX2NvbnRyb2xsZXIuY3VycmVudENGTCgpLCBRLCBBKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getBCFromConfig</last-search>
+      <last-search>residu</last-search>
       <last-offset />
-      <last-pattern>getBCFromConfig</last-pattern>
+      <last-pattern>residu</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4259,11 +4262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cfl</entry>
-        <entry>F[0</entry>
-        <entry>u</entry>
-        <entry>printf</entry>
-        <entry>\/</entry>
         <entry>operator*</entry>
         <entry>ViscousFlux</entry>
         <entry>viscosity_reference</entry>
@@ -4279,6 +4277,11 @@
         <entry>solve(</entry>
         <entry>10</entry>
         <entry>getBCFromConfig</entry>
+        <entry>face_speed</entry>
+        <entry>gamma</entry>
+        <entry>face</entry>
+        <entry>edge_vector</entry>
+        <entry>residu</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

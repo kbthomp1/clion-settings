@@ -234,12 +234,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1509732530803">
-        <mark key="'" line="161" column="21" />
-        <mark key="[" line="91" column="84" />
-        <mark key="]" line="91" column="99" />
-        <mark key="." line="91" column="99" />
-        <mark key="^" line="91" column="99" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1509734574954">
+        <mark key="'" line="160" column="12" />
+        <mark key="[" line="107" column="13" />
+        <mark key="]" line="107" column="13" />
+        <mark key="." line="107" column="13" />
+        <mark key="^" line="260" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/CMakeLists.txt" timestamp="1493580095249">
         <mark key="[" line="6" column="15" />
@@ -261,9 +261,12 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1509729136125">
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1509733845113">
         <mark key="'" line="12" column="56" />
-        <mark key="^" line="37" column="22" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/unit_tests/DivineLoadBalancerTests.cpp" timestamp="1495456246697">
         <mark key="[" line="37" column="5" />
@@ -278,12 +281,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="84" column="23" />
       </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1509732071149">
+      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1509733699201">
         <mark key="'" line="25" column="67" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="66" />
-        <mark key="." line="28" column="66" />
-        <mark key="^" line="28" column="66" />
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="80" />
+        <mark key="^" line="33" column="66" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFlux.h" timestamp="1506366159081">
         <mark key="'" line="4" column="21" />
@@ -668,8 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="8" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="89" column="17" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="103" column="46" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="109" column="50" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="86" column="15" filename="$USER_HOME$/one-ring/go.py" />
@@ -765,9 +766,11 @@
       <jump line="18" column="4" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="194" column="42" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="159" column="44" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="160" column="21" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="162" column="20" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="161" column="21" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="87" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="152" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="160" column="12" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,7 +781,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>ThermalConductivity</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4178,55 +4181,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ThermalConductivity</text>
       </register>
       <register name="/" type="4">
-        <text>asr</text>
+        <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJhc3IgPSAlZVxuIiwgYXNyW2ldW2pdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpaiA9IGdldENvbGxpc2lvblBhaXJJbmRleChzdGQ6Om1pbihpLCBqKSwgc3RkOjptYXgoaSwgaikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUodGhlcm1hbF9jb25kdWN0aXZpdHkgPT0gQXBwcm94KDEuNTcwNzIzMTAxMjQ2NTg2RS0wMDIpLnNjYWxlKDEuZS0yKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHNyID0gZ2V0Q29sbGlzaW9uUGFpckluZGV4KHN0ZDo6bWluKHMsIHIpLCBzdGQ6Om1heChzLCByKSk7CiAgICAgICAgICAgIGRvdWJsZSBiaW5hcnlfZGlmZnVzaW9uX2NvZWYgPSBUaGVybW9keW5hbWljQ29uc3RhbnRzOjpib2x0em1hbm4gKiB0ZW1wZXJhdHVyZSAvIChwcmVzc3VyZSAqIGRlbHRhXzFbc3JdKTsKICAgICAgICAgICAgZGVub20gKz0gbW9sYXJfY29uY2VudHJhdGlvbltyXSAvIGJpbmFyeV9kaWZmdXNpb25fY29lZjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZXRhX3IqKGN2X2ooMSxsKSptb2xlY3VsYXJfd2VpZ2h0KGwpL3JfdW5pdi1jdl90cikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vbGFyX2NvbmNlbnRyYXRpb25fc3VtICogbW9sYXJfY29uY2VudHJhdGlvbl9zdW0gKiBzcGVjaWVzX21vbF93dFtpXSAqCiAgICAgICAgICAgICAgICAoMS4wIC0gc3BlY2llc19tb2xfd3RbaV0gKiBtb2xhcl9jb25jZW50cmF0aW9uW2ldKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnZlY3Rvcjxkb3VibGU+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzaW5nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZGVsdGFfMSA9ICUuMTBlXG4iLCBkZWx0YV8xW2lqXSk7CiAgICAgICAgICAgICAgICBwcmludGYoIm1vbCBjb25jID0gJS4xMGVcbiIsIG1vbGFyX2NvbmNlbnRyYXRpb25bal0pOwo=</text>
+        <text encoding="base64">Ly8gICAgUkVRVUlSRSh2aXNjb3NpdHkgPT0gQXBwcm94KDEuNjA5NjI2NzEyNDQyNDgyRS0wMDUpLnNjYWxlKDEuZS01KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>asr</last-search>
+      <last-search>printf</last-search>
       <last-offset />
-      <last-pattern>asr</last-pattern>
+      <last-pattern>printf</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -4252,8 +4255,8 @@
         <entry>computeOmega</entry>
         <entry>c11</entry>
         <entry>c_11</entry>
-        <entry>printf</entry>
         <entry>asr</entry>
+        <entry>printf</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -234,12 +234,12 @@
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1510071912600">
-        <mark key="'" line="160" column="12" />
-        <mark key="[" line="263" column="47" />
-        <mark key="]" line="263" column="46" />
-        <mark key="." line="263" column="46" />
-        <mark key="^" line="263" column="46" />
+      <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" timestamp="1510077728215">
+        <mark key="'" line="268" column="0" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="273" column="49" />
       </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/CMakeLists.txt" timestamp="1493580095249">
         <mark key="[" line="6" column="15" />
@@ -281,11 +281,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="84" column="23" />
       </file>
-      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1510064569358">
+      <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1510077746944">
         <mark key="'" line="25" column="67" />
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFlux.h" timestamp="1506366159081">
@@ -671,8 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="46" filename="$USER_HOME$/one-ring/go.py" />
-      <jump line="109" column="50" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="86" column="15" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="143" column="0" filename="$USER_HOME$/one-ring/go.py" />
       <jump line="71" column="11" filename="$USER_HOME$/one-ring/go.py" />
@@ -771,6 +769,8 @@
       <jump line="87" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="152" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="160" column="12" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="265" column="71" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
+      <jump line="268" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -780,8 +780,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHNwZWNpZXNfbmFtZXMgPSB7Ik4yIn07Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4190,44 +4190,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzciA9IGdldENvbGxpc2lvblBhaXJJbmRleChzdGQ6Om1pbihzLCByKSwgc3RkOjptYXgocywgcikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHNwZWNpZXNfbmFtZXMgPSB7Ik4yIn07Cg==</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY29uc3Qgc3RkOjp2ZWN0b3I8ZG91YmxlPiBzcGVjaWVzX2RlbnNpdHkgPSB7MC4xfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmdXNpb25fY29lZmZpY2llbnRzW3NdID0gbnVtZXJhdG9yIC8gZGVub207Cg==</text>
+        <text encoding="base64">Ly8gICAgUkVRVUlSRSh0aGVybWFsX2NvbmR1Y3Rpdml0eSA9PSBBcHByb3goMy4xMzQzMzY5Njg1MjA3OTVFLTAwMikuc2NhbGUoMS5lLTIpKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text>0.5*
-0.5*
-0.5*
-0.5*
-0.5*</text>
-      </register>
-      <register name="5" type="8">
-        <text>0.2476029005163E-04
-0.2476029005163E-04
-0.2476029005163E-04
-0.2476029005163E-04</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgUkVRVUlSRSh2aXNjb3NpdHkgPT0gQXBwcm94KDEuNjA5NjI2NzEyNDQyNDgyRS0wMDUpLnNjYWxlKDEuZS01KSk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiZ2FtbWFfdCA9ICVlXG4iLCBnYW1tYV90KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNwZWNpZXMgJWQ6IGRlbm9tID0gJWVcbiIsIHMsIGRlbm9tKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IHIgPSAwOyByIDwgbl9zcGVjaWVzOyArK3IpIHsKICAgICAgICBpbnQgc3IgPSBnZXRDb2xsaXNpb25QYWlySW5kZXgoc3RkOjptaW4ocywgciksIHN0ZDo6bWF4KHMsIHIpKTsKICAgICAgICBkb3VibGUgYmluYXJ5X2RpZmZ1c2lvbl9jb2VmID0gVGhlcm1vZHluYW1pY0NvbnN0YW50czo6Ym9sdHptYW5uICogdGVtcGVyYXR1cmUgLyAocHJlc3N1cmUgKiBkZWx0YV8xW3NyXSk7CiAgICAgICAgZGVub20gKz0gbW9sYXJfY29uY2VudHJhdGlvbltyXSAvIGJpbmFyeV9kaWZmdXNpb25fY29lZjsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWZmdXNpb25fY29lZmZpY2llbnRzW3NdID0gbnVtZXJhdG9yIC8gZGVub207Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -176,12 +176,12 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1510154990557">
-        <mark key="'" line="82" column="51" />
-        <mark key="[" line="150" column="30" />
-        <mark key="]" line="150" column="47" />
-        <mark key="^" line="150" column="47" />
-        <mark key="." line="150" column="47" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1510157721173">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="182" column="36" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="182" column="11" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" timestamp="1501777475905">
         <mark key="'" line="71" column="0" />
@@ -644,7 +644,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510154611523">
+      <file name="/Dummy.txt" timestamp="1510157193824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
@@ -746,25 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="12" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="265" column="71" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="268" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="220" column="27" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="221" column="27" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="119" column="7" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="125" column="12" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="55" column="9" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="56" column="47" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="123" column="53" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="545" column="12" filename="$USER_HOME$/hefss++/data/species_transp_data_0.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/hefss++/data/species_transp_data.json" />
-      <jump line="8942" column="0" filename="$USER_HOME$/hefss++/data/species_transp_data_0.json" />
-      <jump line="27" column="8" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" />
-      <jump line="258" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="259" column="47" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="274" column="47" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="296" column="40" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="207" column="34" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="208" column="34" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="283" column="19" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="181" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
@@ -846,6 +827,25 @@
       <jump line="5" column="37" filename="$USER_HOME$/hefss++/src/TransportFactory.cpp" />
       <jump line="150" column="0" filename="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" />
       <jump line="82" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="95" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="168" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="3" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="175" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="214" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="216" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="222" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="231" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="232" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="286" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="329" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="337" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="394" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="442" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="480" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="563" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="121" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="125" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="169" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -855,8 +855,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getThermodynamicsType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4256,55 +4256,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getThermodynamicsType</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getTherm</text>
+        <text>sqrt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHRoZXJtby0+Z2V0VGhlcm1vZHluYW1pY3NUeXBlKCkgPT0gIk9uZSBUZW1wZXJhdHVyZSBOb24tRXF1aWxpYnJpdW0iKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcHJlc3N1cmUgPSBxX3ByaW1pdGl2ZVs0XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUodGhlcm1vLT5nZXRUaGVybW9keW5hbWljc1R5cGUoKSA9PSAiT25lIFRlbXBlcmF0dXJlIE5vbi1FcXVpbGlicml1bSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbm9uZGltX3N1dGhlcmxhbmRfcmVmID0gVGhlcm1vU3RhdGU6OnN1dGhlcmxhbmRzX2NvbnN0YW50IC8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtbyA9IHRoZXJtb19mYWN0b3J5LT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaGVybW9keW5hbWljc0ZhY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZGVuc2l0eSA9IHFfaW50ZXJpb3JbMF07CiAgICAgICAgZG91YmxlIHUgPSBxX2ludGVyaW9yWzFdIC8gZGVuc2l0eTsKICAgICAgICBkb3VibGUgdiA9IHFfaW50ZXJpb3JbMl0gLyBkZW5zaXR5OwogICAgICAgIGRvdWJsZSB3ID0gcV9pbnRlcmlvclszXSAvIGRlbnNpdHk7CiAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDU+IHZlbG9jaXR5ID0gezAsIHUsIHYsIHcsIDB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxscHRyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZ2FtbWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGQ6OnNoYXJlZF9wdHI8VHJhbnNwb3J0UHJvcGVydGllcz4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdGhlcm1vX3R5cGUgPSB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1lbW9yeT4K</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbm9ybWFsX2dyYWRpZW50ID0gUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPjo6ZG90KGdyYWRpZW50WzBdLCBub3JtYWwpOwogICAgICAgIAogICAgICAgIGRvdWJsZSB4X21vbWVudHVtX2ZsdXggPSAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHByZXNzdXJlX2Nsb3N1cmUgPSB0YW5nZW5jeS0+Y2FsY0ZsdXgocV9pbnRlcmlvciwgcV9leHRlcmlvciwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTherm</last-search>
+      <last-search>sqrt</last-search>
       <last-offset />
-      <last-pattern>getTherm</last-pattern>
+      <last-pattern>sqrt</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4312,7 +4312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flux_limiter</entry>
         <entry>json_config</entry>
         <entry>N2</entry>
         <entry>SpeciesData</entry>
@@ -4325,13 +4324,14 @@
         <entry>Delta</entry>
         <entry>computeDelta</entry>
         <entry>printf</entry>
-        <entry>sqrt</entry>
         <entry>inline</entry>
         <entry>compute</entry>
         <entry>const</entry>
         <entry>getTher</entry>
         <entry>getThermo</entry>
         <entry>getTherm</entry>
+        <entry>NoSlip</entry>
+        <entry>sqrt</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4345,8 +4345,8 @@
         <entry>vs</entry>
         <entry>s/omega_fit/omega_coefficients/g</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -196,6 +196,13 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1510164884950">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="124" column="100" />
+        <mark key="]" line="125" column="16" />
+        <mark key="." line="125" column="16" />
+        <mark key="^" line="125" column="16" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.h" timestamp="1501776805429">
         <mark key="[" line="9" column="120" />
         <mark key="]" line="9" column="127" />
@@ -215,11 +222,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1506947318892">
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="63" column="6" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="63" column="6" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1510164728628">
+        <mark key="'" line="459" column="0" />
+        <mark key="[" line="578" column="75" />
+        <mark key="]" line="579" column="25" />
+        <mark key="^" line="579" column="25" />
+        <mark key="." line="579" column="25" />
       </file>
       <file name="$USER_HOME$/hefss++/src/CMakeLists.txt" timestamp="1510085544075">
         <mark key="[" line="30" column="30" />
@@ -408,18 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="19" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="181" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="211" column="34" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="262" column="47" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="285" column="34" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="182" column="34" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="286" column="100" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="6760" column="19" filename="$USER_HOME$/hefss++/data/species_transp_data.json" />
-      <jump line="244" column="75" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="106" column="16" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
-      <jump line="42" column="47" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" />
-      <jump line="197" column="0" filename="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.cpp" />
       <jump line="20" column="15" filename="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" />
       <jump line="23" column="0" filename="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" />
       <jump line="15" column="73" filename="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" />
@@ -508,6 +504,18 @@
       <jump line="125" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="169" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="20" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/NodeFreezer.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="459" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="182" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="275" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="283" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="55" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="58" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="122" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="165" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="198" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,7 +526,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgYSA9IAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -3921,52 +3929,52 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sqrt</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTxpbnQgTixpbnQgTT4KICAgICAgICBzdGF0aWMgdm9pZCBmcmVlemUoaW50IGVxdWF0aW9uX2JlZ2luLCBpbnQgZXF1YXRpb25fZW5kLAogICAgICAgICAgICAgICAgICAgICAgICAgICBTcGFyc2VCbG9ja01hdHJpeDxOLE0+JiBBLCBjb25zdCBzdGQ6OnZlY3RvcjxpbnQ+JiBzb3J0ZWRfbm9kZXNfdG9fZnJlZXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnZlY3RvcjxzdGQ6OnZlY3RvcjxpbnQ+PiYgbm9kZV90b19ub2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnZlY3Rvcjxsb25nPiYgZ2xvYmFsX25vZGVfaWRzKXsK</text>
+        <text encoding="base64">ICAgIFBldHNjSW50IGdsb2JhbF9jb2w7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgYSA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text>lllllllllllllllllhx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGVxdWF0aW9uX2VuZCwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBmcmVlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEcK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIUzo6Tm9kZUZyZWV6ZXI6OmZyZWV6ZShSLG92ZXJzZXRfZnJvemVuX25vZGVzKTsKICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFIpOwogICAgICAgIEhTOjpOb2RlRnJlZXplcjo6ZnJlZXplKEEsb3ZlcnNldF9mcm96ZW5fbm9kZXMsc3BhcnNpdHksbG9jYWxfdG9fZ2xvYmFsKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVuZm9yY2VTdHJvbmdCb3VuZGFyeUNvbmRpdGlvbnMoUSwgQSwgUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGVxdWF0aW9uX2VuZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sqrt</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>sqrt</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -3974,10 +3982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json_config</entry>
-        <entry>N2</entry>
-        <entry>SpeciesData</entry>
-        <entry>c11</entry>
         <entry>c_11</entry>
         <entry>asr</entry>
         <entry>computeOmega</entry>
@@ -3994,6 +3998,10 @@
         <entry>getTherm</entry>
         <entry>NoSlip</entry>
         <entry>sqrt</entry>
+        <entry>operator=</entry>
+        <entry>operator(</entry>
+        <entry>class</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4043,6 +4051,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

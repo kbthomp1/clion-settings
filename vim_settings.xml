@@ -190,6 +190,9 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1510607291349">
+        <mark key="'" line="228" column="0" />
+      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/PerfectGasTests.cpp" timestamp="1501777475905">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="90" column="16" />
@@ -468,10 +471,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" timestamp="1510603269209">
-        <mark key="'" line="195" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="140" column="20" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" timestamp="1510607645014">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/CMakeLists.txt" timestamp="1502387783327">
         <mark key="'" line="6" column="0" />
@@ -514,7 +518,7 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="139" column="60" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1510605716676">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1510606626230">
         <mark key="'" line="85" column="59" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -817,7 +821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="569" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="20" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
       <jump line="643" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="93" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
@@ -917,6 +920,7 @@
       <jump line="72" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
       <jump line="81" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
       <jump line="89" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="228" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -927,7 +931,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIkZfcGVydHVyYiA9ICVlIEYgPSAlZVxuIiwgRl9wZXJ0dXJiLCBGKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihtZXNoLmNlbGxUYWcoY2VsbF9pZCkgIT0gMykK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4327,46 +4331,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HS::ThermoState::</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoImRUZFEgPSAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihtZXNoLmNlbGxUYWcoY2VsbF9pZCkgIT0gMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIkZfcGVydHVyYiA9ICVlIEYgPSAlZVxuIiwgRl9wZXJ0dXJiLCBGKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihtZXNoLmNlbGxUYWcoY2VsbF9pZCkgIT0gMykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZFRkUSA9ICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihtZXNoLmNlbGxUYWcoY2VsbF9pZCkgIT0gMykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZih3ZWFrX2JjX21hcC5jb3VudChtZXNoLmNlbGxUYWcoY2VsbF9pZCkpID09IDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIiVlICIsIGRUZFFbY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX3NwZWVkID0gezAuMCwgMC4wLCAwLjB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIkZfcGVydHVyYiA9ICVlIEYgPSAlZVxuIiwgRl9wZXJ0dXJiLCBGKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBkZW5zaXR5ID0gcVswXTsKICAgICAgICAgICAgICAgIGRvdWJsZSBwcmVzc3VyZSA9IFRoZXJtb1N0YXRlOjpjYWxjUHJlc3N1cmUocSwgZ2FtbWEpOwogICAgICAgICAgICAgICAgZG91YmxlIHRlbXBlcmF0dXJlID0gVGhlcm1vU3RhdGU6OmNhbGNUZW1wZXJhdHVyZShnYW1tYSwgZGVuc2l0eSwgcHJlc3N1cmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZFRkUSA9ICIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoImRUZFEgPSAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIlQgPSAlZSwgVF9uZXcgPSAlZSIsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIiVlICIsIGRUZFFbY29sXSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEEucHJpbnRQZXRzY01hdHJpeCgpOwogICAgICAgIEEucHJpbnRQZXRzY01hdHJpeERpYWdvbmFsKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

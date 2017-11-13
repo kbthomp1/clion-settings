@@ -96,8 +96,12 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1510256274870">
-        <mark key="'" line="197" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1510599127265">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="196" column="72" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.cpp" timestamp="1498836325915">
         <mark key="'" line="19" column="4" />
@@ -457,6 +461,9 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="27" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" timestamp="1510599286903">
+        <mark key="'" line="195" column="0" />
+      </file>
       <file name="$USER_HOME$/hefss++/CMakeLists.txt" timestamp="1502387783327">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="1" column="15" />
@@ -498,6 +505,10 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="139" column="60" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1510599154113">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="45" />
+      </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="36" column="40" />
@@ -505,11 +516,11 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1510598590183">
-        <mark key="'" line="413" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1510599770270">
+        <mark key="[" line="389" column="111" />
+        <mark key="]" line="389" column="111" />
+        <mark key="." line="389" column="111" />
+        <mark key="^" line="389" column="111" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -684,7 +695,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510587354902">
+      <file name="/Dummy.txt" timestamp="1510599552484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
@@ -757,7 +768,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/fragment.mm" timestamp="1510256311307">
+      <file name="/fragment.mm" timestamp="1510599590741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -793,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
       <jump line="464" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
       <jump line="57" column="37" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="61" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
@@ -864,7 +874,6 @@
       <jump line="93" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="128" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="166" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="195" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="35" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="390" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="31" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -893,6 +902,8 @@
       <jump line="13" column="52" filename="$USER_HOME$/one-ring/install/t_infinity_interfaces/include/Turbulence.h" />
       <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Turbulence.h" />
       <jump line="413" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="195" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
+      <jump line="403" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -902,8 +913,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIG5fZmxvd192YXJzPiAmcXIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>BoundaryCondition</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4303,46 +4314,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ComputeConvection</text>
+        <text>BoundaryCondition</text>
       </register>
       <register name="/" type="4">
         <text>n_eqns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHNpemVfdCBuX2Zsb3dfdmFycywgc2l6ZV90IG5fdHVyYl9lcW5zPgogICAgdmlydHVhbCBzdGQ6OmFycmF5PGRvdWJsZSwgbl90dXJiX2VxbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoSFM6OlN0cm9uZ0JDOjppc0JDU3Ryb25nKGJjWyJ0eXBlIl0pKSBjb250aW51ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIG5fZmxvd192YXJzPiAmcXIsCg==</text>
+        <text encoding="base64">Y29uc3Qgc3RkOjptYXA8aW50LCBzdGQ6OnNoYXJlZF9wdHI8SFM6OldlYWtCQzo6V2Vha0JvdW5kYXJ5Q29uZGl0aW9uPj4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3ByYWdtYSBvbmNlCgo=</text>
+        <text encoding="base64">dm9pZCBIeXBlclNvbHZlOjpjaGVja0FsbEJvdW5kYXJ5VGFnc0RlZmluZWQobmxvaG1hbm46Ompzb24gYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgZm9yIChhdXRvIGJjIDogYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgICAgIG5sb2htYW5uOjpqc29uIHRhZ3NfYXJyYXkgPSBiY1sibWVzaCBib3VuZGFyeSB0YWciXTsKICAgICAgICBpZiAoSFM6OlN0cm9uZ0JDOjppc0JDU3Ryb25nKGJjWyJ0eXBlIl0pKSBjb250aW51ZTsKICAgICAgICBpZiAoSFM6OldlYWtCQzo6aXNCQ1dlYWsoYmNbInR5cGUiXSkpIGNvbnRpbnVlOwoKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJvbmdCb3VuZGFyeUNvbmRpdGlvbi5oIFR1cmJ1bGVuY2UuaCkK</text>
+        <text encoding="base64">dm9pZCBIeXBlclNvbHZlOjpjaGVja0FsbEJvdW5kYXJ5VGFnc0RlZmluZWQobmxvaG1hbm46Ompzb24gYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgZm9yIChhdXRvIGJjIDogYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgICAgIG5sb2htYW5uOjpqc29uIHRhZ3NfYXJyYXkgPSBiY1sibWVzaCBib3VuZGFyeSB0YWciXTsKICAgICAgICBpZiAoSFM6OlN0cm9uZ0JDOjppc0JDU3Ryb25nKGJjWyJ0eXBlIl0pKSBjb250aW51ZTsKICAgICAgICBpZiAoSFM6OldlYWtCQzo6aXNCQ1dlYWsoYmNbInR5cGUiXSkpIGNvbnRpbnVlOwoKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBIeXBlclNvbHZlOjpjaGVja0FsbEJvdW5kYXJ5VGFnc0RlZmluZWQobmxvaG1hbm46Ompzb24gYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgZm9yIChhdXRvIGJjIDogYm91bmRhcnlfY29uZGl0aW9ucykgewogICAgICAgIG5sb2htYW5uOjpqc29uIHRhZ3NfYXJyYXkgPSBiY1sibWVzaCBib3VuZGFyeSB0YWciXTsKICAgICAgICBpZiAoSFM6OlN0cm9uZ0JDOjppc0JDU3Ryb25nKGJjWyJ0eXBlIl0pKSBjb250aW51ZTsKICAgICAgICBpZiAoSFM6OldlYWtCQzo6aXNCQ1N0cm9uZyhiY1sidHlwZSJdKSkgY29udGludWU7Cgp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIG5fZmxvd192YXJzPiAmcXIsCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I3ByYWdtYSBvbmNlCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVuc2l0eXIrPSBxbFtzcGVjaWVzXTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJvbmdCb3VuZGFyeUNvbmRpdGlvbi5oIFR1cmJ1bGVuY2UuaCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

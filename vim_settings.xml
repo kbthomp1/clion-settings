@@ -110,12 +110,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1510757358827">
-        <mark key="'" line="167" column="11" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="90" column="1" />
-        <mark key="." line="90" column="1" />
-        <mark key="^" line="90" column="1" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1510773226826">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="35" />
+        <mark key="]" line="59" column="49" />
+        <mark key="." line="59" column="49" />
+        <mark key="^" line="59" column="49" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/interface.f90" timestamp="1500466518838">
         <mark key="'" line="9" column="15" />
@@ -833,10 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
-      <jump line="157" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
-      <jump line="138" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="162" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="12" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="439" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="11" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
@@ -933,6 +929,10 @@
       <jump line="55" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="594" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
       <jump line="315" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="76" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="71" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="69" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -943,7 +943,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MPI_COMM_WORLD</text>
+        <text>HS::ThermoState::calcViscosity(temperature, sutherlands_temperature);</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4343,10 +4343,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MPI_COMM_WORLD</text>
+        <text>HS::ThermoState::calcViscosity(temperature, sutherlands_temperature);</text>
       </register>
       <register name="/" type="4">
-        <text>PETSC</text>
+        <text>viscosity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUoZmx1eFswXVswXSA9PSBBcHByb3goKSk7Cg==</text>
@@ -4392,9 +4392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PETSC</last-search>
+      <last-search>viscosity</last-search>
       <last-offset />
-      <last-pattern>PETSC</last-pattern>
+      <last-pattern>viscosity</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4402,7 +4402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Temper</entry>
         <entry>NoSlip</entry>
         <entry>dir</entry>
         <entry>bc</entry>
@@ -4422,6 +4421,7 @@
         <entry>viscous_nondim</entry>
         <entry>Viscous</entry>
         <entry>PETSC</entry>
+        <entry>viscosity</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -190,6 +190,12 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/AllTests.cpp" timestamp="1510768683128">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1510671026175">
         <mark key="'" line="228" column="0" />
       </file>
@@ -538,8 +544,8 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1510681749867">
-        <mark key="'" line="128" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1510768627600">
+        <mark key="'" line="315" column="4" />
         <mark key="[" line="48" column="34" />
         <mark key="]" line="48" column="34" />
         <mark key="." line="48" column="34" />
@@ -660,7 +666,7 @@
         <mark key="." line="384" column="34" />
         <mark key="^" line="384" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/LinearSolver.h" timestamp="1510605101975">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/LinearSolver.h" timestamp="1510768646495">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -827,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="114" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="157" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="138" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
@@ -927,6 +932,7 @@
       <jump line="137" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="55" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="594" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="315" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4340,7 +4346,7 @@
         <text>MPI_COMM_WORLD</text>
       </register>
       <register name="/" type="4">
-        <text>Viscous</text>
+        <text>PETSC</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUoZmx1eFswXVswXSA9PSBBcHByb3goKSk7Cg==</text>
@@ -4386,9 +4392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Viscous</last-search>
+      <last-search>PETSC</last-search>
       <last-offset />
-      <last-pattern>Viscous</last-pattern>
+      <last-pattern>PETSC</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4396,7 +4402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>k</entry>
         <entry>Temper</entry>
         <entry>NoSlip</entry>
         <entry>dir</entry>
@@ -4416,6 +4421,7 @@
         <entry>corner_areas</entry>
         <entry>viscous_nondim</entry>
         <entry>Viscous</entry>
+        <entry>PETSC</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4470,6 +4476,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

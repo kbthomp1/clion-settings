@@ -424,12 +424,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1510172601084">
-        <mark key="'" line="464" column="4" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="470" column="4" />
-        <mark key="." line="564" column="89" />
-        <mark key="^" line="564" column="89" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1510767105097">
+        <mark key="'" line="594" column="4" />
+        <mark key="[" line="233" column="35" />
+        <mark key="]" line="233" column="49" />
+        <mark key="." line="233" column="49" />
+        <mark key="^" line="233" column="49" />
       </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
@@ -827,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="152" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="114" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="157" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
@@ -927,6 +926,7 @@
       <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="137" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="55" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
+      <jump line="594" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -936,8 +936,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhfc3RyZXNzICo9IHZpc2Nvc2l0eV9hdmc7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>MPI_COMM_WORLD</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4337,7 +4337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0000000000000</text>
+        <text>MPI_COMM_WORLD</text>
       </register>
       <register name="/" type="4">
         <text>Viscous</text>

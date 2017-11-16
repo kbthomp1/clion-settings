@@ -110,12 +110,10 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1510773226826">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="49" />
-        <mark key="." line="59" column="49" />
-        <mark key="^" line="59" column="49" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1510845125353">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/interface.f90" timestamp="1500466518838">
         <mark key="'" line="9" column="15" />
@@ -346,11 +344,11 @@
         <mark key="^" line="160" column="33" />
         <mark key="." line="160" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" timestamp="1510774074319">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="58" />
-        <mark key="^" line="37" column="58" />
-        <mark key="." line="37" column="58" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" timestamp="1510845173275">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidFlux.h" timestamp="1510593235477">
         <mark key="'" line="68" column="4" />
@@ -833,12 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="439" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="11" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="374" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/BoundaryConditionsTests.cpp" />
-      <jump line="604" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="390" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/BoundaryConditionsTests.cpp" />
       <jump line="162" column="53" filename="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" />
       <jump line="40" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="400" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -933,6 +925,12 @@
       <jump line="71" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="69" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="66" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="67" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="62" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="48" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="64" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="73" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -943,7 +941,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>HS::ThermoState::calcViscosity(temperature, sutherlands_temperature);</text>
+        <text>FIXME</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4343,58 +4341,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HS::ThermoState::calcViscosity(temperature, sutherlands_temperature);</text>
+        <text>FIXME</text>
       </register>
       <register name="/" type="4">
-        <text>viscosity</text>
+        <text>u_avg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoZmx1eFswXVswXSA9PSBBcHByb3goKSk7Cg==</text>
+        <text encoding="base64">ICAgIHVfdmlzY29zaXR5X2F2ZyAvPSBkb3VibGUobl9jb3JuZXJzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhfc3RyZXNzICo9IHZpc2Nvc2l0eV9hdmc7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>-9.999999403953552E-002, -0.199999988079071, -0.299999997019768};
--0.200000002980232, -4.999999701976776E-002, 0.149999991059303};
--0.200000002980232, -3.000000119209290E-002, -3.000000119209290E-002};
-4.96363622570826, 2.09999986092250, 5.06153869854629};</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50Zigicm11ID0gJWVcbiIsIHZpc2Nvc2l0eV9hdmcpOwogICAgcHJpbnRmKCJldGEgPSAlZVxuIiwgdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnKTsKICAgIHByaW50ZigidHh4LCB0eXksIHR6eiA9ICVlLCAlZSwgJWVcbiIsIHZpc2Nvc2l0eV9hdmcgKiB4X3N0cmVzc1swXSwgdmlzY29zaXR5X2F2ZyAqIHhfc3RyZXNzWzFdLCB2aXNjb3NpdHlfYXZnICogeF9zdHJlc3NbMl0pOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVfYXZnIC89IGRvdWJsZShuX2Nvcm5lcnMpOwogICAgdl9hdmcgLz0gZG91YmxlKG5fY29ybmVycyk7CiAgICB3X2F2ZyAvPSBkb3VibGUobl9jb3JuZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIENvbXB1dGUgYXZlcmFnZSB2aXNjb3NpdHkgb24gZWRnZSAoYW5kIG5vbi1kaW1lbnNpb25hbGl6ZSkKICAgIGRvdWJsZSB2aXNjb3NpdHlfbCA9IEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1Zpc2Nvc2l0eShUbCwgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUpOwogICAgZG91YmxlIHZpc2Nvc2l0eV9yID0gSFM6OlRoZXJtb1N0YXRlOjpjYWxjVmlzY29zaXR5KFRyLCBzdXRoZXJsYW5kc190ZW1wZXJhdHVyZSk7CiAgICBkb3VibGUgdmlzY29zaXR5X2F2ZyA9IDAuNSAqICh2aXNjb3NpdHlfbCArIHZpc2Nvc2l0eV9yKTsK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSB1X2F2ZyA9IDAuMDsKICAgIGRvdWJsZSB2X2F2ZyA9IDAuMDsKICAgIGRvdWJsZSB3X2F2ZyA9IDAuMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZGVuc2l0eSA9IHFbY29ybmVyXVswXTsK</text>
+        <text encoding="base64">ICAgICAgICB1X2F2ZyArPSB1OwogICAgICAgIHZfYXZnICs9IHY7CiAgICAgICAgd19hdmcgKz0gdzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2X2F2ZyArPSBxW2Nvcm5lcl1bMl0gLyBkZW5zaXR5OwogICAgICAgIHdfYXZnICs9IHFbY29ybmVyXVszXSAvIGRlbnNpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdV9hdmcgKiB2ZjIgKyB2X2F2ZyAqIHZmMyArIHdfYXZnICogdmY0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdXZ3X3Zpc2Nvc2l0eV9hdmcgPSB7dV92aXNjb3NpdHlfYXZnLCB2X3Zpc2Nvc2l0eV9hdmcsIHdfdmlzY29zaXR5X2F2Z307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNjb3NpdHlfYXZnW10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>viscosity</last-search>
+      <last-search>u_avg</last-search>
       <last-offset />
-      <last-pattern>viscosity</last-pattern>
+      <last-pattern>u_avg</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4402,8 +4397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NoSlip</entry>
-        <entry>dir</entry>
         <entry>bc</entry>
         <entry>Boundary</entry>
         <entry>IntegrateInviscidB</entry>
@@ -4422,6 +4415,8 @@
         <entry>Viscous</entry>
         <entry>PETSC</entry>
         <entry>viscosity</entry>
+        <entry>thermal_cond</entry>
+        <entry>u_avg</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

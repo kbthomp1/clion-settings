@@ -378,11 +378,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1510868344039">
-        <mark key="'" line="32" column="25" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1510931348461">
+        <mark key="'" line="113" column="18" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="58" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedToPrimitive.h" timestamp="1506366642406">
         <mark key="[" line="4" column="0" />
@@ -656,11 +657,11 @@
         <mark key="." line="947" column="13" />
         <mark key="^" line="947" column="13" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" timestamp="1510868476957">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="19" column="69" />
-        <mark key="^" line="19" column="69" />
-        <mark key="." line="19" column="69" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" timestamp="1510930666525">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/CMakeLists.txt" timestamp="1505412823800">
         <mark key="[" line="5" column="50" />
@@ -779,12 +780,12 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" timestamp="1510171554899">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" timestamp="1510931196752">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="33" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="47" column="33" />
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="61" />
+        <mark key="^" line="46" column="61" />
+        <mark key="." line="46" column="61" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
         <mark key="'" line="37" column="0" />
@@ -884,11 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="441" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="33" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="334" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="70" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="24" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="131" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/LinearSolver.h" />
       <jump line="16" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/LinearSolver.h" />
@@ -984,6 +980,11 @@
       <jump line="40" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="22" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
       <jump line="33" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="43" column="48" filename="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" />
+      <jump line="66" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="67" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="68" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="114" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -993,8 +994,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[corner];</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHR5cGUgPSBtZXNoLmNlbGxUeXBlKGNlbGxfaW5kZXgpOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4394,55 +4395,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[corner];</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>u_grad</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtZXNoLm5vZGVPd25lcihsZWZ0KSA9PSBtcC0+UmFuaygpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcm5lcl9mbHV4ZXNbY29ybmVyXVtpXSArPSAwLjUgKiAocVtxX2Nvcm5lcl1baV0gKiBxW3FfY29ybmVyXVtpXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHR5cGUgPSBtZXNoLmNlbGxUeXBlKGNlbGxfaW5kZXgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgZWRnZV9pbmRleCA9IDA7IGVkZ2VfaW5kZXggPCBtZXNoLmVkZ2VzLnNpemUoKTsgZWRnZV9pbmRleCsrKSB7Ci8vICAgICAgICBpbnQgbGVmdCA9IG1lc2guZWRnZXNbZWRnZV9pbmRleF1bMF07Ci8vICAgICAgICBpbnQgcmlnaHQgPSBtZXNoLmVkZ2VzW2VkZ2VfaW5kZXhdWzFdOwovLyAgICAgICAgYXV0byBhcmVhID0gbWVzaC5kdWFsX21ldHJpY3MuZWRnZV9hcmVhc1tlZGdlX2luZGV4XTsKLy8gICAgICAgIGF1dG8gZWRnZSA9IEhTOjpHcmFkaWVudEV4dHJhcG9sYXRpb246OmV4dHJhY3RFZGdlVmVjdG9yKG1lc2gsIGVkZ2VfaW5kZXgpOwovLwovLyAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDU+IHFsID0gUVtsZWZ0XTsKLy8gICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxciA9IFFbcmlnaHRdOwovLyAgICAgICAgRGVuc2VNYXRyaXg8ZG91YmxlLCA1LCA1PiBkRmRRTDsKLy8gICAgICAgIERlbnNlTWF0cml4PGRvdWJsZSwgNSwgNT4gZEZkUVI7Ci8vCi8vCi8vICAgICAgICBhdXRvIGZsdXhfZnVuY3Rpb24gPSBbJl0oY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIDU+JiBxbCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgNT4mIHFyLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiYgbm9ybWFsX2FyZWEsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIDM+JiBlZGdlX3ZlY3RvcikgewovLyAgICAgICAgICAgIHJldHVybiBFZGdlQmFzZWRWaXNjb3VzRmx1eChxbCwgcXIsIG5vcm1hbF9hcmVhLCBlZGdlX3ZlY3Rvciwgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUsIHZpc2NvdXNfbm9uZGltLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSk7Ci8vICAgICAgICB9OwovLwovLyAgICAgICAgc3RkOjp0aWUoZEZkUUwsIGRGZFFSKSA9IGZkX2phY29iaWFuKHFsLCBxciwgYXJlYS5wb3MsIGVkZ2UucG9zLCBmbHV4X2Z1bmN0aW9uKTsKLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQShnbG9iYWxfbm9kZV9pZCwgZ2xvYmFsX25vZGVfaWQpIC09IGRGZFFbY29ybmVyXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQShnbG9iYWxfbCwgZ2xvYmFsX3IpICs9IGRGZFFSOwogICAgICAgICAgICAgICAgICAgICAgICBkRmRRTCAqPSAtMS4wOwogICAgICAgICAgICAgICAgICAgICAgICBkRmRRUiAqPSAtMS4wOwogICAgICAgICAgICAgICAgICAgICAgICBBKGdsb2JhbF9yLCBnbG9iYWxfcikgKz0gZEZkUVI7CiAgICAgICAgICAgICAgICAgICAgICAgIEEoZ2xvYmFsX3IsIGdsb2JhbF9sKSArPSBkRmRRTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgUkVRVUlSRShkRmRRW2Nvcm5lcl1bY29sXShpLGkpID09IDAuMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGdsb2JhbF9ub2RlX2lkID0gbWVzaC5nbG9iYWxOb2RlSWQobm9kZV9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb3JuZXIgPT0gY29sKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihtZXNoLm5vZGVPd25lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDU7ICsraSkgewogICAgICAgICAgICBjb3JuZXJfZmx1eGVzW2Nvcm5lcl1baV0gPSAwLjUgKiAocVtjb3JuZXJdW2ldICogcVtjb3JuZXJdW2ldKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGNvcm5lciA9IDA7IGNvcm5lciA8IDQ7ICsrY29ybmVyKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IG5vZGVfaWQgPSBub2Rlc19pbl9jZWxsW2Nvcm5lcl07CiAgICAgICAgICAgICAgICAgICAgZm9yKGludCBpID0gMDsgaSA8IDU7IGkrKykgewovLyAgICAgICAgICAgICAgICAgICAgICAgIFJbbm9kZV9pZF1baV0gLT0gZmx1eFtjb3JuZXJdW2ldOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZEZkUVslZF0oJWQsJWQpID0gJWVcbiIsIGNvcm5lciwgaSwgaSwgZEZkUVtjb3JuZXJdW2NvbF0oaSwgaSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>u_grad</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>u_grad</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4450,8 +4451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>n_eqns</entry>
-        <entry>view</entry>
         <entry>calculateTemperature</entry>
         <entry>printf</entry>
         <entry>corner_areas</entry>
@@ -4470,6 +4469,8 @@
         <entry>u</entry>
         <entry>cell_type</entry>
         <entry>u_grad</entry>
+        <entry>margin</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

@@ -537,12 +537,12 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511284431942">
-        <mark key="'" line="240" column="24" />
-        <mark key="[" line="285" column="20" />
-        <mark key="]" line="285" column="21" />
-        <mark key="^" line="285" column="21" />
-        <mark key="." line="285" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511289936544">
+        <mark key="'" line="259" column="17" />
+        <mark key="[" line="286" column="93" />
+        <mark key="]" line="286" column="100" />
+        <mark key="^" line="286" column="100" />
+        <mark key="." line="286" column="100" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -564,7 +564,8 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511210835143">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511289833909">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="33" column="92" />
         <mark key="]" line="33" column="87" />
         <mark key="." line="33" column="87" />
@@ -876,9 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="163" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
-      <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="137" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="55" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="594" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
@@ -976,6 +974,9 @@
       <jump line="123" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="126" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="240" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="280" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="62" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="259" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -985,8 +986,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4386,7 +4387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gezAsIDEsIDQsIDV9Ow==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>MatGetValues</text>

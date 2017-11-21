@@ -398,8 +398,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1511275727952">
-        <mark key="'" line="255" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1511281818146">
         <mark key="[" line="287" column="26" />
         <mark key="]" line="287" column="23" />
         <mark key="." line="287" column="23" />
@@ -451,8 +450,8 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1510767105097">
-        <mark key="'" line="594" column="4" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1511280052578">
+        <mark key="'" line="395" column="4" />
         <mark key="[" line="233" column="35" />
         <mark key="]" line="233" column="49" />
         <mark key="." line="233" column="49" />
@@ -538,12 +537,8 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511278298600">
-        <mark key="'" line="221" column="105" />
-        <mark key="[" line="275" column="52" />
-        <mark key="]" line="275" column="61" />
-        <mark key="." line="275" column="61" />
-        <mark key="^" line="275" column="61" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511282761833">
+        <mark key="'" line="240" column="24" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -552,11 +547,11 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="139" column="60" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1511278785992">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1511280195977">
         <mark key="'" line="85" column="59" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="63" column="2" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
@@ -877,15 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
-      <jump line="62" column="100" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
-      <jump line="72" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
-      <jump line="81" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
-      <jump line="89" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
-      <jump line="228" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="249" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="8" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="112" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="131" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="163" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrate.cpp" />
       <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
@@ -977,6 +963,15 @@
       <jump line="251" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="252" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
       <jump line="255" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="306" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="395" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" />
+      <jump line="288" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="289" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="331" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="116" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="123" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="126" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="240" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -986,8 +981,10 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="8">
+        <text>,
+,
+,</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4387,55 +4384,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text encoding="base64">ID0gezAsIDEsIDQsIDV9Ow==</text>
       </register>
       <register name="/" type="4">
-        <text>+=</text>
+        <text>MatGetValues</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtZXNoLm5vZGVPd25lcihsZWZ0KSA9PSBtcC0+UmFuaygpKSB7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGxvbmc+IG5vZGVzID0gezAsIDEsIDQsIDV9Owo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text>,
+,
+,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyb3dfaW5kZXggPT0gKQo=</text>
+        <text encoding="base64">CiAgICAgICAgbm9kZSA9IDE7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG4iLCBub2RlLCAxLCAxLCBBKG5vZGUsIG5vZGUsIDEsIDEpLnZhbHVlKCkpOwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMiwgMiwgQShub2RlLCBub2RlLCAyLCAyKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcblxuIiwgbm9kZSwgMywgMywgQShub2RlLCBub2RlLCAzLCAzKS52YWx1ZSgpKTsKCiAgICAgICAgbm9kZSA9IDQ7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG4iLCBub2RlLCAxLCAxLCBBKG5vZGUsIG5vZGUsIDEsIDEpLnZhbHVlKCkpOwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMiwgMiwgQShub2RlLCBub2RlLCAyLCAyKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcblxuIiwgbm9kZSwgMywgMywgQShub2RlLCBub2RlLCAzLCAzKS52YWx1ZSgpKTsKCiAgICAgICAgbm9kZSA9IDU7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG4iLCBub2RlLCAxLCAxLCBBKG5vZGUsIG5vZGUsIDEsIDEpLnZhbHVlKCkpOwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMiwgMiwgQShub2RlLCBub2RlLCAyLCAyKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcblxuIiwgbm9kZSwgMywgMywgQShub2RlLCBub2RlLCAzLCAzKS52YWx1ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG5vZGUgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbG9iYWxfbm9kZXNfaW5fcm93LnB1c2hfYmFjayhtZXNoLmdsb2JhbE5vZGVJZChsb2NhbF9ub2RlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobXAtPlJhbmsoKSA9PSBtZXNoLm5vZGVPd25lcigpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9kZTogJWQgY29ubmVjdGVkIHRvID0+ICIsIHJvdyk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGxvbmc+IG5vZGVzID0gezAsIDEsIDQsIDV9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9kZSA9ICVkXG4iLCByb3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxsb25nPiBub2RlcyA9IHswLCAxLCA0LCA1fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgcm93ID0gbWVzaC5nbG9iYWxOb2RlSWQobm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zihyb3cpCg==</text>
+        <text encoding="base64">ICAgIGlmIChtcC0+UmFuaygpID09IDApIHsKICAgICAgICBsb25nIG5vZGUgPSAwOwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMSwgMSwgQShub2RlLCBub2RlLCAxLCAxKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcbiIsIG5vZGUsIDIsIDIsIEEobm9kZSwgbm9kZSwgMiwgMikudmFsdWUoKSk7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG5cbiIsIG5vZGUsIDMsIDMsIEEobm9kZSwgbm9kZSwgMywgMykudmFsdWUoKSk7CgogICAgICAgIG5vZGUgPSAxOwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMSwgMSwgQShub2RlLCBub2RlLCAxLCAxKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcbiIsIG5vZGUsIDIsIDIsIEEobm9kZSwgbm9kZSwgMiwgMikudmFsdWUoKSk7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG5cbiIsIG5vZGUsIDMsIDMsIEEobm9kZSwgbm9kZSwgMywgMykudmFsdWUoKSk7CgogICAgICAgIG5vZGUgPSA0OwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMSwgMSwgQShub2RlLCBub2RlLCAxLCAxKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcbiIsIG5vZGUsIDIsIDIsIEEobm9kZSwgbm9kZSwgMiwgMikudmFsdWUoKSk7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG5cbiIsIG5vZGUsIDMsIDMsIEEobm9kZSwgbm9kZSwgMywgMykudmFsdWUoKSk7CgogICAgICAgIG5vZGUgPSA1OwogICAgICAgIHByaW50Zigibm9kZSwgcm93LCBjb2wgOiAlZCwgJWQsICVkID09PiAlZVxuIiwgbm9kZSwgMSwgMSwgQShub2RlLCBub2RlLCAxLCAxKS52YWx1ZSgpKTsKICAgICAgICBwcmludGYoIm5vZGUsIHJvdywgY29sIDogJWQsICVkLCAlZCA9PT4gJWVcbiIsIG5vZGUsIDIsIDIsIEEobm9kZSwgbm9kZSwgMiwgMikudmFsdWUoKSk7CiAgICAgICAgcHJpbnRmKCJub2RlLCByb3csIGNvbCA6ICVkLCAlZCwgJWQgPT0+ICVlXG5cbiIsIG5vZGUsIDMsIDMsIEEobm9kZSwgbm9kZSwgMywgMykudmFsdWUoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>+=</last-search>
+      <last-search>MatGetValues</last-search>
       <last-offset />
-      <last-pattern>+=</last-pattern>
+      <last-pattern>MatGetValues</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4443,10 +4442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>u_avg</entry>
-        <entry>set</entry>
-        <entry>calcCornerAreas</entry>
-        <entry>calc</entry>
         <entry>n_corners</entry>
         <entry>interp</entry>
         <entry>Temp</entry>
@@ -4463,6 +4458,10 @@
         <entry>flux</entry>
         <entry>flush</entry>
         <entry>+=</entry>
+        <entry>MatSet</entry>
+        <entry>1</entry>
+        <entry>Set</entry>
+        <entry>MatGetValues</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4472,13 +4471,13 @@
         <entry>%s/dp/c_double/g</entry>
         <entry>5425</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>s/omega_fit/omega_coefficients/g</entry>
         <entry>qa</entry>
         <entry>qw</entry>
         <entry>107</entry>
         <entry>vsp</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

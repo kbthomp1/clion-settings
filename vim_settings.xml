@@ -95,7 +95,7 @@
         <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1511795856234">
-        <mark key="'" line="198" column="0" />
+        <mark key="'" line="197" column="0" />
         <mark key="[" line="39" column="8" />
         <mark key="]" line="40" column="22" />
         <mark key="^" line="40" column="22" />
@@ -546,11 +546,11 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511798081077">
-        <mark key="'" line="274" column="40" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1511799389862">
+        <mark key="'" line="94" column="46" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -572,12 +572,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511798222655">
-        <mark key="'" line="127" column="24" />
-        <mark key="[" line="38" column="59" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="38" column="67" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511798941977">
+        <mark key="'" line="126" column="24" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="15" />
+        <mark key="^" line="54" column="15" />
+        <mark key="." line="54" column="15" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -890,7 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="73" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="5" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="239" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
@@ -990,6 +989,7 @@
       <jump line="622" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="627" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="126" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="94" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1000,7 +1000,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQ0hFQ0s6IG51bWJlciBvZiBub2RlcyA9ICVkICIsIG1lc2gubm9kZUNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBnbG9iYWxfbm9kZV9pZCA9IAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4409,37 +4409,37 @@
         <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGxpbWl0ZXJfY2hvaWNlID0ganNvbl9jb25maWdbImNvbmZpZyJdWyJpbnZpc2NpZCBmbHV4IHNldHRpbmdzIl1bImZsdXggbGltaXRlciJdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQ0hFQ0s6IG51bWJlciBvZiBub2RlcyA9ICVkICIsIG1lc2gubm9kZUNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBnbG9iYWxfbm9kZV9pZCA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbm9kZV90b19jaGVjayA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmMtPnNldFJlc2lkdWFsKFJbbm9kZV0sIFFbbm9kZV0pOwogICAgICAgICAgICBzdGQ6OnZlY3Rvcjxsb25nPiBnbG9iYWxfbm9kZXNfaW5fcm93OwogICAgICAgICAgICBmb3IoYXV0byBsb2NhbF9ub2RlIDogc3BhcnNpdHlbbm9kZV0pCiAgICAgICAgICAgICAgICBnbG9iYWxfbm9kZXNfaW5fcm93LnB1c2hfYmFjayhtZXNoLmdsb2JhbE5vZGVJZChsb2NhbF9ub2RlKSk7CiAgICAgICAgICAgIGJjLT5zZXRKYWNvYmlhbihBLCBtZXNoLmdsb2JhbE5vZGVJZChub2RlKSwgZ2xvYmFsX25vZGVzX2luX3JvdywgUVtub2RlXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQ0hFQ0s6IG51bWJlciBvZiBub2RlcyA9ICVkICIsIG1lc2gubm9kZUNvdW50KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZmx1eCA9ICIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbm9kZV90b19jaGVjayA9IDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZSAiLCBmW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIlxuQ0hFQ0s6ICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiZmx1eCA9ICIpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBvdXRwdXRfZmx1eGVzW2Nvcm5lcl1baV0gPSAxLjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

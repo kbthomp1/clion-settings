@@ -673,12 +673,12 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1511814851400">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1511814926497">
         <mark key="'" line="12" column="80" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1510846985224">
         <mark key="[" line="45" column="38" />
@@ -1010,8 +1010,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNlcnZlZFswXSA9IHsyLjAsIDQuMCwgNS4wLCA2LjAsIDI1LjB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>primitive[node]</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4411,7 +4411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+IHtkZW5zaXR5LCB1LCB2LCB3LCBwcmVzc3VyZX07</text>
+        <text>primitive[node]</text>
       </register>
       <register name="/" type="4">
         <text>node</text>

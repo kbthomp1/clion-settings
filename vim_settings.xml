@@ -523,11 +523,11 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ConservedAndPrimitiveConversionsTests.cpp" timestamp="1511814832136">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ConservedAndPrimitiveConversionsTests.cpp" timestamp="1511816789776">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1509040066243">
         <mark key="'" line="29" column="0" />
@@ -577,12 +577,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511814167726">
-        <mark key="'" line="325" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="71" column="13" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1511816927543">
+        <mark key="'" line="272" column="4" />
+        <mark key="[" line="333" column="42" />
+        <mark key="]" line="333" column="51" />
+        <mark key="^" line="333" column="51" />
+        <mark key="." line="333" column="51" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -673,12 +673,12 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1511814926497">
-        <mark key="'" line="12" column="80" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1511816700404">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="49" column="34" />
+        <mark key="]" line="49" column="56" />
+        <mark key="." line="49" column="56" />
+        <mark key="^" line="49" column="56" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1510846985224">
         <mark key="[" line="45" column="38" />
@@ -901,8 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
-      <jump line="131" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
       <jump line="198" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="199" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="167" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
@@ -1001,6 +999,8 @@
       <jump line="325" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="8" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
       <jump line="11" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
+      <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
+      <jump line="272" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1011,7 +1011,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>primitive[node]</text>
+        <text>333;</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4411,55 +4411,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>primitive[node]</text>
+        <text>333;</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>gradi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNlcnZlZFswXSA9IHsyLjAsIDQuMCwgNS4wLCA2LjAsIDI1LjB9Owo=</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoY29uc2VydmVkWzBdWzBdID09IDIuMCk7CiAgICBSRVFVSVJFKGNvbnNlcnZlZFswXVsxXSA9PSA0LjApOwogICAgUkVRVUlSRShjb25zZXJ2ZWRbMF1bMl0gPT0gNS4wKTsKICAgIFJFUVVJUkUoY29uc2VydmVkWzBdWzNdID09IDYuMCk7CiAgICBSRVFVSVJFKGNvbnNlcnZlZFswXVs0XSA9PSBBcHByb3goMjUuMCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>2.0
+2.5
+3.0</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW1pdGl2ZVtub2RlXSA9IHFfcHJpbWl0aXZlOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvIFEgOiBjb25zZXJ2ZWQpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PgogICAgICAgIGNvbnNlcnZlZF90b19wcmltaXRpdmVfdmVjKGNvbnN0IHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gJmNvbnNlcnZlZCwgZG91YmxlIGdhbW1hKSB7CgogICAgICAgICAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHByaW1pdGl2ZShjb25zZXJ2ZWQuc2l6ZSgpKTsKICAgICAgICAgICAgZm9yIChpbnQgbm9kZSA9IDA7IG5vZGUgPCBjb25zZXJ2ZWQuc2l6ZSgpOyArK25vZGUpIHsKICAgICAgICAgICAgICAgIGF1dG8gcV9wcmltaXRpdmUgPSBjb25zZXJ2ZWRfdG9fcHJpbWl0aXZlKGNvbnNlcnZlZFtub2RlXSwgZ2FtbWEpOwogICAgICAgICAgICAgICAgcHJpbWl0aXZlW25vZGVdID0gcV9wcmltaXRpdmU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBwcmltaXRpdmU7CiAgICAgICAgfTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGRlbnNpdHkgPSBjb25zZXJ2ZWRbMF07CiAgICAgICAgICAgIGRvdWJsZSB1ID0gY29uc2VydmVkWzFdIC8gZGVuc2l0eTsKICAgICAgICAgICAgZG91YmxlIHYgPSBjb25zZXJ2ZWRbMl0gLyBkZW5zaXR5OwogICAgICAgICAgICBkb3VibGUgdyA9IGNvbnNlcnZlZFszXSAvIGRlbnNpdHk7CiAgICAgICAgICAgIGRvdWJsZSBwcmVzc3VyZSA9IChnYW1tYSAtIDEuMCkgKiAoY29uc2VydmVkWzRdIC0gMC41ICogZGVuc2l0eSAqICh1ICogdSArIHYgKiB2ICsgdyAqIHcpKTsKCiAgICAgICAgICAgIGlmIChwcmVzc3VyZSA8IDApIHRocm93IHN0ZDo6bG9naWNfZXJyb3IoIlByZXNzdXJlIHdlbnQgbmVnYXRpdmUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEEuZmx1c2goKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNwYXJzZUJsb2NrTWF0cml4PDUsNT4mIEEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBLmFzc2VtYmxlKCk7CiAgICAgICAgQS5wcmludFBldHNjTWF0cml4KCk7CiAgICAgICAgZXhpdCgwKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvIFEgOiBjb25zZXJ2ZWQpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>gradi</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>gradi</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4467,7 +4469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nbr</entry>
         <entry>nodeOwner</entry>
         <entry>flux</entry>
         <entry>flush</entry>
@@ -4487,6 +4488,7 @@
         <entry>Colum</entry>
         <entry>grad</entry>
         <entry>node</entry>
+        <entry>gradi</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

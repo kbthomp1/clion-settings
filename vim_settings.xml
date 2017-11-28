@@ -28,9 +28,6 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507832837549">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/thermodynamicsTests.cpp" timestamp="1494878491864">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -88,9 +85,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1503437073063">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/hefss++/fortran/tdata_namelist_reader.f90" timestamp="1511895380308" />
       <file name="$USER_HOME$/hefss++/unit_tests/tdata_readerTests.cpp" timestamp="1494878100542">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="19" />
@@ -168,9 +163,6 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="/" timestamp="1503338449264">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1510854932340">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="9" column="13" />
@@ -239,7 +231,7 @@
         <mark key="^" line="46" column="97" />
         <mark key="." line="46" column="97" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" timestamp="1510152681471">
+      <file name="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" timestamp="1511895406815">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="45" column="11" />
         <mark key="]" line="45" column="24" />
@@ -538,8 +530,8 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1509040066243">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1511895026258">
+        <mark key="'" line="12" column="13" />
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="58" />
         <mark key="." line="11" column="58" />
@@ -784,9 +776,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511801555481">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
         <mark key="[" line="40" column="38" />
         <mark key="]" line="40" column="40" />
@@ -908,8 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="123" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="30" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" />
       <jump line="9" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" />
       <jump line="40" column="99" filename="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" />
@@ -1008,6 +995,8 @@
       <jump line="63" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/Turbulence.h" />
       <jump line="25" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="28" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
+      <jump line="14" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="12" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4421,7 +4410,7 @@
         <text>, eigenvalue_limit);</text>
       </register>
       <register name="/" type="4">
-        <text>harten</text>
+        <text>ideal_gas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAxPiB0dXJiX2xlZnQgPSB7MC41fTsK</text>
@@ -4464,9 +4453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>harten</last-search>
+      <last-search>ideal_gas</last-search>
       <last-offset />
-      <last-pattern>harten</last-pattern>
+      <last-pattern>ideal_gas</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4474,7 +4463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MatSet</entry>
         <entry>1</entry>
         <entry>Set</entry>
         <entry>MatGetValues</entry>
@@ -4494,6 +4482,7 @@
         <entry>turbLeftNode</entry>
         <entry>aharten</entry>
         <entry>harten</entry>
+        <entry>ideal_gas</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

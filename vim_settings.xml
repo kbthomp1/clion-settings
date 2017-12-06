@@ -135,11 +135,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" timestamp="1512588995113">
-        <mark key="[" line="50" column="98" />
-        <mark key="]" line="50" column="98" />
-        <mark key="." line="50" column="98" />
-        <mark key="^" line="50" column="98" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" timestamp="1512597912642">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/converter_factory.py" timestamp="1499692830100">
         <mark key="'" line="10" column="8" />
@@ -285,12 +286,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512595742245">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="78" column="43" />
-        <mark key="." line="78" column="43" />
-        <mark key="^" line="78" column="43" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512596545098">
+        <mark key="'" line="30" column="56" />
+        <mark key="[" line="86" column="77" />
+        <mark key="]" line="86" column="77" />
+        <mark key="." line="86" column="77" />
+        <mark key="^" line="86" column="77" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -801,6 +802,9 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" timestamp="1512597584659">
+        <mark key="'" line="41" column="31" />
+      </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="35" column="0" />
@@ -913,12 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
-      <jump line="170" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
-      <jump line="130" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
-      <jump line="171" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
-      <jump line="126" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
-      <jump line="195" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
       <jump line="32" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
       <jump line="52" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="72" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
@@ -1013,6 +1011,12 @@
       <jump line="49" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
       <jump line="11" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
       <jump line="357" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
+      <jump line="30" column="56" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
+      <jump line="38" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" />
+      <jump line="40" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" />
+      <jump line="41" column="31" filename="$USER_HOME$/one-ring/hypersolve/test/FiniteDifferenceJacobianTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1023,7 +1027,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>n_faces</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4423,55 +4427,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>n_faces</text>
       </register>
       <register name="/" type="4">
-        <text>cout</text>
+        <text>cell_flux_avg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMF0gPT0gQXBwcm94KCkpOwogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMV0gPT0gQXBwcm94KCkpOwogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMl0gPT0gQXBwcm94KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTxzaXplX3Qgbl9jb3JuZXJzLCBzaXplX3Qgbl9lZGdlcywgdHlwZW5hbWUgZ2V0Vm9sdW1lQ2VudGVyLCB0eXBlbmFtZSBnZXRFZGdlQ2VudGVycywgdHlwZW5hbWUgZ2V0RmFjZUNlbnRlcnM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gY2VsbF9jZW50ZXJfdG9fZWRnZV9taWRwb2ludCA9IGNlbGxfY2VudGVyIC0gZWRnZV9jZW50ZXJzW2VkZ2VdOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByaWdodF9mYWNlID0gZWRnZV90b19mYWNlW2VkZ2VdWzFdOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA2PgogICAgICAgIGNvbXB1dGVUZXRDZWxsRHVhbE5vcm1hbHMoc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA0PiBub2RlX2Nvb3JkaW5hdGVzKSB7CiAgICAgICAgICAgIHVzaW5nIG5hbWVzcGFjZSBQYXJmYWl0OjpDR05TOjpUZXQ7CiAgICAgICAgICAgIHJldHVybiBjb21wdXRlQ2VsbER1YWxOb3JtYWxzPDQsIDYsIGNvbXB1dGVDZW50ZXIsIGNvbXB1dGVFZGdlQ2VudGVycywgY29tcHV0ZUZhY2VDZW50ZXJzPihub2RlX2Nvb3JkaW5hdGVzLCBlZGdlX3RvX2ZhY2UpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gY2VsbF9jZW50ZXJfdG9fZWRnZV9taWRwb2ludCA9IGNlbGxfY2VudGVyIC0gZWRnZV9jZW50ZXJzW2VkZ2VdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gbGVmdF9mYWNlX3RvX3JpZ2h0X2ZhY2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdXNpbmcgbmFtZXNwYWNlIFRldDsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBjZWxsX2NlbnRlcl90b19lZGdlX21pZHBvaW50ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gdjEgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgUGFyZmFpdCB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlZGdlX3RvX2ZhY2UgPSBQYXJmYWl0OjpDR05TOjpUZXQ6OmVkZ2VfdG9fZmFjZTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cout</last-search>
+      <last-search>cell_flux_avg</last-search>
       <last-offset />
-      <last-pattern>cout</last-pattern>
+      <last-pattern>cell_flux_avg</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4479,8 +4483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cell_ugrad</entry>
-        <entry>trace</entry>
         <entry>s_ij_bar</entry>
         <entry>calcSij</entry>
         <entry>calcSijSij</entry>
@@ -4499,6 +4501,8 @@
         <entry encoding="base64">PDw8PA==</entry>
         <entry>s_bar</entry>
         <entry>cout</entry>
+        <entry>edge_to_fac</entry>
+        <entry>cell_flux_avg</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

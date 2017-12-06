@@ -244,12 +244,12 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" timestamp="1512585217965">
-        <mark key="'" line="306" column="15" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
-        <mark key="^" line="72" column="75" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" timestamp="1512595789215">
+        <mark key="'" line="357" column="0" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
+        <mark key="^" line="378" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" timestamp="1511895406815">
         <mark key="'" line="21" column="18" />
@@ -285,12 +285,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512588058974">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512595742245">
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="60" column="41" />
-        <mark key="]" line="60" column="63" />
-        <mark key="." line="60" column="63" />
-        <mark key="^" line="60" column="63" />
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="78" column="43" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="78" column="43" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -792,7 +792,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512075966365">
+      <file name="/Dummy.txt" timestamp="1512595093909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
@@ -913,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousStressUtilitiesTests.cpp" />
       <jump line="180" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
       <jump line="170" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
       <jump line="130" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
@@ -1013,6 +1012,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
       <jump line="49" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
       <jump line="11" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" />
+      <jump line="357" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1023,7 +1023,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>-</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4423,13 +4423,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>s_bar</text>
+        <text>cout</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LTAuNSAqIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT46OmNyb3NzKGNlbGxfY2VudGVyX3RvX2VkZ2VfbWlkcG9pbnQsIGxlZnRfZmFjZV90b19yaWdodF9mYWNlKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMF0gPT0gQXBwcm94KCkpOwogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMV0gPT0gQXBwcm94KCkpOwogICAgUkVRVUlSRShmYWNlX25vcm1hbHNbM11bMl0gPT0gQXBwcm94KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -4469,9 +4469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s_bar</last-search>
+      <last-search>cout</last-search>
       <last-offset />
-      <last-pattern>s_bar</last-pattern>
+      <last-pattern>cout</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4479,7 +4479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cell_ugrid</entry>
         <entry>cell_ugrad</entry>
         <entry>trace</entry>
         <entry>s_ij_bar</entry>
@@ -4499,6 +4498,7 @@
         <entry>ft2</entry>
         <entry encoding="base64">PDw8PA==</entry>
         <entry>s_bar</entry>
+        <entry>cout</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

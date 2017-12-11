@@ -60,12 +60,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1512762911561">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1513007592985">
+        <mark key="'" line="143" column="0" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
-        <mark key="^" line="146" column="17" />
+        <mark key="^" line="153" column="24" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.cpp" timestamp="1498836325915">
         <mark key="'" line="19" column="4" />
@@ -101,8 +101,8 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" timestamp="1512760208329">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" timestamp="1513006019887">
+        <mark key="'" line="11" column="52" />
         <mark key="[" line="25" column="46" />
         <mark key="]" line="25" column="47" />
         <mark key="." line="25" column="47" />
@@ -360,12 +360,12 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1512763148853">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1513007825309">
+        <mark key="'" line="54" column="28" />
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="57" column="64" />
       </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
@@ -588,7 +588,7 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockMeshes.h" timestamp="1512763192909">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MockMeshes.h" timestamp="1513007331900">
         <mark key="[" line="30" column="60" />
         <mark key="]" line="30" column="58" />
         <mark key="." line="30" column="58" />
@@ -642,13 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.cpp" />
-      <jump line="169" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
-      <jump line="93" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
-      <jump line="94" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
-      <jump line="184" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
-      <jump line="191" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
-      <jump line="113" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
       <jump line="115" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
       <jump line="125" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
       <jump line="97" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
@@ -742,6 +735,13 @@
       <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
       <jump line="15" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
       <jump line="64" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="123" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
+      <jump line="11" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="42" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="54" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="180" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
+      <jump line="143" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -751,11 +751,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>2.5
-2.5
-2.5
-2.5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4155,49 +4152,66 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>300.0;</text>
+        <text>{1.0, 0.5, 0.0, 0.0, 1.0};</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY2VsbF90YWdzW2luZmluaXR5OjpNZXNoSW50ZXJmYWNlOjpURVRSQV80XSA9IHswLCAxLCAyLCAzfTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2VpZ2h0czsK</text>
       </register>
-      <register name="1" type="8">
-        <text>2.5
-2.5
-2.5
-2.5</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSAK</text>
+        <text encoding="base64">ICAgIGluCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vc2V0IFEKICAgIC8vc2V0IGdyYWQgUQo=</text>
+      <register name="3" type="8">
+        <text>)
+)
+)
+)
+)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJjZWxsIHRhZy9pZDogJWQsICVkXG4iLCBtZXNoLT5jZWxsVGFnKGNlbGxfaWQpLCBjZWxsX2lkKTsK</text>
+      <register name="4" type="8">
+        <text>Approx(0.0).epsilon(
+Approx(0.0).epsilon(
+Approx(0.0).epsilon(
+Approx(0.0).epsilon(
+Approx(0.0).epsilon(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvQ2hlY2twb2ludC5oPgo=</text>
+      <register name="5" type="8">
+        <text>==
+==
+==
+==
+==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="8">
+        <text>0.0);
+Approx(0.1666666667));
+Approx(0.1666666667));
+Approx(0.1666666667));
+0.0);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1RlbXBlcmF0dXJlKGdhbW1hLCBkZW4pCg==</text>
+        <text encoding="base64">Ly8gICAgUkVRVUlSRShmbHV4WzBdID09IDAuMCk7Ci8vICAgIFJFUVVJUkUoZmx1eFsxXSA9PSBBcHByb3goMC4xNjY2NjY2NjY3KSk7Ci8vICAgIFJFUVVJUkUoZmx1eFsyXSA9PSBBcHByb3goMC4xNjY2NjY2NjY3KSk7Ci8vICAgIFJFUVVJUkUoZmx1eFszXSA9PSBBcHByb3goMC4xNjY2NjY2NjY3KSk7Ci8vICAgIFJFUVVJUkUoZmx1eFs0XSA9PSAwLjApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImNvcm5lcjogJWQgZmx1eCA9IiwgY29ybmVyKTsKICAgICAgICBmb3IgKGRvdWJsZSBmIDogZmx1eCkKICAgICAgICAgICAgcHJpbnRmKCIgJWUiLCBmKTsKICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoX2RhdGEuY2VsbF90YWdzW2luZmluaXR5OjpNZXNoSW50ZXJmYWNlOjpURVRSQV80XSA9IHswLCAxLCAyLCAzfTsK</text>
+      <register name="9" type="8">
+        <text>0.0);
+Approx(0.1666666667));
+Approx(0.1666666667));
+Approx(0.1666666667));
+0.0);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4214,8 +4228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node_id</entry>
-        <entry>cell_tag</entry>
         <entry>weak_bc_map</entry>
         <entry>weak</entry>
         <entry>Quad</entry>
@@ -4233,6 +4245,8 @@
         <entry>287</entry>
         <entry>ideal_gas_const</entry>
         <entry>CHECK</entry>
+        <entry>add</entry>
+        <entry>flux</entry>
         <entry>printf</entry>
       </history-search>
       <history-cmd>

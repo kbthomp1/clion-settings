@@ -90,8 +90,8 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" timestamp="1513019615945">
-        <mark key="'" line="11" column="52" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" timestamp="1513277765398">
+        <mark key="'" line="27" column="8" />
         <mark key="[" line="40" column="37" />
         <mark key="]" line="40" column="42" />
         <mark key="." line="40" column="42" />
@@ -283,12 +283,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513022404788">
-        <mark key="'" line="206" column="42" />
-        <mark key="[" line="206" column="42" />
-        <mark key="]" line="206" column="42" />
-        <mark key="." line="206" column="42" />
-        <mark key="^" line="206" column="42" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513278311583">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="205" column="42" />
       </file>
       <file name="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/eigen-3.3.3-4jnagmk4pvq3vetgcdkcjsvjohvknkoc/include/eigen3/Eigen/Core" timestamp="1512072896505">
         <mark key="'" line="430" column="0" />
@@ -405,12 +405,11 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513022374266">
-        <mark key="'" line="256" column="40" />
-        <mark key="[" line="256" column="39" />
-        <mark key="]" line="256" column="40" />
-        <mark key="." line="256" column="40" />
-        <mark key="^" line="256" column="40" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513278127350">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -433,14 +432,8 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1513025937155">
-        <mark key="'" line="382" column="62" />
-        <mark key="j" line="369" column="27" />
-        <mark key="[" line="382" column="74" />
-        <mark key="k" line="123" column="60" />
-        <mark key="]" line="382" column="73" />
-        <mark key="^" line="382" column="73" />
-        <mark key="." line="382" column="73" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1513277479365">
+        <mark key="j" line="374" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -501,6 +494,13 @@
         <mark key="]" line="55" column="50" />
         <mark key="." line="55" column="50" />
         <mark key="^" line="55" column="50" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1513277514538">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" timestamp="1498676943203">
         <mark key="'" line="5" column="0" />
@@ -614,22 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="105" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="116" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="323" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="104" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
-      <jump line="117" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
-      <jump line="13" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
-      <jump line="128" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
-      <jump line="324" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="5" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="36" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="60" column="95" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="117" column="91" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="59" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="72" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="73" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="79" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="83" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
@@ -714,6 +698,22 @@
       <jump line="18" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/FrameworkTranslator.h" />
       <jump line="30" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/FrameworkTranslator.h" />
       <jump line="382" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="398" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="45" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="71" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="4" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="11" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="14" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="22" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="5" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="8" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="7" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="25" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" />
+      <jump line="47" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" />
+      <jump line="37" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" />
+      <jump line="27" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
+      <jump line="53" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,8 +723,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>nonreference_tem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4124,55 +4124,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nonreference_tem</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>q_exterior</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPFNvbHZlckZhY3Rvcnk+IGNyZWF0ZVNvbHZlckZhY3RvcnkoKXsKICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPEh5cGVyU29sdmVTb2x2ZXJGYWN0b3J5PigpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNyYy9Db25zZXJ2ZWRBbmRQcmltaXRpdmVDb252ZXJzaW9ucy5oCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoZG91YmxlIHEgOiBxX2ZyYW1ld29yaykKICAgICAgICBwcmludGYoIiAlZSIsIHEpOwogICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiICVlIiwgcV9mcmFtZXdvcmtbaV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFFfcHRyLT5wcmludCgpOwo=</text>
+        <text encoding="base64">ICAgIHNyYy9Db25zZXJ2ZWRBbmRQcmltaXRpdmVDb252ZXJzaW9ucy5oCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNvbHV0aW9uVmFyaWFibGVzKGNvbnN0IHN0ZDo6YXJyYXk8aW50LCA5PiB2YXJpYWJsZV9tYXAsIGludCBuX2xvY2FsX3Jvd3MsCiAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgbl9nb3Zlcm5pbmdfZXF1YXRpb25zPiBpbml0X3ZhbHVlcykKICAgICAgICAgICAgOiB2YXJpYWJsZV9tYXAodmFyaWFibGVfbWFwKSwgbl9sb2NhbF9yb3dzKG5fbG9jYWxfcm93cyksIFEobl9sb2NhbF9yb3dzLCBpbml0X3ZhbHVlcyksIGdyYWRpZW50cyhuX2xvY2FsX3Jvd3MpIHt9Cgo=</text>
+        <text encoding="base64">ICAgIGZvciAoZG91YmxlIHEgOiBxX2ZyYW1ld29yaykKICAgICAgICBwcmludGYoIiAlZSIsIHEpOwogICAgcHJpbnRmKCJcbiIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDSEVDS1BPSU5UOwogICAgICAgIFEucHJpbnQoKTsKCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiICVlIiwgcV9mcmFtZXdvcmtbaV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>q_exterior</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>q_exterior</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4180,11 +4180,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flux_limiter</entry>
-        <entry>limiter</entry>
-        <entry>at</entry>
-        <entry>CHECKPOIT</entry>
-        <entry>CHECKPOINT</entry>
         <entry>287</entry>
         <entry>ideal_gas_const</entry>
         <entry>add</entry>
@@ -4200,6 +4195,11 @@
         <entry>framework_translator</entry>
         <entry>CHECK</entry>
         <entry>q_exterior</entry>
+        <entry>solve</entry>
+        <entry>Old</entry>
+        <entry>local_to_global</entry>
+        <entry>R_in</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>
@@ -4210,12 +4210,12 @@
         <entry>5425</entry>
         <entry>W</entry>
         <entry>s/omega_fit/omega_coefficients/g</entry>
-        <entry>qa</entry>
         <entry>qw</entry>
         <entry>107</entry>
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>vsp</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -47,7 +47,7 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" timestamp="1513281044663">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" timestamp="1513282062352">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="23" />
@@ -417,11 +417,11 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513278127350">
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-        <mark key="^" line="51" column="7" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513282047055">
+        <mark key="[" line="295" column="46" />
+        <mark key="]" line="295" column="46" />
+        <mark key="." line="295" column="46" />
+        <mark key="^" line="295" column="46" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -444,7 +444,8 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1513277479365">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1513281873319">
+        <mark key="'" line="26" column="29" />
         <mark key="j" line="374" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
@@ -626,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="79" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="83" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="84" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
@@ -726,6 +726,7 @@
       <jump line="37" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/OldPetscLinearSolver.h" />
       <jump line="27" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/VectorRHS.h" />
       <jump line="53" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="26" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -736,7 +737,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ID0gezAsIDAsIDAsIDAsIDB9Ow==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4136,55 +4137,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ID0gezAsIDAsIDAsIDAsIDB9Ow==</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>Enforce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmludGYoIlIoJWQpOiAiLCBub2RlKTsKICAgICAgICAgICAgICBmb3IgKGRvdWJsZSYgciA6IHJlc2lkdWFsKQogICAgICAgICAgICAgICAgICBwcmludGYoIiVlICIsIHIpOwogICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFIuc2V0KG5vZGUsIHswLCAxLCAyLCAzLCA0fSwgcmVzaWR1YWwuZGF0YSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFIuc2V0KG5vZGUsIHswLCAxLCAyLCAzLCA0fSwgcmVzaWR1YWwuZGF0YSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNyYy9Db25zZXJ2ZWRBbmRQcmltaXRpdmVDb252ZXJzaW9ucy5oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoZG91YmxlIHEgOiBxX2ZyYW1ld29yaykKICAgICAgICBwcmludGYoIiAlZSIsIHEpOwogICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">ICAgIHNyYy9Db25zZXJ2ZWRBbmRQcmltaXRpdmVDb252ZXJzaW9ucy5oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>Enforce</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>Enforce</last-pattern>
       <last-replace>omega_coefficients</last-replace>
       <last-substitute>omega_fit</last-substitute>
       <last-dir>1</last-dir>
@@ -4192,7 +4193,6 @@
     </search>
     <history>
       <history-search>
-        <entry>287</entry>
         <entry>ideal_gas_const</entry>
         <entry>add</entry>
         <entry>flux</entry>
@@ -4212,6 +4212,7 @@
         <entry>local_to_global</entry>
         <entry>R_in</entry>
         <entry>get</entry>
+        <entry>Enforce</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

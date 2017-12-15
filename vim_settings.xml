@@ -65,11 +65,6 @@
       <file name="/LLDB" timestamp="1513371059861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1513372345716">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1513371200118">
         <mark key="'" line="72" column="81" />
         <mark key="[" line="80" column="17" />
@@ -309,8 +304,8 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513368805814">
-        <mark key="'" line="52" column="8" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513374579884">
+        <mark key="'" line="22" column="4" />
         <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/eigen-3.3.3-4jnagmk4pvq3vetgcdkcjsvjohvknkoc/include/eigen3/Eigen/Core" timestamp="1512072896505">
@@ -370,10 +365,6 @@
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1513371218270">
         <mark key="'" line="59" column="28" />
-        <mark key="[" line="39" column="47" />
-        <mark key="]" line="39" column="68" />
-        <mark key="." line="39" column="68" />
-        <mark key="^" line="39" column="68" />
       </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
@@ -431,12 +422,12 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513372634529">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="61" column="3" />
-        <mark key="]" line="61" column="3" />
-        <mark key="^" line="65" column="5" />
-        <mark key="." line="61" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513375060355">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -509,6 +500,7 @@
         <mark key="." line="947" column="13" />
         <mark key="^" line="947" column="13" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" timestamp="1513374978786" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1513017171254">
         <mark key="[" line="3" column="54" />
         <mark key="]" line="3" column="56" />
@@ -650,8 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
-      <jump line="237" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="240" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="254" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="256" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
@@ -750,6 +740,8 @@
       <jump line="58" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="121" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
       <jump line="196" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="22" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" />
+      <jump line="207" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -15,12 +15,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/OldPetscLinearSolver.h" timestamp="1513281192198">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496438533179">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="16" column="0" />
@@ -93,6 +87,12 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/NodeFreezerTests.cpp" timestamp="1513796600063">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/thermodynamicsTests.cpp" timestamp="1494776585234">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="48" />
@@ -114,13 +114,6 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1513371200118">
-        <mark key="'" line="72" column="81" />
-        <mark key="[" line="80" column="17" />
-        <mark key="]" line="80" column="17" />
-        <mark key="." line="80" column="17" />
-        <mark key="^" line="80" column="17" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.cpp" timestamp="1498836325915">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="34" column="0" />
@@ -141,12 +134,6 @@
         <mark key="]" line="11" column="26" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" timestamp="1512598782363">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/converter_factory.py" timestamp="1499692830100">
         <mark key="'" line="10" column="8" />
@@ -321,12 +308,6 @@
         <mark key="." line="86" column="77" />
         <mark key="^" line="86" column="77" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1513021693496">
-        <mark key="[" line="388" column="16" />
-        <mark key="]" line="388" column="16" />
-        <mark key="^" line="388" column="16" />
-        <mark key="." line="388" column="16" />
-      </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
         <mark key="[" line="114" column="22" />
@@ -339,6 +320,13 @@
         <mark key="]" line="25" column="46" />
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1513799018664">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="97" column="66" />
+        <mark key="^" line="97" column="66" />
+        <mark key="." line="97" column="66" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.h" timestamp="1510152644633">
         <mark key="[" line="12" column="52" />
@@ -400,31 +388,25 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NodeFreezer.h" timestamp="1511274941700">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NodeFreezer.h" timestamp="1513796322171">
         <mark key="'" line="21" column="36" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" timestamp="1510257896605">
-        <mark key="'" line="168" column="53" />
-        <mark key="[" line="160" column="33" />
-        <mark key="]" line="160" column="33" />
-        <mark key="^" line="160" column="33" />
-        <mark key="." line="160" column="33" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" timestamp="1513798662848">
+        <mark key="'" line="183" column="53" />
+        <mark key="[" line="78" column="35" />
+        <mark key="]" line="78" column="36" />
+        <mark key="." line="78" column="36" />
+        <mark key="^" line="76" column="47" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" timestamp="1512599760832">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/VectorRHSTests.cpp" timestamp="1512758613639">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513374579884">
         <mark key="'" line="22" column="4" />
@@ -455,8 +437,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1513710043914">
-        <mark key="'" line="355" column="38" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" timestamp="1513797827641">
+        <mark key="'" line="99" column="4" />
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
@@ -623,12 +605,12 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513375060355">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513796336420">
+        <mark key="'" line="180" column="36" />
+        <mark key="[" line="190" column="6" />
+        <mark key="]" line="190" column="6" />
+        <mark key="." line="190" column="6" />
+        <mark key="^" line="190" column="6" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
@@ -637,12 +619,12 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="139" column="60" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1511802261228">
-        <mark key="'" line="85" column="59" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="15" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1513798697254">
+        <mark key="'" line="87" column="26" />
+        <mark key="[" line="47" column="59" />
+        <mark key="]" line="47" column="59" />
+        <mark key="^" line="47" column="59" />
+        <mark key="." line="47" column="59" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
@@ -738,18 +720,6 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1513017171254">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-        <mark key="^" line="3" column="56" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/EquationSet.h" timestamp="1513019606834">
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="50" />
-        <mark key="^" line="55" column="50" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1513703867120">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="37" column="22" />
@@ -835,7 +805,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513704790317">
+      <file name="/Dummy.txt" timestamp="1513796233811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshToPetscOrder.h" timestamp="1506108866947">
@@ -873,12 +843,6 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockMeshes.h" timestamp="1513369498013">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
-      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" timestamp="1501602287101">
         <mark key="'" line="12" column="26" />
         <mark key="[" line="21" column="0" />
@@ -910,7 +874,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/fragment.mm" timestamp="1513704790290">
+      <file name="/fragment.mm" timestamp="1513796235448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -980,14 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="710" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="724" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="809" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="860" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="44" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="83" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="141" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
-      <jump line="272" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
       <jump line="587" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
       <jump line="621" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
       <jump line="633" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
@@ -1080,6 +1036,14 @@
       <jump line="180" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
       <jump line="221" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
       <jump line="812" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" />
+      <jump line="82" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="180" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" />
+      <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="47" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="49" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="84" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="99" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SparseBlockMatrix.h" />
+      <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1090,7 +1054,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludCBuID0gNTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRShkaWFnb25hbF9ibG9jaygxLDEpID09IDEuMCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4490,55 +4454,63 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>q1</text>
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="/" type="4">
-        <text>test_ddt</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIDxzaXplX3Qgbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRShkaWFnb25hbF9ibG9jaygxLDEpID09IDEuMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludCBuID0gNTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZl9kaWFnLmZpbGwoMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">biwgCm4sIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZl9kaWFnLmZpbGwoMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gcTIobik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJjaGVja1xuIik7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPExpbmVhcml6ZTo6RGRhdGE+IHRlc3RfZGR0KG4pOwo=</text>
+      <register name="5" type="8">
+        <text>.value()
+.value()
+.value()
+.value()
+.value()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPExpbmVhcml6ZTo6RGRhdGE+IHRlc3RfZGR0KG4pOwo=</text>
+      <register name="6" type="8">
+        <text>A(1,1,
+A(1,1,
+A(1,1,
+A(1,1,
+A(1,1,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludCBuID0gNTsKICAgIHN0ZDo6dmVjdG9yPExpbmVhcml6ZTo6RGRhdGE+IHExX2RkdChuKTsKICAgIHN0ZDo6dmVjdG9yPExpbmVhcml6ZTo6RGRhdGE+IHEyX2RkdChuKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGVxbl9tYXAgPSB7MCwgMSwgMiwgMywgNH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gcTEobik7CiAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IHEyKG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBBKDEsIDIpID0gYmxvY2tfbWF0cml4Owo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPExpbmVhcml6ZTo6RGRhdGE+IHRlc3RfZGR0KG4pOwo=</text>
+        <text encoding="base64">ICAgIFNwYXJzZUJsb2NrTWF0cml4PDUsIDU+IEEoTVBJX0NPTU1fV09STEQsIGdsb2JhbF9yb3dzLCBkb19vd25fbG9jYWxfbWVzaF9ub2RlLCBnbG9iYWxfY29sdW1zX2luX2xvY2FsX3Jvdyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_ddt</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>test_ddt</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>\.</last-replace>
       <last-substitute encoding="base64">LT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4546,11 +4518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#if</entry>
-        <entry>cout</entry>
-        <entry>this</entry>
-        <entry>=+</entry>
-        <entry>max</entry>
         <entry>mix</entry>
         <entry>min</entry>
         <entry>zero</entry>
@@ -4566,6 +4533,11 @@
         <entry>Linear</entry>
         <entry>n</entry>
         <entry>test_ddt</entry>
+        <entry>dTdQ</entry>
+        <entry>global_row_id</entry>
+        <entry>A.set</entry>
+        <entry>print</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

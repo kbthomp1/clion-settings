@@ -69,9 +69,9 @@
         <mark key="." line="142" column="54" />
         <mark key="^" line="142" column="54" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" timestamp="1513981313717">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" timestamp="1515007603527">
         <mark key="'" line="41" column="20" />
-        <mark key="[" line="10" column="24" />
+        <mark key="[" line="11" column="13" />
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
@@ -135,6 +135,12 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="47" column="43" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1515007728629">
+        <mark key="'" line="165" column="80" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1513884390246">
         <mark key="'" line="67" column="39" />
         <mark key="[" line="14" column="0" />
@@ -149,8 +155,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1513956716944">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1515008104231">
+        <mark key="'" line="72" column="37" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="46" />
         <mark key="." line="99" column="47" />
@@ -1073,26 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="15" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="163" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="210" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="10" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="41" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="61" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SolutionVariables.h" />
-      <jump line="72" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SolutionVariables.h" />
-      <jump line="10" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/Solution.h" />
-      <jump line="7" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/Solution.h" />
-      <jump line="11" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/SolutionVariables.h" />
-      <jump line="41" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/Solution.h" />
-      <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="36" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="62" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="185" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="182" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="18" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="65" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="267" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="26" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="24" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -1173,6 +1159,26 @@
       <jump line="252" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="50" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="248" column="198" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="106" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="114" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="115" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="117" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="122" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="124" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="143" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="165" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" />
+      <jump line="57" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="91" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="37" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="63" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="54" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="75" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="40" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="33" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="68" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="70" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="71" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="72" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4586,7 +4592,7 @@
         <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>Sij</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB2aXNjb3VzX3Rlcm1zKG1lc2gsIHswLCAwLCAwfSwgZ2FtbWEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBub25kaW1lbnNpb25hbGl6YXRpb24ubm9uZGltZW5zaW9uYWxUZW1wZXJhdHVyZShIUzo6VGhlcm1vU3RhdGU6OnN1dGhlcmxhbmRzX2NvbnN0YW50KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5jYWxjVmlzY291c05vbmRpbSgpLCB7MCwgMSwgMiwgMywgNH0pIHsK</text>
@@ -4629,9 +4635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>Sij</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>Sij</last-pattern>
       <last-replace encoding="base64">c3RkOjphcnJheTxULCA1PiAmcV9pbnRlcmlvcg==</last-replace>
       <last-substitute encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9y</last-substitute>
       <last-dir>1</last-dir>
@@ -4639,10 +4645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry>fd_</entry>
-        <entry>explicit</entry>
-        <entry>gram</entry>
         <entry>xyz_at_corners</entry>
         <entry>T</entry>
         <entry>column_map</entry>
@@ -4652,13 +4654,17 @@
         <entry>solve</entry>
         <entry>shared_ptr</entry>
         <entry>initial_solution</entry>
-        <entry>Q</entry>
         <entry>ocal_to_global</entry>
         <entry>local_to_global</entry>
         <entry>printf</entry>
         <entry>Q_ref</entry>
         <entry>temp</entry>
         <entry>5</entry>
+        <entry>Q</entry>
+        <entry>cell_ugrad</entry>
+        <entry>cell_tgrad</entry>
+        <entry>tau</entry>
+        <entry>Sij</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

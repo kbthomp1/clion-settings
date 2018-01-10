@@ -51,12 +51,12 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1515600529687">
-        <mark key="'" line="111" column="78" />
-        <mark key="[" line="240" column="9" />
-        <mark key="]" line="241" column="5" />
-        <mark key="." line="241" column="5" />
-        <mark key="^" line="241" column="5" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1515602672883">
+        <mark key="'" line="358" column="0" />
+        <mark key="[" line="433" column="24" />
+        <mark key="]" line="433" column="24" />
+        <mark key="." line="433" column="24" />
+        <mark key="^" line="433" column="24" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1513980289934">
         <mark key="'" line="47" column="12" />
@@ -114,12 +114,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1515453021796">
-        <mark key="'" line="250" column="12" />
-        <mark key="[" line="44" column="58" />
-        <mark key="]" line="44" column="66" />
-        <mark key="." line="44" column="66" />
-        <mark key="^" line="44" column="66" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1515602371119">
+        <mark key="'" line="251" column="12" />
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="^" line="82" column="19" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1513883725409">
         <mark key="'" line="80" column="13" />
@@ -548,6 +548,13 @@
         <mark key="." line="38" column="14" />
         <mark key="^" line="38" column="14" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" timestamp="1515602929216">
+        <mark key="'" line="8" column="72" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="103" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/kinetic_data_converter.py" timestamp="1498676943203">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="37" column="0" />
@@ -711,12 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="301" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="29" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="41" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="47" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="53" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
@@ -811,6 +812,12 @@
       <jump line="175" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="144" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="249" column="36" filename="$USER_HOME$/one-ring/install/parfait/include/parfait/TreeDist.h" />
+      <jump line="435" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="222" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="226" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="316" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="358" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="8" column="72" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,8 +827,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>REQUIRE_FALSE()</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4221,63 +4228,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>REQUIRE_FALSE()</text>
       </register>
       <register name="/" type="4">
-        <text>w_mod</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgZGR0ID0gc3RkOjphcnJheTxMaW5lYXJpemU6OkRkYXRhPE51bVZhcnM+LCBOdW1FcW5zPjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJyaG8sIHAsIHQsIG11ID0gJWUgJWUgJWUgJWVcbiIsIHJobywgcHJlc3N1cmUsIHRlbXBlcmF0dXJlLCB2aXNjb3NpdHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBnZXRQZXJmZWN0R2FzUShpbnQgbm9kZV9pZCwgY29uc3QgU29sdXRpb25WYXJpYWJsZXM8TnVtRXFucz4mIFEpIGNvbnN0IHsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcW5vZGU7CiAgICAgICAgUS5nZXRWYXJpYWJsZShub2RlX2lkLCBIUzo6VmFyaWFibGU6OmRlbnNpdHlfYmVnaW4sIEhTOjpWYXJpYWJsZTo6ZW5lcmd5X2VuZCwgcW5vZGUuZGF0YSgpKTsKICAgICAgICByZXR1cm4gcW5vZGU7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>T
-T
-T
-T</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBxX25vZGUgPSBnZXRQZXJmZWN0R2FzUShjb3JuZXJfbm9kZV9pZHNbY29ybmVyXSwgUSk7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>T
-T
-T</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoInR1cmI6Iik7Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>T
-T
-T
-T</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gdCA6IHR1cmJfYXRfY29ybmVycykKICAgICAgICAgICAgcHJpbnRmKCIgJWVcbiIsIHQpOwogICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgIGZvciAoIGludCBpID0gMDsgaSA8IG5vZGVfc3JjX2V2YWw7IGkrKyApIHsKICAgICAgICAvLyAgICAgICAgaWYgKCBub2RlT25XYWxsICkgY3ljbGUgLy8gc2tpcCBzb3VyY2Ugb24gd2FsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">I2lmIDAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBxbm9kZSA9IGdldFBlcmZlY3RHYXNRKG5vZGUsIFEpOwo=</text>
+        <text encoding="base64">I2lmIDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>w_mod</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>w_mod</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace encoding="base64">c3RkOjphcnJheTxULCA1PiAmcV9pbnRlcmlvcg==</last-replace>
       <last-substitute encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9y</last-substitute>
       <last-dir>1</last-dir>
@@ -4285,9 +4284,6 @@ T</text>
     </search>
     <history>
       <history-search>
-        <entry>cout</entry>
-        <entry>private</entry>
-        <entry>lhs</entry>
         <entry>right</entry>
         <entry>integrate</entry>
         <entry>RHS</entry>
@@ -4305,6 +4301,9 @@ T</text>
         <entry>node_</entry>
         <entry>T</entry>
         <entry>w_mod</entry>
+        <entry>Perfec</entry>
+        <entry>printf</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

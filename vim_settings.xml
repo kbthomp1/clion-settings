@@ -79,7 +79,8 @@
         <mark key="." line="142" column="54" />
         <mark key="^" line="142" column="54" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" timestamp="1515517021010">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" timestamp="1515684305819">
+        <mark key="'" line="26" column="25" />
         <mark key="[" line="206" column="47" />
         <mark key="]" line="206" column="64" />
         <mark key="^" line="206" column="64" />
@@ -222,12 +223,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1515617180861">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="94" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1515684312371">
+        <mark key="'" line="44" column="47" />
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="82" />
+        <mark key="." line="40" column="82" />
+        <mark key="^" line="40" column="82" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1513883725409">
         <mark key="'" line="80" column="13" />
@@ -393,6 +394,9 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1515683288925">
+        <mark key="'" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.h" timestamp="1510152644633">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="52" />
@@ -426,7 +430,9 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" timestamp="1515614638923" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" timestamp="1515683264794">
+        <mark key="'" line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1510152720379">
         <mark key="'" line="43" column="47" />
         <mark key="[" line="18" column="34" />
@@ -625,11 +631,11 @@
         <mark key="^" line="32" column="53" />
         <mark key="." line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscRuntime.h" timestamp="1515616934025">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscRuntime.h" timestamp="1515683567224">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data_converter.py" timestamp="1496430224882">
         <mark key="'" line="36" column="65" />
@@ -1105,26 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
-      <jump line="47" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
-      <jump line="56" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
-      <jump line="14" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" />
-      <jump line="73" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="74" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="75" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="89" column="88" filename="$USER_HOME$/one-ring/hypersolve/src/FluxLimiter.h" />
-      <jump line="152" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="9" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="14" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="16" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="368" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="397" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="289" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="104" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="110" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="12" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="17" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="19" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
       <jump line="23" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
       <jump line="27" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
       <jump line="31" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
@@ -1205,6 +1191,26 @@
       <jump line="88" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="358" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="36" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="31" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="103" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="19" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="26" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="10" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="172" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="12" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="20" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="353" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="195" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="35" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="36" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="79" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="122" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="15" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="25" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="26" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="43" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="44" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4618,7 +4624,7 @@
         <text>JsonTools::extractScopeToString(json_config[&quot;config&quot;], &quot;</text>
       </register>
       <register name="/" type="4">
-        <text>petsc_runtime</text>
+        <text>Strong</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvJiByIDogbWF4X3JlcykKICAgICAgICAgICAgICAgIHIgPSBtcC5QYXJhbGxlbE1heChyKTsK</text>
@@ -4661,9 +4667,9 @@
       </register>
     </registers>
     <search>
-      <last-search>petsc_runtime</last-search>
+      <last-search>Strong</last-search>
       <last-offset />
-      <last-pattern>petsc_runtime</last-pattern>
+      <last-pattern>Strong</last-pattern>
       <last-replace encoding="base64">c3RkOjphcnJheTxULCA1PiAmcV9pbnRlcmlvcg==</last-replace>
       <last-substitute encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9y</last-substitute>
       <last-dir>1</last-dir>
@@ -4671,7 +4677,6 @@
     </search>
     <history>
       <history-search>
-        <entry>half</entry>
         <entry>one</entry>
         <entry>five</entry>
         <entry>ten</entry>
@@ -4687,10 +4692,11 @@
         <entry>turb max</entry>
         <entry>solution</entry>
         <entry>Q</entry>
-        <entry>Strong</entry>
         <entry>max</entry>
         <entry>source_term</entry>
         <entry>petsc_runtime</entry>
+        <entry>turbulence_terms</entry>
+        <entry>Strong</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

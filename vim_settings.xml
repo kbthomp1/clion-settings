@@ -162,8 +162,8 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1515454338843">
-        <mark key="'" line="76" column="39" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1516725442431">
+        <mark key="'" line="183" column="34" />
         <mark key="[" line="298" column="66" />
         <mark key="]" line="298" column="71" />
         <mark key="." line="298" column="71" />
@@ -176,11 +176,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1515706296959">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1516726350258">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="111" column="89" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ElementUtilities.h" timestamp="1512598782363">
         <mark key="[" line="7" column="14" />
@@ -518,11 +519,11 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" timestamp="1512599760832">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousFluxTests.cpp" timestamp="1516726542090">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="18" />
+        <mark key="^" line="43" column="18" />
+        <mark key="." line="43" column="18" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/VectorRHSTests.cpp" timestamp="1512758613639">
         <mark key="[" line="23" column="0" />
@@ -1159,10 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
-      <jump line="31" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
-      <jump line="103" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
-      <jump line="19" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
       <jump line="26" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
       <jump line="10" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
       <jump line="172" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
@@ -1259,6 +1256,10 @@
       <jump line="2" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/CFLController.h" />
       <jump line="18" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/CFLController.h" />
       <jump line="384" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="225" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
+      <jump line="230" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
+      <jump line="161" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
+      <jump line="183" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1269,7 +1270,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHtIRUFERVJfRklMRVN9IA==</text>
+        <text>Interior</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4669,55 +4670,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHtIRUFERVJfRklMRVN9IA==</text>
+        <text>Interior</text>
       </register>
       <register name="/" type="4">
-        <text>updateCFL</text>
+        <text>corner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X2NmbCA9PSBtaW4gYW5kIGNmbCA8IG1pbikK</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJJbnRlcmlvciBlbGVtZW50LWJhc2VkIHZpc2NvdXMgZmx1eCIpewoKICAgIHN0ZDo6YXJyYXk8c3RkOjphcnJheTxkb3VibGUsIDU+LDQ+IHE7CiAgICBxWzBdID0gezIuMCwgMC41LCAwLjIsICAwLjIsICAyLjB9OwogICAgcVsxXSA9IHsxLjEsIDAuNCwgMC4wLCAgMC4wLCAgNS4wfTsKICAgIHFbMl0gPSB7MS4yLCAwLjMsIDAuMTUsIDAuMTcsIDMuMH07CiAgICBxWzNdID0gezEuMywgMC4yLCAwLjM1LCAwLjE3LCA2LjB9OwoKICAgIHN0ZDo6YXJyYXk8UGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiwgND4gbm9kZV94eXo7CiAgICBub2RlX3h5elswXSA9IHswLjAsIDAuMCwgMC4wfTsKICAgIG5vZGVfeHl6WzFdID0gezEuMCwgMC4wLCAwLjB9OwogICAgbm9kZV94eXpbMl0gPSB7MC4wLCAxLjAsIDAuMH07CiAgICBub2RlX3h5elszXSA9IHswLjAsIDAuMCwgMS4wfTsKCiAgICBhdXRvIGVkZ2Vfbm9ybWFscyA9IEhTOjpFbGVtZW50Ojpjb21wdXRlVGV0Q2VsbER1YWxOb3JtYWxzKG5vZGVfeHl6KTsKCiAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IHVncmFkID0gezAuMTEzNjM2MzYzNjM2MzY0LCAwLjAsIC05LjYxNTM4NDYxNTM4NDYxNUUtMDAyfTsKICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdmdyYWQgPSB7LTAuMSwgMi40OTk5OTk5OTk5OTk5OTlFLTAwMiwgMC4xNjkyMzA3NjkyMzA3Njl9OwogICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiB3Z3JhZCA9IHstMC4xLCA0LjE2NjY2NjY2NjY2NjY2OUUtMDAyLCAzLjA3NjkyMzA3NjkyMzA3N0UtMDAyfTsKICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdGdyYWQgPSB7MS45NzE1Mjk3NTIwNjYxMSwgMC44MzU2MDU1NTU1NTU1NTUsIDIuMDE2MDA0MTQyMDExODN9OwoKICAgIGRvdWJsZSBzdXRoZXJsYW5kc190ZW1wZXJhdHVyZV9ub25kaW0gPSAwLjY2MjsgLy8gVG8gbWF0Y2ggZnVuM2QgdW5pdCB0ZXN0CiAgICBkb3VibGUgdmlzY29zaXR5X3JlZmVyZW5jZSA9IDEuMDsgLy8gVG8gbWF0Y2ggZnVuM2QgdW5pdCB0ZXN0CiAgICBkb3VibGUgZ2FtbWEgPSAxLjQ7CiAgICBhdXRvIGZsdXggPSBFbGVtZW50QmFzZWRWaXNjb3VzRmx1eChxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGFyZmFpdDo6Q0dOUzo6VGV0OjplZGdlX3RvX25vZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlZGdlX25vcm1hbHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1Z3JhZCwgdmdyYWQsIHdncmFkLCB0Z3JhZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhTOjpUZW5zb3I8ZG91YmxlLCAzLCAzPigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmVfbm9uZGltLCB2aXNjb3NpdHlfcmVmZXJlbmNlLCBnYW1tYSk7CgogICAgUkVRVUlSRShmbHV4WzBdWzBdID09IEFwcHJveCgwLjApKTsKICAgIFJFUVVJUkUoZmx1eFswXVsxXSA9PSBBcHByb3goLTQuNTgzNTI1NDMxOTAzNDE1RS0wMDIpKTsKICAgIFJFUVVJUkUoZmx1eFswXVsyXSA9PSBBcHByb3goMS4yMDkwNTE3NDA1MzA5MzNFLTAwMikpOwogICAgUkVRVUlSRShmbHV4WzBdWzNdID09IEFwcHJveCgtOS4yNDA1MDQ3OTcwMTA0MDZFLTAwMykpOwogICAgUkVRVUlSRShmbHV4WzBdWzRdID09IEFwcHJveCg0LjIxMDg4NjgzMTczOTI1KSk7Cgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OmFycmF5PHN0ZDo6YXJyYXk8aW50LCAyPiwgbl9lZGdlcz4mIGVkZ2VfdG9fbm9kZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2ZsX2NvbnRyb2xsZXIuaXMKICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2ZsX2NvbnRyb2xsZXIuaXMKICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X2NmbCA9PSBtaW4gYW5kIGNmbCA8IG1pbikKICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvb2wgY2ZsX2Zsb29yX3JlYWNoZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X2NmbCA9PSBtaW4gYW5kIGNmbCA8IG1pbikKICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJvb2wgY2ZsX2Zsb29yX3JlYWNoZWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGVkZHlfdmlzYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA9IGVkZHlfdmlzYyAvIHZpc2Nvc2l0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGVkZHlfdmlzYyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateCFL</last-search>
+      <last-search>corner</last-search>
       <last-offset />
-      <last-pattern>updateCFL</last-pattern>
+      <last-pattern>corner</last-pattern>
       <last-replace encoding="base64">c3RkOjphcnJheTxULCA1PiAmcV9pbnRlcmlvcg==</last-replace>
       <last-substitute encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9y</last-substitute>
       <last-dir>1</last-dir>
@@ -4725,8 +4726,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extrapolate</entry>
-        <entry>trapolate</entry>
         <entry>laminar</entry>
         <entry>fv1</entry>
         <entry>computeTurb</entry>
@@ -4745,6 +4744,8 @@
         <entry>cfl</entry>
         <entry>ControllerStatus</entry>
         <entry>updateCFL</entry>
+        <entry>addWeightedRes</entry>
+        <entry>corner</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

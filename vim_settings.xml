@@ -15,12 +15,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" timestamp="1516899778504">
-        <mark key="'" line="127" column="4" />
-        <mark key="[" line="247" column="1" />
-        <mark key="]" line="248" column="5" />
-        <mark key="^" line="248" column="5" />
-        <mark key="." line="248" column="5" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" timestamp="1516910780461">
+        <mark key="'" line="29" column="66" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="40" column="61" />
       </file>
       <file name="$USER_HOME$/clean-one-ring/hypersolve/src/OldPetscLinearSolver.h" timestamp="1513281192198">
         <mark key="[" line="46" column="19" />
@@ -345,7 +345,8 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" timestamp="1516902485984">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" timestamp="1516910290749">
+        <mark key="'" line="179" column="27" />
         <mark key="[" line="118" column="49" />
         <mark key="]" line="119" column="34" />
         <mark key="." line="119" column="34" />
@@ -1164,12 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="379" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="390" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="404" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="342" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="434" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="91" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="426" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
@@ -1264,6 +1259,12 @@
       <jump line="54" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="58" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="214" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="179" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" />
+      <jump line="256" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" />
+      <jump line="28" column="64" filename="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" />
+      <jump line="29" column="66" filename="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1274,7 +1275,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[node_id][5];</text>
+        <text>-1.041666666666667e-4</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4674,13 +4675,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[node_id][5];</text>
+        <text>-1.041666666666667e-4</text>
       </register>
       <register name="/" type="4">
-        <text>turbulence variable</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFEtPnNldFZhcmlhYmxlKG5vZGVfaWQsIEhTOjpWYXJpYWJsZTo6ZW5lcmd5X3N0YXJ0LCBIUzo6VGhlcm1vU3RhdGU6OmNhbGNFRnJvbVAoZ2FtbWEsIHJobywgdSwgdiwgdywgUCkpOwogICAgY29uc3QgYXV0byBlcW5fdHlwZSA9IGdldEVxdWF0aW9uVHlwZSgpOwo=</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJUZXN0IHRoZSBjb252ZWN0aXZlIGZsdXggZm9yIEJhc2VsaW5lIFNwYWxhcnQgQWxsbWFyYXMgdHVyYnVsZW5jZSBtb2RlbCIpIHsKICAgIGRvdWJsZSBlaWdlbmxpbWl0ID0gMS5lLTEwOwogICAgYXV0byB0dXJiX21vZGVsID0gU0FCYXNlbGluZTxkb3VibGU+KGVpZ2VubGltaXQpOwoKICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdmVsb2NpdHlfbGVmdCA9IHswLCAwLCAwLjA1fTsKICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdmVsb2NpdHlfcmlnaHQgPSB7LTAuNSwgMC41LCAwLjAyNX07CgogICAgZG91YmxlIHR1cmJfbGVmdCA9IDAuMDU7CiAgICBkb3VibGUgdHVyYl9yaWdodCA9IDAuMDI1OwoKICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gZmFjZV9ub3JtYWwgPSB7LTQuMTY2NjY2NjY2NjY2NjY3ZS0zLCAxLjI1ZS0zLCAtMi41ZS0yfTsKCiAgICBkb3VibGUgbGVmdF9mbHV4LCByaWdodF9mbHV4OwogICAgc3RkOjp0aWUobGVmdF9mbHV4LCByaWdodF9mbHV4KSA9IHR1cmJfbW9kZWwuY29tcHV0ZUNvbnZlY3Rpb25JbnRlcmlvcih2ZWxvY2l0eV9sZWZ0LCB2ZWxvY2l0eV9yaWdodCwgdHVyYl9sZWZ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0dXJiX3JpZ2h0LCBmYWNlX25vcm1hbC5wb3MpOwoKICAgIFJFUVVJUkUobGVmdF9mbHV4ID09IEFwcHJveCgtMy4xMjVlLTUpLnNjYWxlKDEuZS01KSk7CiAgICBSRVFVSVJFKHJpZ2h0X2ZsdXggPT0gQXBwcm94KC0xLjA0MTY2NjY2NjY2NjY2N2UtNCkuc2NhbGUoMS5lLTQpKTsKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFEtPnNldFZhcmlhYmxlKG5vZGVfaWQsIEhTOjpWYXJpYWJsZTo6ZW5lcmd5X3N0YXJ0LCBIUzo6VGhlcm1vU3RhdGU6OmNhbGNFRnJvbVAoZ2FtbWEsIHJobywgdSwgdiwgdywgUCkpOwo=</text>
@@ -4720,9 +4721,9 @@
       </register>
     </registers>
     <search>
-      <last-search>turbulence variable</last-search>
+      <last-search encoding="base64">ICAgICA=</last-search>
       <last-offset />
-      <last-pattern>turbulence variable</last-pattern>
+      <last-pattern encoding="base64">ICAgICA=</last-pattern>
       <last-replace encoding="base64">c3RkOjphcnJheTxULCA1PiAmcV9pbnRlcmlvcg==</last-replace>
       <last-substitute encoding="base64">c3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9y</last-substitute>
       <last-dir>1</last-dir>
@@ -4730,7 +4731,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flux</entry>
         <entry>neighbor</entry>
         <entry>lhs</entry>
         <entry>viscous</entry>
@@ -4750,6 +4750,7 @@
         <entry>eqn_</entry>
         <entry>eqn_type</entry>
         <entry>turbulence variable</entry>
+        <entry encoding="base64">ICAgICA=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp TdataReaderTests.cpp</entry>

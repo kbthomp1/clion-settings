@@ -109,11 +109,12 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1517000376304">
-        <mark key="'" line="453" column="6" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1517002828944">
+        <mark key="'" line="375" column="51" />
+        <mark key="[" line="387" column="61" />
+        <mark key="]" line="387" column="63" />
+        <mark key="." line="387" column="63" />
+        <mark key="^" line="387" column="63" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Element.h" timestamp="1516912756840">
         <mark key="[" line="60" column="0" />
@@ -180,8 +181,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1517001023980">
-        <mark key="'" line="89" column="47" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1517001327611">
+        <mark key="'" line="41" column="50" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="60" />
         <mark key="." line="109" column="58" />
@@ -1186,9 +1187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
-      <jump line="246" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
-      <jump line="221" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="241" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="238" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
       <jump line="237" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" />
@@ -1286,6 +1284,9 @@
       <jump line="136" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="89" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="305" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="35" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="41" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="375" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1295,8 +1296,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zPg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4696,37 +4697,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ddt</text>
+        <text encoding="base64">TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zPg==</text>
       </register>
       <register name="/" type="4">
-        <text>computeAvg</text>
+        <text>turb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAod2Vha19iY19tYXAuY291bnQobWVzaC5jZWxsVGFnKGNlbGxfaW5kZXgpKSAhPSAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVncmF0ZUJvdW5kYXJ5RWxlbWVudEphY29iaWFuPDM+KGNlbGxfaWQsIFEsIGxocyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vICAgIHRlbXBsYXRlPHNpemVfdCBOQ29ybmVycz4KLy8gICAgZG91YmxlIGNvbXB1dGVBdmdLaW5lbWF0aWNWaXNjb3NpdHkoY29uc3QgU29sdXRpb25WYXJpYWJsZXM8TnVtRXFucz4mIFEsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8aW50LCBOQ29ybmVycz4gY29ybmVyX25vZGVfaWRzKSBjb25zdCB7Ci8vICAgICAgICBkb3VibGUga2luZW1hdGljX3Zpc2Nvc2l0eV9hdmcgPSAwLjA7Ci8vICAgICAgICBmb3IgKGludCBjb3JuZXIgPSAwOyBjb3JuZXIgPCBOQ29ybmVyczsgKytjb3JuZXIpIHsKLy8gICAgICAgICAgICBhdXRvIHFfbm9kZSA9IFFbY29ybmVyX25vZGVfaWRzW2Nvcm5lcl1dOwovLyAgICAgICAgICAgIGRvdWJsZSByaG8gPSBxX25vZGVbMF07Ci8vICAgICAgICAgICAgZG91YmxlIHByZXNzdXJlID0gSFM6OlRoZXJtb1N0YXRlOjpjYWxjUHJlc3N1cmUocV9ub2RlLCBnYW1tYSk7Ci8vICAgICAgICAgICAgZG91YmxlIHRlbXBlcmF0dXJlID0gSFM6OlRoZXJtb1N0YXRlOjpjYWxjVGVtcGVyYXR1cmUoZ2FtbWEsIHJobywgcHJlc3N1cmUpOwovLyAgICAgICAgICAgIGRvdWJsZSB2aXNjb3NpdHkgPSBIUzo6VGhlcm1vU3RhdGU6OmNhbGNWaXNjb3NpdHkodGVtcGVyYXR1cmUsIHN1dGhlcmxhbmRzX3RlbXBlcmF0dXJlX25vbmRpbSk7Ci8vICAgICAgICAgICAga2luZW1hdGljX3Zpc2Nvc2l0eV9hdmcgKz0gdmlzY29zaXR5IC8gcmhvOwovLyAgICAgICAgfQovLyAgICAgICAga2luZW1hdGljX3Zpc2Nvc2l0eV9hdmcgLz0gZG91YmxlKE5Db3JuZXJzKTsKLy8gICAgICAgIHJldHVybiBraW5lbWF0aWNfdmlzY29zaXR5X2F2ZzsKLy8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PHN0ZDo6YXJyYXk8ZG91YmxlLCBOdW1FcW5zPiwgTkNvcm5lcnM+IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxzdGQ6OmFycmF5PGRkdCwgMT4sIE5Db3JuZXJzPiBkRmRRX2Nvcm5lcjsKICAgICAgICAgICAgZm9yIChpbnQgZmx1eF9jb3JuZXIgPSAwOyBmbHV4X2Nvcm5lciA8IE5Db3JuZXJzOyArK2ZsdXhfY29ybmVyKQogICAgICAgICAgICAgICAgZEZkUV9jb3JuZXJbZmx1eF9jb3JuZXJdWzBdID0gZmx1eFtmbHV4X2Nvcm5lcl07CiAgICAgICAgICAgIHJldHVybiBkRmRRX2Nvcm5lcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cgo=</text>
@@ -4735,16 +4736,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJFcW4gTm9ybXM6Iik7CiAgICAgICAgICAgIGZvciAoYXV0byBub3JtIDogbDJfZXFuX25vcm0pCiAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIG5vcm0pOwogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>computeAvg</last-search>
+      <last-search>turb</last-search>
       <last-offset />
-      <last-pattern>computeAvg</last-pattern>
+      <last-pattern>turb</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4752,7 +4753,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SASou</entry>
         <entry>fr1</entry>
         <entry>=</entry>
         <entry>operator=</entry>
@@ -4772,6 +4772,7 @@
         <entry>max_turb</entry>
         <entry>return</entry>
         <entry>computeAvg</entry>
+        <entry>turb</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4791,9 +4792,9 @@
         <entry>s/ /\r/g</entry>
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -109,12 +109,12 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1516976252889">
-        <mark key="'" line="139" column="66" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="236" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1516981753908">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="133" column="31" />
+        <mark key="]" line="133" column="35" />
+        <mark key="." line="133" column="35" />
+        <mark key="^" line="133" column="35" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Element.h" timestamp="1516912756840">
         <mark key="[" line="60" column="0" />
@@ -246,12 +246,6 @@
         <mark key="]" line="91" column="93" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1516905715135">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
@@ -481,12 +475,11 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1516977293506">
-        <mark key="'" line="93" column="8" />
-        <mark key="[" line="254" column="63" />
-        <mark key="]" line="254" column="63" />
-        <mark key="." line="254" column="63" />
-        <mark key="^" line="254" column="63" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1516981543854">
+        <mark key="[" line="190" column="28" />
+        <mark key="]" line="190" column="28" />
+        <mark key="." line="190" column="28" />
+        <mark key="^" line="252" column="63" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SolutionTests.cpp" timestamp="1513965270599">
         <mark key="[" line="5" column="29" />
@@ -1185,14 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="142" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="82" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="83" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="86" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="4" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="98" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="50" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="225" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="20" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -1285,6 +1270,14 @@
       <jump line="97" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="100" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="93" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="173" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="133" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="244" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="136" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="140" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="144" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="143" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1295,7 +1288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>getTurbDDT(node, Q);</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4695,66 +4688,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>getTurbDDT(node, Q);</text>
       </register>
       <register name="/" type="4">
-        <text>Linearize</text>
+        <text>cstar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlubGluZSBkb3VibGUgY29udmVydChkb3VibGUgdikgewogICAgICAgIHJldHVybiB2OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0RGlhZ29uYWxGcm9tQ0ZMKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSwgUS5zb2x1dGlvbkRhdGEoKSwgQSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHNpemVfdCBuPgppbmxpbmUgZG91YmxlIG9wZXJhdG9yPShjb25zdCBMaW5lYXJpemU6OkRkYXRhPG4+JiByaHMpewogICAgcmV0dXJuIHJocy5mOwp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGR0IGRlbnNpdHkgPSBxbm9kZVswXTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGZyMV9kb3VibGUgPSBjb252ZXJmcjE7CiAgICAgICAgICAgIGRvdWJsZSBmdDJfZG91YmxlID0gZnQyOwogICAgICAgICAgICBkb3VibGUgdHVyYl9kb3VibGUgPSB0dXJiOwogICAgICAgICAgICBkb3VibGUgd19tb2RfZG91YmxlID0gd19tb2Q7CiAgICAgICAgICAgIGRvdWJsZSBmd19kb3VibGUgPSBmdzsKICAgICAgICAgICAgZG91YmxlIHJyX2RvdWJsZSA9IHJyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGR0IGRlbnNpdHkgPSBxbm9kZVswXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBMaW5lYXJpemU6OkRkYXRhPG4+KHJocy5mICsgc2NhbGUsIHJocy5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgICAgICAgICBxbm9kZVtpXSA9IFFbbm9kZV1baV07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zzo6c2FfbWF4X3ZhbC5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBxbm9kZSA9IFFbbm9kZV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWc6OnNhX21heF92YWwuY2xlYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FfbWluX3ZhbFswXSA9IHN0ZDo6bWluKHNhX21heF92YWxbMF0sIGZyMSk7CiAgICAgICAgICAgIHNhX21pbl92YWxbMV0gPSBzdGQ6Om1pbihzYV9tYXhfdmFsWzFdLCBmdDIpOwogICAgICAgICAgICBzYV9taW5fdmFsWzJdID0gc3RkOjptaW4oc2FfbWF4X3ZhbFsyXSwgdHVyYik7CiAgICAgICAgICAgIHNhX21pbl92YWxbM10gPSBzdGQ6Om1pbihzYV9tYXhfdmFsWzNdLCB3X21vZCk7CiAgICAgICAgICAgIHNhX21pbl92YWxbNF0gPSBzdGQ6Om1pbihzYV9tYXhfdmFsWzRdLCBmdyk7CiAgICAgICAgICAgIHNhX21pbl92YWxbNV0gPSBzdGQ6Om1pbihzYV9tYXhfdmFsWzVdLCBycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRUdXJiZFFbbl90dXJiXSA9IHN0ZDo6bWF4KGRUdXJiZFFbbl90dXJiXSwgMC4wKTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>max
-max
-max
-max
-max
-max</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCBOdW1FcW5zPiBkVHVyYmRRID0gCiAgICAgICAgICAgICAgICBkVHVyYmRRW25fdHVyYl0gPSBzdGQ6Om1heChkVHVyYmRRW25fdHVyYl0sIDAuMCk7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>max
-max
-max
-max
-max
-max</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>5
-5</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgc3V0aGVybGFuZF9jb25zdGFudF9ta3MgPSAxMTAuNDsgLy8ge0tdIEhTCiAgICAgICAgZG91YmxlIGNzdGFyID0gc3V0aGVybGFuZF9jb25zdGFudF9ta3MgLyB0X3JlZmVyZW5jZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Linearize</last-search>
+      <last-search>cstar</last-search>
       <last-offset />
-      <last-pattern>Linearize</last-pattern>
+      <last-pattern>cstar</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4762,10 +4744,6 @@ max</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
-        <entry encoding="base64">IFxzKg==</entry>
-        <entry>turb_real</entry>
-        <entry>w_mod</entry>
         <entry>ct3</entry>
         <entry>turb_plus</entry>
         <entry>ft2</entry>
@@ -4782,6 +4760,10 @@ max</text>
         <entry>=</entry>
         <entry>operator=</entry>
         <entry>Linearize</entry>
+        <entry>cfl</entry>
+        <entry>Tgrad</entry>
+        <entry>sutherland_constant</entry>
+        <entry>cstar</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4793,7 +4775,6 @@ max</text>
         <entry>s/omega_fit/omega_coefficients/g</entry>
         <entry>qw</entry>
         <entry>107</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>
@@ -4803,6 +4784,7 @@ max</text>
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
         <entry>vsp</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

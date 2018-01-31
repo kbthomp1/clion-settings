@@ -990,12 +990,12 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" timestamp="1517421248117">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" timestamp="1517424144581">
         <mark key="'" line="77" column="39" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+        <mark key="[" line="52" column="38" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1493562963021">
         <mark key="[" line="3" column="46" />
@@ -1156,8 +1156,8 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1516977260920">
-        <mark key="'" line="100" column="13" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1517424251236">
+        <mark key="'" line="173" column="4" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -1192,8 +1192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="140" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="144" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="143" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="135" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
@@ -1292,6 +1290,8 @@
       <jump line="301" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="260" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="24" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
+      <jump line="162" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="173" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1302,7 +1302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>[i] = 1.0;</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4702,10 +4702,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>[i] = 1.0;</text>
       </register>
       <register name="/" type="4">
-        <text>compute</text>
+        <text>Iden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6Y291dCA8PCBzZXR0aW5ncy5jb252ZWN0aW9uX29uIDw8IHN0ZDo6ZW5kbDsK</text>
@@ -4748,9 +4748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>compute</last-search>
+      <last-search>Iden</last-search>
       <last-offset />
-      <last-pattern>compute</last-pattern>
+      <last-pattern>Iden</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4758,7 +4758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lhs</entry>
         <entry>dQ</entry>
         <entry>limit_turb_update</entry>
         <entry>limit_</entry>
@@ -4778,6 +4777,7 @@
         <entry>private</entry>
         <entry>settings</entry>
         <entry>compute</entry>
+        <entry>Iden</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

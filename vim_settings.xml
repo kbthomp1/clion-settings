@@ -109,12 +109,12 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1517498282962">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1517579612043">
         <mark key="'" line="347" column="8" />
-        <mark key="[" line="365" column="71" />
-        <mark key="]" line="365" column="69" />
-        <mark key="^" line="365" column="69" />
-        <mark key="." line="365" column="69" />
+        <mark key="[" line="420" column="85" />
+        <mark key="]" line="420" column="98" />
+        <mark key="^" line="420" column="98" />
+        <mark key="." line="420" column="98" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/RoeJacobianTest.cpp" timestamp="1505921921138">
         <mark key="[" line="3" column="39" />
@@ -442,7 +442,6 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1517414349793" />
       <file name="$USER_HOME$/one-ring/t_infinity/interfaces/MeshInterface.h" timestamp="1517433181188">
         <mark key="'" line="30" column="16" />
       </file>
@@ -1306,8 +1305,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGNlbGxfbm9kZV9jb29yZGluYXRlcyA9IEhTOjpFbGVtZW50OjpleHRyYWN0Q29vcmRpbmF0ZXNBdENlbGxOb2Rlcyhub2Rlc19pbl9jZWxsLCBtZXNoKTsKICAgICAgICBhdXRvIGNlbGxfZWRnZV9ub3JtYWxzID0gY29tcHV0ZU5vcm1hbChjZWxsX25vZGVfY29vcmRpbmF0ZXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>flux_function</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4707,7 +4706,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getTurb(node_id, Q);</text>
+        <text>flux_function</text>
       </register>
       <register name="/" type="4">
         <text>getTurb</text>

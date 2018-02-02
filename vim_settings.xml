@@ -4709,7 +4709,7 @@
         <text>flux_function</text>
       </register>
       <register name="/" type="4">
-        <text>getTurb</text>
+        <text encoding="base64">aGF2ZSBub3Qg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbl90dXJiID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjp0dXJidWxlbmNlX3N0YXJ0KTsK</text>
@@ -4752,9 +4752,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTurb</last-search>
+      <last-search encoding="base64">aGF2ZSBub3Qg</last-search>
       <last-offset />
-      <last-pattern>getTurb</last-pattern>
+      <last-pattern encoding="base64">aGF2ZSBub3Qg</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4762,7 +4762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>have</entry>
         <entry>settings</entry>
         <entry>compute</entry>
         <entry>Iden</entry>
@@ -4782,6 +4781,7 @@
         <entry>printf</entry>
         <entry>getTurbDDT</entry>
         <entry>getTurb</entry>
+        <entry encoding="base64">aGF2ZSBub3Qg</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

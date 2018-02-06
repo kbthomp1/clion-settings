@@ -486,12 +486,12 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1517001210325">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1517951111339">
         <mark key="'" line="305" column="42" />
-        <mark key="[" line="119" column="29" />
-        <mark key="]" line="119" column="30" />
-        <mark key="." line="119" column="30" />
-        <mark key="^" line="118" column="28" />
+        <mark key="[" line="95" column="21" />
+        <mark key="]" line="95" column="25" />
+        <mark key="." line="95" column="25" />
+        <mark key="^" line="95" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SolutionTests.cpp" timestamp="1513965270599">
         <mark key="[" line="5" column="29" />
@@ -518,11 +518,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="84" column="23" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PetscLinearSolverTests.cpp" timestamp="1517414354393">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="139" column="4" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/StrongBoundaryConditionTests.cpp" timestamp="1513798662848">
         <mark key="'" line="183" column="53" />
@@ -1194,11 +1189,11 @@
         <mark key="^" line="10" column="67" />
         <mark key="." line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" timestamp="1517001021900">
-        <mark key="'" line="136" column="28" />
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" timestamp="1517951001195">
+        <mark key="'" line="134" column="28" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
         <mark key="^" line="44" column="21" />
       </file>
     </filemarks>
@@ -1312,10 +1307,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>3
-3
-3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVkZ2Vfbm9ybWFsc1swXSA9IHsxLjE1MDE3MTEwMzA5MzU2MjVFLTAwNywgICAyLjU1Mzg5Mjg4MTgyNTYwMzVFLTAyMiwgICA1LjU1MTExNTEyMzEyNjU5MTFFLTAxOH07CiAgICBlZGdlX25vcm1hbHNbMV0gPSB7LTAuMDAwMDAwMDAwMDAwMDAwMCAgICAgLCAgIDguMTA3Nzk4MDgxMjk1OTY1N0UtMDA4LCAgIDAuMDAwMDAwMDAwMDAwMDAwMH07Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4723,50 +4716,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzBdWzBdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1swXVsxXSA9PSAwLjI1KTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzBdWzJdID09IDAuMCk7CgogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMV1bMF0gPT0gLTAuMjUpOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMV1bMV0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzFdWzJdID09IDAuMCk7CgogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMl1bMF0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzJdWzFdID09IC0wLjI1KTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzJdWzJdID09IDAuMCk7CgogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbM11bMF0gPT0gMC4yNSk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1szXVsxXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbM11bMl0gPT0gMC4wKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>3
-3
-3</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVkZ2Vfbm9ybWFsc1swXSA9IHsxLjE1MDE3MTEwMzA5MzU2MjVFLTAwNywgICAyLjU1Mzg5Mjg4MTgyNTYwMzVFLTAyMiwgICA1LjU1MTExNTEyMzEyNjU5MTFFLTAxOH07CiAgICBlZGdlX25vcm1hbHNbMV0gPSB7LTAuMDAwMDAwMDAwMDAwMDAwMCAgICAgLCAgIDguMTA3Nzk4MDgxMjk1OTY1N0UtMDA4LCAgIDAuMDAwMDAwMDAwMDAwMDAwMH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
+        <text>3
+3
+3</text>
+      </register>
+      <register name="3" type="8">
         <text>2
 2
 2</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>0
 0
 0</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>1
 1
 1</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>0
 0
 0</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzhdWzBdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1s4XVsxXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbOF1bMl0gPT0gMC4yNSk7CgogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbOV1bMF0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzldWzFdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1s5XVsyXSA9PSAwLjI1KTsKCiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1sxMF1bMF0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzEwXVsxXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMTBdWzJdID09IDAuMjUpOwoKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzExXVswXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMTFdWzFdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1sxMV1bMl0gPT0gMC4yNSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>2
-2
-2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzhdWzBdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1s4XVsxXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbOF1bMl0gPT0gMC4yNSk7CgogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbOV1bMF0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzldWzFdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1s5XVsyXSA9PSAwLjI1KTsKCiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1sxMF1bMF0gPT0gMC4wKTsKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzEwXVsxXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMTBdWzJdID09IDAuMjUpOwoKICAgIFJFUVVJUkUoZWRnZV9ub3JtYWxzWzExXVswXSA9PSAwLjApOwogICAgUkVRVUlSRShlZGdlX25vcm1hbHNbMTFdWzFdID09IDAuMCk7CiAgICBSRVFVSVJFKGVkZ2Vfbm9ybWFsc1sxMV1bMl0gPT0gMC4yNSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>

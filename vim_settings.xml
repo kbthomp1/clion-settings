@@ -25,13 +25,8 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" timestamp="1518120374235">
-        <mark key="'" line="99" column="15" />
+      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" timestamp="1518122299052">
         <mark key="k" line="70" column="17" />
-        <mark key="[" line="72" column="26" />
-        <mark key="]" line="73" column="25" />
-        <mark key="." line="73" column="25" />
-        <mark key="^" line="73" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousStressUtilitiesTests.cpp" timestamp="1512142337511">
         <mark key="'" line="1" column="19" />
@@ -1262,10 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/Element.h" />
-      <jump line="141" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/Element.h" />
-      <jump line="142" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/Element.h" />
-      <jump line="147" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/Element.h" />
       <jump line="229" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="415" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="172" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
@@ -1362,6 +1353,10 @@
       <jump line="142" column="25" filename="$USER_HOME$/clean-one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="145" column="14" filename="$USER_HOME$/clean-one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="147" column="55" filename="$USER_HOME$/clean-one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
+      <jump line="100" column="23" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
+      <jump line="101" column="23" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
+      <jump line="102" column="16" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1371,8 +1366,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>flux_limiter_plot</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4781,41 +4776,37 @@
         <text encoding="base64">ICAgIH0gZWxzZSBpZigicGhpIiA9PSBmaWVsZF9uYW1lKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBwaGkobWVzaC5ub2RlQ291bnQoKSwgMCk7CiAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgcGhpW25dID0gZmx1eF9saW1pdGVyX3Bsb3Rbbl1bMF07CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPFZlY3RvckZpZWxkQWRhcHRlcj4oInBoaSIsIDEsIHBoaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHJobywgcmhvdTsKICAgICAgICAgICAgUS0+Z2V0VmFyaWFibGUobiwgSFM6OlZhcmlhYmxlOjpkZW5zaXR5X2JlZ2luLCAmcmhvKTsKICAgICAgICAgICAgUS0+Z2V0VmFyaWFibGUobiwgSFM6OlZhcmlhYmxlOjp4X21vbWVudHVtLCAmcmhvdSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigicl9sIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9yID0gbGltaXRlcihyX3IpOwogICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigicGhpX2wsIHBoaTogJWUgJWVcbiIsIHBoaV9sLCBwaGlbbGVmdF1baV0pOwogICAgICAgICAgICAgICAgcHJpbnRmKCJwaGlfciwgcGhpOiAlZSAlZVxuIiwgcGhpX3IsIHBoaVtyaWdodF1baV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcl9yID0gZ2V0TGltaXRlclJhdGlvKHFfcHJpbWl0aXZlW3JpZ2h0XVtpXSwgcWZhY2VfcltpXSwgbWluW3JpZ2h0XVtpXSwgbWF4W3JpZ2h0XVtpXSwgLTEuMCAqIGVkZ2VfbWlkcG9pbnRfdmVjdG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9sID0gbGltaXRlcihyX2wpOwogICAgICAgICAgICAgICAgcGhpW2xlZnRdW2ldID0gc3RkOjptaW4ocGhpX2wsIHBoaVtsZWZ0XVtpXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcGhpX3IgPSBsaW1pdGVyKHJfcik7CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcGhpX3IgPSBsaW1pdGVyKHJfcik7CiAgICAgICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>ax
-ax
-ax
-ax
-ax</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBoaVtyaWdodF1baV0gPSBzdGQ6Om1pbihwaGlfciwgcGhpW3JpZ2h0XVtpXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBwaGlfciA9IGxpbWl0ZXIocl9yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUobWF4WzBdWzBdID09IDEuMyk7CiAgICBSRVFVSVJFKG1heFswXVsxXSA9PSAwLjQpOwogICAgUkVRVUlSRShtYXhbMF1bMl0gPT0gMC40KTsKICAgIFJFUVVJUkUobWF4WzBdWzNdID09IDAuNCk7CiAgICBSRVFVSVJFKG1heFswXVs0XSA9PSAyLjQ0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX2wgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbbGVmdF1baV0sIHFmYWNlX2xbaV0sIG1pbltsZWZ0XVtpXSwgbWF4W2xlZnRdW2ldLCBlZGdlX21pZHBvaW50X3ZlY3Rvcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

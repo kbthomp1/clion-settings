@@ -25,7 +25,7 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" timestamp="1518122299052">
+      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" timestamp="1518124636320">
         <mark key="k" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousStressUtilitiesTests.cpp" timestamp="1512142337511">
@@ -61,7 +61,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1518120224165">
+      <file name="/LLDB" timestamp="1518124851532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1517414587756">
@@ -905,8 +905,8 @@
         <mark key="." line="108" column="3" />
         <mark key="^" line="108" column="3" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1518114867088">
-        <mark key="'" line="127" column="25" />
+      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1518124123114">
+        <mark key="'" line="155" column="33" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="74" />
         <mark key="^" line="64" column="79" />
@@ -1051,7 +1051,7 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/InviscidTerms.h" timestamp="1518119577716">
+      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/InviscidTerms.h" timestamp="1518123429763">
         <mark key="'" line="134" column="43" />
         <mark key="[" line="134" column="132" />
         <mark key="]" line="135" column="35" />
@@ -1257,9 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="415" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="172" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="113" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="194" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="202" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
@@ -1357,6 +1354,9 @@
       <jump line="100" column="23" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="101" column="23" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
       <jump line="102" column="16" filename="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" />
+      <jump line="145" column="56" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="147" column="65" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="155" column="33" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4770,7 +4770,7 @@
         <text>flux_limiter_plot</text>
       </register>
       <register name="/" type="4">
-        <text>phi</text>
+        <text>grad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0gZWxzZSBpZigicGhpIiA9PSBmaWVsZF9uYW1lKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBwaGkobWVzaC5ub2RlQ291bnQoKSwgMCk7CiAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgcGhpW25dID0gZmx1eF9saW1pdGVyX3Bsb3Rbbl1bMF07CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPFZlY3RvckZpZWxkQWRhcHRlcj4oInBoaSIsIDEsIHBoaSk7Cg==</text>
@@ -4809,13 +4809,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX2wgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbbGVmdF1baV0sIHFmYWNlX2xbaV0sIG1pbltsZWZ0XVtpXSwgbWF4W2xlZnRdW2ldLCBlZGdlX21pZHBvaW50X3ZlY3Rvcik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>phi</last-search>
+      <last-search>grad</last-search>
       <last-offset />
-      <last-pattern>phi</last-pattern>
+      <last-pattern>grad</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4823,7 +4823,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prod</entry>
         <entry>viscous</entry>
         <entry>&quot;viscous&quot;</entry>
         <entry>dacles_mariani</entry>
@@ -4843,6 +4842,7 @@
         <entry>Q</entry>
         <entry>kappa</entry>
         <entry>phi</entry>
+        <entry>grad</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4863,8 +4863,8 @@
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

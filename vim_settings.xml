@@ -387,8 +387,8 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" timestamp="1517432767617">
-        <mark key="'" line="22" column="15" />
+      <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" timestamp="1518464145132">
+        <mark key="'" line="52" column="58" />
         <mark key="[" line="90" column="70" />
         <mark key="]" line="90" column="72" />
         <mark key="." line="90" column="72" />
@@ -1259,8 +1259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
-      <jump line="481" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="488" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="489" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="74" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
@@ -1359,6 +1357,8 @@
       <jump line="108" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="101" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="453" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
+      <jump line="62" column="34" filename="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" />
+      <jump line="52" column="58" filename="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4772,7 +4772,7 @@
         <text>SATurbulenceTerms</text>
       </register>
       <register name="/" type="4">
-        <text>CHECKPOINT</text>
+        <text>VizPlugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDSEVDS1BPSU5UCg==</text>
@@ -4815,9 +4815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CHECKPOINT</last-search>
+      <last-search>VizPlugin</last-search>
       <last-offset />
-      <last-pattern>CHECKPOINT</last-pattern>
+      <last-pattern>VizPlugin</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4825,8 +4825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;viscous&quot;</entry>
-        <entry>dacles_mariani</entry>
         <entry>des_code</entry>
         <entry>turb_compres</entry>
         <entry>t_ref</entry>
@@ -4845,6 +4843,8 @@
         <entry>phi</entry>
         <entry>grad</entry>
         <entry>CHECKPOINT</entry>
+        <entry>iz</entry>
+        <entry>VizPlugin</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

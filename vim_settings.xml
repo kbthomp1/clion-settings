@@ -25,9 +25,6 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/FluxLimiter.h" timestamp="1518452293325">
-        <mark key="k" line="70" column="17" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousStressUtilitiesTests.cpp" timestamp="1512142337511">
         <mark key="'" line="1" column="19" />
         <mark key="[" line="45" column="26" />
@@ -117,6 +114,11 @@
         <mark key="]" line="94" column="54" />
         <mark key="." line="94" column="59" />
         <mark key="^" line="90" column="80" />
+      </file>
+      <file name="$USER_HOME$/clean-one-ring/t_infinity/src/FluidSolver.h" timestamp="1518453017551">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/EdgesToSparsity.h" timestamp="1506108949543">
         <mark key="[" line="6" column="25" />
@@ -925,6 +927,9 @@
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="12" />
       </file>
+      <file name="$USER_HOME$/clean-one-ring/t_infinity/src/FluidSolver.cpp" timestamp="1518453031980">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1513704163126">
         <mark key="'" line="470" column="4" />
         <mark key="[" line="338" column="0" />
@@ -1051,13 +1056,6 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/InviscidTerms.h" timestamp="1518452248164">
-        <mark key="'" line="134" column="43" />
-        <mark key="[" line="134" column="132" />
-        <mark key="]" line="135" column="35" />
-        <mark key="." line="135" column="35" />
-        <mark key="^" line="135" column="35" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/he_physics/thermodynamics.h" timestamp="1493853380575">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -1122,6 +1120,12 @@
         <mark key="]" line="384" column="84" />
         <mark key="." line="384" column="34" />
         <mark key="^" line="384" column="34" />
+      </file>
+      <file name="$USER_HOME$/clean-one-ring/t_infinity/src/t_infinity.cpp" timestamp="1518453185124">
+        <mark key="[" line="111" column="19" />
+        <mark key="]" line="111" column="18" />
+        <mark key="." line="111" column="18" />
+        <mark key="^" line="111" column="18" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/QConvertTests.cpp" timestamp="1506461835762">
         <mark key="'" line="4" column="0" />
@@ -1257,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="194" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="202" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="211" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
@@ -1357,6 +1360,7 @@
       <jump line="145" column="56" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="147" column="65" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="155" column="33" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="41" column="0" filename="$USER_HOME$/clean-one-ring/t_infinity/src/FluidSolver.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1366,8 +1370,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4767,49 +4771,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>flux_limiter_plot</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>grad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZigicGhpIiA9PSBmaWVsZF9uYW1lKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBwaGkobWVzaC5ub2RlQ291bnQoKSwgMCk7CiAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgcGhpW25dID0gZmx1eF9saW1pdGVyX3Bsb3Rbbl1bMF07CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPFZlY3RvckZpZWxkQWRhcHRlcj4oInBoaSIsIDEsIHBoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRlZigic2V0U29sdXRpb25BdE5vZGUiLCZpbmZpbml0eTo6Rmx1aWRTb2x2ZXI6OnNldFNvbHV0aW9uQXROb2RlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9yID0gbGltaXRlcihyX3IpOwogICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcl9yID0gZ2V0TGltaXRlclJhdGlvKHFfcHJpbWl0aXZlW3JpZ2h0XVtpXSwgcWZhY2VfcltpXSwgbWluW3JpZ2h0XVtpXSwgbWF4W3JpZ2h0XVtpXSwgLTEuMCAqIGVkZ2VfbWlkcG9pbnRfdmVjdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9yID0gbGltaXRlcihyX3IpOwogICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9sID0gbGltaXRlcihyX2wpOwogICAgICAgICAgICAgICAgcGhpW2xlZnRdW2ldID0gc3RkOjptaW4ocGhpX2wsIHBoaVtsZWZ0XVtpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcl9yID0gZ2V0TGltaXRlclJhdGlvKHFfcHJpbWl0aXZlW3JpZ2h0XVtpXSwgcWZhY2VfcltpXSwgbWluW3JpZ2h0XVtpXSwgbWF4W3JpZ2h0XVtpXSwgLTEuMCAqIGVkZ2VfbWlkcG9pbnRfdmVjdG9yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcGhpX3IgPSBsaW1pdGVyKHJfcik7CiAgICAgICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX3IgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbcmlnaHRdW2ldLCBxZmFjZV9yW2ldLCBtaW5bcmlnaHRdW2ldLCBtYXhbcmlnaHRdW2ldLCAtMS4wICogZWRnZV9taWRwb2ludF92ZWN0b3IpOwogICAgICAgICAgICAgICAgZG91YmxlIHBoaV9sID0gbGltaXRlcihyX2wpOwogICAgICAgICAgICAgICAgcGhpW2xlZnRdW2ldID0gc3RkOjptaW4ocGhpX2wsIHBoaVtsZWZ0XVtpXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBoaVtyaWdodF1baV0gPSBzdGQ6Om1pbihwaGlfciwgcGhpW3JpZ2h0XVtpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcGhpX3IgPSBsaW1pdGVyKHJfcik7CiAgICAgICAgICAgICAgICAgICAgcGhpW3JpZ2h0XVtpXSA9IHN0ZDo6bWluKHBoaV9yLCBwaGlbcmlnaHRdW2ldKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBwaGlfciA9IGxpbWl0ZXIocl9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBoaVtyaWdodF1baV0gPSBzdGQ6Om1pbihwaGlfciwgcGhpW3JpZ2h0XVtpXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBwaGlfciA9IGxpbWl0ZXIocl9yKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByX2wgPSBnZXRMaW1pdGVyUmF0aW8ocV9wcmltaXRpdmVbbGVmdF1baV0sIHFmYWNlX2xbaV0sIG1pbltsZWZ0XVtpXSwgbWF4W2xlZnRdW2ldLCBlZGdlX21pZHBvaW50X3ZlY3Rvcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4863,8 +4867,8 @@
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

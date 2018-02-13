@@ -32,11 +32,12 @@
         <mark key="^" line="45" column="26" />
         <mark key="." line="45" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1518559113724">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1518561014156">
         <mark key="'" line="28" column="48" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="118" />
-        <mark key="." line="170" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="157" column="41" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Element.h" timestamp="1517957824975">
         <mark key="'" line="147" column="17" />
@@ -1387,7 +1388,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4787,7 +4788,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogdHVyYiAqIHR1cmI7</text>
+        <text>getTurbDDT(node, Q);</text>
       </register>
       <register name="/" type="4">
         <text>c2</text>
@@ -4796,37 +4797,37 @@
         <text encoding="base64">Ly8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgICAgICAgICAgICAgcW5vZGVbaV0gPSBRW25vZGVdW2ldOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgYWxwaGEocG93KCgxLjAgKyBwb3coY3czLCA2KSksIChvbmVfNnRoKSkpOwovLyAgICAgICAgVCBnZzYocG93KGcsIDYpKTsKLy8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgb25lXzZ0aCA9IDEuMCAvIDYuMDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciA9IDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFQgYWxwaGEocG93KCgxLjAgKyBwb3coY3czLCA2KSksIChvbmVfNnRoKSkpOwovLyAgICAgICAgVCBnZzYocG93KGcsIDYpKTsKLy8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgb25lXzZ0aCA9IDEuMCAvIDYuMDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUbyBwcmV2ZW50IGEgZGl2aWRlLWJ5LXplcm8sIHRlc3QgaWYKICAgICAgICAvLyBkaXZpc2lvbiB3aWxsIGJlIHN1Y2Nlc3NmdWwKICAgICAgICBpZiAoZmFicygxLmUyMCpzX2hhdCkgPiBmYWJzKHhtcmVfYm90ICogdHVyYikpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBQZXIsIGh0dHBzOi8vdHVyYm1vZGVscy5sYXJjLm5hc2EuZ292L3NwYWxhcnQuaHRtbAogICAgICAgICAgICByID0gMTAuMDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9IDsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

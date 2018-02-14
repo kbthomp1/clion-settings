@@ -183,8 +183,8 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518642060019">
-        <mark key="'" line="678" column="12" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518642939973">
+        <mark key="'" line="703" column="16" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -1268,8 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
-      <jump line="114" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
       <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
       <jump line="5" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="325" column="15" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
@@ -1368,6 +1366,8 @@
       <jump line="276" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="278" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="678" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="652" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="703" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4781,7 +4781,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>Riemann</text>
+        <text>riemann</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgICAgIGRyaG9bbl0gPSBkUVtuXVtuX2RlbnNpdHldOwogICAgICAgICAgICB9Cg==</text>
@@ -4824,9 +4824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Riemann</last-search>
+      <last-search>riemann</last-search>
       <last-offset />
-      <last-pattern>Riemann</last-pattern>
+      <last-pattern>riemann</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4834,7 +4834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s_ij_bar</entry>
         <entry>s_ij</entry>
         <entry>dudx</entry>
         <entry>velterm</entry>
@@ -4854,6 +4853,7 @@
         <entry>eqn_type</entry>
         <entry>iemann</entry>
         <entry>Riemann</entry>
+        <entry>riemann</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

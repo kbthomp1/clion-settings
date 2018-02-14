@@ -191,12 +191,12 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1517413565036">
-        <mark key="'" line="582" column="16" />
-        <mark key="[" line="122" column="23" />
-        <mark key="]" line="122" column="29" />
-        <mark key="^" line="122" column="29" />
-        <mark key="." line="122" column="29" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518615663481">
+        <mark key="'" line="732" column="64" />
+        <mark key="[" line="595" column="34" />
+        <mark key="]" line="595" column="34" />
+        <mark key="^" line="594" column="16" />
+        <mark key="." line="595" column="34" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -512,9 +512,6 @@
         <mark key="." line="86" column="40" />
         <mark key="^" line="86" column="40" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518106096269">
-        <mark key="'" line="369" column="12" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ElementTests.cpp" timestamp="1517957841349">
         <mark key="[" line="179" column="73" />
         <mark key="]" line="179" column="74" />
@@ -560,7 +557,7 @@
         <mark key="." line="51" column="57" />
         <mark key="^" line="51" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518552625541">
+      <file name="/Dummy.txt" timestamp="1518614387320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" timestamp="1513878633977">
@@ -628,6 +625,12 @@
         <mark key="]" line="47" column="58" />
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1518615716546">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="61" column="3" />
       </file>
       <file name="$USER_HOME$/clean-one-ring/hypersolve/src/ViscousTerms.h" timestamp="1518037076997">
         <mark key="[" line="180" column="63" />
@@ -927,9 +930,6 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
         <mark key="^" line="25" column="12" />
-      </file>
-      <file name="$USER_HOME$/clean-one-ring/t_infinity/src/FluidSolver.cpp" timestamp="1518453031980">
-        <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1513704163126">
         <mark key="'" line="470" column="4" />
@@ -1252,8 +1252,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1518545822172">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1518615634206">
+        <mark key="'" line="132" column="26" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CFLControllerTests.cpp" timestamp="1516898597985">
         <mark key="'" line="40" column="4" />
@@ -1278,21 +1282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparsityPatternBuilders.h" />
-      <jump line="10" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/SparsityPatternBuilders.h" />
-      <jump line="23" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SparsityPatternBuilders.h" />
-      <jump line="44" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SparsityPatternBuilders.h" />
-      <jump line="40" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="44" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="174" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="186" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="206" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="327" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="16" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" />
-      <jump line="44" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" />
-      <jump line="42" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" />
-      <jump line="43" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" />
-      <jump line="29" column="17" filename="$USER_HOME$/one-ring/hypersolve/test/DualGradientTests.cpp" />
       <jump line="44" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DualGradientTests.cpp" />
       <jump line="165" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="38" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
@@ -1378,6 +1367,21 @@
       <jump line="197" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="224" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="145" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="430" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="562" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="727" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="267" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="58" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="70" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="105" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="110" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="118" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="123" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="62" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="154" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="146" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="138" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="131" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1387,8 +1391,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>- 2.0 * c_ff / gm1;  // R- (external invariant)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4788,65 +4792,66 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getTurbDDT(node, Q);</text>
+        <text>- 2.0 * c_ff / gm1;  // R- (external invariant)</text>
       </register>
       <register name="/" type="4">
-        <text>c2</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vIC0gMi4wICogY19mZiAvIGdtMTsgIC8vIFItIChleHRlcm5hbCBpbnZhcmlhbnQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
+      <register name="1" type="8">
+        <text>xnorm
+ynorm
+znorm</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgICAgICAgICAgICAgcW5vZGVbaV0gPSBRW25vZGVdW2ldOwo=</text>
+      <register name="2" type="8">
+        <text>xnorm
+ynorm
+znorm</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCBpZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgICAgICAgICAgICAgcW5vZGVbaV0gPSBRW25vZGVdW2ldOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgYWxwaGEocG93KCgxLjAgKyBwb3coY3czLCA2KSksIChvbmVfNnRoKSkpOwovLyAgICAgICAgVCBnZzYocG93KGcsIDYpKTsKLy8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgb25lXzZ0aCA9IDEuMCAvIDYuMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFQgYWxwaGEocG93KCgxLjAgKyBwb3coY3czLCA2KSksIChvbmVfNnRoKSkpOwovLyAgICAgICAgVCBnZzYocG93KGcsIDYpKTsKLy8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>c2</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>c2</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>view</entry>
-        <entry>node_tgrad</entry>
-        <entry>tgrad</entry>
         <entry>gamma</entry>
         <entry>s_mod</entry>
         <entry>s_mag</entry>
@@ -4864,6 +4869,9 @@
         <entry>turb_plus</entry>
         <entry>private</entry>
         <entry>c2</entry>
+        <entry>Riemann</entry>
+        <entry>trhis</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4884,8 +4892,8 @@
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -75,12 +75,12 @@
         <mark key="." line="205" column="26" />
         <mark key="^" line="205" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1516905724192">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="29" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1518618293604">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1515703984070">
         <mark key="'" line="167" column="80" />
@@ -141,12 +141,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1518561793832">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="71" />
-        <mark key="^" line="283" column="43" />
-        <mark key="." line="287" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1518618818756">
+        <mark key="'" line="56" column="20" />
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="31" />
       </file>
       <file name="$USER_HOME$/clean-one-ring/hypersolve/src/ViscousTermsFactory.h" timestamp="1518025510655">
         <mark key="[" line="45" column="90" />
@@ -192,11 +192,7 @@
         <mark key="." line="23" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518616728061">
-        <mark key="'" line="732" column="64" />
-        <mark key="[" line="594" column="16" />
-        <mark key="]" line="594" column="16" />
-        <mark key="^" line="593" column="31" />
-        <mark key="." line="594" column="16" />
+        <mark key="'" line="637" column="64" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -444,12 +440,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1518534137200">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="17" column="67" />
-        <mark key="^" line="17" column="67" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1518618891758">
+        <mark key="'" line="226" column="23" />
+        <mark key="[" line="231" column="9" />
+        <mark key="]" line="232" column="4" />
+        <mark key="." line="232" column="4" />
+        <mark key="^" line="232" column="4" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1517266179731">
         <mark key="'" line="45" column="0" />
@@ -997,6 +993,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/AuxSolutionData.h" timestamp="1518618811057">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="63" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="141" column="0" />
@@ -1281,13 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="166" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="28" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="68" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="266" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="291" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="273" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="320" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
@@ -1381,6 +1376,13 @@
       <jump line="29" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="64" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="26" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="55" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="93" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="197" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="53" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="54" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="189" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="221" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1390,8 +1392,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">VCAKVCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4791,55 +4793,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG15X2RvdWJsZTs=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>aux_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgICAgIGRyaG9bbl0gPSBkUVtuXVtuX2RlbnNpdHldOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">VCAKVCA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBuID0gMDsgbiA8IG1lc2gubm9kZUNvdW50KCk7IG4rKykgewogICAgICAgICAgICBkcmhvW25dID0gZFFbbl1bbl9kZW5zaXR5XTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IG4+CmlubGluZSBvcGVyYXRvciBMaW5lYXJpemU6OkRkYXRhPG4+KCkgY29uc3QgewogICAgCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRvciBkb3VibGUoKSB7CiAgICAgICAgICAgIHJldHVybiBmOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvICZkUSA9IGF1eF9kYXRhLnNvbHV0aW9uX3VwZGF0ZTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZGF0YSgpID0gZGVmYXVsdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>aux_data</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>aux_data</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4847,8 +4849,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gamma</entry>
-        <entry>s_mod</entry>
         <entry>s_mag</entry>
         <entry>s_id</entry>
         <entry>s_ij_bar</entry>
@@ -4862,11 +4862,13 @@
         <entry>fabs</entry>
         <entry>one_6th</entry>
         <entry>turb_plus</entry>
-        <entry>private</entry>
         <entry>c2</entry>
         <entry>Riemann</entry>
         <entry>trhis</entry>
         <entry>this</entry>
+        <entry>private</entry>
+        <entry>ax_data</entry>
+        <entry>aux_data</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4887,8 +4889,8 @@
         <entry>s/ \s*/\r/g</entry>
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

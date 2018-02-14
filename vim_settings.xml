@@ -183,8 +183,14 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518642939973">
-        <mark key="'" line="703" column="16" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518646358676">
+        <mark key="'" line="587" column="16" />
+        <mark key="k" line="581" column="41" />
+        <mark key="[" line="587" column="23" />
+        <mark key="l" line="724" column="52" />
+        <mark key="]" line="587" column="42" />
+        <mark key="^" line="587" column="42" />
+        <mark key="." line="587" column="42" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -1268,15 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
-      <jump line="5" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="325" column="15" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="2" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="121" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="123" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="279" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="292" column="31" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="146" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="182" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="223" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
@@ -1368,6 +1365,15 @@
       <jump line="678" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="652" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="703" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="675" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="721" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="729" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="581" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="657" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="724" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="610" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="582" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="587" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1377,8 +1383,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>temperature_farfield</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4778,10 +4784,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>temperature_farfield</text>
       </register>
       <register name="/" type="4">
-        <text>riemann</text>
+        <text>s_ff</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgICAgIGRyaG9bbl0gPSBkUVtuXVtuX2RlbnNpdHldOwogICAgICAgICAgICB9Cg==</text>
@@ -4824,9 +4830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>riemann</last-search>
+      <last-search>s_ff</last-search>
       <last-offset />
-      <last-pattern>riemann</last-pattern>
+      <last-pattern>s_ff</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4834,8 +4840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s_ij</entry>
-        <entry>dudx</entry>
         <entry>velterm</entry>
         <entry>bot</entry>
         <entry>constructGrad</entry>
@@ -4854,6 +4858,8 @@
         <entry>iemann</entry>
         <entry>Riemann</entry>
         <entry>riemann</entry>
+        <entry>si</entry>
+        <entry>s_ff</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

@@ -191,12 +191,12 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518615663481">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518616728061">
         <mark key="'" line="732" column="64" />
-        <mark key="[" line="595" column="34" />
-        <mark key="]" line="595" column="34" />
-        <mark key="^" line="594" column="16" />
-        <mark key="." line="595" column="34" />
+        <mark key="[" line="594" column="16" />
+        <mark key="]" line="594" column="16" />
+        <mark key="^" line="593" column="31" />
+        <mark key="." line="594" column="16" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -626,11 +626,11 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1518615716546">
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="61" column="3" />
-        <mark key="^" line="61" column="3" />
-        <mark key="." line="61" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1518616701169">
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="62" column="17" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="62" column="17" />
       </file>
       <file name="$USER_HOME$/clean-one-ring/hypersolve/src/ViscousTerms.h" timestamp="1518037076997">
         <mark key="[" line="180" column="63" />
@@ -1252,12 +1252,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1518615634206">
-        <mark key="'" line="132" column="26" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" timestamp="1518616693457">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CFLControllerTests.cpp" timestamp="1516898597985">
         <mark key="'" line="40" column="4" />
@@ -1282,9 +1281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DualGradientTests.cpp" />
-      <jump line="165" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
-      <jump line="38" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="279" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="166" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
@@ -1382,6 +1378,9 @@
       <jump line="146" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="138" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
       <jump line="131" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="29" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="64" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
+      <jump line="26" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/Ddata.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1391,8 +1390,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>- 2.0 * c_ff / gm1;  // R- (external invariant)</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">VCAKVCA=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4792,41 +4791,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>- 2.0 * c_ff / gm1;  // R- (external invariant)</text>
+        <text encoding="base64">IG15X2RvdWJsZTs=</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vIC0gMi4wICogY19mZiAvIGdtMTsgIC8vIFItIChleHRlcm5hbCBpbnZhcmlhbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vOwo=</text>
       </register>
       <register name="1" type="8">
-        <text>xnorm
-ynorm
-znorm</text>
+        <text encoding="base64">VCAKVCA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>xnorm
-ynorm
-znorm</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gdW5vcm1vOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCBpZgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gVGdyYWQgPSBnYW1tYSAqIChncmFkWzRdIC8gZGVuc2l0eS5mIC0gcHJlc3N1cmUuZiAqIGdyYWRbMF0gLyAoZGVuc2l0eS5mICogZGVuc2l0eS5mKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgICAgICAgICAgICAgcW5vZGVbaV0gPSBRW25vZGVdW2ldOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IG4+CmlubGluZSBvcGVyYXRvciBMaW5lYXJpemU6OkRkYXRhPG4+KCkgY29uc3QgewogICAgCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcGVyYXRvciBkb3VibGUoKSB7CiAgICAgICAgICAgIHJldHVybiBmOwogICAgICAgIH0KCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -4835,7 +4830,7 @@ znorm</text>
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgYWxwaGEocG93KCgxLjAgKyBwb3coY3czLCA2KSksIChvbmVfNnRoKSkpOwovLyAgICAgICAgVCBnZzYocG93KGcsIDYpKTsKLy8gICAgICAgIFQgZncoYWxwaGEgKiBnICogcG93KChnZzYgKyBwb3coY3czLCA2KSksICgtb25lXzZ0aCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBEZGF0YSgpID0gZGVmYXVsdDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>

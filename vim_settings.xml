@@ -183,8 +183,8 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518616728061">
-        <mark key="'" line="637" column="64" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518642060019">
+        <mark key="'" line="678" column="12" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -242,8 +242,8 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1513879826569">
-        <mark key="'" line="409" column="22" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1518642040898">
+        <mark key="'" line="278" column="23" />
         <mark key="[" line="369" column="53" />
         <mark key="]" line="369" column="60" />
         <mark key="^" line="369" column="60" />
@@ -1268,12 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
-      <jump line="72" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
-      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
-      <jump line="269" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="287" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
-      <jump line="272" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="93" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
       <jump line="114" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
       <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/FiniteDifferenceJacobian.h" />
@@ -1368,6 +1362,12 @@
       <jump line="188" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="198" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="22" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="79" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="279" column="27" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="336" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="276" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="278" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="678" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4781,7 +4781,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>eqn_type</text>
+        <text>Riemann</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgICAgIGRyaG9bbl0gPSBkUVtuXVtuX2RlbnNpdHldOwogICAgICAgICAgICB9Cg==</text>
@@ -4824,9 +4824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eqn_type</last-search>
+      <last-search>Riemann</last-search>
       <last-offset />
-      <last-pattern>eqn_type</last-pattern>
+      <last-pattern>Riemann</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4834,7 +4834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s_id</entry>
         <entry>s_ij_bar</entry>
         <entry>s_ij</entry>
         <entry>dudx</entry>
@@ -4847,13 +4846,14 @@
         <entry>one_6th</entry>
         <entry>turb_plus</entry>
         <entry>c2</entry>
-        <entry>Riemann</entry>
         <entry>trhis</entry>
         <entry>this</entry>
         <entry>private</entry>
         <entry>ax_data</entry>
         <entry>aux_data</entry>
         <entry>eqn_type</entry>
+        <entry>iemann</entry>
+        <entry>Riemann</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

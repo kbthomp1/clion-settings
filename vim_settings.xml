@@ -243,12 +243,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1518642040898">
-        <mark key="'" line="278" column="23" />
-        <mark key="[" line="369" column="53" />
-        <mark key="]" line="369" column="60" />
-        <mark key="^" line="369" column="60" />
-        <mark key="." line="369" column="60" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1518717526736">
+        <mark key="'" line="295" column="23" />
+        <mark key="[" line="307" column="21" />
+        <mark key="]" line="311" column="16" />
+        <mark key="." line="311" column="16" />
+        <mark key="^" line="311" column="16" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -1379,7 +1379,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>temperature_farfield</text>
+        <text>exterior</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4779,46 +4779,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>temperature_farfield</text>
+        <text>exterior</text>
       </register>
       <register name="/" type="4">
         <text>Riemann</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtZXNoLm5vZGVDb3VudCgpOyBuKyspIHsKICAgICAgICAgICAgICAgIGRyaG9bbl0gPSBkUVtuXVtuX2RlbnNpdHldOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gcV9leHRlcmlvciA9IG1rc190b19ub2RpbS50b0ZyYW1ld29yayhmdW4zZF9ub25kaW1fZXh0ZXJpb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgMC4xLCAwLjIsIDAuMywgMTAxMzI1LjB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBuID0gMDsgbiA8IG1lc2gubm9kZUNvdW50KCk7IG4rKykgewogICAgICAgICAgICBkcmhvW25dID0gZFFbbl1bbl9kZW5zaXR5XTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZnJhbWV3b3JrX3RyYW5zbGF0b3IgPSBIUzo6RnJhbWV3b3JrVHJhbnNsYXRvcihub25kaW0sIGdhbW1hKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBmdW4zZF9leHRlcmlvciA9IHswLjkyODQ0NzY2NjM5MTExNywgMC44ODY3MzUyOTUxNDEwNDgsIDAuMCwgMC4wLCAwLjY0Mzc3MjQxNjgyMzkzN307CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gZnVuM2RfaW50ZXJpb3IgPSB7MC45Mjg0NDc2NjYzOTExMTcsIDAuODg2NzM1Mjk1MTQxMDQ4LCAwLjAsIDAuMCwgMC42NDM3NzI0MTY4MjM5Mzd9OwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvICZkUSA9IGF1eF9kYXRhLnNvbHV0aW9uX3VwZGF0ZTsK</text>
+        <text encoding="base64">CiAgICBkb3VibGUgZGVuc2l0eV9yZWYgPSAxLjA7CiAgICBkb3VibGUgbWFjaF9yZWYgPSAwLjg7CiAgICBra2sKCiAgICBhdXRvIG5vbmRpbSA9IEhTOjpOb25kaW1lbnNpb25hbGl6YXRpb24oZGVuc2l0eV9yZWYsICk7Cgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

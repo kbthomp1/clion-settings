@@ -65,7 +65,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="/LLDB" timestamp="1518730987088">
+      <file name="/LLDB" timestamp="1518788336895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1517414587756">
@@ -183,7 +183,7 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518727821687">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1518788456761">
         <mark key="'" line="552" column="51" />
         <mark key="[" line="611" column="0" />
         <mark key="l" line="723" column="52" />
@@ -247,12 +247,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1518730968006">
-        <mark key="'" line="297" column="23" />
-        <mark key="[" line="286" column="25" />
-        <mark key="]" line="286" column="43" />
-        <mark key="." line="286" column="43" />
-        <mark key="^" line="286" column="43" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1518788263266">
+        <mark key="'" line="296" column="23" />
+        <mark key="[" line="320" column="39" />
+        <mark key="]" line="320" column="39" />
+        <mark key="." line="320" column="39" />
+        <mark key="^" line="290" column="78" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -1382,8 +1382,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzBdID0gaW50ZXJpb3Jfc3BlZWRfb2Zfc291bmQ7CiAgICAgICAgICAgICAgICBxX2V4dFsxXSA9IGludGVyaW9yX2VudHJvcHk7CiAgICAgICAgICAgICAgICBxX2V4dFsyXSA9IGludGVyaW9yX2VudHJvcHk7CgoK</text>
+      <register name="&quot;" type="4">
+        <text>7570</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4783,7 +4783,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interior_speed_of_sound</text>
+        <text>7570</text>
       </register>
       <register name="/" type="4">
         <text>q_ext</text>
@@ -4792,37 +4792,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzFdID0gaW50ZXJpb3JfZW50cm9weTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzBdID0gaW50ZXJpb3Jfc3BlZWRfb2Zfc291bmQ7CiAgICAgICAgICAgICAgICBxX2V4dFsxXSA9IGludGVyaW9yX2VudHJvcHk7CiAgICAgICAgICAgICAgICBxX2V4dFsyXSA9IGludGVyaW9yX2VudHJvcHk7CgoK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBtYWNoX3JlZiA9IDAuODsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzBdID0gaW50ZXJpb3Jfc3BlZWRfb2Zfc291bmQ7CiAgICAgICAgICAgICAgICBxX2V4dFsxXSA9IGludGVyaW9yX2VudHJvcHk7CiAgICAgICAgICAgICAgICBxX2V4dFsyXSA9IGludGVyaW9yX2VudHJvcHk7CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzBdID0gaW50ZXJpb3Jfc3BlZWRfb2Zfc291bmQ7CiAgICAgICAgICAgICAgICBxX2V4dFsxXSA9IGludGVyaW9yX2VudHJvcHk7CiAgICAgICAgICAgICAgICBxX2V4dFsyXSA9IGludGVyaW9yX2VudHJvcHk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgMC4xLCAwLjIsIDAuMywgMTAxMzI1LjB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHFfZXh0WzBdID0gaW50ZXJpb3Jfc3BlZWRfb2Zfc291bmQ7CiAgICAgICAgICAgICAgICBxX2V4dFsxXSA9IGludGVyaW9yX2VudHJvcHk7CiAgICAgICAgICAgICAgICBxX2V4dFsyXSA9IGludGVyaW9yX2VudHJvcHk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgMC4xLCAwLjIsIDAuMywgMTAxMzI1LjB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZnJhbWV3b3JrX3RyYW5zbGF0b3IgPSBIUzo6RnJhbWV3b3JrVHJhbnNsYXRvcihub25kaW0sIGdhbW1hKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAoK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGF1dG8gZnJhbWV3b3JrX3RyYW5zbGF0b3IgPSBIUzo6RnJhbWV3b3JrVHJhbnNsYXRvcihub25kaW0sIGdhbW1hKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBmdW4zZF9leHRlcmlvciA9IHswLjkyODQ0NzY2NjM5MTExNywgMC44ODY3MzUyOTUxNDEwNDgsIDAuMCwgMC4wLCAwLjY0Mzc3MjQxNjgyMzkzN307CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gZnVuM2RfaW50ZXJpb3IgPSB7MC45Mjg0NDc2NjYzOTExMTcsIDAuODg2NzM1Mjk1MTQxMDQ4LCAwLjAsIDAuMCwgMC42NDM3NzI0MTY4MjM5Mzd9OwoK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBmdW4zZF9leHRlcmlvciA9IHswLjkyODQ0NzY2NjM5MTExNywgMC44ODY3MzUyOTUxNDEwNDgsIDAuMCwgMC4wLCAwLjY0Mzc3MjQxNjgyMzkzN307CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gZnVuM2RfaW50ZXJpb3IgPSB7MC45Mjg0NDc2NjYzOTExMTcsIDAuODg2NzM1Mjk1MTQxMDQ4LCAwLjAsIDAuMCwgMC42NDM3NzI0MTY4MjM5Mzd9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

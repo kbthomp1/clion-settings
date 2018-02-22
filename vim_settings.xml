@@ -204,12 +204,12 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1519326783200">
-        <mark key="'" line="145" column="99" />
-        <mark key="[" line="142" column="28" />
-        <mark key="]" line="142" column="32" />
-        <mark key="." line="142" column="32" />
-        <mark key="^" line="142" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1519328902051">
+        <mark key="'" line="145" column="96" />
+        <mark key="[" line="155" column="42" />
+        <mark key="]" line="155" column="52" />
+        <mark key="." line="155" column="52" />
+        <mark key="^" line="155" column="52" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SABaseline.h" timestamp="1516918967947">
         <mark key="'" line="193" column="0" />
@@ -459,7 +459,10 @@
         <mark key="^" line="61" column="68" />
         <mark key="." line="61" column="68" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1519327310364" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1519328549922">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="84" column="9" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="17" column="80" />
@@ -1299,13 +1302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="652" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="703" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="675" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="721" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="581" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="657" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="724" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="610" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="582" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
       <jump line="587" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
@@ -1396,9 +1392,16 @@
       <jump line="278" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="129" column="61" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="66" column="85" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="130" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="131" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="139" column="99" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="151" column="83" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="154" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="158" column="47" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="7" column="16" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="109" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="130" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="132" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
+      <jump line="145" column="96" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1409,7 +1412,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUIHNvdXJjZSA9IGRlbnNpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdWFsX2dyYWRpZW50cy5jYWxjdWxhdGVHcmFkaWVudChRKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4809,58 +4812,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>LHSFiniteDifference(solution, rhs_func);</text>
       </register>
       <register name="/" type="4">
-        <text>bc_condif</text>
+        <text>dual_grad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUIHNvdXJjZSA9IHNhX3NvdXJjZSh2aXNjb3VzX25vbmRpbWVuc2lvbmFsaXphdGlvbiwgZGlzdGFuY2VfdG9fd2FsbCwgdHVyYiwgd19tb2QsIGtpbmVtYXRpY192aXNjb3NpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdWFsX2dyYWRpZW50cy5jYWxjdWxhdGVHcmFkaWVudChRKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUIHNvdXJjZSA9IGRlbnNpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdWFsX2dyYWRpZW50cy5jYWxjdWxhdGVHcmFkaWVudChRKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9kZTogJWRcbiIsIG5vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdWFsX2dyYWRpZW50cy5jYWxjdWxhdGVHcmFkaWVudChRKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUIHNvdXJjZSA9IGRlbnNpdHk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gd2FsbF9kaXN0YW5jZV90YWdzID0gSFM6OmdldFdhbGxUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9kZTogJWRcbiIsIG5vZGUpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYmNfY29uZmlnID0gSFNNb2NrTWVzaDo6Z2V0U2luZ2xlVGV0QkMoKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gd2FsbF9kaXN0YW5jZV90YWdzID0gSFM6OmdldFdhbGxUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGJvb2w+IGlzX3dhbGxfbm9kZSh0ZXRfbWVzaC5ub2RlQ291bnQoKSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gYmNfY29uZmlnID0gSFNNb2NrTWVzaDo6Z2V0U2luZ2xlVGV0QkMoKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>bc_condif</last-search>
+      <last-search>dual_grad</last-search>
       <last-offset />
-      <last-pattern>bc_condif</last-pattern>
+      <last-pattern>dual_grad</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4868,9 +4871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setSol</entry>
-        <entry>q_prim</entry>
-        <entry>l</entry>
         <entry>ql</entry>
         <entry>qr</entry>
         <entry>Q</entry>
@@ -4888,6 +4888,9 @@
         <entry>is_wall</entry>
         <entry>is_wall_node</entry>
         <entry>bc_condif</entry>
+        <entry>NumEqns</entry>
+        <entry>RHS</entry>
+        <entry>dual_grad</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

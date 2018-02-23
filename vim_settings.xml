@@ -39,7 +39,7 @@
         <mark key="^" line="45" column="26" />
         <mark key="." line="45" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1519404708410">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1519407034181">
         <mark key="'" line="291" column="69" />
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="0" />
@@ -81,8 +81,8 @@
         <mark key="." line="205" column="26" />
         <mark key="^" line="205" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1519405257943">
-        <mark key="'" line="117" column="48" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1519407916794">
+        <mark key="'" line="47" column="14" />
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
@@ -834,8 +834,8 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1519322784885">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1519407362792">
+        <mark key="'" line="0" column="10" />
         <mark key="[" line="24" column="26" />
         <mark key="]" line="25" column="22" />
         <mark key="^" line="25" column="22" />
@@ -1088,7 +1088,8 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" timestamp="1508790081774">
+      <file name="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" timestamp="1519407366048">
+        <mark key="'" line="23" column="28" />
         <mark key="[" line="4" column="49" />
         <mark key="]" line="4" column="49" />
         <mark key="^" line="4" column="49" />
@@ -1319,12 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="83" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="154" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="7" column="16" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="109" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="132" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="145" column="96" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="23" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" />
       <jump line="24" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" />
       <jump line="27" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" />
@@ -1419,6 +1414,12 @@
       <jump line="27" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="113" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="117" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="5" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
+      <jump line="0" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
+      <jump line="23" column="28" filename="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" />
+      <jump line="250" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="252" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="47" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4832,7 +4833,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>variable</text>
+        <text>last_dQ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUIHR1cmJfZmx1eF9sZWZ0ID0gKCB1cGx1c19MICogdHVyYl9sZWZ0ICArIHVtaW51c19MICogdHVyYl9yaWdodCApICogYXJlYTsKICAgICAgICBUIHR1cmJfZmx1eF9yaWdodCA9ICggdXBsdXNfUiAqIHR1cmJfcmlnaHQgKyB1bWludXNfUiAqIHR1cmJfbGVmdCApICogYXJlYTsK</text>
@@ -4878,9 +4879,9 @@
       </register>
     </registers>
     <search>
-      <last-search>variable</last-search>
+      <last-search>last_dQ</last-search>
       <last-offset />
-      <last-pattern>variable</last-pattern>
+      <last-pattern>last_dQ</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4888,10 +4889,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_wall_node</entry>
-        <entry>bc_condif</entry>
-        <entry>NumEqns</entry>
-        <entry>RHS</entry>
         <entry>double</entry>
         <entry>Q</entry>
         <entry>ddt</entry>
@@ -4908,6 +4905,10 @@
         <entry>fabs</entry>
         <entry>my</entry>
         <entry>variable</entry>
+        <entry>GNU</entry>
+        <entry>CNU</entry>
+        <entry>CXX</entry>
+        <entry>last_dQ</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

@@ -39,10 +39,11 @@
         <mark key="^" line="45" column="26" />
         <mark key="." line="45" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1519340627885">
-        <mark key="[" line="97" column="77" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1519393027529">
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="95" column="44" />
+        <mark key="." line="95" column="44" />
+        <mark key="^" line="95" column="44" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Element.h" timestamp="1517957824975">
         <mark key="'" line="147" column="17" />
@@ -291,11 +292,12 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1519340709978">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1519393511904">
         <mark key="'" line="120" column="4" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="[" line="200" column="20" />
+        <mark key="]" line="200" column="24" />
+        <mark key="." line="200" column="24" />
+        <mark key="^" line="200" column="24" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" timestamp="1519330372365">
         <mark key="'" line="30" column="79" />
@@ -1421,8 +1423,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSBub2RlX3VncmFkWzBdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>turb_production;</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4822,49 +4824,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a;</text>
+        <text>turb_production;</text>
       </register>
       <register name="/" type="4">
         <text>dual_grad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSBzYV9zb3VyY2UodmlzY291c19ub25kaW1lbnNpb25hbGl6YXRpb24sIGRpc3RhbmNlX3RvX3dhbGwsIHR1cmIsIHdfbW9kLCBraW5lbWF0aWNfdmlzY29zaXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSB0dXJiX3Byb2R1Y3Rpb24gLSB0dXJiX2Rlc3RydWN0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSBub2RlX3VncmFkWzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZHVhbF9ncmFkaWVudHMgPSBIUzo6RHVhbEdyYWRpZW50Q2FsY3VsYXRvcih0ZXRfbWVzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSB3X21vZDsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZHVhbF9ncmFkaWVudHMgPSBIUzo6RHVhbEdyYWRpZW50Q2FsY3VsYXRvcih0ZXRfbWVzaCk7CiAgICBzb2x1dGlvbi5ncmFkaWVudHNEYXRhKCkgPSBkdWFsX2dyYWRpZW50cy5jYWxjdWxhdGVHcmFkaWVudChzb2x1dGlvbi5zb2x1dGlvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSB0cmFjZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZHVhbF9ncmFkaWVudHMgPSBIUzo6RHVhbEdyYWRpZW50Q2FsY3VsYXRvcih0ZXRfbWVzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiJWUgIiwgZFNvdXJjZWRRW2ldKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRTb3VyY2VkUVtpXSA9IHNvdXJjZV90ZXJtLmRbaV07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoQTIoMCwwKS5kWzBdID09IDQuMCk7CiAgICBSRVFVSVJFKEEyKDAsMCkuZFsxXSA9PSAxLjApOwogICAgUkVRVUlSRShBMigwLDApLmRbMF0gPT0gNC4wKTsKICAgIFJFUVVJUkUoQTIoMCwwKS5kWzFdID09IDEuMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2UgPSBub2RlX3VncmFkWzBdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoQTIoMCwwKS5kWzBdID09IDQuMCk7CiAgICBSRVFVSVJFKEEyKDAsMCkuZFsxXSA9PSAxLjApOwogICAgUkVRVUlSRShBMigwLDApLmRbMF0gPT0gNC4wKTsKICAgIFJFUVVJUkUoQTIoMCwwKS5kWzFdID09IDEuMCk7Cn0K</text>
+        <text encoding="base64">ICAgIGF1dG8gZHVhbF9ncmFkaWVudHMgPSBIUzo6RHVhbEdyYWRpZW50Q2FsY3VsYXRvcih0ZXRfbWVzaCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

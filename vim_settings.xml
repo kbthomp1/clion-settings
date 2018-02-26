@@ -82,8 +82,8 @@
         <mark key="." line="205" column="26" />
         <mark key="^" line="205" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1519407916794">
-        <mark key="'" line="47" column="14" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1519654424208">
+        <mark key="'" line="188" column="16" />
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
@@ -1335,9 +1335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="93" column="37" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="98" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="99" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="100" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="101" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
@@ -1361,7 +1358,6 @@
       <jump line="293" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" />
       <jump line="27" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="113" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="117" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="5" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
       <jump line="0" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
       <jump line="23" column="28" filename="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" />
@@ -1435,6 +1431,10 @@
       <jump line="96" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="105" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="82" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="106" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="195" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="117" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="188" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4848,7 +4848,7 @@
         <text>turb_grad</text>
       </register>
       <register name="/" type="4">
-        <text>edge_turbgrad</text>
+        <text>turbulence variable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIGVkZ2VfZGlyZWN0aW9ucyA9IGNvbXB1dGVFZGdlRGlyZWN0aW9uKGNlbGxfbm9kZV9jb29yZGluYXRlcyk7Cg==</text>
@@ -4894,9 +4894,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edge_turbgrad</last-search>
+      <last-search>turbulence variable</last-search>
       <last-offset />
-      <last-pattern>edge_turbgrad</last-pattern>
+      <last-pattern>turbulence variable</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4904,7 +4904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dual_grad</entry>
         <entry>getGrad</entry>
         <entry>trace</entry>
         <entry>fabs</entry>
@@ -4924,6 +4923,7 @@
         <entry>using namespace</entry>
         <entry>turbulent_stress</entry>
         <entry>edge_turbgrad</entry>
+        <entry>turbulence variable</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

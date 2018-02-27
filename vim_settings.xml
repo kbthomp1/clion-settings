@@ -463,11 +463,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1519752388061">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="60" column="42" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1519768305783">
+        <mark key="'" line="59" column="39" />
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="80" column="46" />
+        <mark key="^" line="80" column="46" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1519681855863">
         <mark key="'" line="48" column="33" />
@@ -1328,10 +1329,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidBoundaryTerms.h" timestamp="1519683238983">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidBoundaryTerms.h" timestamp="1519767909196">
         <mark key="'" line="63" column="12" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="97" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="85" column="60" />
         <mark key="." line="133" column="36" />
         <mark key="^" line="133" column="36" />
       </file>
@@ -1378,8 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="278" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="208" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="229" column="81" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
       <jump line="237" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
@@ -1478,6 +1477,8 @@
       <jump line="158" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="70" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
       <jump line="699" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
+      <jump line="58" column="20" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="59" column="39" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1487,10 +1488,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>== Approx(0.0));
-== Approx(0.0));
-== Approx(0.0));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigpCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4890,24 +4889,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.epsilon(1.e-15));</text>
+        <text encoding="base64">ID0gY29ybmVyX2FyZWFzWzBdOw==</text>
       </register>
       <register name="/" type="4">
-        <text>Tangency</text>
+        <text>NCorners</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ggPSAwLjAK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7CiAgICAgICAgc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCBOQ29ybmVycz4gY2VsbF9wb2ludHM7CiAgICAgICAgbWVzaC5jZWxsKGNlbGxfaWQsIGNlbGxfbG9jYWxfbm9kZV9pZHMuZGF0YSgpKTsKICAgICAgICBmb3IgKGludCBjb3JuZXIgPSAwOyBjb3JuZXIgPCBOQ29ybmVyczsgKytjb3JuZXIpCiAgICAgICAgICAgIGNlbGxfcG9pbnRzW2Nvcm5lcl0gPSBtZXNoLm5vZGVDb29yZGluYXRlKGNlbGxfbG9jYWxfbm9kZV9pZHNbY29ybmVyXSk7CiAgICAgICAgYXV0byBjb3JuZXJfYXJlYXMgPSBIUzo6Y2FsY0Nvcm5lckFyZWFzKGNlbGxfcG9pbnRzKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>== Approx(0.0));
-== Approx(0.0));
-== Approx(0.0));</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc3VyZmFjZV9mb3JjZXMgPSBib3VuZGFyeV9mb3JjZXMuYXQoMSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text />
@@ -4919,33 +4916,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWM6Cg==</text>
+        <text encoding="base64">ICAgIGNvcm5lcl9hcmVhcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYzoK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBGb3JjZXMgewogICAgfTsK</text>
+        <text encoding="base64">ICAgIH0gICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgY3ggPSAwLjA7CiAgICAgICAgZG91YmxlIGN5ID0gMC4wOwogICAgICAgIGRvdWJsZSBjejsK</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byBwIDogY29ybmVyX2FyZWFzKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>bc_force_map[boundary_tag].
-bc_force_map[boundary_tag].
-bc_force_map[boundary_tag].</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8aW50LCAzPiBjZWxsX25vZGVzOwogICAgdGV0X21lc2guY2VsbCgxLCBjZWxsX25vZGVzLmRhdGEoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tangency</last-search>
+      <last-search>NCorners</last-search>
       <last-offset />
-      <last-pattern>Tangency</last-pattern>
+      <last-pattern>NCorners</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4953,7 +4948,6 @@ bc_force_map[boundary_tag].</text>
     </search>
     <history>
       <history-search>
-        <entry>turbulent_stres</entry>
         <entry>edge_turb</entry>
         <entry>edge_ugrad</entry>
         <entry>using namespace</entry>
@@ -4973,6 +4967,7 @@ bc_force_map[boundary_tag].</text>
         <entry>local</entry>
         <entry>local_to_global</entry>
         <entry>Tangency</entry>
+        <entry>NCorners</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

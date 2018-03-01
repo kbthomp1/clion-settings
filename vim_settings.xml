@@ -159,12 +159,11 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1519942322155">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1519947610683">
         <mark key="'" line="70" column="50" />
-        <mark key="[" line="161" column="52" />
-        <mark key="]" line="161" column="52" />
-        <mark key="^" line="161" column="84" />
-        <mark key="." line="161" column="52" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
@@ -548,12 +547,12 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1519945754418">
-        <mark key="'" line="102" column="62" />
-        <mark key="[" line="145" column="41" />
-        <mark key="]" line="145" column="44" />
-        <mark key="." line="145" column="44" />
-        <mark key="^" line="145" column="44" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1519947631307">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="47" column="83" />
+        <mark key="]" line="47" column="94" />
+        <mark key="^" line="47" column="94" />
+        <mark key="." line="47" column="94" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1519681855863">
         <mark key="'" line="48" column="33" />
@@ -821,6 +820,12 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MockMeshes.h" timestamp="1519685474031">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="31" column="83" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/clean-one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1518120723996">
         <mark key="'" line="147" column="55" />
         <mark key="[" line="145" column="21" />
@@ -835,11 +840,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" timestamp="1519945732252">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="67" />
-        <mark key="^" line="125" column="42" />
-        <mark key="." line="125" column="42" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" timestamp="1519946968597">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" timestamp="1513898553367">
         <mark key="'" line="18" column="0" />
@@ -936,17 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="235" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="113" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="653" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="732" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="654" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="739" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidBoundaryTerms.h" />
-      <jump line="45" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="61" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/DenseMatrix.h" />
       <jump line="139" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="292" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1035,7 +1029,18 @@
       <jump line="143" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="4" column="16" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="65" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="102" column="62" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="152" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="6" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="126" column="63" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="125" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="104" column="68" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="102" column="64" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="31" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="101" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="57" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="49" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="70" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="144" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1046,7 +1051,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4446,60 +4451,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>residual</text>
+        <text>inviscid_forces</text>
       </register>
       <register name="/" type="4">
-        <text>Force</text>
+        <text>nondim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBzdHJvbmdfc3VyZmFjZV90YWcgOiBzdHJvbmdfc3VyZmFjZV90YWdzKQogICAgICAgICAgICBpbnZpc2NpZF9mb3JjZXMgKz0gZm9yY2VfaW50ZWdyYXRvci5jb21wdXRlRm9yY2VzT25TdHJvbmdCb3VuZGFyeSgmcmVzaWR1YWwsIHN0cm9uZ19zdXJmYWNlX3RhZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yUkhTPFQsIE51bUVxbnM+IHJlc2lkdWFsKG1wLmdldENvbW11bmljYXRvcigpLCBsb2NhbF90b19nbG9iYWwpOwogICAgICAgICAgICBIUzo6VmVjdG9yVXRpbGl0aWVzOjp6ZXJvKCZyZXNpZHVhbCwgbWVzaC5ub2RlQ291bnQoKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSFM6OlZlY3RvclV0aWxpdGllczo6emVybygmcmVzaWR1YWwsIG1lc2gubm9kZUNvdW50KCkpOwogICAgICAgICAgICB2aXNjb3VzX2ludGVyaW9yX3Rlcm1zLmZvcm1CKCZyZXNpZHVhbCwgUSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZWdyYXRvci5nZXRCb3VuZGFyeUNvbnRyaWJ1dGlvbihib3VuZGFyeV9jZWxsX2lkcywgJnJlc2lkdWFsLCBRKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHJlc2lkdWFsID0gVmVjdG9yUkhTPGRvdWJsZSwgTnVtRXFucz4obXAuZ2V0Q29tbXVuaWNhdG9yKCksIEhTOjpNZXNoVXRpbGl0aWVzOjpidWlsZExvY2FsVG9HbG9iYWwobWVzaCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIEludGVncmF0b3JGdW5jdGlvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">Zm9yY2VzIApmb3JjZXMgCmZvcmNlcyA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgYm91bmRhcnlfdGFnIDogd2Vha19zdXJmYWNlX3RhZ3Mpe30KICAgICAgICAgICAgICAgIHZpc2NvdXNfZm9yY2VzICs9IGZvcmNlX2ludGVncmF0b3IuY29tcHV0ZUZvcmNlc09uQm91bmRhcnkodmlzY291c19ib3VuZGFyeV90ZXJtcywgUSwgYm91bmRhcnlfdGFnKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">Zm9yY2VzIApmb3JjZXMgCmZvcmNlcyA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>inviscid
-inviscid
-inviscid</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBTdHJvbmcgaW52aXNjaWQgQm91bmRhcmllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Force</last-search>
+      <last-search>nondim</last-search>
       <last-offset />
-      <last-pattern>Force</last-pattern>
+      <last-pattern>nondim</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4507,7 +4510,6 @@ inviscid</text>
     </search>
     <history>
       <history-search>
-        <entry>Dir</entry>
         <entry>printf</entry>
         <entry>this</entry>
         <entry>framework</entry>
@@ -4527,6 +4529,7 @@ inviscid</text>
         <entry>local_to_global</entry>
         <entry>local_to</entry>
         <entry>Force</entry>
+        <entry>nondim</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

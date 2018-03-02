@@ -149,12 +149,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520019077835">
-        <mark key="'" line="443" column="0" />
-        <mark key="[" line="364" column="37" />
-        <mark key="]" line="364" column="37" />
-        <mark key="^" line="364" column="65" />
-        <mark key="." line="364" column="37" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520019930734">
+        <mark key="'" line="445" column="0" />
+        <mark key="[" line="365" column="74" />
+        <mark key="]" line="365" column="82" />
+        <mark key="^" line="365" column="82" />
+        <mark key="." line="365" column="82" />
       </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
@@ -215,12 +215,12 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" timestamp="1520019308517">
-        <mark key="'" line="74" column="38" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="20" />
-        <mark key="^" line="85" column="20" />
-        <mark key="." line="85" column="20" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" timestamp="1520019838110">
+        <mark key="'" line="55" column="48" />
+        <mark key="[" line="61" column="76" />
+        <mark key="]" line="61" column="77" />
+        <mark key="^" line="61" column="77" />
+        <mark key="." line="61" column="77" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" timestamp="1518532837186">
         <mark key="'" line="48" column="53" />
@@ -930,23 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.h" />
-      <jump line="13" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.h" />
-      <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" />
-      <jump line="40" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.h" />
-      <jump line="651" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="653" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="223" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="160" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="232" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="241" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="273" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="274" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="277" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" />
-      <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="172" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="139" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="161" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="138" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="141" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1030,6 +1013,23 @@
       <jump line="48" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
       <jump line="262" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
       <jump line="245" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.h" />
+      <jump line="25" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="28" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="37" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="53" column="79" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="80" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="86" column="79" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="59" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="62" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="21" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="12" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="13" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="14" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="26" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="38" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="54" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
+      <jump line="55" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1039,8 +1039,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>turb_settings</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLCAwLCAwfTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4440,58 +4440,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>turb_settings</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TurbModelPair</text>
+        <text>NumEqns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDM+IGZhY2Vfc3BlZWQgPSB7MCwgMCwgMH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLCAwLCAwfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFR1cmJEZWJ1Z1NldHRpbmdzIHR1cmJfc2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLCAwLCAwfTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR1cmJfc2V0dGluZ3MuZGlmZnVzaW9uX29uID0gdHVyYl9pbnB1dFsiZGlmZnVzaW9uIl07CiAgICAgICAgICAgICAgICB0dXJiX3NldHRpbmdzLnNvdXJjZV9vbiA9IHR1cmJfaW5wdXRbInNvdXJjZSB0ZXJtIl07Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGVxdWF0aW9uX21hcCA9IHswLCAxLCAyLCAzLCA0LCA1fTsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLCAwLCAwfTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGludD4gbnNfZXF1YXRpb25fbWFwID0gezAsIDEsIDIsIDMsIDQsIDV9OwogICAgICAgICAgICAgICAgcmV0dXJuIFZpc2NvdXNCb3VuZGFyeVRlcm1zPGRvdWJsZSwgTnVtRXFucz4obWVzaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR1cmJ1bGVuY2VfdGVybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZWxsX2xzcV93ZWlnaHRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjZV9zcGVlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdhbW1hLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aXNjb3VzX25vbmRpbSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5zX2VxdWF0aW9uX21hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdXRoZXJsYW5kc190ZW1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpc2NvdXNfbm9uZGltLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGludD4gZXF1YXRpb25fbWFwID0gezAsIDEsIDIsIDMsIDR9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNlX3NwZWVkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBWaXNjb3VzQm91bmRhcnlUZXJtczxkb3VibGUsIE51bUVxbnM+KG1lc2gsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0dXJidWxlbmNlX3Rlcm1zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2VsbF9sc3Ffd2VpZ2h0cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZhY2Vfc3BlZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1dGhlcmxhbmRzX3RlbXBlcmF0dXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlzY291c19ub25kaW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcXVhdGlvbl9tYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2FtbWEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGludD4gbnNfZXF1YXRpb25fbWFwID0gezAsIDEsIDIsIDMsIDQsIDV9OwogICAgICAgICAgICAgICAgcmV0dXJuIFZpc2NvdXNJbnRlcmlvclRlcm1zPGRvdWJsZSwgTnVtRXFucz4obWVzaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR1cmJ1bGVuY2VfdGVybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZWxsX2xzcV93ZWlnaHRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjZV9zcGVlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdhbW1hLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aXNjb3VzX25vbmRpbSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5zX2VxdWF0aW9uX21hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3V0aGVybGFuZHNfdGVtcCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlzY291c19ub25kaW0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXF1YXRpb25fbWFwW2ldID0gaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIHZpc2NvdXNfbm9uZGltLAogICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBnYW1tYSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE51bUVxbnM7ICsraSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSFM6OlR1cmJ1bGVuY2VUZXJtc0ZhY3Rvcnk6OmNyZWF0ZUludGVyaW9yPE51bUVxbnM+KG1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganNvbl9jb25maWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2Vha19iY19tYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkdWFsX2dyYWRpZW50X2NhbGN1bGF0b3IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdXRoZXJsYW5kc190ZW1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlzY291c19ub25kaW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnYW1tYSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGludD4gbnNfZXF1YXRpb25fbWFwID0gezAsIDEsIDIsIDMsIDQsIDV9OwogICAgICAgICAgICAgICAgcmV0dXJuIFZpc2NvdXNJbnRlcmlvclRlcm1zPGRvdWJsZSwgTnVtRXFucz4obWVzaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR1cmJ1bGVuY2VfdGVybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZWxsX2xzcV93ZWlnaHRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFjZV9zcGVlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdhbW1hLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3V0aGVybGFuZHNfdGVtcGVyYXR1cmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aXNjb3VzX25vbmRpbSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5zX2VxdWF0aW9uX21hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TurbModelPair</last-search>
+      <last-search>NumEqns</last-search>
       <last-offset />
-      <last-pattern>TurbModelPair</last-pattern>
+      <last-pattern>NumEqns</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4499,10 +4499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tangency</entry>
-        <entry>viscous_wall_tags</entry>
-        <entry>all_surface_tags</entry>
-        <entry>residual</entry>
         <entry>computeInviscid</entry>
         <entry>formB</entry>
         <entry>Boundary</entry>
@@ -4511,7 +4507,6 @@
         <entry>gamma</entry>
         <entry>sutherland</entry>
         <entry>viscous_nondim</entry>
-        <entry>equation_map</entry>
         <entry>sa_turb_</entry>
         <entry>column_map</entry>
         <entry>sutherlands_temperature</entry>
@@ -4519,6 +4514,11 @@
         <entry>boundary_cell_ids</entry>
         <entry>turb_model</entry>
         <entry>TurbModelPair</entry>
+        <entry>boundary_conditions</entry>
+        <entry>equation_map</entry>
+        <entry>sutherlands</entry>
+        <entry>face_speed</entry>
+        <entry>NumEqns</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

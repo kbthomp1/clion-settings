@@ -159,11 +159,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1519947610683">
-        <mark key="'" line="70" column="50" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1519999116979">
+        <mark key="'" line="133" column="4" />
+        <mark key="[" line="161" column="20" />
+        <mark key="]" line="161" column="33" />
+        <mark key="." line="161" column="33" />
+        <mark key="^" line="161" column="33" />
       </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
@@ -941,9 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="292" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="53" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="107" column="44" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="71" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" />
@@ -1041,6 +1039,9 @@
       <jump line="49" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="70" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="144" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="191" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="298" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="133" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1050,8 +1051,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>interior_terms</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4451,13 +4452,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>inviscid_forces</text>
+        <text>interior_terms</text>
       </register>
       <register name="/" type="4">
-        <text>nondim</text>
+        <text>printFo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBzdHJvbmdfc3VyZmFjZV90YWcgOiBzdHJvbmdfc3VyZmFjZV90YWdzKQogICAgICAgICAgICBpbnZpc2NpZF9mb3JjZXMgKz0gZm9yY2VfaW50ZWdyYXRvci5jb21wdXRlRm9yY2VzT25TdHJvbmdCb3VuZGFyeSgmcmVzaWR1YWwsIHN0cm9uZ19zdXJmYWNlX3RhZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlzY291c19pbnRlcmlvcl90ZXJtcy5mb3JtQigmcmVzaWR1YWwsIFEpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
@@ -4500,9 +4501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nondim</last-search>
+      <last-search>printFo</last-search>
       <last-offset />
-      <last-pattern>nondim</last-pattern>
+      <last-pattern>printFo</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4510,8 +4511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
-        <entry>this</entry>
         <entry>framework</entry>
         <entry>nondimensionalization</entry>
         <entry>eqn_type</entry>
@@ -4530,6 +4529,8 @@
         <entry>local_to</entry>
         <entry>Force</entry>
         <entry>nondim</entry>
+        <entry>print</entry>
+        <entry>printFo</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

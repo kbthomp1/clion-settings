@@ -582,12 +582,12 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="139" column="60" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1519685338362">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="102" column="29" />
-        <mark key="]" line="102" column="31" />
-        <mark key="." line="102" column="31" />
-        <mark key="^" line="102" column="31" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" timestamp="1520009987307">
+        <mark key="'" line="136" column="19" />
+        <mark key="[" line="141" column="61" />
+        <mark key="]" line="141" column="62" />
+        <mark key="." line="141" column="62" />
+        <mark key="^" line="141" column="62" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
@@ -929,13 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousTerms.h" />
-      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="22" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="47" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="51" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="52" column="95" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="53" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="60" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="70" column="79" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="103" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1029,6 +1022,13 @@
       <jump line="138" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="141" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="145" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="135" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="62" column="83" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="96" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="103" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="111" column="84" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
+      <jump line="136" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1038,8 +1038,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gamma, wall_temperature);</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4439,58 +4439,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>weak_surface_tag</text>
+        <text>gamma, wall_temperature);</text>
       </register>
       <register name="/" type="4">
-        <text>all_surface_tags</text>
+        <text>gamma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RkOjptYWtlX3NoYXJlZDxWaXNjb3VzV2FsbDxOdW1FcW5zPj4oZ2FtbWEsIHdhbGxfdGVtcGVyYXR1cmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPFZpc2NvdXNXYWxsPE51bUVxbnM+PihnYW1tYSwgd2FsbF90ZW1wZXJhdHVyZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB0YW5nZW5jeV93YWxsX3RhZ3MgPSBIUzo6Z2V0VHlwZUJvdW5kYXJ5VGFncyhib3VuZGFyeV9jb25kaXRpb25fanNvbiwgeyJ0YW5nZW5jeSJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHZpc2NvdXNfd2FsbF90YWdzID0gSFM6OmdldFR5cGVCb3VuZGFyeVRhZ3MoYm91bmRhcnlfY29uZGl0aW9uX2pzb24sIHsibm8gc2xpcCJ9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dG8gc3VyZmFjZV90YWdzID0gSFM6OmdldFR5cGVCb3VuZGFyeVRhZ3MoYm91bmRhcnlfY29uZGl0aW9uX2pzb24sIHsidGFuZ2VuY3kiLCAibm8gc2xpcCJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byB2aXNjb3VzX3dhbGxfdGFncyA9IEhTOjpnZXRUeXBlQm91bmRhcnlUYWdzKGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uLCB7Im5vIHNsaXAifSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHdlYWtfc3VyZmFjZV90YWdzID0gSFM6OmdldFR5cGVCb3VuZGFyeVRhZ3MoYm91bmRhcnlfY29uZGl0aW9uX2pzb24sIHsidGFuZ2VuY3kifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byB0YW5nZW5jeV93YWxsX3RhZ3MgPSBIUzo6Z2V0VHlwZUJvdW5kYXJ5VGFncyhib3VuZGFyeV9jb25kaXRpb25fanNvbiwgeyJ0YW5nZW5jeSJ9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHN1cmZhY2VfdGFncyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHZpc2NvdXNfd2FsbF90YWdzID0gSFM6OmdldFR5cGVCb3VuZGFyeVRhZ3MoYm91bmRhcnlfY29uZGl0aW9uX2pzb24sIHsibm8gc2xpcCJ9KTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnNldDxpbnQ+IHN1cmZhY2VfdGFnczsKICAgICAgICBmb3IgKGludCB3ZWFrX3N1cmZhY2VfdGFnIDogd2Vha19zdXJmYWNlX3RhZ3MpCiAgICAgICAgICAgIHN1cmZhY2VfdGFncy5pbnNlcnQod2Vha19zdXJmYWNlX3RhZyk7CiAgICAgICAgZm9yIChpbnQgc3Ryb25nX3N1cmZhY2VfdGFnIDogc3Ryb25nX3N1cmZhY2VfdGFncykKICAgICAgICAgICAgc3VyZmFjZV90YWdzLmluc2VydChzdHJvbmdfc3VyZmFjZV90YWcpOwoK</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1dG8gc3VyZmFjZV90YWdzID0gSFM6OmdldFR5cGVCb3VuZGFyeVRhZ3MoYm91bmRhcnlfY29uZGl0aW9uX2pzb24sIHsidGFuZ2VuY3kiLCAibm8gc2xpcCJ9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>all_surface_tags</last-search>
+      <last-search>gamma</last-search>
       <last-offset />
-      <last-pattern>all_surface_tags</last-pattern>
+      <last-pattern>gamma</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4515,9 +4515,9 @@
         <entry>printFo</entry>
         <entry>NCo</entry>
         <entry>Tangency</entry>
-        <entry>gamma</entry>
         <entry>viscous_wall_tags</entry>
         <entry>all_surface_tags</entry>
+        <entry>gamma</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

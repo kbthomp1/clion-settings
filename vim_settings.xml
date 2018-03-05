@@ -163,12 +163,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520289936077">
-        <mark key="'" line="60" column="27" />
-        <mark key="[" line="140" column="57" />
-        <mark key="]" line="140" column="68" />
-        <mark key="." line="140" column="68" />
-        <mark key="^" line="140" column="68" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520291456990">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="146" column="54" />
+        <mark key="]" line="146" column="55" />
+        <mark key="." line="146" column="55" />
+        <mark key="^" line="145" column="54" />
       </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
@@ -980,10 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="140" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/AdeptAD.h" />
-      <jump line="50" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/AutoDiff.h" />
-      <jump line="125" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/AdeptLinearizations.cpp" />
       <jump line="120" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/AdeptAD.h" />
       <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.h" />
       <jump line="223" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
@@ -1047,7 +1043,6 @@
       <jump line="8" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
       <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="424" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="140" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="151" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="82" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
       <jump line="88" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
@@ -1066,7 +1061,6 @@
       <jump line="25" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="69" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="83" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="51" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="65" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="299" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="47" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
@@ -1080,6 +1074,12 @@
       <jump line="7" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
       <jump line="306" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="173" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="140" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="88" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="429" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="40" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="44" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="51" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1090,7 +1090,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmKCJpbnZpc2NpZC14LWZvcmNlIiA9PSBuYW1lKXsKICAgICAgICAgICAgcmV0dXJuIHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnhbbm9kZV9pZF07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKGludmlzY2lkX3BvaW50X2ZvcmNlcy5GeCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4490,13 +4490,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hypersolve-sa-var</text>
+        <text>Q.gradientsData());</text>
       </register>
       <register name="/" type="4">
-        <text>inviscid-</text>
+        <text>node_based_sync</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmKCJpbnZpc2NpZC14LWZvcmNlIiA9PSBuYW1lKXsKICAgICAgICAgICAgcmV0dXJuIHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnhbbm9kZV9pZF07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKGludmlzY2lkX3BvaW50X2ZvcmNlcy5GeCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4541,9 +4541,9 @@ mesh.nodeCount()</text>
       </register>
     </registers>
     <search>
-      <last-search>inviscid-</last-search>
+      <last-search>node_based_sync</last-search>
       <last-offset />
-      <last-pattern>inviscid-</last-pattern>
+      <last-pattern>node_based_sync</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4551,9 +4551,6 @@ mesh.nodeCount()</text>
     </search>
     <history>
       <history-search>
-        <entry>Linearize</entry>
-        <entry>adept_ad</entry>
-        <entry>ddt</entry>
         <entry>addConvection</entry>
         <entry>column_map</entry>
         <entry>left</entry>
@@ -4571,6 +4568,9 @@ mesh.nodeCount()</text>
         <entry>SolveO</entry>
         <entry>PointForces</entry>
         <entry>inviscid-</entry>
+        <entry>node_sy</entry>
+        <entry>sync</entry>
+        <entry>node_based_sync</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

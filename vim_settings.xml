@@ -208,12 +208,12 @@
         <mark key="." line="652" column="0" />
         <mark key="^" line="651" column="39" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/CellGradientsTests.cpp" timestamp="1519416085920">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="125" column="20" />
-        <mark key="]" line="125" column="75" />
-        <mark key="^" line="125" column="75" />
-        <mark key="." line="125" column="75" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CellGradientsTests.cpp" timestamp="1520360451220">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -1091,7 +1091,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>drag coefficient</text>
+        <text>w_coefs[i]</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4491,55 +4491,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>drag coefficient</text>
+        <text>w_coefs[i]</text>
       </register>
       <register name="/" type="4">
         <text>boundary_area</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRShib3VuZGFyeV9hcmVhW25vZGVfaWRdWzBdID09IEFwcHJveChhY3R1YWxfYXJlYVtub2RlX2lkXVswXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHdfZ3JhZFtpXSA9PSBBcHByb3god19jb2Vmc1tpXSkpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>Approx(actual_area[node_id][0]));
-Approx(actual_area[node_id][0]));
-Approx(actual_area[node_id][0]));</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFJFUVVJUkUodV9ncmFkWzBdID09IEFwcHJveCgwLjAxKSk7CiAgICBSRVFVSVJFKHVfZ3JhZFsxXSA9PSBBcHByb3goMC4wMikpOwogICAgUkVRVUlSRSh1X2dyYWRbMl0gPT0gQXBwcm94KDAuMDMpKTsKCiAgICBSRVFVSVJFKHZfZ3JhZFswXSA9PSBBcHByb3goMC4wMSkpOwogICAgUkVRVUlSRSh2X2dyYWRbMV0gPT0gQXBwcm94KDAuMDIpKTsKICAgIFJFUVVJUkUodl9ncmFkWzJdID09IEFwcHJveCgwLjAzKSk7CgogICAgUkVRVUlSRSh3X2dyYWRbMF0gPT0gQXBwcm94KDAuMDEpKTsKICAgIFJFUVVJUkUod19ncmFkWzFdID09IEFwcHJveCgwLjAyKSk7CiAgICBSRVFVSVJFKHdfZ3JhZFsyXSA9PSBBcHByb3goMC4wMykpOwoKICAgIFJFUVVJUkUoVF9ncmFkWzBdID09IEFwcHJveCgtMC4wODk2KSk7CiAgICBSRVFVSVJFKFRfZ3JhZFsxXSA9PSBBcHByb3goLTAuMTY0MjY2NjY2NykpOwogICAgUkVRVUlSRShUX2dyYWRbMl0gPT0gQXBwcm94KC0wLjIyNzQ0NjE1MzgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB1X2dyYWRbaV0gPQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHVfZ3JhZFswXSA9PSBBcHByb3goMC4wMSkpOwogICAgICAgIHVfZ3JhZFtpXSA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxX2F0X2NlbGxfY29ybmVyc1tjb3JuZXJdWzJdID0gMS4wOwogICAgICAgIHFfYXRfY2VsbF9jb3JuZXJzW2Nvcm5lcl1bM10gPSAxLjA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKGJvdW5kYXJ5X2FyZWFbbm9kZV9pZF1bMF0gPT0gQXBwcm94KGFjdHVhbF9hcmVhW25vZGVfaWRdWzBdKSk7CiAgICAgICAgUkVRVUlSRShib3VuZGFyeV9hcmVhW25vZGVfaWRdWzFdID09IEFwcHJveChhY3R1YWxfYXJlYVtub2RlX2lkXVsxXSkpOwogICAgICAgIFJFUVVJUkUoYm91bmRhcnlfYXJlYVtub2RlX2lkXVsyXSA9PSBBcHByb3goYWN0dWFsX2FyZWFbbm9kZV9pZF1bMl0pKTsK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBhID0gMi4wOwogICAgZG91YmxlIGIgPSAyLjE7CiAgICBkb3VibGUgYyA9IDMuMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoYm91bmRhcnlfYXJlYVswXVswXSA9PSBBcHByb3goLTAuNSAvIDMuMCkpOwogICAgUkVRVUlSRShib3VuZGFyeV9hcmVhWzBdWzFdID09IEFwcHJveCgtMC41IC8gMy4wKSk7CiAgICBSRVFVSVJFKGJvdW5kYXJ5X2FyZWFbMF1bMl0gPT0gQXBwcm94KC0wLjUgLyAzLjApKTsKCiAgICBSRVFVSVJFKGJvdW5kYXJ5X2FyZWFbMV1bMF0gPT0gQXBwcm94KDAuNSAvIDMuMCkpOwogICAgUkVRVUlSRShib3VuZGFyeV9hcmVhWzFdWzFdID09IEFwcHJveCgwLjApKTsKICAgIFJFUVVJUkUoYm91bmRhcnlfYXJlYVsxXVsyXSA9PSBBcHByb3goMC4wKSk7CgogICAgUkVRVUlSRShib3VuZGFyeV9hcmVhWzJdWzBdID09IEFwcHJveCgwLjApKTsKICAgIFJFUVVJUkUoYm91bmRhcnlfYXJlYVsyXVsxXSA9PSBBcHByb3goMC41IC8gMy4wKSk7CiAgICBSRVFVSVJFKGJvdW5kYXJ5X2FyZWFbMl1bMl0gPT0gQXBwcm94KDAuMCkpOwoKICAgIFJFUVVJUkUoYm91bmRhcnlfYXJlYVszXVswXSA9PSBBcHByb3goMC4wKSk7CiAgICBSRVFVSVJFKGJvdW5kYXJ5X2FyZWFbM11bMV0gPT0gQXBwcm94KDAuMCkpOwogICAgUkVRVUlSRShib3VuZGFyeV9hcmVhWzNdWzJdID09IEFwcHJveCgwLjUgLyAzLjApKTsK</text>
+        <text encoding="base64">ICAgIHFfYXRfY2VsbF9jb3JuZXJzWzBdID0gezEuMCwgMC4xMSwgMC4yMSwgMC4zMSwgMC43MTR9OwogICAgcV9hdF9jZWxsX2Nvcm5lcnNbMV0gPSB7MS4xLCAwLjEyLCAwLjIyLCAwLjMyLCAwLjcxNX07CiAgICBxX2F0X2NlbGxfY29ybmVyc1syXSA9IHsxLjIsIDAuMTMsIDAuMjMsIDAuMzMsIDAuNzE2fTsKICAgIHFfYXRfY2VsbF9jb3JuZXJzWzNdID0gezEuMywgMC4xNCwgMC4yNCwgMC4zNCwgMC43MTd9OwoK</text>
       </register>
-      <register name="7" type="8">
-        <text>-0.5 / 3.0
--0.5 / 3.0
--0.5 / 3.0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="8">
-        <text>0
-0
-0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8c3RkOjphcnJheTxkb3VibGUsIDU+LCA0PiBxX2F0X2NlbGxfY29ybmVyczsKICAgIGZvciAoaW50IGNvcm5lciA9IDA7IGNvcm5lciA8IDQ7ICsrY29ybmVyKSB7CiAgICAgICAgcV9hdF9jZWxsX2Nvcm5lcnNbY29ybmVyXVswXSA9IDEuMDsKICAgICAgICBxX2F0X2NlbGxfY29ybmVyc1tjb3JuZXJdWzFdID0gMS4wICogOwogICAgICAgIHFfYXRfY2VsbF9jb3JuZXJzW2Nvcm5lcl1bMl0gPSAxLjA7CiAgICAgICAgcV9hdF9jZWxsX2Nvcm5lcnNbY29ybmVyXVszXSA9IDEuMDsKICAgICAgICBxX2F0X2NlbGxfY29ybmVyc1tjb3JuZXJdWzRdID0gMS4wOwogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="8">
+        <text>Approx(actual_area[node_id][0]));
+Approx(actual_area[node_id][0]));
+Approx(actual_area[node_id][0]));</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

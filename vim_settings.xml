@@ -573,12 +573,12 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1520369540256">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="36" column="26" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" timestamp="1520371986505">
+        <mark key="'" line="18" column="106" />
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="48" column="47" />
+        <mark key="." line="48" column="47" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/hefss++/data/convert.py" timestamp="1498593791826">
         <mark key="'" line="12" column="31" />
@@ -965,22 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="21" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="28" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PointForceComputer.h" />
-      <jump line="7" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/PointForceComputer.h" />
-      <jump line="107" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
-      <jump line="127" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
-      <jump line="8" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
-      <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="424" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="151" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
-      <jump line="82" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
-      <jump line="88" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
-      <jump line="102" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
-      <jump line="110" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
-      <jump line="105" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
-      <jump line="138" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
       <jump line="79" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
       <jump line="159" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
       <jump line="160" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" />
@@ -1064,7 +1048,23 @@
       <jump line="54" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
       <jump line="12" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
       <jump line="33" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
-      <jump line="14" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="44" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="14" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="61" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="34" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="60" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="19" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="23" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="27" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="31" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="35" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="39" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="46" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="58" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="16" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="17" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
+      <jump line="18" column="106" filename="$USER_HOME$/one-ring/hypersolve/src/ThermoState.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1074,8 +1074,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgaWRlYWxfZ2FzX2NvbnN0YW50ID0gMjg3LjA1MzsgLy8gW0p9L1trZ10tW0tdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4475,58 +4475,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>framework_trans</text>
+        <text>gamma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgaWRlYWxfZ2FzX2NvbnN0YW50ID0gMjg3LjA1MzsgLy8gW0p9L1trZ10tW0tdCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIGlubGluZSBUIGNhbGNUaGVybWFsQ29uZHVjdGl2aXR5KGRvdWJsZSBnYW1tYSwgVCB2aXNjb3NpdHkpewogICAgICAgICAgICByZXR1cm4gdmlzY29zaXR5IC8gKChnYW1tYSAtIDEuMCkgKiBwcmFuZHRsX251bWJlcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgc3V0aGVybGFuZHNfY29uc3RhbnQgPSAxMTAuNDsgLy8gW0tdCiAgICAgICAgY29uc3QgZG91YmxlIHByYW5kdGxfbnVtYmVyID0gMC43MjsKICAgICAgICBjb25zdCBkb3VibGUgdmlzY29zaXR5X2Fpcl8zMDBLID0gMS44NDZFLTU7IC8vIFtrZ10gLyBbbSBzXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgaWRlYWxfZ2FzX2NvbnN0YW50X21rcyA9IDI4Ny4wNTM7IC8vIFtKfS9ba2ddLVtLXQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIChnYW1tYSAtIDEuMCkgKiAocVs0XSAtIDAuNSAqIChxWzFdICogcVsxXSArIHFbMl0gKiBxWzJdICsgcVszXSAqIHFbM10pIC8gcVswXSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIGlubGluZSBUIGNhbGNTcGVjaWZpY0hlYXRDb25zdGFudFByZXNzdXJlKFQgdmlzY29zaXR5KXsKICAgICAgICAgICAgcmV0dXJuIHZpc2Nvc2l0eSAvICgoZ2FtbWEgLSAxLjApICogcHJhbmR0bF9udW1iZXIpOwogICAgICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGU6CgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXF1YXRpb24gb2Ygc3RhdGUgY2xvc3VyZXMgZm9yIHBlcmZlY3QgZ2FzICh3aGlsZSB3YWl0aW5nIG9uIEhFRlNTKysgY291cGxpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgdmlzY29zaXR5X2Fpcl8zMDBLID0gMS44NDZFLTU7IC8vIFtrZ10gLyBbbSBzXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgdmlzY29zaXR5X2Fpcl8zMDBLID0gMS44NDZFLTU7IC8vIFtrZ10gLyBbbSBzXQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdAo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>framework_trans</last-search>
+      <last-search>gamma</last-search>
       <last-offset />
-      <last-pattern>framework_trans</last-pattern>
+      <last-pattern>gamma</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4534,8 +4534,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printFo</entry>
-        <entry>last_dQ</entry>
         <entry>SolveO</entry>
         <entry>PointForces</entry>
         <entry>inviscid-</entry>
@@ -4554,6 +4552,8 @@
         <entry>solution</entry>
         <entry>nodim</entry>
         <entry>framework_trans</entry>
+        <entry>inline</entry>
+        <entry>gamma</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

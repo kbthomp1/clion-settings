@@ -838,12 +838,12 @@
       <file name="/Dummy.txt" timestamp="1520383159214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" timestamp="1520373449740">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="75" column="78" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" timestamp="1520436403135">
+        <mark key="'" line="50" column="44" />
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
         <mark key="'" line="37" column="0" />
@@ -992,16 +992,15 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" timestamp="1520434957619">
-        <mark key="[" line="39" column="31" />
-        <mark key="]" line="49" column="34" />
-        <mark key="." line="49" column="34" />
-        <mark key="^" line="49" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" timestamp="1520437326861">
+        <mark key="'" line="56" column="37" />
+        <mark key="[" line="74" column="39" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="73" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" />
-      <jump line="23" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" />
       <jump line="10" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/NondimensionalizaionTest.cpp" />
       <jump line="95" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="28" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
@@ -1100,6 +1099,8 @@
       <jump line="187" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="152" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="153" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="50" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" />
+      <jump line="56" column="37" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1110,7 +1111,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1.309765e-08 / (viscosity_reference * sound_speed_ref);</text>
+        <text>nu_tilde</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4510,13 +4511,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.309765e-08 / (viscosity_reference * sound_speed_ref);</text>
+        <text>nu_tilde</text>
       </register>
       <register name="/" type="4">
-        <text>sutherlands</text>
+        <text>turb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBkZW5zaXR5X3JlZiA9IDEuMzA5NzY1ZS0wOCAvICh2aXNjb3NpdHlfcmVmZXJlbmNlICogc291bmRfc3BlZWRfcmVmKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIFQgbm9uZGltZW5zaW9uYWxEeW5hbWljVmlzY29zaXR5KFQgZGltZW5zaW9uYWxfdmlzY29zaXR5KSBjb25zdCB7CiAgICAgICAgICAgIHJldHVybiBkaW1lbnNpb25hbF92aXNjb3NpdHkgLyAocmVmZXJlbmNlX2RlbnNpdHkgKiByZWZlcmVuY2Vfc3BlZWQgKiByZWZlcmVuY2VfZ3JpZF9sZW5ndGgpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUoZmx1eFsyXSA9PSBBcHByb3goMC4wKSk7CiAgICBSRVFVSVJFKGZsdXhbM10gPT0gQXBwcm94KDAuMCkpOwo=</text>
@@ -4559,9 +4560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sutherlands</last-search>
+      <last-search>turb</last-search>
       <last-offset />
-      <last-pattern>sutherlands</last-pattern>
+      <last-pattern>turb</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4569,7 +4570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dimensional_q</entry>
         <entry>viscous_non</entry>
         <entry>solution</entry>
         <entry>nodim</entry>
@@ -4589,6 +4589,7 @@
         <entry>xmr_</entry>
         <entry>xmr</entry>
         <entry>sutherlands</entry>
+        <entry>turb</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

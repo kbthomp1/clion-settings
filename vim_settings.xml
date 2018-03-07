@@ -93,12 +93,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="34" column="50" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1520456828815">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="285" column="19" />
-        <mark key="]" line="285" column="25" />
-        <mark key="^" line="285" column="25" />
-        <mark key="." line="285" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1520459869776">
+        <mark key="'" line="286" column="25" />
+        <mark key="[" line="168" column="40" />
+        <mark key="]" line="168" column="86" />
+        <mark key="^" line="168" column="86" />
+        <mark key="." line="168" column="86" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1519680278261">
         <mark key="'" line="45" column="12" />
@@ -250,12 +250,12 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1520381574453">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="105" column="94" />
-        <mark key="]" line="106" column="64" />
-        <mark key="^" line="106" column="64" />
-        <mark key="." line="106" column="64" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1520459969783">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="154" column="83" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/TurbulenceTerms.h" timestamp="1520265802522">
         <mark key="[" line="15" column="45" />
@@ -371,11 +371,11 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1520457316864">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="75" column="49" />
-        <mark key="]" line="75" column="61" />
-        <mark key="." line="75" column="61" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1520459717887">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
         <mark key="^" line="75" column="61" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1510152720379">
@@ -1007,12 +1007,12 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" timestamp="1520457267520">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" timestamp="1520459695944">
         <mark key="'" line="312" column="0" />
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="38" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="46" column="39" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/hefss_interface.f90" timestamp="1503669182822">
         <mark key="'" line="88" column="33" />
@@ -1036,8 +1036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="203" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="16" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
       <jump line="174" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
       <jump line="28" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
@@ -1136,6 +1134,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
       <jump line="27" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
       <jump line="149" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="17" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="286" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1145,8 +1145,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, farfield_turb),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFyZmllbGRfdHVyYiwgZXFuX21hcCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4546,58 +4546,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, farfield_turb),</text>
+        <text>HS::ThermoState::calcSpeedOfSound(gamma, rho, pressure);</text>
       </register>
       <register name="/" type="4">
-        <text>private:</text>
+        <text>ThermoState::</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBmYXJmaWVsZF90dXJidWxlbmNlID0gMy4wICogdGhlcm1vZHluYW1pY3MuY2FsY1Zpc2Nvc2l0eShub25kaW1lbnNpb25hbF9yZWZlcmVuY2VfdGVtcGVyYXR1cmUpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJzZXR0aW5nIGZhcmZpZWxkIHR1cmJ1bGVuY2UgdG86ICVlXG4iLCBmYXJmaWVsZF90dXJidWxlbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBnYW1tYSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFyZmllbGRfdHVyYiwgZXFuX21hcCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgYyA9IEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1NwZWVkT2ZTb3VuZChnYW1tYSwgcVswXSwgcVs0XSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIGdhbW1hKXsK</text>
+        <text encoding="base64">ICAgIC8vIEZhci1maWVsZCB2YWx1ZSBmb3IgU0EgVHVyYiBWYXJpYWJsZQogICAgY29uc3QgZG91YmxlIHR1cmJfZXh0OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBnYW1tYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgZmFyZmllbGRfdHVyYiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcHJlc3N1cmUgPSBkZW5zaXR5KnRlbXBlcmF0dXJlKkhTOjppZGVhbF9nYXNfY29uc3RhbnRfbWtzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvdWJsZSBnYW1tYSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGVkZHlfdmlzY19ub25kaW0gPSAKICAgICAgICAgICAgcmV0dXJuIGVkZHlfdmlzY19ub25kaW07Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgYyA9IEhTOjpUaGVybW9TdGF0ZTo6Y2FsY1NwZWVkT2ZTb3VuZChnYW1tYSwgcVswXSwgcVs0XSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUS5nZXRWYXJpYWJsZShub2RlX2lkLCBIUzo6VmFyaWFibGU6OnR1cmJ1bGVuY2Vfc3RhcnQsICZkZW5zaXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlIGdhbW1hKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGRlbnNpdHkgPSBxX2F0X25vZGVbMF07CiAgICAgICAgICAgIGRvdWJsZSB0dXJiID0gcV9hdF9ub2RlWzVdOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBnYW1tYTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUS5nZXRWYXJpYWJsZShub2RlX2lkLCBIUzo6VmFyaWFibGU6OmRlbnNpdHlfYmVnaW4sIEhTOjpWYXJpYWJsZTo6dHVyYnVsZW5jZV9zdGFydCwgcV9hdF9ub2RlLmRhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcHJlc3N1cmUgPSBkZW5zaXR5KnRlbXBlcmF0dXJlKkhTOjppZGVhbF9nYXNfY29uc3RhbnRfbWtzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>private:</last-search>
+      <last-search>ThermoState::</last-search>
       <last-offset />
-      <last-pattern>private:</last-pattern>
+      <last-pattern>ThermoState::</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4605,7 +4605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viscosity_air_</entry>
         <entry>HS::Thermo</entry>
         <entry>MockThermo</entry>
         <entry>temperature</entry>
@@ -4625,6 +4624,7 @@
         <entry>turb_ext</entry>
         <entry>farfield_turb</entry>
         <entry>private:</entry>
+        <entry>ThermoState::</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4645,8 +4645,8 @@
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>qa</entry>
         <entry>vsp</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

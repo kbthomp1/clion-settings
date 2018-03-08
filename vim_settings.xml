@@ -107,12 +107,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520540773957">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520541455606">
         <mark key="'" line="64" column="32" />
         <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="23" />
-        <mark key="^" line="58" column="23" />
-        <mark key="." line="58" column="23" />
+        <mark key="]" line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="58" column="11" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/interface.f90" timestamp="1500466518838">
         <mark key="'" line="9" column="15" />
@@ -913,11 +913,12 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" timestamp="1520540738229">
-        <mark key="'" line="196" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" timestamp="1520541655754">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="205" column="19" />
+        <mark key="." line="205" column="19" />
+        <mark key="^" line="205" column="19" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1519339779091">
         <mark key="'" line="838" column="27" />
@@ -970,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="457" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="39" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="279" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1070,6 +1070,7 @@
       <jump line="192" column="2" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
       <jump line="61" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="64" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1079,8 +1080,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UGFyZmFpdDo6UG9pbnQ8VD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiBvcGVyYXRvcisoY29uc3QgUGFyZmFpdDo6UG9pbnQ8VD4mIHApIHsKICAgICAgICAgICAgSFM6OlZlY3RvcjxULCAzPiBvdXRwdXQ7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKQogICAgICAgICAgICAgICAgb3V0cHV0KGksIDApID0gKCp0aGlzKShpLCAwKSArIHBbaV07CiAgICAgICAgICAgIHJldHVybiBvdXRwdXQ7CiAgICAgICAgfTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4480,49 +4481,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFyZmFpdDo6UG9pbnQ8VD4=</text>
+        <text encoding="base64">SFM6OlZlY3RvcjxULCAzPg==</text>
       </register>
       <register name="/" type="4">
         <text>heat_flux</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIUzo6VmVjdG9yIDxULCAzPiB1dndfdmlzY29zaXR5X2F2Zwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiBvcGVyYXRvcisoY29uc3QgUGFyZmFpdDo6UG9pbnQ8VD4mIHApIHsKICAgICAgICAgICAgSFM6OlZlY3RvcjxULCAzPiBvdXRwdXQ7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKQogICAgICAgICAgICAgICAgb3V0cHV0KGksIDApID0gKCp0aGlzKShpLCAwKSArIHBbaV07CiAgICAgICAgICAgIHJldHVybiBvdXRwdXQ7CiAgICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0KDAsIDApICsgKCp0aGlzKSgwLDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiBvcGVyYXRvcisoY29uc3QgUGFyZmFpdDo6UAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KaW5saW5lIEhTOjpWZWN0b3I8VCwgMz4gb3BlcmF0b3I9KGNvbnN0IFBhcmZhaXQ6OlBvaW50PFQ+JiBwKSB7CiAgICBIUzo6VmVjdG9yPFQsIDM+IG91dHB1dDsKICAgIG91dHB1dCA8PCBwWzBdLCBwWzFdLCBwWzJdOwogICAgcmV0dXJuIG91dHB1dDsKfTsK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogbWFrZSBQYXJmYWl0OjpQb2ludCBhbmQgRGRhdGEgcGxheSBuaWNlIHRvZ2V0aGVyLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3Rvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlbG9jaXR5X2dyYWRpZW50cygwKSA9IGdyYWRfdS5wb3M7CiAgICB2ZWxvY2l0eV9ncmFkaWVudHMoMSkgPSBncmFkX3YucG9zOwogICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIpID0gZ3JhZF93LnBvczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEEoMCkgPSB7MS4wLCAyLjAsIDMuMH07CiAgICBBKDEpID0gezAuMCwgMS4wLCAwLjB9OwogICAgQSgyKSA9IHswLjAsIDAuMCwgMS4wfTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>

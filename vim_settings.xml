@@ -107,12 +107,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520538413006">
-        <mark key="'" line="62" column="26" />
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="74" />
-        <mark key="^" line="62" column="74" />
-        <mark key="." line="62" column="74" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520540773957">
+        <mark key="'" line="64" column="32" />
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="23" />
+        <mark key="^" line="58" column="23" />
+        <mark key="." line="58" column="23" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/interface.f90" timestamp="1500466518838">
         <mark key="'" line="9" column="15" />
@@ -913,12 +913,11 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" timestamp="1520538263818">
-        <mark key="'" line="125" column="17" />
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" timestamp="1520540738229">
+        <mark key="'" line="196" column="2" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1519339779091">
         <mark key="'" line="838" column="27" />
@@ -971,11 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="344" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="16" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="43" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="346" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="457" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="39" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1065,12 +1059,17 @@
       <jump line="156" column="27" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="33" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="117" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
-      <jump line="61" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="62" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="62" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousStressUtilities.h" />
       <jump line="90" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
       <jump line="3" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
+      <jump line="57" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="6" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
+      <jump line="12" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
+      <jump line="192" column="2" filename="$USER_HOME$/one-ring/hypersolve/src/Tensor.h" />
+      <jump line="61" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="64" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1080,8 +1079,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlbG9jaXR5X2dyYWRpZW50cygwKSA9IGdyYWRfdS5wb3M7CiAgICB2ZWxvY2l0eV9ncmFkaWVudHMoMSkgPSBncmFkX3YucG9zOwogICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIpID0gZ3JhZF93LnBvczsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UGFyZmFpdDo6UG9pbnQ8VD4=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4481,60 +4480,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">UGFyZmFpdDo6UG9pbnQ8VD4=</text>
       </register>
       <register name="/" type="4">
-        <text>energy_stress</text>
+        <text>heat_flux</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKSB7CiAgICAgICAgdmVsb2NpdHlfZ3JhZGllbnRzKDAsaSkgPSBncmFkX3VbaV07CiAgICAgICAgdmVsb2NpdHlfZ3JhZGllbnRzKDEsaSkgPSBncmFkX3ZbaV07CiAgICAgICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIsaSkgPSBncmFkX3dbaV07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBIUzo6VmVjdG9yIDxULCAzPiB1dndfdmlzY29zaXR5X2F2Zwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlbG9jaXR5X2dyYWRpZW50cygwKSA9IGdyYWRfdS5wb3M7CiAgICB2ZWxvY2l0eV9ncmFkaWVudHMoMSkgPSBncmFkX3YucG9zOwogICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIpID0gZ3JhZF93LnBvczsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3RvcjxULCAzPiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEEoMCkgPSB7MS4wLCAyLjAsIDMuMH07CiAgICBBKDEpID0gezAuMCwgMS4wLCAwLjB9OwogICAgQSgyKSA9IHswLjAsIDAuMCwgMS4wfTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbmxpbmUgSFM6OlZlY3Rvcgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgCiAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEEoMCkgPSB7MS4wLCAwLjAsIDAuMH07CiAgICBBKDEpID0gezAuMCwgMS4wLCAwLjB9OwogICAgQSgyKSA9IHswLjAsIDAuMCwgMS4wfTsK</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KaW5saW5lIEhTOjpWZWN0b3I8VCwgMz4gb3BlcmF0b3I9KGNvbnN0IFBhcmZhaXQ6OlBvaW50PFQ+JiBwKSB7CiAgICBIUzo6VmVjdG9yPFQsIDM+IG91dHB1dDsKICAgIG91dHB1dCA8PCBwWzBdLCBwWzFdLCBwWzJdOwogICAgcmV0dXJuIG91dHB1dDsKfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEEoMSkgPSB7MC4wLCAxLjAsIDAuMH07CiAgICBBKDIpID0gezAuMCwgMC4wLCAxLjB9Owo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>.pos
-.pos
-.pos</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogbWFrZSBQYXJmYWl0OjpQb2ludCBhbmQgRGRhdGEgcGxheSBuaWNlIHRvZ2V0aGVyLi4uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZlbG9jaXR5X2dyYWRpZW50cygwKSA9IGdyYWRfdS5wb3M7CiAgICB2ZWxvY2l0eV9ncmFkaWVudHMoMSkgPSBncmFkX3YucG9zOwogICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIpID0gZ3JhZF93LnBvczsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZlbG9jaXR5X2dyYWRpZW50cygwKSA9IGdyYWRfdS5wb3M7CiAgICB2ZWxvY2l0eV9ncmFkaWVudHMoMSkgPSBncmFkX3YucG9zOwogICAgdmVsb2NpdHlfZ3JhZGllbnRzKDIpID0gZ3JhZF93LnBvczsK</text>
+        <text encoding="base64">ICAgIEEoMCkgPSB7MS4wLCAyLjAsIDMuMH07CiAgICBBKDEpID0gezAuMCwgMS4wLCAwLjB9OwogICAgQSgyKSA9IHswLjAsIDAuMCwgMS4wfTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>energy_stress</last-search>
+      <last-search>heat_flux</last-search>
       <last-offset />
-      <last-pattern>energy_stress</last-pattern>
+      <last-pattern>heat_flux</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4542,8 +4539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turb_ext</entry>
-        <entry>farfield_turb</entry>
         <entry>private:</entry>
         <entry>ThermoState::</entry>
         <entry>printf</entry>
@@ -4562,6 +4557,8 @@
         <entry>linear_solver</entry>
         <entry>uvw</entry>
         <entry>energy_stress</entry>
+        <entry>edge_tgrad</entry>
+        <entry>heat_flux</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

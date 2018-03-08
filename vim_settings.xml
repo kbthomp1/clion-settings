@@ -143,6 +143,9 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520536385816">
+        <mark key="'" line="33" column="29" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1513883725409">
         <mark key="'" line="80" column="13" />
         <mark key="[" line="61" column="19" />
@@ -951,7 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
       <jump line="222" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="47" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
@@ -1051,6 +1053,7 @@
       <jump line="160" column="27" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="0" column="0" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="156" column="27" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="33" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4464,7 +4467,7 @@
         <text>density</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>linear_solver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEFyZWEoc29sdXRpb25fb3V0cHV0LmJvdW5kYXJ5X2FyZWFfaW5fZ3JpZF91bml0c1tub2RlX2lkXVswXSk7Cg==</text>
@@ -4510,9 +4513,9 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>linear_solver</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>linear_solver</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4520,7 +4523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thermodynamics</entry>
         <entry>nonlinear</entry>
         <entry>gamma</entry>
         <entry>turb_ext</entry>
@@ -4540,6 +4542,7 @@
         <entry>boundary_area_in</entry>
         <entry>surface_area</entry>
         <entry>private</entry>
+        <entry>linear_solver</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

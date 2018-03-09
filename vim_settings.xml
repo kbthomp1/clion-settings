@@ -764,12 +764,12 @@
         <mark key="." line="87" column="111" />
         <mark key="^" line="87" column="111" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" timestamp="1520603969229">
-        <mark key="'" line="163" column="42" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="149" column="49" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" timestamp="1520604658046">
+        <mark key="'" line="166" column="42" />
+        <mark key="[" line="165" column="47" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
@@ -1042,8 +1042,10 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text>2
+2
+2</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4449,47 +4451,49 @@
         <text>u[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRSh2aXNjb3VzX2JvdW5kYXJ5X2ZvcmNlcy5GeFtub2RlX2lkXSA9PSBBcHByb3godmlzY291c19GeCAvIDMuMCkubWFyZ2luKDEuZS0xNikpOwogICAgICAgICAgICBSRVFVSVJFKHZpc2NvdXNfYm91bmRhcnlfZm9yY2VzLkZ5W25vZGVfaWRdID09IEFwcHJveCh2aXNjb3VzX0Z5IC8gMy4wKS5tYXJnaW4oMS5lLTE2KSk7CiAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnpbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnogLyAzLjApLm1hcmdpbigxLmUtMTYpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRldF9tZXNoLm5vZGVPd25lcihub2RlX2lkKSA9PSBtcC5SYW5rKCkpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>2
+2
+2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>Approx(viscous_Fx / 3.0).margin(1.e-16));
-Approx(viscous_Fy / 3.0).margin(1.e-16));
-Approx(viscous_Fz / 3.0).margin(1.e-16));</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBWZXJpZnkgdGhlIG5vZGUgbm90IG9uIGJvdW5kYXJ5IGhhcyB6ZXJvIGZvcmNlCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRSh2aXNjb3VzX2JvdW5kYXJ5X2ZvcmNlcy5GeFtub2RlX2lkXSA9PSBBcHByb3godmlzY291c19GeCAvIDMuMCkubWFyZ2luKDEuZS0xNikpOwogICAgICAgICAgICBSRVFVSVJFKHZpc2NvdXNfYm91bmRhcnlfZm9yY2VzLkZ5W25vZGVfaWRdID09IEFwcHJveCh2aXNjb3VzX0Z5IC8gMy4wKS5tYXJnaW4oMS5lLTE2KSk7CiAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnpbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnogLyAzLjApLm1hcmdpbigxLmUtMTYpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>Approx(viscous_Fx / 3.0).margin(1.e-16));
+Approx(viscous_Fy / 3.0).margin(1.e-16));
+Approx(viscous_Fz / 3.0).margin(1.e-16));</text>
+      </register>
+      <register name="7" type="8">
         <text>node_id
 node_id
 node_id</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IG5vZGVfaWQgPSAwOyBub2RlX2lkIDwgdGV0X21lc2gubm9kZUNvdW50KCk7ICsrbm9kZV9pZCkgewovLyAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnhbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnggLyAzLjApLm1hcmdpbigxLmUtMTYpKTsKLy8gICAgICAgICAgICBSRVFVSVJFKHZpc2NvdXNfYm91bmRhcnlfZm9yY2VzLkZ5W25vZGVfaWRdID09IEFwcHJveCh2aXNjb3VzX0Z5IC8gMy4wKS5tYXJnaW4oMS5lLTE2KSk7Ci8vICAgICAgICAgICAgUkVRVUlSRSh2aXNjb3VzX2JvdW5kYXJ5X2ZvcmNlcy5Geltub2RlX2lkXSA9PSBBcHByb3godmlzY291c19GeiAvIDMuMCkubWFyZ2luKDEuZS0xNikpOwovLyAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnhbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnggLyAzLjApLm1hcmdpbigxLmUtMTYpKTsKICAgICAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnlbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnkgLyAzLjApLm1hcmdpbigxLmUtMTYpKTsKICAgICAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnpbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnogLyAzLjApLm1hcmdpbigxLmUtMTYpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IG5vZGVfaWQgPSAwOyBub2RlX2lkIDwgdGV0X21lc2gubm9kZUNvdW50KCk7ICsrbm9kZV9pZCkgewovLyAgICAgICAgICAgIFJFUVVJUkUodmlzY291c19ib3VuZGFyeV9mb3JjZXMuRnhbbm9kZV9pZF0gPT0gQXBwcm94KHZpc2NvdXNfRnggLyAzLjApLm1hcmdpbigxLmUtMTYpKTsKLy8gICAgICAgICAgICBSRVFVSVJFKHZpc2NvdXNfYm91bmRhcnlfZm9yY2VzLkZ5W25vZGVfaWRdID09IEFwcHJveCh2aXNjb3VzX0Z5IC8gMy4wKS5tYXJnaW4oMS5lLTE2KSk7Ci8vICAgICAgICAgICAgUkVRVUlSRSh2aXNjb3VzX2JvdW5kYXJ5X2ZvcmNlcy5Geltub2RlX2lkXSA9PSBBcHByb3godmlzY291c19GeiAvIDMuMCkubWFyZ2luKDEuZS0xNikpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

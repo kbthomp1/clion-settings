@@ -163,6 +163,9 @@
         <mark key="^" line="219" column="5" />
         <mark key="." line="219" column="5" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1520613015650">
+        <mark key="'" line="279" column="38" />
+      </file>
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
       </file>
@@ -936,7 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
       <jump line="15" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="31" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="126" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
@@ -1036,6 +1038,7 @@
       <jump line="150" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
       <jump line="270" column="8" filename="$USER_HOME$/one-ring/hypersolve/cotire.cmake" />
       <jump line="4053" column="0" filename="$USER_HOME$/one-ring/hypersolve/cotire.cmake" />
+      <jump line="279" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4451,7 +4454,7 @@
         <text>node_id</text>
       </register>
       <register name="/" type="4">
-        <text>u[</text>
+        <text>printForces</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRldF9tZXNoLm5vZGVPd25lcihub2RlX2lkKSA9PSBtcC5SYW5rKCkpIHsK</text>
@@ -4503,9 +4506,9 @@ node_id</text>
       </register>
     </registers>
     <search>
-      <last-search>u[</last-search>
+      <last-search>printForces</last-search>
       <last-offset />
-      <last-pattern>u[</last-pattern>
+      <last-pattern>printForces</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4513,7 +4516,6 @@ node_id</text>
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
         <entry>unaccounted</entry>
         <entry>xmre_bot</entry>
         <entry>xmre</entry>
@@ -4533,6 +4535,7 @@ node_id</text>
         <entry>heat_flux</entry>
         <entry>x</entry>
         <entry>u[</entry>
+        <entry>printForces</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

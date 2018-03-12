@@ -120,8 +120,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520543005503">
-        <mark key="'" line="65" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" timestamp="1520865863314">
+        <mark key="'" line="59" column="57" />
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="8" />
         <mark key="^" line="58" column="53" />
@@ -1021,11 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="126" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
-      <jump line="75" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
-      <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
-      <jump line="27" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
       <jump line="149" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
       <jump line="17" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="286" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
@@ -1121,6 +1116,11 @@
       <jump line="4053" column="0" filename="$USER_HOME$/one-ring/hypersolve/cotire.cmake" />
       <jump line="279" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="166" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
+      <jump line="36" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="40" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="55" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="95" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="59" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4534,7 +4534,7 @@
         <text>nondimensional_reference_temperature</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>heat_flux</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIGJvdW5kYXJ5X2NvbmRpdGlvbl9qc29uID0ganNvbl9jb25maWcuYXQoImNvbmZpZyIpLmF0KCJib3VuZGFyeSBjb25kaXRpb25zIik7Cg==</text>
@@ -4580,9 +4580,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>heat_flux</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>heat_flux</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4590,7 +4590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xmre_bot</entry>
         <entry>xmre</entry>
         <entry>sa_source</entry>
         <entry>Nondim</entry>
@@ -4605,11 +4604,12 @@
         <entry>uvw</entry>
         <entry>energy_stress</entry>
         <entry>edge_tgrad</entry>
-        <entry>heat_flux</entry>
         <entry>x</entry>
         <entry>u[</entry>
         <entry>printForces</entry>
         <entry>print</entry>
+        <entry>thermal_cond</entry>
+        <entry>heat_flux</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

@@ -539,13 +539,13 @@
         <mark key="^" line="398" column="3" />
         <mark key="." line="398" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" timestamp="1520972533707">
-        <mark key="'" line="151" column="0" />
-        <mark key="k" line="129" column="80" />
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" timestamp="1520982796084">
+        <mark key="'" line="51" column="54" />
+        <mark key="k" line="133" column="80" />
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.h" timestamp="1510089296538">
         <mark key="'" line="0" column="0" />
@@ -958,12 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="158" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="159" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="162" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="195" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="115" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
       <jump line="124" column="67" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
       <jump line="114" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="95" column="20" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
@@ -1058,6 +1052,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" />
       <jump line="232" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="109" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="74" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="60" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="44" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="47" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1068,7 +1068,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1295.627126));</text>
+        <text>boundary_cell_ids</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4468,58 +4468,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1295.627126));</text>
+        <text>boundary_cell_ids</text>
       </register>
       <register name="/" type="4">
-        <text>reynolds</text>
+        <text>boundary_cell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIFQgbm9uZGltZW5zaW9uYWxTcGVlZChUIGRpbWVuc2lvbmFsX3NwZWVkKSBjb25zdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJudV9yZWFsICA9ICAxLjM2MjQxODIxMjYzNjU4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3RhbmNlICA9ICAyLjVFLTAwMjsK</text>
+        <text encoding="base64">ICAgICAgICBnZXRCb3VuZGFyeUNvbnRyaWJ1dGlvbihib3VuZGFyeV9jZWxsX2lkcywgcmhzLCBRKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3RhbmNlICAgPSA1LjBFLTAwMjsKICAgIHR1cmJfcmVhbCAgPSAxLjA7CiAgICBybnVfcmVhbCAgID0gMi45NzMzNzU1MzczMjg4MjsKICAgIHNvdXJjZSA9IHR1cmJfbW9kZWwuc2Ffc291cmNlKGRpc3RhbmNlLCB0dXJiX3JlYWwsIHNfdmd0X3JlYWwsIHJudV9yZWFsKTsKICAgIFJFUVVJUkUoc291cmNlID09IEFwcHJveCgtMjI1Ny45NDkxMjApKTsKCg==</text>
+        <text encoding="base64">ICAgIHJudV9yZWFsICA9ICAxLjM2MjQxODIxMjYzNjU4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoInByb2Q6ICVlIGRlc3Q6ICVlXG4iLCB0dXJiX3Byb2R1Y3Rpb24sIHR1cmJfZGVzdHJ1Y3Rpb24pOwoK</text>
+        <text encoding="base64">ICAgIGRpc3RhbmNlICA9ICAyLjVFLTAwMjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkdWUgdG8gbm9uZGltZW5zaW9uYWxpemF0aW9uIG9mIFNBIHR1cmJ1bGVuY2UgdmFyaWFibGUKICAgICAgICB0dXJiX2Rlc3RydWN0aW9uICo9IHJleW5vbGRzX251bWJlcl9yZWZlcmVuY2U7Cgo=</text>
+        <text encoding="base64">ICAgIGRpc3RhbmNlICAgPSA1LjBFLTAwMjsKICAgIHR1cmJfcmVhbCAgPSAxLjA7CiAgICBybnVfcmVhbCAgID0gMi45NzMzNzU1MzczMjg4MjsKICAgIHNvdXJjZSA9IHR1cmJfbW9kZWwuc2Ffc291cmNlKGRpc3RhbmNlLCB0dXJiX3JlYWwsIHNfdmd0X3JlYWwsIHJudV9yZWFsKTsKICAgIFJFUVVJUkUoc291cmNlID09IEFwcHJveCgtMjI1Ny45NDkxMjApKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHhtcmVfZDIgPSAxLjAgLyAoZDIgKiByZXlub2xkc19udW1iZXJfcmVmZXJlbmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInByb2Q6ICVlIGRlc3Q6ICVlXG4iLCB0dXJiX3Byb2R1Y3Rpb24sIHR1cmJfZGVzdHJ1Y3Rpb24pOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzX2hhdCAqPSByZXlub2xkc19udW1iZXJfcmVmZXJlbmNlOwoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkdWUgdG8gbm9uZGltZW5zaW9uYWxpemF0aW9uIG9mIFNBIHR1cmJ1bGVuY2UgdmFyaWFibGUKICAgICAgICB0dXJiX2Rlc3RydWN0aW9uICo9IHJleW5vbGRzX251bWJlcl9yZWZlcmVuY2U7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkdWUgdG8gbm9uZGltZW5zaW9uYWxpemF0aW9uIG9mIFNBIHR1cmJ1bGVuY2UgdmFyaWFibGUKICAgICAgICB0dXJiX2Rlc3RydWN0aW9uIC89IHJleW5vbGRzX251bWJlcl9yZWZlcmVuY2U7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHhtcmVfZDIgPSAxLjAgLyAoZDIgKiByZXlub2xkc19udW1iZXJfcmVmZXJlbmNlKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzX2hhdCAqPSByZXlub2xkc19udW1iZXJfcmVmZXJlbmNlOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reynolds</last-search>
+      <last-search>boundary_cell</last-search>
       <last-offset />
-      <last-pattern>reynolds</last-pattern>
+      <last-pattern>boundary_cell</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4527,8 +4527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turb_eqn_map</entry>
-        <entry>printJ</entry>
         <entry>print</entry>
         <entry>thermodynamics</entry>
         <entry>thermal_con</entry>
@@ -4547,6 +4545,8 @@
         <entry>SABoundary</entry>
         <entry>xmre</entry>
         <entry>reynolds</entry>
+        <entry>boundary_cell_ids</entry>
+        <entry>boundary_cell</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

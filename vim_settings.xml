@@ -100,8 +100,8 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1520878475588">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1520949467288">
+        <mark key="'" line="106" column="8" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="^" line="317" column="70" />
@@ -639,6 +639,12 @@
       <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity_python_bindings.cpp" timestamp="1520879593440">
         <mark key="'" line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1520949627351">
+        <mark key="[" line="208" column="64" />
+        <mark key="]" line="208" column="66" />
+        <mark key="." line="208" column="66" />
+        <mark key="^" line="208" column="66" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
         <mark key="[" line="15" column="0" />
@@ -976,7 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="35" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="125" column="35" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="129" column="31" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="211" column="12" filename="$USER_HOME$/clean-one-ring/hypersolve/src/NonLinearSolver.h" />
@@ -1076,6 +1081,7 @@
       <jump line="21" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="174" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="231" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
+      <jump line="106" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1092,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4486,49 +4492,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>thermodynamics</text>
+        <text>pressure_start</text>
       </register>
       <register name="/" type="4">
         <text>eddy_visc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEhTOjpUaGVybW9TdGF0ZSBjcmVhdGVUdXJidWxlbnRUaGVybW9keW5hbWljcygpIHsKICAgICAgICBhdXRvIHR1cmJfdGhlcm1vID0gdGhlcm1vZHluYW1pY3M7CiAgICAgICAgdHVyYl90aGVybW8uc2V0UHJhbmR0bE51bWJlcigwLjkpOwogICAgICAgIHJldHVybiB0dXJiX3RoZXJtbzsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFEuc2V0VmFyaWFibGUobm9kZV9pZCwgSFM6OlZhcmlhYmxlOjpwcmVzc3VyZV9zdGFydCwgUCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUIGNoaSh0dXJiWzBdIC8gdmlzY29zaXR5KTsKICAgICAgICBUIGZ2MSA9IHBvdyhjaGksIDMpIC8gKHBvdyhjaGksIDMpICsgcG93KGN2MSwgMykpOwogICAgICAgIHJldHVybiBkZW5zaXR5ICogdHVyYlswXSAqIGZ2MTsK</text>
+        <text encoding="base64">ICAgICAgICBRLnNldFZhcmlhYmxlKG5vZGVfaWQsIEhTOjpWYXJpYWJsZTo6dHVyYnVsZW5jZV9zdGFydCwgUCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUIGNoaSh0dXJiWzBdIC8gdmlzY29zaXR5KTsKICAgICAgICBUIGZ2MSA9IHBvdyhjaGksIDMpIC8gKHBvdyhjaGksIDMpICsgcG93KGN2MSwgMykpOwogICAgICAgIHJldHVybiBkZW5zaXR5ICogdHVyYlswXSAqIGZ2MTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnICs9IHRoZXJtb2R5bmFtaWNzLmNhbGNUaGVybWFsQ29uZHVjdGl2aXR5KHZpc2Nvc2l0eSk7CiAgICAgICAgICAgIHRoZXJtYWxfY29uZHVjdGl2aXR5X2F2ZyArPSB0aGVybW9keW5hbWljcy5jYWxjVGhlcm1hbENvbmR1Y3Rpdml0eShlZGR5X3Zpc2Nvc2l0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhlcm1hbF9jb25kdWN0aXZpdHlfYXZnICs9IHRoZXJtb2R5bmFtaWNzLmNhbGNUaGVybWFsQ29uZHVjdGl2aXR5KHZpc2Nvc2l0eSk7CiAgICAgICAgICAgIHRoZXJtYWxfY29uZHVjdGl2aXR5X2F2ZyArPSB0aGVybW9keW5hbWljcy5jYWxjVGhlcm1hbENvbmR1Y3Rpdml0eShlZGR5X3Zpc2Nvc2l0eSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

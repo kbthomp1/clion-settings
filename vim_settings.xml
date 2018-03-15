@@ -737,11 +737,12 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1521070571861">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1521072963332">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="142" column="71" />
+        <mark key="]" line="142" column="70" />
+        <mark key="." line="142" column="70" />
+        <mark key="^" line="142" column="70" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" timestamp="1520519314950">
         <mark key="'" line="56" column="0" />
@@ -869,12 +870,6 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1520951846702">
-        <mark key="'" line="147" column="55" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/ThermoCurveFitsTests.cpp" timestamp="1501602287101">
         <mark key="'" line="12" column="26" />
         <mark key="[" line="21" column="0" />
@@ -996,8 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="307" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.h" />
       <jump line="309" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.h" />
       <jump line="217" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.h" />
       <jump line="222" column="81" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.h" />
@@ -1096,6 +1089,8 @@
       <jump line="129" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="122" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="14218" column="6" filename="$USER_HOME$/one-ring/install/include/nlohmann/json.hpp" />
+      <jump line="130" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="110" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1105,8 +1100,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbmRfcGFja2FnZShNZXNzYWdlUGFzc2VyIFJFUVVJUkVEKQogICAgZmluZF9wYWNrYWdlKHBhcmZhaXQgUkVRVUlSRUQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>HyperSolve</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4506,13 +4501,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>HyperSolve</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>RPATH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiTG9hZGluZyB2aXN1YWxpemF0aW9uIHBsdWdpblxuIik7Cg==</text>
+        <text encoding="base64">aWYoVU5JWCBBTkQgTk9UIEFQUExFKQogICAgc2V0X3RhcmdldF9wcm9wZXJ0aWVzKEh5cGVyU29sdmUgUFJPUEVSVElFUyBJTlNUQUxMX1JQQVRIX1VTRV9MSU5LX1BBVEggVFJVRSkKZWxzZSgpCiAgICBzZXQoQ01BS0VfTUFDT1NYX1JQQVRIIFRSVUUpCiAgICBTRVQoQ01BS0VfU0tJUF9CVUlMRF9SUEFUSCAgRkFMU0UpCiAgICBTRVQoQ01BS0VfQlVJTERfV0lUSF9JTlNUQUxMX1JQQVRIIEZBTFNFKQogICAgU0VUKENNQUtFX0lOU1RBTExfUlBBVEggIiR7Q01BS0VfSU5TVEFMTF9QUkVGSVh9L2h5cGVyc29sdmUvbGliIikKICAgIFNFVChDTUFLRV9JTlNUQUxMX1JQQVRIX1VTRV9MSU5LX1BBVEggVFJVRSkKICAgIExJU1QoRklORCBDTUFLRV9QTEFURk9STV9JTVBMSUNJVF9MSU5LX0RJUkVDVE9SSUVTICIke0NNQUtFX0lOU1RBTExfUFJFRklYfS9oeXBlcnNvbHZlL2xpYiIgaXNTeXN0ZW1EaXIpCiAgICBJRigiJHtpc1N5c3RlbURpcn0iIFNUUkVRVUFMICItMSIpCiAgICAgICAgU0VUKENNQUtFX0lOU1RBTExfUlBBVEggIiR7Q01BS0VfSU5TVEFMTF9QUkVGSVh9L2h5cGVyc29sdmUvbGliIikKICAgIEVORElGKCIke2lzU3lzdGVtRGlyfSIgU1RSRVFVQUwgIi0xIikKZW5kaWYoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZpbmRfcGFja2FnZShNZXNzYWdlUGFzc2VyIFJFUVVJUkVEKQogICAgZmluZF9wYWNrYWdlKHBhcmZhaXQgUkVRVUlSRUQpCg==</text>
@@ -4555,9 +4550,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>RPATH</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>RPATH</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4565,7 +4560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boundary_cell</entry>
         <entry>exec</entry>
         <entry>FSI</entry>
         <entry>MessagePasser</entry>
@@ -4585,6 +4579,7 @@
         <entry>t_inf_lib</entry>
         <entry>sampling</entry>
         <entry>dump</entry>
+        <entry>RPATH</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

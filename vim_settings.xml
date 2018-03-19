@@ -4573,7 +4573,7 @@
         <text>1.0;</text>
       </register>
       <register name="/" type="4">
-        <text>Laminar</text>
+        <text>mesh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1dG8gZHQgPSBUaW1lU3RlcENhbGN1bGF0aW9uOjpjYWxjVGltZVN0ZXBGcm9tQ0ZMKG1lc2gsIGNmbCwgUSwgdGhlcm1vZHluYW1pY3MpOwo=</text>
@@ -4619,9 +4619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Laminar</last-search>
+      <last-search>mesh</last-search>
       <last-offset />
-      <last-pattern>Laminar</last-pattern>
+      <last-pattern>mesh</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4629,8 +4629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getFluid</entry>
-        <entry>Mesh</entry>
         <entry>PARFAIT</entry>
         <entry>parfait</entry>
         <entry>json</entry>
@@ -4649,6 +4647,8 @@
         <entry>turb_avg</entry>
         <entry>perfectGas</entry>
         <entry>Laminar</entry>
+        <entry>mesh unit</entry>
+        <entry>mesh</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

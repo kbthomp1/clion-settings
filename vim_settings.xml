@@ -410,7 +410,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1521558097639">
+      <file name="/GDB" timestamp="1521672110954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
@@ -590,12 +590,12 @@
         <mark key="." line="90" column="72" />
         <mark key="^" line="90" column="72" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1521492706830">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="102" column="100" />
-        <mark key="]" line="102" column="111" />
-        <mark key="^" line="102" column="111" />
-        <mark key="." line="102" column="111" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1521672092917">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="115" column="92" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/MockThermo.h" timestamp="1520963602930">
         <mark key="'" line="6" column="0" />
@@ -618,7 +618,6 @@
         <mark key="." line="38" column="98" />
         <mark key="^" line="38" column="98" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/src/Instance.cpp" timestamp="1521658752842" />
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFits.h" timestamp="1510089296538">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="61" column="107" />
@@ -774,6 +773,13 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521672568290">
+        <mark key="'" line="157" column="54" />
+        <mark key="[" line="157" column="10" />
+        <mark key="]" line="157" column="13" />
+        <mark key="." line="157" column="13" />
+        <mark key="^" line="157" column="13" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="17" column="80" />
@@ -863,7 +869,7 @@
         <mark key="." line="384" column="34" />
         <mark key="^" line="384" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.h" timestamp="1521662934174">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.h" timestamp="1521672036351">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="87" />
@@ -933,7 +939,7 @@
         <mark key="." line="51" column="57" />
         <mark key="^" line="51" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521665378153">
+      <file name="/Dummy.txt" timestamp="1521672108769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Nondimensionalization.h" timestamp="1520971772003">
@@ -982,7 +988,6 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/hypersolve/src/Configuration.h" timestamp="1521214280099" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" timestamp="1513898553367">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="4" column="17" />
@@ -1082,10 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
-      <jump line="331" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
-      <jump line="241" column="94" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
-      <jump line="304" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
       <jump line="350" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
       <jump line="229" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
       <jump line="420" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
@@ -1182,6 +1183,10 @@
       <jump line="66" column="74" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="132" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
       <jump line="70" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.h" />
+      <jump line="80" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
+      <jump line="154" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
+      <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
+      <jump line="161" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1191,8 +1196,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4592,58 +4597,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cell_id</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>Dual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNldHRpbmdzLnNvdXJjZV9vbiA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBRCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLmNlbGwoY2VsbF9pZCwgY2VsbF9sb2NhbF9ub2RlX2lkcy5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLmNlbGwoY2VsbF9pZCwgY2VsbF9sb2NhbF9ub2RlX2lkcy5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byYgZ3JhZCA9IFFfcmVhbC5ncmFkaWVudHNEYXRhKClbbm9kZV9pZF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6OmFycmF5PGludCwgND4gY2VsbF9sb2NhbF9ub2RlX2lkczsKICAgICAgICAgICAgICAgICAgICBtZXNoLmNlbGwoY2VsbF9pZCwgY2VsbF9sb2NhbF9ub2RlX2lkcy5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGQ6OmFycmF5PGludCwgMz4gY2VsbF9sb2NhbF9ub2RlX2lkczsKICAgICAgICAgICAgICAgICAgICBtZXNoLmNlbGwoY2VsbF9pZCwgY2VsbF9sb2NhbF9ub2RlX2lkcy5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKQogICAgICAgICAgICAgICAgICAgIFFfaW4uZ3JhZGllbnRzRGF0YSgpW25vZGVfaWRdW2Vxbl1baV0gPSBncmFkW2Vxbl1baV07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7CiAgICAgICAgbWVzaC5jZWxsKGNlbGxfaWQsIGNlbGxfbG9jYWxfbm9kZV9pZHMuZGF0YSgpKTsK</text>
+        <text encoding="base64">ICAgIHNvbHV0aW9uLnNldFNvbHV0aW9uR3JhZGllbnQoMCkuZmlsbCh7MC4wLCAwLjAsIDAuMH0pOwogICAgc29sdXRpb24uc2V0U29sdXRpb25HcmFkaWVudCgxKS5maWxsKHswLjAsIDAuMCwgMC4wfSk7CiAgICBzb2x1dGlvbi5zZXRTb2x1dGlvbkdyYWRpZW50KDIpLmZpbGwoezAuMCwgMC4wLCAwLjB9KTsKICAgIHNvbHV0aW9uLnNldFNvbHV0aW9uR3JhZGllbnQoMykuZmlsbCh7MC4wLCAwLjAsIDAuMH0pOwoK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLmNlbGwoY2VsbF9pZCwgY2VsbF9sb2NhbF9ub2RlX2lkcy5kYXRhKCkpOwo=</text>
+      <register name="8" type="8">
+        <text>nondim_q;
+nondim_q;
+nondim_q;
+nondim_q;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGludCwgTkNvcm5lcnM+IGNlbGxfbG9jYWxfbm9kZV9pZHM7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBkaW1lbnNpb25hbF9xID0gezEuMjI1LCAxNzAuMTQ3LCAwLjAsIDAuMCwgMTAxMzI1LjB9OwogICAgYXV0byBub25kaW1fcSA9IGZyYW1ld29ya190cmFuc2xhdG9yLmZyb21GcmFtZXdvcmsoZGltZW5zaW9uYWxfcSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>Dual</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>Dual</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute encoding="base64">IFxzKg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4651,8 +4659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turb_left</entry>
-        <entry>Turb</entry>
         <entry>getHigh</entry>
         <entry>getHighOrderTurb</entry>
         <entry>formB</entry>
@@ -4671,6 +4677,8 @@
         <entry>column_map</entry>
         <entry>settings</entry>
         <entry>print</entry>
+        <entry>private</entry>
+        <entry>Dual</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

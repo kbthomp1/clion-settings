@@ -760,12 +760,12 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522090864333">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="139" column="99" />
-        <mark key="]" line="139" column="99" />
-        <mark key="." line="139" column="99" />
-        <mark key="^" line="139" column="99" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522105262867">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="132" column="44" />
+        <mark key="]" line="132" column="63" />
+        <mark key="." line="132" column="63" />
+        <mark key="^" line="132" column="63" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521759159345">
         <mark key="'" line="39" column="36" />
@@ -1076,9 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="35" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="44" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="245" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="211" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
@@ -1176,6 +1173,9 @@
       <jump line="65" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
       <jump line="66" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
       <jump line="76" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
+      <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="265" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1186,7 +1186,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SNESConvergedSkip</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4586,13 +4586,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SNESConvergedSkip</text>
       </register>
       <register name="/" type="4">
-        <text>cfl</text>
+        <text>do_own</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IExvY2FsVGltZVN0ZXBwaW5nJiB0aW1lX2ludGVncmF0b3JfaW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldENvbnZlcmdlbmNlVGVzdChzLT5zbmVzLCBTTkVTQ29udmVyZ2VkU2tpcCwgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4635,9 +4635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cfl</last-search>
+      <last-search>do_own</last-search>
       <last-offset />
-      <last-pattern>cfl</last-pattern>
+      <last-pattern>do_own</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4645,7 +4645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>double</entry>
         <entry>lineSe</entry>
         <entry>node_based</entry>
         <entry>sparsity</entry>
@@ -4665,6 +4664,7 @@
         <entry>lhs</entry>
         <entry>overrid</entry>
         <entry>cfl</entry>
+        <entry>do_own</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

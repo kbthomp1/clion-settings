@@ -739,12 +739,12 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522079754365">
-        <mark key="'" line="139" column="33" />
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="44" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522087327906">
+        <mark key="'" line="125" column="7" />
+        <mark key="[" line="131" column="22" />
+        <mark key="]" line="131" column="31" />
+        <mark key="." line="131" column="31" />
+        <mark key="^" line="131" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521759159345">
         <mark key="'" line="39" column="36" />
@@ -1064,7 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" />
       <jump line="32" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" />
       <jump line="71" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" />
       <jump line="91" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
@@ -1164,6 +1163,7 @@
       <jump line="38" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="62" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
       <jump line="139" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="125" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1173,8 +1173,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4574,49 +4574,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iteration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiUEVUU2MgTm9ubGluZWFyIHNvbHZlciBmYWlsZWQgdG8gY29udmVyZ2VcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBRLmdyYWRpZW50c0RhdGEoKSA9IHMtPmR1YWxfZ3JhZGllbnRfY2FsY3VsYXRvci5jYWxjdWxhdGVHcmFkaWVudChRLnNvbHV0aW9uKCkpOwogICAgICAgIHMtPm5vZGVfYmFzZWRfc3luY2VyLnN5bmMoUS5ncmFkaWVudHNEYXRhKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKGNvbnZlcmdlZF9yZWFzb24gPCAwKSB7CiAgICAgICAgICAgIGlmIChtcC5SYW5rKCkgPT0gMCkKICAgICAgICAgICAgICAgIHByaW50ZigiUEVUU2MgTm9ubGluZWFyIHNvbHZlciBmYWlsZWQgdG8gY29udmVyZ2VcbiIpOwogICAgICAgICAgICBleGl0KDEpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhdXRvICZRID0gcy0+c29sdXRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJDbGFpbWluZyBjb252ZXJnZW5jZVxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQ2xhaW1pbmcgY29udmVyZ2VuY2VcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKGNvbnZlcmdlZF9yZWFzb24gPCAwKSB7CiAgICAgICAgICAgIGlmIChtcC5SYW5rKCkgPT0gMCkKICAgICAgICAgICAgICAgIHByaW50ZigiUEVUU2MgTm9ubGluZWFyIHNvbHZlciBmYWlsZWQgdG8gY29udmVyZ2VcbiIpOwogICAgICAgICAgICBleGl0KDEpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBwcmludGYoIlBFVFNjIE5vbmxpbmVhciBzb2x2ZXIgZmFpbGVkIHRvIGNvbnZlcmdlXG4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJDbGFpbWluZyBjb252ZXJnZW5jZVxuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

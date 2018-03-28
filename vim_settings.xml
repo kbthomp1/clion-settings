@@ -402,6 +402,9 @@
         <mark key="." line="114" column="33" />
         <mark key="^" line="114" column="33" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1522197190870">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" timestamp="1521834909028">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -433,8 +436,8 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" timestamp="1522077592280">
-        <mark key="'" line="62" column="10" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" timestamp="1522197096758">
+        <mark key="'" line="77" column="10" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="73" column="55" />
       </file>
@@ -762,11 +765,12 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522194274495">
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="34" />
-        <mark key="." line="125" column="34" />
-        <mark key="^" line="125" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522197403795">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="291" column="65" />
+        <mark key="]" line="291" column="68" />
+        <mark key="." line="291" column="68" />
+        <mark key="^" line="291" column="68" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521759159345">
         <mark key="'" line="39" column="36" />
@@ -1078,11 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="450" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="453" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="454" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="455" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="457" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="458" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="465" column="34" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
@@ -1178,6 +1177,11 @@
       <jump line="37" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="33" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="39" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
+      <jump line="147" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="77" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/PetscLinearSolver.h" />
+      <jump line="166" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" />
+      <jump line="113" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1187,8 +1191,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>petsc_residual</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4588,7 +4592,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>petsc_residual</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -4597,40 +4601,40 @@
         <text encoding="base64">ICAgIHN0YXRpYyBQZXRzY0Vycm9yQ29kZSBjb21wdXRlUmVzaWR1YWwoU05FUyBwZXRzY19zbmVzLCBWZWMgY3VycmVudF9zb2x1dGlvbiwgVmVjIHJlc2lkdWFsLCB2b2lkKiBzb2x2ZXJfZGF0YSkgewogICAgICAgIGF1dG8gcyA9IChQRVRTY05vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsKICAgICAgICBhdXRvICZRID0gcy0+c29sdXRpb247CiAgICAgICAgcy0+Y29weVBldHNjVmVjdG9yVG9Tb2x1dGlvbihjdXJyZW50X3NvbHV0aW9uLCBRKTsKCiAgICAgICAgYXV0byAmUiA9IHMtPnZlY3Rvcl9yaHM7CiAgICAgICAgSFM6OlZlY3RvclV0aWxpdGllczo6emVybygmUiwgcy0+bG9jYWxfdG9fZ2xvYmFsLnNpemUoKSk7CiAgICAgICAgcy0+ZGlzY3JldGl6YXRpb24uZm9ybUIoJlIsIFEpOwogICAgICAgIHMtPmNvcHlSSFNUb1BldHNjVmVjdG9yKHJlc2lkdWFsLCBSKTsKICAgICAgICByZXR1cm4gMDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWVfY29udHJpYnV0aW9uX3RvX25vZGVbZXFuXSA9IHZvbF9vdmVyX2R0W25vZGVfaWRdICogUVtub2RlX2lkXVtlcW5dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldFVzZU1hdHJpeEZyZWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgUVtub2RlX2lkXVtlcW5dKTsKICAgICAgICAgICAgICAgIHRpbWVfY29udHJpYnV0aW9uX3RvX25vZGVbZXFuXSA9IHZvbF9vdmVyX2R0W25vZGVfaWRdICogUVtub2RlX2lkXVtlcW5dOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGR0ID0gVGltZVN0ZXBDYWxjdWxhdGlvbjo6Y2FsY1RpbWVTdGVwRnJvbUNGTChtZXNoLCBjZmwsIFEuc29sdXRpb24oKSwgdGhlcm1vZHluYW1pY3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiWyVkXSBlcW46ICVkIC0+ICIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIFYgLyBkdCA9ICVlXG4iLCBub2RlX2lkLCB2b2xfb3Zlcl9kdFtub2RlX2lkXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb21wdXRlUmVzaWR1YWwocy0+c25lcywgY3VycmVudF9zb2x1dGlvbiwgcmVzaWR1YWwsIHNvbHZlcl9kYXRhKTsKICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0TUZGRFNldEJhc2UoamFjb2JpYW4sIGN1cnJlbnRfc29sdXRpb24sIE5VTEwpOwogICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

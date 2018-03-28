@@ -97,7 +97,7 @@
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="42" />
       </file>
-      <file name="/LLDB" timestamp="1522155350975">
+      <file name="/LLDB" timestamp="1522273905410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1517414587756">
@@ -765,12 +765,12 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522268904530">
-        <mark key="'" line="94" column="22" />
-        <mark key="[" line="98" column="27" />
-        <mark key="]" line="98" column="28" />
-        <mark key="^" line="98" column="28" />
-        <mark key="." line="98" column="28" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522273928046">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="295" column="59" />
+        <mark key="]" line="295" column="72" />
+        <mark key="^" line="295" column="72" />
+        <mark key="." line="295" column="72" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521759159345">
         <mark key="'" line="39" column="36" />
@@ -1082,8 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="39" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="515" column="42" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="531" column="30" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="532" column="30" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="538" column="15" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
@@ -1182,6 +1180,8 @@
       <jump line="148" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="77" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="94" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="150" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="149" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1191,8 +1191,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImluIGZ1bmM6ICVzIiwgX19mdW5jX18pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>NULL</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4592,49 +4592,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>printf(&quot;&quot;)</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
         <text>petsc_lhs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImluIGZ1bmM6ICVzIiwgX19mdW5jX18pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImJlZ2luIGZ1bmM6ICVzXG4iLCBfX2Z1bmNfXyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBNYXRNRkZEU2V0QmFzZShzLT5tYXRyaXhfZnJlZV9qYWNvYmlhbiwgY3VycmVudF9zb2x1dGlvbiwgTlVMTCk7Ci8vICAgICAgICAgICAgTWF0TUZGRFNldEZ1bmN0aW9uKHMtPm1hdHJpeF9mcmVlX2phY29iaWFuLCBjb21wdXRlUmVzaWR1YWxNYXRyaXhGcmVlLCBzb2x2ZXJfZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgcHJlY29uZGl0aW9uZXIgPSBwZXRzY19wcmVjb25kaXRpb25lci5zaGFsbG93Q29weVRvUGV0c2NNYXRyaXgoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldEphY29iaWFuKHNuZXMsIG1hdHJpeF9mcmVlX2phY29iaWFuLCBBLCBjb21wdXRlSmFjb2JpYW4sIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXQgcHJlY29uZGl0aW9uZXIgPSBwZXRzY19wcmVjb25kaXRpb25lci5zaGFsbG93Q29weVRvUGV0c2NNYXRyaXgoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamFjb2JpYW4gPSBtYXRyaXhfZnJlZV9qYWNvYmlhbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldEphY29iaWFuKHNuZXMsIG1hdHJpeF9mcmVlX2phY29iaWFuLCBBLCBjb21wdXRlSmFjb2JpYW4sIHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgamFjb2JpYW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamFjb2JpYW4gPSBtYXRyaXhfZnJlZV9qYWNvYmlhbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgamFjb2JpYW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldEphY29iaWFuKHNuZXMsIEEsIEEsIGNvbXB1dGVKYWNvYmlhbiwgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgamFjbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU05FU1NldEphY29iaWFuKHNuZXMsIEEsIEEsIGNvbXB1dGVKYWNvYmlhbiwgdGhpcyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0IEEgPSBwZXRzY19saHMuc2hhbGxvd0NvcHlUb1BldHNjTWF0cml4KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgamFjbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

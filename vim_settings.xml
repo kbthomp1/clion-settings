@@ -97,7 +97,7 @@
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="42" />
       </file>
-      <file name="/LLDB" timestamp="1522274874465">
+      <file name="/LLDB" timestamp="1522354098491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1517414587756">
@@ -387,7 +387,7 @@
         <mark key="." line="114" column="33" />
         <mark key="^" line="114" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1522197190870">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1522354050519">
         <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" timestamp="1521834909028">
@@ -664,7 +664,8 @@
         <mark key="^" line="125" column="65" />
         <mark key="." line="125" column="65" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1522185466675">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1522353921931">
+        <mark key="'" line="67" column="4" />
         <mark key="[" line="63" column="76" />
         <mark key="]" line="63" column="92" />
         <mark key="." line="63" column="92" />
@@ -731,6 +732,12 @@
         <mark key="]" line="51" column="27" />
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522354054898">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1521759159345">
         <mark key="'" line="39" column="36" />
@@ -1017,18 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="37" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="638" column="14" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="651" column="14" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="659" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="661" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="668" column="17" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="672" column="35" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="673" column="35" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="674" column="35" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="681" column="14" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="692" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
-      <jump line="693" column="32" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="704" column="19" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="721" column="37" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
       <jump line="722" column="37" filename="$USER_HOME$/spack/opt/spack/darwin-elcapitan-x86_64/gcc-6.3.0/petsc-3.7.6-c2pvpdq6asbdbgpszq72fcp6l2x7ollt/include/petscts.h" />
@@ -1063,7 +1058,6 @@
       <jump line="46" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/LocalTimeStepping.h" />
       <jump line="131" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="33" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="80" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="102" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="30" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CFLController.h" />
       <jump line="42" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/CFLController.h" />
@@ -1091,9 +1085,7 @@
       <jump line="293" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="295" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="71" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="47" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="291" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="60" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="148" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="77" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="150" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1117,6 +1109,21 @@
       <jump line="261" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="122" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="128" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="42" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="43" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="44" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="45" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="50" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="60" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="68" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="69" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="82" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="90" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="91" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="233" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="67" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="47" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="80" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1126,8 +1133,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBWZWNTZXRCbG9ja1NpemUocGV0c2NfcmVzaWR1YWwsIE51bUVxbnMpOwogICAgICAgIFZlY1NldEJsb2NrU2l6ZShwZXRzY19zb2x1dGlvbiwgTnVtRXFucyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4527,58 +4534,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>petsc_residual</text>
       </register>
       <register name="/" type="4">
-        <text>PreCheck</text>
+        <text>Vec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKFEsIHMtPnNvbHV0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBWZWNTZXRCbG9ja1NpemUocGV0c2NfcmVzaWR1YWwsIE51bUVxbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHZvbF9vdmVyX2R0ID0gcy0+dGltZV9pbnRlZ3JhdG9yLmNvbXB1dGVWb2x1bWVPdmVyVGltZVN0ZXAoUSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWNTZXRCbG9ja1NpemUocGV0c2NfcmVzaWR1YWwsIE51bUVxbnMpOwogICAgICAgIFZlY1NldEJsb2NrU2l6ZShwZXRzY19zb2x1dGlvbiwgTnVtRXFucyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUi5nZXQobm9kZV9pZCwgZXFuX21hcCwgdGltZV9jb250cmlidXRpb25fdG9fbm9kZS5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0ZDo6dmVjdG9yPGJvb2w+IGRvX293bjsKICAgIGNvbnN0IEhTOjpHaG9zdFN5bmNlciBub2RlX2Jhc2VkX3N5bmNlcjsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKGRRLCBzLT5zb2x1dGlvbl91cGRhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHZvbF9vdmVyX2R0ID0gcy0+dGltZV9pbnRlZ3JhdG9yLmNvbXB1dGVWb2x1bWVPdmVyVGltZVN0ZXAoUSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBqYWNvYmlhbiA9IHMtPm1hdHJpeF9mcmVlX2phY29iaWFuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUi5nZXQobm9kZV9pZCwgZXFuX21hcCwgdGltZV9jb250cmlidXRpb25fdG9fbm9kZS5kYXRhKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImluIGZ1bmM6ICVzXG4iLCBfX2Z1bmNfXyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKGRRLCBzLT5zb2x1dGlvbl91cGRhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImVuZCBmdW5jOiAlc1xuIiwgX19mdW5jX18pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBqYWNvYmlhbiA9IHMtPm1hdHJpeF9mcmVlX2phY29iaWFuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImJlZ2luIGZ1bmM6ICVzXG4iLCBfX2Z1bmNfXyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImluIGZ1bmM6ICVzXG4iLCBfX2Z1bmNfXyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImVuZCBmdW5jOiAlc1xuIiwgX19mdW5jX18pOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgUVtub2RlX2lkXVtlcW5dKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImJlZ2luIGZ1bmM6ICVzXG4iLCBfX2Z1bmNfXyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PreCheck</last-search>
+      <last-search>Vec</last-search>
       <last-offset />
-      <last-pattern>PreCheck</last-pattern>
+      <last-pattern>Vec</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4586,7 +4593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snes</entry>
         <entry>Max</entry>
         <entry>Steps</entry>
         <entry>Set</entry>
@@ -4606,6 +4612,7 @@
         <entry>petsc_lhs</entry>
         <entry>printf</entry>
         <entry>PreCheck</entry>
+        <entry>Vec</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

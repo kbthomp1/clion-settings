@@ -215,6 +215,12 @@
         <mark key="." line="61" column="25" />
         <mark key="^" line="61" column="25" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/SparsityPatternBuilders.h" timestamp="1522361967383">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/FluxLimiterTests.cpp" timestamp="1510946338137">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="5" column="27" />
@@ -388,9 +394,6 @@
         <mark key="." line="114" column="33" />
         <mark key="^" line="114" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1522354050519">
-        <mark key="'" line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" timestamp="1521834909028">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -405,7 +408,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1521726138920">
+      <file name="/GDB" timestamp="1522361665224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
@@ -429,12 +432,12 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" timestamp="1521721039512">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/DualGradientCalculator.h" timestamp="1522361975115">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="27" />
-        <mark key="." line="25" column="27" />
+        <mark key="[" line="18" column="61" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="61" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1510086583491">
         <mark key="'" line="15" column="73" />
@@ -740,12 +743,6 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522354054898">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1522360358946" />
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
         <mark key="'" line="11" column="47" />
@@ -831,7 +828,7 @@
         <mark key="." line="384" column="34" />
         <mark key="^" line="384" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.h" timestamp="1522361012625">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.h" timestamp="1522361754481">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -1146,8 +1143,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>edges</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4547,7 +4544,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Full d</text>
+        <text>edges</text>
       </register>
       <register name="/" type="4">
         <text>fprintf</text>
@@ -4556,40 +4553,40 @@
         <text encoding="base64">ICAgIHZvaWQgcHJpbnRKYWNvYmlhbnMoKSB7CiAgICAgICAgYW5hbHl0aWNfamFjb2JpYW4uYXNzZW1ibGUoKTsKICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGVxbl9tYXAoTnVtRXFucyk7CiAgICAgICAgZm9yIChpbnQgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgIGVxbl9tYXBbZXFuXSA9IGVxbjsKICAgICAgICBpbnQgdG90YWxfc2l6ZSA9IGludChmaW5pdGVfZGlmZmVyZW5jZV9qYWNvYmlhbi5zaXplKCkpOwogICAgICAgIGZvciAoaW50IHJvdyA9IDA7IHJvdyA8IHRvdGFsX3NpemU7ICsrcm93KSB7CiAgICAgICAgICAgIGZvciAoaW50IGNvbCA9IDA7IGNvbCA8IHRvdGFsX3NpemU7ICsrY29sKSB7CiAgICAgICAgICAgICAgICBwcmludGYoInJvdzogJWQgY29sdW1uOiAlZFxuXG4iLCByb3csIGNvbCk7CiAgICAgICAgICAgICAgICBwcmludGYoIkZpbml0ZSBEaWZmZXJlbmNlIEphY29iaWFuOlxuIik7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE51bUVxbnM7ICsraSkgewogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgTnVtRXFuczsgKytqKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50ZigiJWUgIiwgZmluaXRlX2RpZmZlcmVuY2VfamFjb2JpYW5bcm93XVtjb2xdKGksIGopKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcHJpbnRmKCJcbkFuYWx5dGljIEphY29iaWFuOlxuIik7CiAgICAgICAgICAgICAgICBibG9jayBsaHNfYmxvY2s7CiAgICAgICAgICAgICAgICBhbmFseXRpY19qYWNvYmlhbi5nZXQocm93LCBjb2wsIGVxbl9tYXAsIGVxbl9tYXAsIGxoc19ibG9jay5kYXRhKCkpOwogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IE51bUVxbnM7ICsraikgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGYoIiVlICIsIGxoc19ibG9jayhpLCBqKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHExX2ZpcnN0X29yZGVyOwo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">LSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICAKLSAgICA=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHExX2ZpcnN0X29yZGVyOwo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNvYmlhbl90ZXN0ZXIucHJpbnRKYWNvYmlhbnMoKTsK</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHExX2ZpcnN0X29yZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigiKioqIEphY29iaWFucyBhcmUgbm90IGNvcnJlY3QhISEgKioqXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHExX2ZpcnN0X29yZGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBqYWNvYmlhbl90ZXN0ZXIucHJpbnRKYWNvYmlhbnMoKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJTVUNDRVNTISEhIEphY29iaWFucyBhcmUgY29ycmVjdFxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

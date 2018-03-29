@@ -324,8 +324,8 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.h" timestamp="1522103992712">
-        <mark key="'" line="39" column="26" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.h" timestamp="1522363610127">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="32" />
         <mark key="." line="44" column="32" />
@@ -1026,7 +1026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="295" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="71" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="291" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1126,6 +1125,7 @@
       <jump line="140" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
       <jump line="142" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" />
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
+      <jump line="18" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4539,7 +4539,7 @@
         <text>edges</text>
       </register>
       <register name="/" type="4">
-        <text>fprintf</text>
+        <text>solve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgcHJpbnRKYWNvYmlhbnMoKSB7CiAgICAgICAgYW5hbHl0aWNfamFjb2JpYW4uYXNzZW1ibGUoKTsKICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGVxbl9tYXAoTnVtRXFucyk7CiAgICAgICAgZm9yIChpbnQgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgIGVxbl9tYXBbZXFuXSA9IGVxbjsKICAgICAgICBpbnQgdG90YWxfc2l6ZSA9IGludChmaW5pdGVfZGlmZmVyZW5jZV9qYWNvYmlhbi5zaXplKCkpOwogICAgICAgIGZvciAoaW50IHJvdyA9IDA7IHJvdyA8IHRvdGFsX3NpemU7ICsrcm93KSB7CiAgICAgICAgICAgIGZvciAoaW50IGNvbCA9IDA7IGNvbCA8IHRvdGFsX3NpemU7ICsrY29sKSB7CiAgICAgICAgICAgICAgICBwcmludGYoInJvdzogJWQgY29sdW1uOiAlZFxuXG4iLCByb3csIGNvbCk7CiAgICAgICAgICAgICAgICBwcmludGYoIkZpbml0ZSBEaWZmZXJlbmNlIEphY29iaWFuOlxuIik7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE51bUVxbnM7ICsraSkgewogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgTnVtRXFuczsgKytqKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50ZigiJWUgIiwgZmluaXRlX2RpZmZlcmVuY2VfamFjb2JpYW5bcm93XVtjb2xdKGksIGopKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcHJpbnRmKCJcbkFuYWx5dGljIEphY29iaWFuOlxuIik7CiAgICAgICAgICAgICAgICBibG9jayBsaHNfYmxvY2s7CiAgICAgICAgICAgICAgICBhbmFseXRpY19qYWNvYmlhbi5nZXQocm93LCBjb2wsIGVxbl9tYXAsIGVxbl9tYXAsIGxoc19ibG9jay5kYXRhKCkpOwogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IE51bUVxbnM7ICsraikgewogICAgICAgICAgICAgICAgICAgICAgICBwcmludGYoIiVlICIsIGxoc19ibG9jayhpLCBqKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICB9Cg==</text>
@@ -4581,13 +4581,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHExX2ZpcnN0X29yZGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>fprintf</last-search>
+      <last-search>solve</last-search>
       <last-offset />
-      <last-pattern>fprintf</last-pattern>
+      <last-pattern>solve</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4595,7 +4595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MaxSteps</entry>
         <entry>claim</entry>
         <entry>time</entry>
         <entry>MaxTime</entry>
@@ -4615,6 +4614,7 @@
         <entry>std::cout</entry>
         <entry>printf</entry>
         <entry>fprintf</entry>
+        <entry>solve</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4635,8 +4635,8 @@
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -266,13 +266,6 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" timestamp="1522356196563">
-        <mark key="'" line="74" column="16" />
-        <mark key="[" line="75" column="56" />
-        <mark key="]" line="75" column="56" />
-        <mark key="." line="75" column="56" />
-        <mark key="^" line="58" column="51" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/DualGradient.h" timestamp="1518532837186">
         <mark key="'" line="48" column="53" />
         <mark key="[" line="41" column="54" />
@@ -393,6 +386,13 @@
         <mark key="." line="86" column="77" />
         <mark key="^" line="86" column="77" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522423204945">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="62" column="69" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
+      </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
         <mark key="[" line="114" column="22" />
@@ -414,7 +414,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1522369568084">
+      <file name="/GDB" timestamp="1522420456491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
@@ -748,12 +748,10 @@
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522369823676">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522419838961">
         <mark key="'" line="80" column="4" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="170" column="71" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="158" column="4" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1522360358946" />
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
@@ -1046,8 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="291" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="148" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="77" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="150" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1146,6 +1142,8 @@
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="18" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.h" />
       <jump line="1528" column="15" filename="$USER_HOME$/petsc_with_x/include/petscmat.h" />
+      <jump line="48" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" />
+      <jump line="46" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1156,7 +1154,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0R2V0RGlhZ29uYWwoamFjb2JpYW4sIHBldHNjX2RpYWdvbmFsKTsK</text>
+        <text encoding="base64">ICAgIFZlY1NldChzb2x1dGlvbiwgMS4wKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4556,58 +4554,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MatGetDiagonal</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
-        <text>MFFD</text>
+        <text>snes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBQZXRzY0Vycm9yQ29kZSBmdW5jdGlvbmkodm9pZCogcywgUGV0c2NJbnQgaSwgVmVjIHYsIFBldHNjUmVhbCogcil7CiAgICAgICAgcHJpbnRmKCJJIGRvbid0IGtub3cgd2hlcmUgSSBhbS4uLlxuIik7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFZlY1NldChzb2x1dGlvbiwgMS4wKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0R2V0RGlhZ29uYWwoamFjb2JpYW4sIHBldHNjX2RpYWdvbmFsKTsK</text>
+        <text encoding="base64">ICAgIFNORVNDb21wdXRlSmFjb2JpYW4oc25lcywgc29sdXRpb24sIG1mX2phY29iaWFuLCBwcmVjb25kaXRpb25lcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGludCBwcm9ibGVtX3NpemUKCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy0+Y29weVRpbWVEaWFnb25hbFRvUGV0c2NWZWN0b3IocGV0c2NfdGltZV9kaWFnb25hbCk7Cg==</text>
+        <text encoding="base64">ICAgIFNORVNDb21wdXRlSmFjb2JpYW4oc25lcywgc29sdXRpb24sIG1mX2phY29iaWFuLCBwcmVjb25kaXRpb25lcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjIGRpYWdvbmFsOwo=</text>
+        <text encoding="base64">U05FUyBnZXRTTkVTKGJvb2wgdXNlX21mKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0RAo=</text>
+        <text encoding="base64">ICAgIFNORVNHZXRDb252ZXJnZW5jZUhpc3RvcnkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFNORVNTZXRUb2xlcmFuY2VzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weQo=</text>
+        <text encoding="base64">ICAgIE1hdFZpZXcocHJlY29uZGl0aW9uZXJfbWF0cml4LCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiU29sdXRpb246XG4iKTsKICAgIFZlY1ZpZXcoY3VycmVudF9zb2x1dGlvbiwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lX2ludGVncmF0b3IuY29tcHV0ZVZvbHVtZU92ZXJUaW1lU3RlcCgpCg==</text>
+        <text encoding="base64">ICAgIE1hdFZpZXcocHJlY29uZGl0aW9uZXJfbWF0cml4LCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MFFD</last-search>
+      <last-search>snes</last-search>
       <last-offset />
-      <last-pattern>MFFD</last-pattern>
+      <last-pattern>snes</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4615,7 +4613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
         <entry>MaxTime</entry>
         <entry>Duration</entry>
         <entry>TSSetDuration</entry>
@@ -4635,6 +4632,7 @@
         <entry>fprintf</entry>
         <entry>solve</entry>
         <entry>MFFD</entry>
+        <entry>snes</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

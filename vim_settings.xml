@@ -367,11 +367,8 @@
         <mark key="^" line="100" column="42" />
         <mark key="." line="100" column="42" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.cpp" timestamp="1522794201842">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="44" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="4" column="44" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.cpp" timestamp="1522794245148">
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/CMakeLists.txt" timestamp="1500417502148">
         <mark key="'" line="3" column="0" />
@@ -646,12 +643,12 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" timestamp="1522794032786">
-        <mark key="'" line="37" column="5" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" timestamp="1522795111001">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/PetscRuntime.h" timestamp="1522793898606">
         <mark key="[" line="4" column="25" />
@@ -784,12 +781,12 @@
         <mark key="." line="78" column="8" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522794070855">
-        <mark key="'" line="304" column="8" />
-        <mark key="[" line="27" column="80" />
-        <mark key="]" line="27" column="78" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522794740612">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="84" column="39" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1522360358946" />
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
@@ -1078,13 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1528" column="15" filename="$USER_HOME$/petsc_with_x/include/petscmat.h" />
-      <jump line="48" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" />
-      <jump line="46" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" />
-      <jump line="200" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="201" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="88" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="40" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="276" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="98" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="278" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1178,6 +1168,13 @@
       <jump line="74" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="77" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="37" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="121" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="55" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="45" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="83" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
+      <jump line="49" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1188,7 +1185,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGVtcGxhdGUgY2xhc3MgUEVUU2NOb25MaW5lYXJTb2x2ZXI8ZG91YmxlLCA1PjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4588,58 +4585,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>PETSc</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGUgY2xhc3MgUEVUU2NOb25MaW5lYXJTb2x2ZXI8ZG91YmxlLCA1PjsK</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5U29sdXRpb25Ub1BldHNjVmVjdG9yKHBldHNjX3NvbHV0aW9uLCBRKTsKICAgICAgICBwcmV2aW91c19zb2x1dGlvbiA9IFE7CiAgICAgICAgdGltZV9kaWFnb25hbCA9IHRpbWVfaW50ZWdyYXRvci5jb21wdXRlVm9sdW1lT3ZlclRpbWVTdGVwKFEpOwogICAgICAgIFNORVNTb2x2ZShzbmVzLCBOVUxMLCBwZXRzY19zb2x1dGlvbik7CiAgICAgICAgcHJpbnRDb252ZXJnZW5jZVJlYXNvbigpOwogICAgICAgIGNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24ocGV0c2Nfc29sdXRpb24sIFEpOwogICAgICAgIG5vZGVfYmFzZWRfc3luY2VyLnN5bmMoUS5zb2x1dGlvbigpKTsKICAgICAgICBIUzo6U29sdXRpb25VcGRhdGU8VCwgTnVtRXFucz4gZFEobG9jYWxfdG9fZ2xvYmFsLnNpemUoKSk7CiAgICAgICAgcmV0dXJuIGRROwogICAgfTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uL3BldHNjX3dpdGhfeC9pbmNsdWRlL3BldHNjc25lcy5oIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBtcChtcF9pbiksCiAgICAgICAgICAgICAgc2V0dGluZ3MoanNvbl9jb25maWcpLAogICAgICAgICAgICAgIGxvY2FsX3RvX2dsb2JhbChIUzo6TWVzaFV0aWxpdGllczo6YnVpbGRMb2NhbFRvR2xvYmFsKG1lc2gpKSwKICAgICAgICAgICAgICBkb19vd24oSFM6Ok1lc2hVdGlsaXRpZXM6OmJ1aWxkRG9Pd24obXAsIG1lc2gpKSwKICAgICAgICAgICAgICBub2RlX2Jhc2VkX3N5bmNlcihtcCwgSFM6Ok1lc2hVdGlsaXRpZXM6OmJ1aWxkR2xvYmFsVG9Mb2NhbChtZXNoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIUzo6TWVzaFV0aWxpdGllczo6YnVpbGROb2RlU3luY1BhdHRlcm4obXAsIG1lc2gpKSwKICAgICAgICAgICAgICBwZXRzY19ydW50aW1lKHN0ZDo6bWFrZV9zaGFyZWQ8SFM6OlBldHNjUnVudGltZT4obXAsIEpzb25Ub29sczo6ZXh0cmFjdFNjb3BlVG9TdHJpbmcoanNvbl9jb25maWcsICJwZXRzYyBvcHRpb25zIikpKSwKICAgICAgICAgICAgICBkaXNjcmV0aXphdGlvbihkaXNjcmV0aXphdGlvbl9pbiksCiAgICAgICAgICAgICAgdGltZV9pbnRlZ3JhdG9yKHRpbWVfaW50ZWdyYXRvcl9pbiksCiAgICAgICAgICAgICAgZHVhbF9ncmFkaWVudF9jYWxjdWxhdG9yKG1lc2gpLAogICAgICAgICAgICAgIHBldHNjX3ByZWNvbmRpdGlvbmVyKG1wLmdldENvbW11bmljYXRvcigpLCBwZXRzY19ydW50aW1lLCBsb2NhbF90b19nbG9iYWwsIGRvX293biwgc3BhcnNpdHlfaW4pLAogICAgICAgICAgICAgIHZlY3Rvcl9yaHMobXAuZ2V0Q29tbXVuaWNhdG9yKCksIGxvY2FsX3RvX2dsb2JhbCksCiAgICAgICAgICAgICAgaHNfdG9fcGV0c2MocGV0c2NfcHJlY29uZGl0aW9uZXIuZXhwb3J0TWF0cml4VG9QZXRzY09yZGVyaW5nKCkpLAogICAgICAgICAgICAgIHNvbHV0aW9uKHNvbHV0aW9uX21hcCwgbWVzaC5ub2RlQ291bnQoKSksCiAgICAgICAgICAgICAgcHJldmlvdXNfc29sdXRpb24oc29sdXRpb25fbWFwLCBtZXNoLm5vZGVDb3VudCgpKSwKICAgICAgICAgICAgICBzb2x1dGlvbl91cGRhdGUoc29sdXRpb25fbWFwLCBtZXNoLm5vZGVDb3VudCgpKSwKICAgICAgICAgICAgICB0aW1lX2RpYWdvbmFsKG1lc2gubm9kZUNvdW50KCkpLAogICAgICAgICAgICAgIGNvbnZlcmdlbmNlX2hpc3Rvcnlfd3JpdGVyKCJyZXNpZHVhbC5jc3YiLCBIUzo6Z2V0Q29udmVyZ2VuY2VIaXN0b3J5TmFtZXMoTnVtRXFucykpIHsKICAgICAgICBTTkVTQ3JlYXRlKG1wLmdldENvbW11bmljYXRvcigpLCAmc25lcyk7CiAgICAgICAgU05FU0dldExpbmVTZWFyY2goc25lcywgJmxzKTsKICAgICAgICBTTkVTR2V0S1NQKHNuZXMsICZrc3ApOwogICAgICAgIEtTUEdldFBDKGtzcCwgJnBjKTsKICAgICAgICBNYXQgQSA9IHBldHNjX3ByZWNvbmRpdGlvbmVyLnNoYWxsb3dDb3B5VG9QZXRzY01hdHJpeCgpOwogICAgICAgIE1hdENyZWF0ZVZlY3MoQSwgJnBldHNjX3NvbHV0aW9uLCAmcGV0c2NfcmVzaWR1YWwpOwogICAgICAgIHNldHVwTm9uTGluZWFyU29sdmVyKGpzb25fY29uZmlnLmF0KCJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIikpOwogICAgICAgIHNldHVwTGluZWFyU29sdmVyKGpzb25fY29uZmlnLmF0KCJsaW5lYXIgc29sdmVyIHNldHRpbmdzIikpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHBldHNjL3NuZXMuaD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBldHNjc25lcy5oIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6Om1hcDxTTkVTQ29udmVyZ2VkUmVhc29uLCBzdGQ6OnN0cmluZz4gY29udmVyZ2VkX2V4cGxhbmF0aW9uczsKICAgICAgICBzdGQ6Om1hcDxTTkVTQ29udmVyZ2VkUmVhc29uLCBzdGQ6OnN0cmluZz4gZGl2ZXJnZWRfZXhwbGFudGF0aW9uczsKICAgICAgICBjb252ZXJnZWRfZXhwbGFuYXRpb25zW1NORVNfQ09OVkVSR0VEX0ZOT1JNX0FCU10gPSAiYWJzb2x1dGUgcmVzaWR1YWwgdG9sZXJhbmNlIG1ldCI7CiAgICAgICAgY29udmVyZ2VkX2V4cGxhbmF0aW9uc1tTTkVTX0NPTlZFUkdFRF9GTk9STV9SRUxBVElWRV0gPSAicmVsYXRpdmUgcmVzaWR1YWwgdG9sZXJhbmNlIG1ldCI7CiAgICAgICAgY29udmVyZ2VkX2V4cGxhbmF0aW9uc1tTTkVTX0NPTlZFUkdFRF9TTk9STV9SRUxBVElWRV0gPSAic29sdXRpb24gdXBkYXRlIHRvbGVyYW5jZSBtZXQiOwogICAgICAgIGNvbnZlcmdlZF9leHBsYW5hdGlvbnNbU05FU19DT05WRVJHRURfSVRTXSA9ICJtYXggaXRlcmF0aW9ucyByZWFjaGVkIjsKICAgICAgICBjb252ZXJnZWRfZXhwbGFuYXRpb25zW1NORVNfRElWRVJHRURfTUFYX0lUXSA9ICJtYXggaXRlcmF0aW9ucyByZWFjaGVkIjsgLy8gRG9uJ3QgY29uc2lkZXIgdGhpcyBhIHJlYXNvbiB0byB0aHJvdwogICAgICAgIGNvbnZlcmdlZF9leHBsYW5hdGlvbnNbU05FU19DT05WRVJHRURfVFJfREVMVEFdID0gInRydXN0IHJlZ2lvbiBkZWx0YSB0b2xlcmFuY2UgbWV0IjsKICAgICAgICBjb252ZXJnZWRfZXhwbGFuYXRpb25zW1NORVNfQ09OVkVSR0VEX0lURVJBVElOR10gPSAibm9ubGluZWFyIHNvbHZlciBzdGlsbCBpdGVyYXRpbmcgKHNvbHZlIG1heSBiZSBpbmNvbXBsZXRlKSI7CgogICAgICAgIC8vIE5vdCBhdmFpbGFibGUgaW4gUEVUU2MgdjMuNy42CiAgICAgICAgLy8gZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0RUT0xdID0gInJlc2lkdWFsIGRpdmVyZ2VkIjsKCiAgICAgICAgZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0ZOT1JNX05BTl0gPSAiTmFOcyBkZXRlY3RlZCBpbiByZXNpZHVhbCI7CiAgICAgICAgZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0ZVTkNUSU9OX0NPVU5UXSA9ICJtYXggcmVzaWR1YWwgZXZhbHVhdGlvbiBsaW1pdCByZWFjaGVkIjsKICAgICAgICBkaXZlcmdlZF9leHBsYW50YXRpb25zW1NORVNfRElWRVJHRURfRlVOQ1RJT05fRE9NQUlOXSA9ICJzb2x1dGlvbiBpcyBvdXRzaWRlIGRvbWFpbiI7CiAgICAgICAgZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0xJTkVBUl9TT0xWRV0gPSAibGluZWFyIHNvbHZlIGZhaWxlZCB0byBjb252ZXJnZSI7CiAgICAgICAgZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0xJTkVfU0VBUkNIXSA9ICJsaW5lIHNlYXJjaCBmYWlsZWQgdG8gY29udmVyZ2UiOwogICAgICAgIGRpdmVyZ2VkX2V4cGxhbnRhdGlvbnNbU05FU19ESVZFUkdFRF9JTk5FUl0gPSAiaW5uZXIga3J5bG92IHNvbHZlIGZhaWxlZCB0byBjb252ZXJnZSI7CiAgICAgICAgZGl2ZXJnZWRfZXhwbGFudGF0aW9uc1tTTkVTX0RJVkVSR0VEX0xPQ0FMX01JTl0gPSAibG9jYWwgbWluaW11bSBkZXRlY3RlZCI7CiAgICAgICAgU05FU0NvbnZlcmdlZFJlYXNvbiBjb252ZXJnZWRfcmVhc29uOwogICAgICAgIFNORVNHZXRDb252ZXJnZWRSZWFzb24oc25lcywgJmNvbnZlcmdlZF9yZWFzb24pOwogICAgICAgIGlmIChjb252ZXJnZWRfZXhwbGFuYXRpb25zLmNvdW50KGNvbnZlcmdlZF9yZWFzb24pICE9IDApIHsKICAgICAgICAgICAgaWYgKG1wLlJhbmsoKSA9PSAwKQogICAgICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJDbGFpbWluZyBjb252ZXJnZW5jZSwgZHVlIHRvOiAiIDw8IGNvbnZlcmdlZF9leHBsYW5hdGlvbnMuYXQoY29udmVyZ2VkX3JlYXNvbikgPDwgc3RkOjplbmRsOwogICAgICAgIH0gZWxzZSBpZiAoZGl2ZXJnZWRfZXhwbGFudGF0aW9ucy5jb3VudChjb252ZXJnZWRfcmVhc29uKSAhPSAwKSB7CiAgICAgICAgICAgIFRIUk9XKCJQRVRTYyBOb25saW5lYXIgc29sdmVyIGZhaWxlZCB0byBjb252ZXJnZSwgZHVlIHRvOiAiICsgZGl2ZXJnZWRfZXhwbGFudGF0aW9ucy5hdChjb252ZXJnZWRfcmVhc29uKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVEhST1coIlBFVFNjIGNvbnZlcmdlbmNlIHJlYXNvbiBpcyB1bmtub3duOiAiICsgc3RkOjp0b19zdHJpbmcoY29udmVyZ2VkX3JlYXNvbikpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBldHNjc25lcy5oIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXQgQSA9IHBldHNjX3ByZWNvbmRpdGlvbmVyLnNoYWxsb3dDb3B5VG9QZXRzY01hdHJpeCgpOwogICAgICAgIEtTUFNldE9wZXJhdG9ycyhrc3AsIEEsIEEpOwogICAgICAgIFBDU2V0VHlwZShwYywgUENTT1IpOwogICAgICAgIFBDU09SU2V0SXRlcmF0aW9ucyhwYywgNSwgMSk7CiAgICAgICAgUENGYWN0b3JTZXRNYXRPcmRlcmluZ1R5cGUocGMsIE1BVE9SREVSSU5HUU1EKTsKICAgICAgICBQQ1NldEZyb21PcHRpb25zKHBjKTsKICAgICAgICBQQ1NldFVwKHBjKTsKCiAgICAgICAgS1NQU2V0RnJvbU9wdGlvbnMoa3NwKTsKICAgICAgICBkb3VibGUgcmVsYXRpdmVfdG9sZXJhbmNlID0gbGluZWFyX3NvbHZlcl9zZXR0aW5ncy5hdCgicmVsYXRpdmUgdG9sZXJhbmNlIik7CiAgICAgICAgZG91YmxlIGFic29sdXRlX3RvbGVyYW5jZSA9IGxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MuYXQoImFic29sdXRlIHRvbGVyYW5jZSIpOwogICAgICAgIGludCBtYXhfa3J5bG92X2l0ZXIgPSBsaW5lYXJfc29sdmVyX3NldHRpbmdzLmF0KCJtYXgga3J5bG92IHNlYXJjaCBkaXJlY3Rpb25zIik7CiAgICAgICAgS1NQU2V0VG9sZXJhbmNlcyhrc3AsIHJlbGF0aXZlX3RvbGVyYW5jZSwgYWJzb2x1dGVfdG9sZXJhbmNlLCBQRVRTQ19ERUZBVUxULCBtYXhfa3J5bG92X2l0ZXIpOwogICAgICAgIEtTUEdNUkVTU2V0UmVzdGFydChrc3AsIG1heF9rcnlsb3ZfaXRlcik7CiAgICAgICAgS1NQR01SRVNTZXRQcmVBbGxvY2F0ZVZlY3RvcnMoa3NwKTsKICAgICAgICBLU1BTZXRVcChrc3ApOwogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTTkVTU2V0VHlwZShzbmVzLCBTTkVTTkVXVE9OTFMpOwogICAgICAgIFNORVNTZXRGcm9tT3B0aW9ucyhzbmVzKTsKCiAgICAgICAgZG91YmxlIGFic29sdXRlX3RvbGVyYW5jZSA9IG5vbmxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MuYXQoInJlc2lkdWFsIHN0b3BwaW5nIHRvbGVyYW5jZSIpOwogICAgICAgIGRvdWJsZSByZWxhdGl2ZV90b2xlcmFuY2UgPSBzdGQ6Om51bWVyaWNfbGltaXRzPGRvdWJsZT46Om1pbigpOyAvLyBOZXZlciBzdG9wIGR1ZSB0byByZWxhdGl2ZSByZXNpZHVhbAogICAgICAgIGRvdWJsZSB1cGRhdGVfdG9sZXJhbmNlID0gbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncy5hdCgidXBkYXRlIHN0b3BwaW5nIHRvbGVyYW5jZSIpOwogICAgICAgIGludCBtYXhfaXRlcmF0aW9ucyA9IG5vbmxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MuYXQoIm1heCB0aW1lIHN0ZXBzIik7CiAgICAgICAgaW50IG1heF9yZXNpZHVhbF9ldmFsdWF0aW9ucyA9IHN0ZDo6bnVtZXJpY19saW1pdHM8aW50Pjo6bWF4KCk7IC8vIGFsbG93IHVubGltaXRlZCByZXNpZHVhbCBldmFsdWF0aW9ucwoKICAgICAgICBTTkVTU2V0VG9sZXJhbmNlcyhzbmVzLCBhYnNvbHV0ZV90b2xlcmFuY2UsIHJlbGF0aXZlX3RvbGVyYW5jZSwgdXBkYXRlX3RvbGVyYW5jZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhfaXRlcmF0aW9ucywgbWF4X3Jlc2lkdWFsX2V2YWx1YXRpb25zKTsKCiAgICAgICAgU05FU1NldENvbnZlcmdlbmNlVGVzdChzbmVzLCBDb252ZXJnZW5jZVRlc3QsIE5VTEwsIE5VTEwpOwoKICAgICAgICBTTkVTTW9uaXRvclNldChzbmVzLCBtb25pdG9yUmVzaWR1YWwsIHRoaXMsIE5VTEwpOwogICAgICAgIFNORVNMaW5lU2VhcmNoU2V0UHJlQ2hlY2sobHMsIGxpbmVTZWFyY2hQcmVDaGVjaywgdGhpcyk7CiAgICAgICAgU05FU0xpbmVTZWFyY2hTZXRQb3N0Q2hlY2sobHMsIGxpbmVTZWFyY2hQb3N0Q2hlY2ssIHRoaXMpOwogICAgICAgIFNORVNTZXRGdW5jdGlvbihzbmVzLCBwZXRzY19yZXNpZHVhbCwgY29tcHV0ZVJlc2lkdWFsLCB0aGlzKTsKICAgICAgICBwZXRzY19wcmVjb25kaXRpb25lci5hc3NlbWJsZSgpOwogICAgICAgIHVzZV9qYWNvYmlhbl9mcmVlID0gbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncy5hdCgiamFjb2JpYW4gZnJlZSBuZXd0b24ga3J5bG92Iik7CiAgICAgICAgaWYgKHVzZV9qYWNvYmlhbl9mcmVlKSB7CiAgICAgICAgICAgIE1hdENyZWF0ZVNORVNNRihzbmVzLCAmcGV0c2NfamFjb2JpYW4pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHBldHNjX2phY29iaWFuID0gcGV0c2NfcHJlY29uZGl0aW9uZXIuc2hhbGxvd0NvcHlUb1BldHNjTWF0cml4KCk7CiAgICAgICAgfQogICAgICAgIFNORVNTZXRKYWNvYmlhbihzbmVzLCBwZXRzY19qYWNvYmlhbiwgcGV0c2NfcHJlY29uZGl0aW9uZXIuc2hhbGxvd0NvcHlUb1BldHNjTWF0cml4KCksIGNvbXB1dGVKYWNvYmlhbiwgdGhpcyk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PETSc</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>PETSc</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4647,7 +4644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>convergence</entry>
         <entry>private</entry>
         <entry>sync</entry>
         <entry>thros</entry>
@@ -4655,7 +4651,6 @@
         <entry>SNES</entry>
         <entry>copyPetscVector</entry>
         <entry>node_based</entry>
-        <entry>copySol</entry>
         <entry>::solve</entry>
         <entry>petsc</entry>
         <entry>precheck</entry>
@@ -4667,6 +4662,8 @@
         <entry>rela</entry>
         <entry>line</entry>
         <entry>PETSc</entry>
+        <entry>copySol</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

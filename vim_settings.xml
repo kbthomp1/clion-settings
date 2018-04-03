@@ -187,8 +187,8 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="40" column="100" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" timestamp="1522677558586">
-        <mark key="'" line="77" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" timestamp="1522759763747">
+        <mark key="'" line="54" column="19" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="79" column="94" />
         <mark key="." line="20" column="90" />
@@ -1059,8 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="131" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="136" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="138" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
       <jump line="142" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
@@ -1159,6 +1157,8 @@
       <jump line="16" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/ConvergenceHistoryWriter.h" />
       <jump line="77" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
       <jump line="74" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
+      <jump line="54" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4572,7 +4572,7 @@
         <text>hist_writer</text>
       </register>
       <register name="/" type="4">
-        <text>monitor</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBnZXRDb252ZXJnZW5jZUhpc3RvcnlOYW1lcyhpbnQgTnVtRXFucykgewogICAgICAgIHN3aXRjaChOdW1FcW5zKXsKICAgICAgICAgICAgY2FzZSA1OiByZXR1cm4geyJkZW5zaXR5IiwgInUiLCAidiIsICJ3IiwgInByZXNzdXJlIiwgIm92ZXJhbGwifTsKICAgICAgICAgICAgY2FzZSA2OiByZXR1cm4geyJkZW5zaXR5IiwgInUiLCAidiIsICJ3IiwgInByZXNzdXJlIiwgInR1cmIiLCAib3ZlcmFsbCJ9OwogICAgICAgICAgICBkZWZhdWx0OiB0aHJvdyBzdGQ6OmxvZ2ljX2Vycm9yKCJIU05vbkxpbmVhclNvbHZlciBjYW4ndCBkZWNpZGUgd2hhdCBlcXVhdGlvbnMgYXJlIGJlaW5nIHNvbHZlZC4iICsgc3RkOjpzdHJpbmcoX19GSUxFX18pICsgc3RkOjp0b19zdHJpbmcoX19MSU5FX18pKTsKICAgICAgICB9CiAgICB9Cg==</text>
@@ -4618,9 +4618,9 @@
       </register>
     </registers>
     <search>
-      <last-search>monitor</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>monitor</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4628,9 +4628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>cout</entry>
-        <entry>std::cout</entry>
         <entry>printf</entry>
         <entry>fprintf</entry>
         <entry>solve</entry>
@@ -4648,6 +4645,9 @@
         <entry>convergence</entry>
         <entry>private</entry>
         <entry>monitor</entry>
+        <entry>sync</entry>
+        <entry>thros</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

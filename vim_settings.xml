@@ -31,9 +31,6 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1507832837549">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
         <mark key="[" line="7" column="21" />
@@ -96,9 +93,6 @@
         <mark key="]" line="79" column="42" />
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="42" />
-      </file>
-      <file name="/LLDB" timestamp="1522360991235">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1517414587756">
         <mark key="'" line="200" column="10" />
@@ -213,9 +207,6 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
-      </file>
-      <file name="/" timestamp="1503338449264">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1513883725409">
         <mark key="'" line="80" column="13" />
@@ -360,8 +351,8 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.h" timestamp="1522356752640">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.h" timestamp="1522857677944">
+        <mark key="'" line="65" column="29" />
         <mark key="[" line="100" column="40" />
         <mark key="]" line="100" column="42" />
         <mark key="^" line="100" column="42" />
@@ -432,9 +423,6 @@
         <mark key="]" line="334" column="0" />
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
-      </file>
-      <file name="/GDB" timestamp="1522420456491">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
         <mark key="'" line="11" column="21" />
@@ -781,7 +769,7 @@
         <mark key="." line="78" column="8" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522848535745">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" timestamp="1522857192593">
         <mark key="'" line="84" column="8" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -944,9 +932,6 @@
         <mark key="." line="51" column="57" />
         <mark key="^" line="51" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522357120087">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="35" column="0" />
@@ -1075,9 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="98" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="278" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="189" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="116" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="115" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1175,6 +1157,9 @@
       <jump line="49" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="58" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
+      <jump line="100" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.h" />
+      <jump line="29" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.h" />
+      <jump line="65" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4588,7 +4573,7 @@
         <text>markGoodUpdate</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>freeze</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
@@ -4634,9 +4619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>freeze</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>freeze</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4644,7 +4629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>private</entry>
         <entry>sync</entry>
         <entry>thros</entry>
         <entry>throw</entry>
@@ -4664,6 +4648,7 @@
         <entry>PETSc</entry>
         <entry>copySol</entry>
         <entry>static</entry>
+        <entry>freeze</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

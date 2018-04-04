@@ -214,12 +214,12 @@
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1522861546514">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1522864840348">
         <mark key="'" line="208" column="0" />
         <mark key="[" line="206" column="50" />
-        <mark key="]" line="206" column="48" />
-        <mark key="^" line="206" column="48" />
-        <mark key="." line="206" column="48" />
+        <mark key="]" line="146" column="1" />
+        <mark key="^" line="146" column="1" />
+        <mark key="." line="146" column="1" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/MeshTests.cpp" timestamp="1522861513653">
         <mark key="'" line="57" column="12" />
@@ -727,13 +727,13 @@
         <mark key="^" line="125" column="65" />
         <mark key="." line="125" column="65" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1522863203358">
-        <mark key="'" line="380" column="27" />
-        <mark key="[" line="17" column="23" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1522864924633">
+        <mark key="'" line="464" column="0" />
+        <mark key="[" line="17" column="11" />
         <mark key="k" line="434" column="29" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/hefss++/src/PerfectGas.cpp" timestamp="1502314797334">
         <mark key="'" line="39" column="11" />
@@ -1091,9 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="86" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="21" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/ConvergenceHistoryWriter.cpp" />
       <jump line="16" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/ConvergenceHistoryWriter.h" />
       <jump line="77" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
       <jump line="74" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -1191,6 +1188,9 @@
       <jump line="168" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="126" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="380" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="18" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="431" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="464" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1201,7 +1201,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPE1lc2hJbnRlcmZhY2U+KCk=</text>
+        <text>buildHSMesh(mesh_in, json_config)),</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4601,10 +4601,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPE1lc2hJbnRlcmZhY2U+KCk=</text>
+        <text>buildHSMesh(mesh_in, json_config)),</text>
       </register>
       <register name="/" type="4">
-        <text>length_</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0byB2b2x1bWUgPSBtZXNoLmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV9pZF07Cg==</text>
@@ -4650,9 +4650,9 @@
       </register>
     </registers>
     <search>
-      <last-search>length_</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>length_</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4660,8 +4660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node_based</entry>
-        <entry>::solve</entry>
         <entry>petsc</entry>
         <entry>precheck</entry>
         <entry>Pre</entry>
@@ -4680,6 +4678,8 @@
         <entry>reference_length</entry>
         <entry>Force</entry>
         <entry>length_</entry>
+        <entry>buildMesh</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

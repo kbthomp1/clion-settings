@@ -41,6 +41,9 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/SolutionVariables.h" timestamp="1522971671684">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/HyperSolve3D/petsc_examples/ex1.c" timestamp="1501263779070">
         <mark key="'" line="326" column="0" />
         <mark key="[" line="142" column="54" />
@@ -193,6 +196,11 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1522971670298">
+        <mark key="'" line="195" column="71" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="196" column="81" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" timestamp="1521551261505">
         <mark key="'" line="0" column="0" />
@@ -701,6 +709,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" timestamp="1522971872390">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/ThermoCurveFitsTests.cpp" timestamp="1496432872085">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="141" column="0" />
@@ -1116,18 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="56" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="46" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="132" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="253" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="451" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="46" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="48" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="212" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="219" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="28" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/Defaults.h" />
       <jump line="160" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="323" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1216,6 +1219,18 @@
       <jump line="6" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSPrint.h" />
       <jump line="128" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="76" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="43" column="16" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="99" column="31" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="54" column="43" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="29" column="4" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="33" column="4" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="38" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
+      <jump line="86" column="8" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="140" column="89" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="195" column="71" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/src/SolutionVariables.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1226,7 +1241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHJldDsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4626,58 +4641,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>viscosity_avg</text>
       </register>
       <register name="/" type="4">
-        <text>cotire</text>
+        <text>SolutionMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHJldDsK</text>
+        <text encoding="base64">ICAgIHZpc2Nvc2l0eV9hdmcgLz0gNC4wOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHJldDsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgcHJpbnRmKGNvbnN0IGNoYXIqIGZvcm1hdCwgLi4uKTsK</text>
+        <text encoding="base64">ICAgICAgICB1dndfdmlzY29zaXR5X2F2ZyAvPSA0LjA7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRhcmc+CiNpbmNsdWRlIDxjc3RkaW8+Cg==</text>
+        <text encoding="base64">ICAgIHV2d192aXNjb3NpdHlfYXZnIC89IDQuMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBIU1ByaW50OjpzZXRTdXBwcmVzc2lvbihib29sIHN1cHByZXNzX291dHB1dCkgewogICAgc3VwcHJlc3Nfc3Rkb3V0ID0gc3VwcHJlc3Nfb3V0cHV0Owp9CmludCBIU1ByaW50OjpwcmludGYoY29uc3QgY2hhciogZm9ybWF0LCAuLi4pIHsKICAgIGlmIChzdXBwcmVzc19zdGRvdXQpCiAgICAgICAgcmV0dXJuIDA7CiAgICB2YV9saXN0IHZsOwogICAgdmFfc3RhcnQodmwsIGZvcm1hdCk7CiAgICBhdXRvIHJldCA9IHZwcmludGYoZm9ybWF0LCB2bCk7CiAgICB2YV9lbmQodmwpOwogICAgcmV0dXJuIHJldDsKfQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkhTUHJpbnQuaCIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRhcmc+CiNpbmNsdWRlIDxjc3RkaW8+Cgo=</text>
+        <text encoding="base64">dXYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgSFNQcmludDo6c2V0U3VwcHJlc3Npb24oYm9vbCBzdXBwcmVzc19vdXRwdXQpIHsKICAgIHN1cHByZXNzX3N0ZG91dCA9IHN1cHByZXNzX291dHB1dDsKfQppbnQgcHJpbnRmKGNvbnN0IGNoYXIqIGZvcm1hdCwgLi4uKSB7CiAgICBpZiAoc3VwcHJlc3Nfc3Rkb3V0KQogICAgICAgIHJldHVybiAwOwogICAgdmFfbGlzdCB2bDsKICAgIHZhX3N0YXJ0KHZsLCBmb3JtYXQpOwogICAgYXV0byByZXQgPSB2cHJpbnRmKGZvcm1hdCwgdmwpOwogICAgdmFfZW5kKHZsKTsKICAgIHJldHVybiByZXQ7Cn0KCgo=</text>
+        <text encoding="base64">ICAgICAgICB1dncK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpdmF0ZToK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dGllKHZpc2Nvc2l0eV9hdmcsIHRoZXJtYWxfY29uZHVjdGl2aXR5X2F2ZywgdXZ3X3Zpc2Nvc2l0eV9hdmcpCiAgICAgICAgICAgID0gQ29tcHV0ZVZpc2NvdXNDZWxsQXZnKHEsIEhTOjpTb2x1dGlvbk1hcDo6TGFtaW5hcigpLCAmdHVyYl9tb2RlbC0+cmhzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVybW9keW5hbWljcywgdHVyYnVsZW50X3RoZXJtb2R5bmFtaWNzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cotire</last-search>
+      <last-search>SolutionMap</last-search>
       <last-offset />
-      <last-pattern>cotire</last-pattern>
+      <last-pattern>SolutionMap</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4685,11 +4700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>monitor</entry>
-        <entry>PostCheck</entry>
-        <entry>rela</entry>
-        <entry>line</entry>
-        <entry>PETSc</entry>
         <entry>copySol</entry>
         <entry>static</entry>
         <entry>freeze</entry>
@@ -4705,6 +4715,11 @@
         <entry>HSPrint</entry>
         <entry>SOURCES</entry>
         <entry>cotire</entry>
+        <entry>Flux</entry>
+        <entry>using</entry>
+        <entry>edge_to_node</entry>
+        <entry>q</entry>
+        <entry>SolutionMap</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>
@@ -4725,8 +4740,8 @@
         <entry>s/ \s*/, /g</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

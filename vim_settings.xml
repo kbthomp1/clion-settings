@@ -41,12 +41,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" timestamp="1523048043257">
-        <mark key="'" line="93" column="37" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="94" column="68" />
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" timestamp="1523050859463">
+        <mark key="'" line="97" column="37" />
+        <mark key="[" line="94" column="17" />
+        <mark key="]" line="94" column="17" />
+        <mark key="." line="94" column="17" />
+        <mark key="^" line="94" column="17" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/SolutionVariables.h" timestamp="1522971671684">
         <mark key="'" line="0" column="0" />
@@ -158,6 +158,13 @@
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/Ddata.h" timestamp="1523052538386">
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="145" column="36" />
+        <mark key="]" line="145" column="35" />
+        <mark key="^" line="145" column="35" />
+        <mark key="." line="145" column="35" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ConvergenceHistoryWriter.cpp" timestamp="1522677552182">
         <mark key="'" line="28" column="27" />
@@ -561,9 +568,9 @@
         <mark key="." line="43" column="91" />
         <mark key="^" line="43" column="91" />
       </file>
-      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousStressUtilities.h" timestamp="1523046592875">
-        <mark key="[" line="105" column="58" />
-        <mark key="]" line="105" column="64" />
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousStressUtilities.h" timestamp="1523050122558">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="44" />
         <mark key="." line="105" column="64" />
         <mark key="^" line="105" column="64" />
       </file>
@@ -835,8 +842,12 @@
         <mark key="." line="73" column="68" />
         <mark key="^" line="73" column="68" />
       </file>
-      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" timestamp="1523040909796">
-        <mark key="'" line="63" column="103" />
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" timestamp="1523051998309">
+        <mark key="'" line="52" column="21" />
+        <mark key="[" line="49" column="76" />
+        <mark key="]" line="49" column="76" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="76" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/TimeIntegrator.h" timestamp="1522102096739">
         <mark key="[" line="7" column="6" />
@@ -1170,10 +1181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="154" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="156" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="6" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
       <jump line="25" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="26" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1270,6 +1277,10 @@
       <jump line="94" column="26" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="96" column="51" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" />
       <jump line="93" column="37" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" />
+      <jump line="50" column="16" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="47" column="42" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="49" column="21" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="227" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/src/Ddata.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1279,8 +1290,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IDM7ICsraikKICAgICAgICAgICAgZW5lcmd5X2ZsdXggKz0gZW5lcmd5X2Vxbl90ZXJtcyhqLDApICogbm9ybWFsKGosMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4680,61 +4691,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)(0,0);</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>normal</text>
+        <text>q_left</text>
       </register>
-      <register name="0" type="8">
-        <text>edge_ugrad[edge]
-edge_vgrad[edge]
-edge_wgrad[edge]
-edge_tgrad[edge]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9kaXJlY3Rpb25bMV0gKiBsZW5ndGhfaW52LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IDM7ICsraikKICAgICAgICAgICAgZW5lcmd5X2ZsdXggKz0gZW5lcmd5X2Vxbl90ZXJtcyhqLDApICogbm9ybWFsKGosMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyB1bml0X2VkZ2VfZGlyZWN0aW9uICogKGVkZ2VfZ3JhZCAtIGNlbGxfZ3JhZF9pbl9lZGdlX2RpcmVjdGlvbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNvYmlhbl90ZXN0ZXIucHJpbnRKYWNvYmlhbnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKQogICAgICAgICAgICAgICAgICAgIHVuaXRfZWRnZV9kaXJlY3Rpb25baV0gPSBlZGdlX2RpcmVjdGlvbltpXSAqIGVkZ2VfbGVuZ3RoX2ludjsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUIGVuZXJneV9mbHV4ID0gKGVuZXJneV9lcW5fdGVybXMuYWRqb2ludCgpICogbm9ybWFsKSgwLDApOwo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">Y29uc3QgVCAmCmNvbnN0IFQgJg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgZW5lcmd5X2ZsdXggPSAoICBlbmVyZ3lfZXFuX3Rlcm1zWzBdICogbm9ybWFsWzBdCi8vICAgICAgICAgICAgICAgICAgICAgICAgICsgZW5lcmd5X2Vxbl90ZXJtc1sxXSAqIG5vcm1hbFsxXQovLyAgICAgICAgICAgICAgICAgICAgICAgICArIGVuZXJneV9lcW5fdGVybXNbMl0gKiBub3JtYWxbMl0pOwo=</text>
+        <text encoding="base64">ICAgIHR5cGUKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFaWdlbjo6TWF0cml4PGRvdWJsZSwgMywgMT4gbm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IDM7ICsraikKICAgICAgICAgICAgZW5lcmd5X2ZsdXggKz0gZW5lcmd5X2Vxbl90ZXJtcyhqLDApICogbm9ybWFsKGosMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICBqYWNvYmlhbl90ZXN0ZXIucHJpbnRKYWNvYmlhbnMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV2d192aXNjb3NpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFQgdHdvKDIuMCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBUIGVuZXJneV9mbHV4ID0gKGVuZXJneV9lcW5fdGVybXMuYWRqb2ludCgpICogbm9ybWFsKSgwLDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>normal</last-search>
+      <last-search>q_left</last-search>
       <last-offset />
-      <last-pattern>normal</last-pattern>
+      <last-pattern>q_left</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4742,7 +4750,6 @@ edge_tgrad[edge]</text>
     </search>
     <history>
       <history-search>
-        <entry>Force</entry>
         <entry>length_</entry>
         <entry>buildMesh</entry>
         <entry>build</entry>
@@ -4762,6 +4769,7 @@ edge_tgrad[edge]</text>
         <entry>tau</entry>
         <entry>Vec</entry>
         <entry>normal</entry>
+        <entry>q_left</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

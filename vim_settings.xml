@@ -197,10 +197,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1522971670298">
-        <mark key="'" line="195" column="71" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="196" column="81" />
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1523041519225">
+        <mark key="'" line="233" column="12" />
+        <mark key="[" line="48" column="54" />
+        <mark key="]" line="48" column="53" />
+        <mark key="." line="48" column="53" />
+        <mark key="^" line="48" column="53" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TensorTests.cpp" timestamp="1521551261505">
         <mark key="'" line="0" column="0" />
@@ -797,6 +799,9 @@
         <mark key="." line="73" column="68" />
         <mark key="^" line="73" column="68" />
       </file>
+      <file name="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" timestamp="1523040909796">
+        <mark key="'" line="63" column="103" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/TimeIntegrator.h" timestamp="1522102096739">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="9" column="66" />
@@ -1131,14 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/Defaults.h" />
-      <jump line="160" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="323" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="324" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="149" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="151" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="155" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
-      <jump line="318" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="159" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="163" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
       <jump line="193" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.h" />
@@ -1231,6 +1228,14 @@
       <jump line="140" column="89" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
       <jump line="195" column="71" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
       <jump line="0" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/src/SolutionVariables.h" />
+      <jump line="40" column="0" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="42" column="57" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="63" column="103" filename="$USER_HOME$/tau-one-ring/hypersolve/src/CellGradients.h" />
+      <jump line="147" column="4" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="168" column="89" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="172" column="74" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="173" column="59" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
+      <jump line="233" column="12" filename="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1240,8 +1245,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4641,10 +4646,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>viscosity_avg</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>SolutionMap</text>
+        <text>Edge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZpc2Nvc2l0eV9hdmcgLz0gNC4wOwo=</text>
@@ -4690,9 +4695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SolutionMap</last-search>
+      <last-search>Edge</last-search>
       <last-offset />
-      <last-pattern>SolutionMap</last-pattern>
+      <last-pattern>Edge</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4700,8 +4705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>copySol</entry>
-        <entry>static</entry>
         <entry>freeze</entry>
         <entry>mesh-unit</entry>
         <entry>i</entry>
@@ -4720,6 +4723,8 @@
         <entry>edge_to_node</entry>
         <entry>q</entry>
         <entry>SolutionMap</entry>
+        <entry>weights</entry>
+        <entry>Edge</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Thermodynamics.h</entry>

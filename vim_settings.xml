@@ -473,13 +473,13 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1523571637117">
-        <mark key="'" line="80" column="4" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1523573613294">
+        <mark key="'" line="133" column="42" />
         <mark key="k" line="451" column="29" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="63" />
-        <mark key="." line="141" column="63" />
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
         <mark key="^" line="141" column="63" />
+        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/Mesh.h" timestamp="1523565748677" />
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
@@ -1236,7 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="81" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="16" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="17" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="18" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
@@ -1336,6 +1335,7 @@
       <jump line="26" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
       <jump line="28" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
       <jump line="85" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="133" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1345,8 +1345,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYWtlIG1lc2ggYSBzaGFyZWRfcHRyIHRvIGZpeCB1cGRhdGVOb2RlTG9jYXRpb25zCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4749,55 +4749,55 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>cell</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vZGVDb29yZGluYXRlKGludCBub2RlKSBjb25zdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYWtlIG1lc2ggYSBzaGFyZWRfcHRyIHRvIGZpeCB1cGRhdGVOb2RlTG9jYXRpb25zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIHJldHVybiBzdGQ6Om1ha2Vfc2hhcmVkPEhTOjpFeHBsaWNpdFNvbHZlcjxkb3VibGUsIE51bUVxbnM+PihtcCwgKm1lc2guZ2V0KCksIGRpc2NyZXRpemF0aW9uLCB0aGVybW9keW5hbWljcyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGdldFh5eiA9IFtdKHN0ZDo6c2hhcmVkX3B0cjxNZXNoVHlwZT4gbWVzaCwgaW50IG5vZGVfaWQpIHsKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFh5eihtZXNoLCBub2RlX2lkKTsK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBwOwogICAgICAgICAgICBtZXNoLT5ub2RlQ29vcmRpbmF0ZShub2RlX2lkLCBwLmRhdGEoKSk7CiAgICAgICAgICAgIHJldHVybiBwOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGdldFh5eiA9IFtdKHN0ZDo6c2hhcmVkX3B0cjxNZXNoVHlwZT4gbWVzaCwgaW50IG5vZGVfaWQpIHsKICAgICAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGdldENlbGwgPSBbJl0oaW50IGNlbGxfaWQsIGludCBsZW5ndGgpewogICAgICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGNlbGwobGVuZ3RoKTsKICAgICAgICAgICAgbWVzaC0+Y2VsbChjZWxsX2lkLCBjZWxsLmRhdGEoKSk7CiAgICAgICAgICAgIHJldHVybiBjZWxsOwogICAgICAgIH07CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFh5eihtZXNoLCBub2RlX2lkKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRDZWxsKGNlbGxfaWQsIGxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBwOwogICAgICAgICAgICBtZXNoLT5ub2RlQ29vcmRpbmF0ZShub2RlX2lkLCBwLmRhdGEoKSk7CiAgICAgICAgICAgIHJldHVybiBwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cell</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>cell</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4805,7 +4805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Mesh</entry>
         <entry>NodeC</entry>
         <entry>TinfMesh</entry>
         <entry>CellSelectedMesh</entry>
@@ -4825,6 +4824,7 @@
         <entry>getXyz</entry>
         <entry>length</entry>
         <entry>cell</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -4845,8 +4845,8 @@
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>vs[</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -71,9 +71,6 @@
         <mark key="^" line="43" column="84" />
         <mark key="." line="43" column="84" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/src/CellSelectedMesh.cpp" timestamp="1523564323663">
-        <mark key="'" line="33" column="23" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidTerms.h" timestamp="1519680278261">
         <mark key="'" line="45" column="12" />
         <mark key="[" line="14" column="0" />
@@ -146,11 +143,12 @@
       <file name="/" timestamp="1503338449264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523547907398">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523572882655">
+        <mark key="'" line="167" column="24" />
+        <mark key="[" line="185" column="80" />
+        <mark key="]" line="185" column="73" />
+        <mark key="." line="185" column="73" />
+        <mark key="^" line="185" column="73" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/MeshTests.cpp" timestamp="1522861513653">
         <mark key="'" line="57" column="12" />
@@ -475,13 +473,13 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1523569530752">
-        <mark key="'" line="352" column="0" />
-        <mark key="k" line="449" column="29" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="138" column="104" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1523571637117">
+        <mark key="'" line="80" column="4" />
+        <mark key="k" line="451" column="29" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="63" />
+        <mark key="." line="141" column="63" />
+        <mark key="^" line="141" column="63" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/Mesh.h" timestamp="1523565748677" />
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
@@ -610,6 +608,13 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
         <mark key="^" line="194" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" timestamp="1523572877422">
+        <mark key="'" line="85" column="28" />
+        <mark key="[" line="87" column="78" />
+        <mark key="]" line="87" column="78" />
+        <mark key="." line="87" column="78" />
+        <mark key="^" line="87" column="78" />
       </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/LeastSquaresGradient.hpp" timestamp="1518473263198">
         <mark key="'" line="39" column="4" />
@@ -820,9 +825,6 @@
         <mark key="]" line="86" column="77" />
         <mark key="." line="86" column="77" />
         <mark key="^" line="86" column="77" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/PETScLHS.h" timestamp="1522354050519">
-        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/CGNSElements.h" timestamp="1523486379700">
         <mark key="[" line="25" column="13" />
@@ -1234,29 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="167" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="170" column="91" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="176" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="185" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="187" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="197" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="208" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="44" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="25" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="31" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="40" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="110" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="136" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="18" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="19" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="23" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="24" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" />
-      <jump line="21" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
-      <jump line="25" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
-      <jump line="31" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="8" column="81" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="16" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
       <jump line="17" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/PETScNonLinearSolver.hpp" />
@@ -1279,7 +1258,6 @@
       <jump line="79" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
-      <jump line="78" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="87" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="96" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="105" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
@@ -1290,8 +1268,6 @@
       <jump line="20" column="31" filename="$USER_HOME$/one-ring/install/parfait/include/parfait/EdgeFieldLeastSquaresGradient.h" />
       <jump line="20" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="33" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
-      <jump line="167" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
       <jump line="72" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="68" column="26" filename="$USER_HOME$/one-ring/t_infinity/src/t_infinity_python_bindings.cpp" />
       <jump line="70" column="58" filename="$USER_HOME$/one-ring/t_infinity/src/t_infinity_python_bindings.cpp" />
@@ -1334,6 +1310,32 @@
       <jump line="353" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="13" column="0" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
       <jump line="593" column="0" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="80" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="78" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="81" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="162" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="55" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="14" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="43" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="47" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="53" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="163" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="11" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="30" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="25" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="35" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="167" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" />
+      <jump line="36" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="96" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="18" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="21" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="15" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="23" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="17" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="24" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="26" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="28" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
+      <jump line="85" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/Mesh.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1343,8 +1345,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uL3Vzci9sb2NhbC9DZWxsYXIvZ2NjLzcuMy4wXzEvaW5jbHVkZS9jKysvNy4zLjAvY3N0ZGRlZiIK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4744,58 +4746,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, p.data());</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>updateNode</text>
+        <text>cell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2b2lkIHVwZGF0ZU5vZGVMb2NhdGlvbnMoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDM+PiYgbm9kZV9sb2NhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vZGVDb29yZGluYXRlKGludCBub2RlKSBjb25zdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uL3Vzci9sb2NhbC9DZWxsYXIvZ2NjLzcuMy4wXzEvaW5jbHVkZS9jKysvNy4zLjAvY3N0ZGRlZiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IHA7Cg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IE51bUVxbnM+CnZvaWQgSHlwZXJTb2x2ZTxOdW1FcW5zPjo6dXBkYXRlTm9kZUxvY2F0aW9ucyhjb25zdCBzdGQ6OnZlY3RvciA8c3RkOjphcnJheTxkb3VibGUsIDM+PiAmbm9kZV9sb2NhdGlvbnMpIHsKCn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGdldFh5eiA9IFtdKHN0ZDo6c2hhcmVkX3B0cjxNZXNoVHlwZT4gbWVzaCwgaW50IG5vZGVfaWQpIHsKICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFh5eihtZXNoLCBub2RlX2lkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLT5zZXROb2RlQ29vcmRpbmF0ZShuLCAmeHl6W10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBwOwogICAgICAgICAgICBtZXNoLT5ub2RlQ29vcmRpbmF0ZShub2RlX2lkLCBwLmRhdGEoKSk7CiAgICAgICAgICAgIHJldHVybiBwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50IGluZGV4ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDM+PiBub2RlX2xvY2F0aW9ucyhudW1fbm9kZXMpOwogICAgICBpbnQgaW5kZXggPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGdldENlbGwgPSBbJl0oaW50IGNlbGxfaWQsIGludCBsZW5ndGgpewogICAgICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGNlbGwobGVuZ3RoKTsKICAgICAgICAgICAgbWVzaC0+Y2VsbChjZWxsX2lkLCBjZWxsLmRhdGEoKSk7CiAgICAgICAgICAgIHJldHVybiBjZWxsOwogICAgICAgIH07CgoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRDZWxsKGNlbGxfaWQsIGxlbmd0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>updateNode</last-search>
+      <last-search>cell</last-search>
       <last-offset />
-      <last-pattern>updateNode</last-pattern>
+      <last-pattern>cell</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4803,17 +4805,7 @@
     </search>
     <history>
       <history-search>
-        <entry>computeEdge</entry>
-        <entry>viscous_bound</entry>
-        <entry>t_inf_mesh</entry>
-        <entry>const t_inf</entry>
-        <entry encoding="base64">PDw=</entry>
-        <entry>EdgeFie</entry>
-        <entry>const std::shared</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry encoding="base64">PDw8PA==</entry>
         <entry>Mesh</entry>
-        <entry>getNode</entry>
         <entry>NodeC</entry>
         <entry>TinfMesh</entry>
         <entry>CellSelectedMesh</entry>
@@ -4822,7 +4814,17 @@
         <entry>updateNod</entry>
         <entry>node_locations</entry>
         <entry>updateNodeLocations</entry>
+        <entry>updateMesh</entry>
         <entry>updateNode</entry>
+        <entry>dual_met</entry>
+        <entry>calcDual</entry>
+        <entry>calcDualMetrics</entry>
+        <entry>getXYZ</entry>
+        <entry>getCell</entry>
+        <entry>getNode</entry>
+        <entry>getXyz</entry>
+        <entry>length</entry>
+        <entry>cell</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>

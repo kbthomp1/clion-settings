@@ -592,7 +592,7 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523662657852">
+      <file name="/Dummy.txt" timestamp="1523881876772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/main.f90" timestamp="1500466562288">
@@ -642,6 +642,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
+        <mark key="'" line="29" column="52" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" timestamp="1523657217742">
         <mark key="'" line="4" column="23" />
@@ -796,6 +803,9 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
+      <file name="$USER_HOME$/one-ring/sfe-plugin/src/sfe_setter_functions.F90" timestamp="1523881563878">
+        <mark key="'" line="346" column="4" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ViscousTermsFactory.h" timestamp="1522356196563">
         <mark key="'" line="74" column="16" />
         <mark key="[" line="75" column="56" />
@@ -892,6 +902,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="84" column="23" />
+      </file>
+      <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/sfe_hand.F90" timestamp="1523881884731">
+        <mark key="'" line="1726" column="10" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/AdeptAD.h" timestamp="1520269238284">
         <mark key="'" line="120" column="47" />
@@ -1165,12 +1178,12 @@
         <mark key="." line="60" column="63" />
         <mark key="^" line="60" column="63" />
       </file>
-      <file name="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" timestamp="1523880715737">
-        <mark key="'" line="320" column="45" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
-        <mark key="^" line="349" column="8" />
+      <file name="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" timestamp="1523882392402">
+        <mark key="'" line="370" column="2" />
+        <mark key="[" line="340" column="22" />
+        <mark key="]" line="340" column="21" />
+        <mark key="." line="340" column="21" />
+        <mark key="^" line="340" column="21" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/QConvertTests.cpp" timestamp="1506461835762">
         <mark key="'" line="4" column="0" />
@@ -1252,6 +1265,9 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" timestamp="1523881761842">
+        <mark key="'" line="56" column="45" />
+      </file>
       <file name="/fragment.mm" timestamp="1523568752524">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1313,72 +1329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="19" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="37" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="33" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="39" column="95" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="63" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="39" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.h" />
-      <jump line="41" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousInteriorTerms.hpp" />
-      <jump line="5" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.hpp" />
-      <jump line="70" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.hpp" />
-      <jump line="117" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.hpp" />
-      <jump line="127" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/ViscousBoundaryTerms.hpp" />
-      <jump line="2" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="3" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="168" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="12" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="269" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="5" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
-      <jump line="215" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="23" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.hpp" />
-      <jump line="4" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" />
-      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.hpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.hpp" />
-      <jump line="11" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="156" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="60" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="29" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/ExplicitSolver.hpp" />
-      <jump line="54" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/ExplicitSolver.hpp" />
-      <jump line="55" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/ExplicitSolver.hpp" />
-      <jump line="38" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/TimeStepCalculation.h" />
-      <jump line="40" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/TimeStepCalculation.h" />
-      <jump line="41" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/TimeStepCalculation.h" />
-      <jump line="46" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/TimeStepCalculation.h" />
-      <jump line="48" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/TimeStepCalculation.h" />
-      <jump line="144" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="199" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="12" column="39" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
-      <jump line="17" column="15" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
-      <jump line="33" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
-      <jump line="68" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
-      <jump line="167" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
-      <jump line="33" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/EquationSet.h" />
-      <jump line="135" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" />
-      <jump line="5" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="6" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="25" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="22" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/Discretization.h" />
-      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.hpp" />
-      <jump line="20" column="112" filename="$USER_HOME$/one-ring/hypersolve/src/StrongBoundaryConditionTerms.hpp" />
-      <jump line="150" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="151" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="78" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="79" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="80" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="87" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="90" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="92" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="98" column="77" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="106" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="107" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="109" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="110" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="113" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
@@ -1413,6 +1363,72 @@
       <jump line="305" column="64" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/startup.f90" />
       <jump line="314" column="54" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/startup.f90" />
       <jump line="320" column="45" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="346" column="4" filename="$USER_HOME$/one-ring/sfe-plugin/src/sfe_setter_functions.F90" />
+      <jump line="1041" column="10" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1048" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1173" column="10" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1180" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1236" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1243" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1374" column="10" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1381" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1411" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1476" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1491" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1556" column="8" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1563" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1647" column="8" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="1654" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="2810" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="2818" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="3227" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="3234" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="3598" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="3605" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="3674" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="4594" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="4601" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="4913" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="4920" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5064" column="10" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5071" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5166" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5173" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5244" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5251" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5264" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5271" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5283" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5290" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5302" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5309" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5357" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5364" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5384" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5391" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="5408" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="96" column="28" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="220" column="63" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="56" column="45" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
+      <jump line="33" column="13" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" />
+      <jump line="268" column="76" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/sfe_hand.F90" />
+      <jump line="277" column="95" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/sfe_hand.F90" />
+      <jump line="1726" column="10" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/sfe_hand.F90" />
+      <jump line="95" column="66" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="99" column="37" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="110" column="37" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="35" column="68" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" />
+      <jump line="29" column="52" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" />
+      <jump line="10" column="0" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="21" column="20" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="317" column="18" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="338" column="21" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="73" column="0" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="112" column="12" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="116" column="31" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="74" column="9" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="75" column="18" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
+      <jump line="370" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/src/SfePlugin.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1422,8 +1438,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4823,10 +4839,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LVdlcnJvciA=</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>rey</text>
+        <text>reynolds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnMsIHR5cGVuYW1lIFQyPgo=</text>
@@ -4872,9 +4888,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rey</last-search>
+      <last-search>reynolds</last-search>
       <last-offset />
-      <last-pattern>rey</last-pattern>
+      <last-pattern>reynolds</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -4882,14 +4898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ddt</entry>
-        <entry>getVe</entry>
-        <entry>HSNonLi</entry>
-        <entry>real</entry>
-        <entry>double</entry>
-        <entry>Complex</entry>
-        <entry>SANe</entry>
-        <entry>sqrt</entry>
         <entry>cotire</entry>
         <entry>Frame</entry>
         <entry>Strong</entry>
@@ -4899,9 +4907,17 @@
         <entry>NumEqns</entry>
         <entry>T2</entry>
         <entry>density</entry>
-        <entry>get</entry>
         <entry>namelist</entry>
         <entry>rey</entry>
+        <entry>subroutine</entry>
+        <entry>sref</entry>
+        <entry>source</entry>
+        <entry>mesh-unit-length</entry>
+        <entry>reference_length</entry>
+        <entry>sref_fun</entry>
+        <entry>get</entry>
+        <entry>getSc</entry>
+        <entry>reynolds</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>

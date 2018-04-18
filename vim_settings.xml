@@ -151,12 +151,12 @@
         <mark key="." line="185" column="73" />
         <mark key="^" line="185" column="73" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MeshTests.cpp" timestamp="1522861513653">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="57" column="65" />
-        <mark key="]" line="57" column="65" />
-        <mark key="." line="57" column="65" />
-        <mark key="^" line="57" column="11" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MeshTests.cpp" timestamp="1524058123480">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="41" />
+        <mark key="." line="71" column="41" />
+        <mark key="^" line="71" column="41" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Interpolation.h" timestamp="1513883725409">
         <mark key="'" line="80" column="13" />
@@ -502,6 +502,14 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1524057960774">
+        <mark key="'" line="107" column="16" />
+        <mark key="k" line="451" column="29" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/Initialization.h" timestamp="1523397961966">
         <mark key="'" line="45" column="0" />
       </file>
@@ -679,30 +687,12 @@
         <mark key="^" line="823" column="30" />
         <mark key="." line="823" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/InviscidInteriorTerms.cpp" timestamp="1523651768482">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
         <mark key="'" line="29" column="52" />
         <mark key="[" line="33" column="13" />
         <mark key="]" line="33" column="12" />
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/SAInteriorTerms.h" timestamp="1523657217742">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="107" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SANegativeTests.cpp" timestamp="1523662689425">
-        <mark key="'" line="169" column="19" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SABaselineTests.cpp" timestamp="1516917932277">
         <mark key="'" line="193" column="0" />
@@ -880,11 +870,11 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.h" timestamp="1524055959208">
-        <mark key="[" line="94" column="75" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.h" timestamp="1524057985150">
+        <mark key="[" line="95" column="60" />
+        <mark key="]" line="95" column="67" />
+        <mark key="." line="95" column="67" />
+        <mark key="^" line="95" column="67" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1523660422843">
         <mark key="'" line="33" column="8" />
@@ -1039,12 +1029,6 @@
         <mark key="]" line="50" column="97" />
         <mark key="." line="50" column="97" />
         <mark key="^" line="50" column="97" />
-      </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/dummy_plugins/DummyFluidSolver.cpp" timestamp="1523568128830">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" timestamp="1521832347671">
         <mark key="'" line="0" column="0" />
@@ -1415,8 +1399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
-      <jump line="17" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="44" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="77" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
       <jump line="83" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" />
@@ -1515,6 +1497,8 @@
       <jump line="16" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="19" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="222" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="107" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="28" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MeshTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1525,7 +1509,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgaW50IGNlbGxUeXBlTGVuZ3RoKGluZmluaXR5OjpNZXNoSW50ZXJmYWNlOjpDZWxsVHlwZSBjZWxsX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7CiAgICBpZihtcC5OdW1iZXJPZlByb2Nlc3NlcygpICE9IDEpIHJldHVybjsKICAgIGF1dG8gbWVzaCA9IEhTTW9ja01lc2g6OmdldFNpbmdsZVRldE1lc2goKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4925,13 +4909,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>json_config</text>
+        <text encoding="base64">IGZyb20gdF9pbmZpbml0eQ==</text>
       </register>
       <register name="/" type="4">
         <text>buildSpar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChqc29uX2NvbmZpZy5hdCgiaW52aXNjaWQgZmx1eCBzZXR0aW5ncyIpLmF0KCJzZWNvbmQgb3JkZXIgamFjb2JpYW4iKSkKICAgICAgICByZXR1cm4gSFM6OmJ1aWxkTmVpZ2hib3JzT2ZOZWlnaGJvcnNTcGFyc2l0eShtZXNoKTsKICAgIGVsc2UKICAgICAgICByZXR1cm4gSFM6OmJ1aWxkU3BhcnNpdHlGcm9tQ2VsbHMobWVzaCk7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gbXAgPSBNZXNzYWdlUGFzc2VyKCk7CiAgICBpZihtcC5OdW1iZXJPZlByb2Nlc3NlcygpICE9IDEpIHJldHVybjsKICAgIGF1dG8gbWVzaCA9IEhTTW9ja01lc2g6OmdldFNpbmdsZVRldE1lc2goKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0aWMgaW50IGNlbGxUeXBlTGVuZ3RoKGluZmluaXR5OjpNZXNoSW50ZXJmYWNlOjpDZWxsVHlwZSBjZWxsX3R5cGUpOwo=</text>

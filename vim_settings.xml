@@ -148,11 +148,11 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/FluxLimiter.h" timestamp="1524771283250">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="105" column="58" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/FluxLimiter.h" timestamp="1524774898714">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="139" column="51" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.h" timestamp="1521831220707">
         <mark key="'" line="49" column="24" />
@@ -191,12 +191,12 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/FluxLimiterTests.cpp" timestamp="1510946338137">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/FluxLimiterTests.cpp" timestamp="1524774973556">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="83" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CornerAreasTests.cpp" timestamp="1510846925596">
         <mark key="'" line="13" column="32" />
@@ -1460,7 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2818" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="3227" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="3234" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="3598" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
@@ -1560,6 +1559,7 @@
       <jump line="31" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
       <jump line="41" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
       <jump line="45" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
+      <jump line="33" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1569,8 +1569,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>calculateFluxLimiter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4970,49 +4970,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>calculateFluxLimiter</text>
+        <text>, edge_midpoint);</text>
       </register>
       <register name="/" type="4">
         <text>good</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGxvY2FsX2Jsb2NrX3JvdyA9IGxvY2FsX2Jsb2NrX3Jvd1tpXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcl9sID0gZGVsdGFfcWwgLyAobXltaW4oMC4wLCBkZWx0YV9xcikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoInA6ICVlLCByaG86ICVlXG4iLCBwcmVzc3VyZSwgZGVuc2l0eSk7Cg==</text>
+        <text encoding="base64">ICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gZWRnZV9taWRwb2ludCA9IHsxLjAsIDAuMCwgMC4wfTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJyZWxheDogJWZcbiIsIHJlbGF4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlZGdlX21pZHBvaW50X3ZlY3RvciA9IDAuNSAqIGVkZ2VfdmVjdG9yOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENIRUNLUE9JTlQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGRxbSA9IHFfZmFjZSAtIHFfbm9kZTsKICAgICAgICBkb3VibGUgZmFjZV9hdF9oYWxmX2VkZ2UgPSAwLjU7CiAgICAgICAgcmV0dXJuIGZhY2VfYXRfaGFsZl9lZGdlICogKGRxbSAvIGRxcCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGRxbSA9IHFfZmFjZSAtIHFfbm9kZTsKICAgICAgICBkb3VibGUgZmFjZV9hdF9oYWxmX2VkZ2UgPSAwLjU7CiAgICAgICAgcmV0dXJuIGZhY2VfYXRfaGFsZl9lZGdlICogKGRxbSAvIGRxcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQYXJmYWl0OjpQb2ludDxkb3VibGU+ICZlZGdlX21pZHBvaW50X3ZlY3Rvcikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50ZigiU3VyZmFjZVRhZ0ZpbHRlciBjb25zdHJ1Y3RvcigpXG4iKTsgZmZsdXNoKHN0ZG91dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvQ2hlY2twb2ludC5oPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoInA6ICVlLCByaG86ICVlXG4iLCBwcmVzc3VyZSwgZGVuc2l0eSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -571,11 +571,12 @@
         <mark key="^" line="109" column="38" />
         <mark key="." line="109" column="22" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" timestamp="1524702014112">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="^" line="40" column="43" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" timestamp="1524703224452">
+        <mark key="'" line="46" column="34" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/JacobianTester.h" timestamp="1522944851144">
         <mark key="'" line="140" column="24" />
@@ -1441,10 +1442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1563" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="1647" column="8" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="1654" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="2810" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="2818" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="3227" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="3234" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
@@ -1541,6 +1538,10 @@
       <jump line="20" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/mesh/ReverseCuthillMcKee.cpp" />
       <jump line="21" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/mesh/ReverseCuthillMcKee.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" />
+      <jump line="29" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
+      <jump line="31" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
+      <jump line="41" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
+      <jump line="45" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1551,7 +1552,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4951,58 +4952,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>for(while rel</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
-        <text>local_rows</text>
+        <text>good</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IGxvY2FsX2Jsb2NrX3JvdyA9IGxvY2FsX2Jsb2NrX3Jvd1tpXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50ZigiU3VyZmFjZVRhZ0ZpbHRlciBjb25zdHJ1Y3RvcigpXG4iKTsgZmZsdXNoKHN0ZG91dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvQ2hlY2twb2ludC5oPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENIRUNLUE9JTlQK</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50ZigiU3VyZmFjZVRhZ0ZpbHRlciBjb25zdHJ1Y3RvcigpXG4iKTsgZmZsdXNoKHN0ZG91dCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENIRUNLUE9JTlQK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvQ2hlY2twb2ludC5oPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local_rows</last-search>
+      <last-search>good</last-search>
       <last-offset />
-      <last-pattern>local_rows</last-pattern>
+      <last-pattern>good</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5010,7 +5011,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subroutine</entry>
         <entry>sref</entry>
         <entry>source</entry>
         <entry>mesh-unit-length</entry>
@@ -5030,6 +5030,7 @@
         <entry>deq</entry>
         <entry>queue</entry>
         <entry>local_rows</entry>
+        <entry>good</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

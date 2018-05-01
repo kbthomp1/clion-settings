@@ -615,6 +615,9 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" timestamp="1525213446068">
+        <mark key="'" line="175" column="40" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ConservedAndPrimitiveConversions.h" timestamp="1515453058614">
         <mark key="'" line="14" column="59" />
         <mark key="[" line="30" column="42" />
@@ -1463,15 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5283" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5290" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5302" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5309" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5357" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5364" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5384" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5391" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
-      <jump line="5408" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="96" column="28" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="220" column="63" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="56" column="45" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
@@ -1563,6 +1557,15 @@
       <jump line="183" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="63" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="159" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="459" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="268" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="445" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="151" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="177" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="161" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="232" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
+      <jump line="175" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4976,7 +4979,7 @@
         <text>max_jump_over_stencil</text>
       </register>
       <register name="/" type="4">
-        <text>Qold</text>
+        <text>direction</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAibWF4IGp1bXA6ICIgPDwgbWF4X2p1bXBfb3Zlcl9zdGVuY2lsIDw8IHN0ZDo6ZW5kbDsK</text>
@@ -5022,9 +5025,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Qold</last-search>
+      <last-search>direction</last-search>
       <last-offset />
-      <last-pattern>Qold</last-pattern>
+      <last-pattern>direction</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5032,8 +5035,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sref_fun</entry>
-        <entry>get</entry>
         <entry>getSc</entry>
         <entry>reynolds</entry>
         <entry>buildSpar</entry>
@@ -5052,6 +5053,8 @@
         <entry>printf</entry>
         <entry>iteration</entry>
         <entry>Qold</entry>
+        <entry>Subsonic</entry>
+        <entry>direction</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

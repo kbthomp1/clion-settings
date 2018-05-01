@@ -562,6 +562,9 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" timestamp="1525210144658">
+        <mark key="'" line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1524866861159">
         <mark key="k" line="481" column="29" />
       </file>
@@ -1408,6 +1411,11 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="77" column="104" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" timestamp="1525210492915">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
         <mark key="[" line="204" column="61" />
@@ -1455,7 +1463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5271" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="5283" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="5290" column="2" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
       <jump line="5302" column="6" filename="$USER_HOME$/one-ring/sfe-plugin/sfe/interface.f90" />
@@ -1555,6 +1562,7 @@
       <jump line="39" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="183" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="63" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="159" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1565,7 +1573,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5pdGVyYXRpb24rKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAibWluIGp1bXA6ICIgPDwgbWluX2p1bXBfb3Zlcl9zdGVuY2lsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -4965,49 +4973,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>max_jump_over_stencil</text>
       </register>
       <register name="/" type="4">
         <text>Qold</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHMtPml0ZXJhdGlvbisrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAibWF4IGp1bXA6ICIgPDwgbWF4X2p1bXBfb3Zlcl9zdGVuY2lsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5pdGVyYXRpb24rKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAibWluIGp1bXA6ICIgPDwgbWluX2p1bXBfb3Zlcl9zdGVuY2lsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiY29tcHV0aW5nIHRpbWUgc3RlcFxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7CiAgICAgICAgICAgIHN0ZDo6Y291dCA8PCAibWF4IGp1bXA6ICIgPDwgbWF4X2p1bXBfb3Zlcl9zdGVuY2lsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInVubGltaXRlZCBqdW1wOiAiIDw8IHVubGltaXRlZF9qdW1wIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gZWRnZV9taWRwb2ludCA9IHsxLjAsIDAuMCwgMC4wfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ1bmxpbWl0ZWQganVtcDogIiA8PCB1bmxpbWl0ZWRfanVtcCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlZGdlX21pZHBvaW50X3ZlY3RvciA9IDAuNSAqIGVkZ2VfdmVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGRxbSA9IHFfZmFjZSAtIHFfbm9kZTsKICAgICAgICBkb3VibGUgZmFjZV9hdF9oYWxmX2VkZ2UgPSAwLjU7CiAgICAgICAgcmV0dXJuIGZhY2VfYXRfaGFsZl9lZGdlICogKGRxbSAvIGRxcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGRxbSA9IHFfZmFjZSAtIHFfbm9kZTsKICAgICAgICBkb3VibGUgZmFjZV9hdF9oYWxmX2VkZ2UgPSAwLjU7CiAgICAgICAgcmV0dXJuIGZhY2VfYXRfaGFsZl9lZGdlICogKGRxbSAvIGRxcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzLT5pdGVyYXRpb24rKzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBQYXJmYWl0OjpQb2ludDxkb3VibGU+ICZlZGdlX21pZHBvaW50X3ZlY3Rvcikgewo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiY29tcHV0aW5nIHRpbWUgc3RlcFxuIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

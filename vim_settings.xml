@@ -499,11 +499,12 @@
         <mark key="." line="90" column="72" />
         <mark key="^" line="90" column="72" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1522359976907">
-        <mark key="[" line="136" column="85" />
-        <mark key="]" line="129" column="51" />
-        <mark key="^" line="129" column="51" />
-        <mark key="." line="129" column="51" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1525286096550">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="246" column="70" />
+        <mark key="]" line="246" column="80" />
+        <mark key="^" line="246" column="80" />
+        <mark key="." line="246" column="80" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait/parfait/CGNSElements.h" timestamp="1523486515198">
         <mark key="[" line="197" column="11" />
@@ -557,12 +558,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" timestamp="1525274089682">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" timestamp="1525288428346">
         <mark key="'" line="75" column="14" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="35" column="70" />
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="46" />
+        <mark key="." line="77" column="46" />
+        <mark key="^" line="77" column="46" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" timestamp="1522971872390">
         <mark key="'" line="38" column="0" />
@@ -585,15 +586,12 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" timestamp="1525284392504">
-        <mark key="'" line="106" column="63" />
-        <mark key="[" line="112" column="15" />
-        <mark key="]" line="112" column="20" />
-        <mark key="." line="112" column="20" />
-        <mark key="^" line="112" column="20" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1524866861159">
-        <mark key="k" line="481" column="29" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" timestamp="1525288134416">
+        <mark key="'" line="134" column="37" />
+        <mark key="[" line="93" column="28" />
+        <mark key="]" line="93" column="28" />
+        <mark key="." line="93" column="28" />
+        <mark key="^" line="93" column="28" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
@@ -1538,9 +1536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
-      <jump line="354" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="175" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="49" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="164" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="181" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1638,6 +1633,9 @@
       <jump line="217" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="237" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="34" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="175" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="155" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="129" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1648,7 +1646,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>temperature_index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5048,40 +5046,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>temperature_index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>valid_step</text>
+        <text>node_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUIHRlbXBlcmF0dXJlID0gUVtub2RlX2lkXVt0ZW1wZXJhdHVyZV9pbmRleF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ0ZW1wZXJhdHVyZSBzb3VyY2UgZW5nYWdlZCBhdCBub2RlOiAlZVxuIiwgdGVtcGVyYXR1cmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVwZGF0ZV9yZWxheGF0aW9uX3RvbGVyYW5jZShzZXR0aW5ncy5hdCgibm9ubGluZWFyIHNvbHZlciBzZXR0aW5ncyIpLmF0KCJ1cGRhdGUgcmVsYXhhdGlvbiB0b2xlcmFuY2UiKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSB1cGRhdGVfcmVsYXhhdGlvbl90b2xlcmFuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVwZGF0ZV9yZWxheGF0aW9uX3RvbGVyYW5jZShzZXR0aW5ncy5hdCgibm9ubGluZWFyIHNvbHZlciBzZXR0aW5ncyIpLmF0KCJ1cGRhdGUgcmVsYXhhdGlvbiB0b2xlcmFuY2UiKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSB1cGRhdGVfcmVsYXhhdGlvbl90b2xlcmFuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBhY2NlcHRhYmxlX3JlbGF4YXRpb25fdG9sZXJhbmNlID0gMC4wMjsKICAgIGRvdWJsZSBpbnZhbGlkX2RlbnNpdHlfdXBkYXRlID0gZGVuc2l0eSAvIGFjY2VwdGFibGVfcmVsYXhhdGlvbl90b2xlcmFuY2UgKyAxLjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIHNvdXJjZSA9IDEwMDAqcG93KCgxLjBlLTYtdGVtcGVyYXR1cmUpXjMsIDMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVsxXSA9IHtpbnZhbGlkX2RlbnNpdHlfdXBkYXRlLCAwLjEsIDAuMiwgMC4zLCAwLjV9Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -5090,16 +5088,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBkZW5zaXR5ID0gCg==</text>
+        <text encoding="base64">ICAgIC8vIFNldCBwcmVzc3VyZSB0byBjYXVzZSB1bnJlYWxpemFibGUgcmVjb25zdHJ1Y3Rpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>valid_step</last-search>
+      <last-search>node_id</last-search>
       <last-offset />
-      <last-pattern>valid_step</last-pattern>
+      <last-pattern>node_id</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5107,7 +5105,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Qold</entry>
         <entry>Subsonic</entry>
         <entry>direction</entry>
         <entry>Rel</entry>
@@ -5127,6 +5124,7 @@
         <entry>is_valid_step</entry>
         <entry>time_in</entry>
         <entry>valid_step</entry>
+        <entry>node_id</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

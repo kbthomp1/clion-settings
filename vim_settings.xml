@@ -800,12 +800,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1525293864447">
-        <mark key="'" line="204" column="8" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="39" />
-        <mark key="." line="34" column="39" />
-        <mark key="^" line="34" column="39" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1525352216219">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="241" column="8" />
+        <mark key="]" line="241" column="25" />
+        <mark key="." line="241" column="25" />
+        <mark key="^" line="241" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1525270731290">
         <mark key="[" line="12" column="19" />
@@ -1531,7 +1531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="39" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="183" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="63" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1631,6 +1630,7 @@
       <jump line="159" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="188" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="203" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="146" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1641,7 +1641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>updateResidualNorm</text>
+        <text>SNESConvergedDefault</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5041,13 +5041,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>updateResidualNorm</text>
+        <text>SNESConvergedDefault</text>
       </register>
       <register name="/" type="4">
-        <text>Conver</text>
+        <text>CONVER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMtPnRpbWVfaW50ZWdyYXRvci51cGRhdGVSZXNpZHVhbE5vcm0ocmVzaWR1YWxfbDJfbm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTTkVTQ29udmVyZ2VkRGVmYXVsdChzbmVzLCBpdGVyYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc29sdXRpb25fbDJfbm9ybSwgdXBkYXRlX2wyX25vcm0sIHJlc2lkdWFsX2wyX25vcm0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVyZ2VuY2VfcmVhc29uLCBzb2x2ZXJfZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHMtPgo=</text>
@@ -5090,9 +5090,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Conver</last-search>
+      <last-search>CONVER</last-search>
       <last-offset />
-      <last-pattern>Conver</last-pattern>
+      <last-pattern>CONVER</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5100,8 +5100,6 @@
     </search>
     <history>
       <history-search>
-        <entry>direction</entry>
-        <entry>Rel</entry>
         <entry>Re</entry>
         <entry>math</entry>
         <entry>thermo</entry>
@@ -5120,6 +5118,8 @@
         <entry>node_id</entry>
         <entry>valid_step</entry>
         <entry>Conver</entry>
+        <entry>valid step</entry>
+        <entry>CONVER</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

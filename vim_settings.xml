@@ -568,6 +568,12 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EigenvalueLimitingTests.cpp" timestamp="1525461606711">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="36" column="40" />
@@ -1641,7 +1647,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SNESConvergedDefault</text>
+        <text>REQUIRE_FALSE()</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5041,7 +5047,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNESConvergedDefault</text>
+        <text>REQUIRE_FALSE()</text>
       </register>
       <register name="/" type="4">
         <text>CONVER</text>

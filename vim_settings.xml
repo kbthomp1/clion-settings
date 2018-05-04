@@ -545,6 +545,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" timestamp="1525463923650">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="69" column="82" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1523659774393">
         <mark key="'" line="168" column="11" />
         <mark key="[" line="32" column="39" />
@@ -568,11 +574,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/EigenvalueLimitingTests.cpp" timestamp="1525461606711">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EigenvalueLimitingTests.cpp" timestamp="1525462988760">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
@@ -759,8 +765,8 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1525273405353">
-        <mark key="'" line="92" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1525463059132">
+        <mark key="'" line="67" column="16" />
         <mark key="[" line="100" column="27" />
         <mark key="]" line="100" column="26" />
         <mark key="." line="100" column="26" />
@@ -1485,7 +1491,8 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="77" column="104" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" timestamp="1525210492915">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" timestamp="1525463937800">
+        <mark key="'" line="131" column="13" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
@@ -1537,10 +1544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="183" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="63" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="159" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
       <jump line="459" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
       <jump line="268" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
       <jump line="445" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
@@ -1637,6 +1640,10 @@
       <jump line="188" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="203" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="146" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="93" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
+      <jump line="76" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
+      <jump line="67" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
+      <jump line="131" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1646,8 +1653,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>REQUIRE_FALSE()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5047,58 +5054,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>REQUIRE_FALSE()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>CONVER</text>
+        <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTTkVTQ29udmVyZ2VkRGVmYXVsdChzbmVzLCBpdGVyYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc29sdXRpb25fbDJfbm9ybSwgdXBkYXRlX2wyX25vcm0sIHJlc2lkdWFsX2wyX25vcm0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udmVyZ2VuY2VfcmVhc29uLCBzb2x2ZXJfZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlaWdfbGltaXRzWzBdID0gbWF4KDAsIGVpZ1swXSAtICh1YmFyX2ZzbCArIGNsKSwgKHViYXJfZnNyICsgY3IpIC0gZWlnWzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgbWFya09rVXBkYXRlKCkgewogICAgICAgIGNmbF9jb250cm9sbGVyLmFjY2VwdFVwZGF0ZSgpOwogICAgICAgIGNmbCA9IGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlaWdfbGltaXRzWzFdID0gdWJhcl9mcyAtIGM7CiAgICAgICAgZWlnX2xpbWl0c1syXSA9IHViYXJfZnM7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlaWdsWzBdID0gdWJhcl9mc2wgKyBjbAogICAgICAgIGVpZ2xbMV0gPSB1YmFyX2ZzbCAtIGNsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbnRyb2xsZXJTdGF0dXMgYWNjZXB0T2theVVwZGF0ZShkb3VibGUgbm9ybSl7CiAgICAgICAgbGFzdF9ub3JtID0gbm9ybTsKICAgICAgICByZXR1cm4ge3RydWUsIGN1cnJlbnRDRkwoKX07CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHMtPnZhbGlkX3N0ZXAgPSAodXBkYXRlX3JlbGF4YXRpb24gPiAwLjApOwo=</text>
+        <text encoding="base64">ICAgIGVpZ19saW1pdHNbMF0gPSBtYXhlaWdbMF0gCiAgICBlaWdfbGltaXRzWzFdID0gdWJhcl9mcyAtIGM7CiAgICBlaWdfbGltaXRzWzJdID0gdWJhcl9mczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbGlkX3N0ZXAodHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgbWFya09rVXBkYXRlKCkgewogICAgICAgIGNmbF9jb250cm9sbGVyLmFjY2VwdFVwZGF0ZSgpOwogICAgICAgIGNmbCA9IGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMtPnZhbGlkX3N0ZXAgPSAodXBkYXRlX3JlbGF4YXRpb24gPiAwLjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIENvbnRyb2xsZXJTdGF0dXMgYWNjZXB0T2theVVwZGF0ZShkb3VibGUgbm9ybSl7CiAgICAgICAgbGFzdF9ub3JtID0gbm9ybTsKICAgICAgICByZXR1cm4ge3RydWUsIGN1cnJlbnRDRkwoKX07CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>CONVER</last-search>
+      <last-search>max</last-search>
       <last-offset />
-      <last-pattern>CONVER</last-pattern>
+      <last-pattern>max</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5106,7 +5113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Re</entry>
         <entry>math</entry>
         <entry>thermo</entry>
         <entry>isnan</entry>
@@ -5126,6 +5132,7 @@
         <entry>Conver</entry>
         <entry>valid step</entry>
         <entry>CONVER</entry>
+        <entry>max</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

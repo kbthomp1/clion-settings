@@ -1374,12 +1374,12 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525728138033">
-        <mark key="'" line="213" column="16" />
-        <mark key="[" line="693" column="64" />
-        <mark key="]" line="693" column="75" />
-        <mark key="^" line="693" column="75" />
-        <mark key="." line="693" column="75" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525730685433">
+        <mark key="'" line="648" column="0" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="180" column="19" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
@@ -1538,7 +1538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="82" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="86" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="87" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
@@ -1638,6 +1637,7 @@
       <jump line="529" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="190" column="71" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="165" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="648" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1647,8 +1647,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>nondimensionalizeQ(q_interior, nondim);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoInN1cGVyc29uaWMgZmxvdyBkZXRlY3RlZFxuIik7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5048,58 +5048,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nondimensionalizeQ(q_interior, nondim);</text>
+        <text>0.0;</text>
       </register>
       <register name="/" type="4">
-        <text>total</text>
+        <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIlN1YnNvbmljIEZsb3ciKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxX2V4dFszXSA9IDAuMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoInN1cGVyc29uaWMgZmxvdyBkZXRlY3RlZFxuIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBhdXRvIG5vbmRpbSA9IGdldE5vbmRpbWVuc2lvbmFsaXphdGlvbigpOwogICAgYXV0byB0aGVybW8gPSBnZXRUaGVybW9keW5hbWljcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjUpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goNTAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KDUwNjYyLjUpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBnYW1tYSA9IHRoZXJtb2R5bmFtaWNzLmdldEdhbW1hKCk7CiAgICAgICAgICAgICAgICBkb3VibGUgZ20xID0gZ2FtbWEgLSAxLjA7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjEpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goMTIwMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KDAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzNdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goMTkzNDk4LikgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjUpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goNTAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KDUwNjYyLjUpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgcm1pbnVzID0gZmFicyh1bm9ybWkpIC0gKDIuMCAqIGFpKSAvIGdtMTsgIC8vIG91dGdvaW5nIGludmFyaWFudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuIG1wbWRvaWRkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgdW5vcm1pID0gdV9pbnRlcmlvciAqIGZhY2Vfbm9ybWFsWzBdICsgdl9pbnRlcmlvciAqIGZhY2Vfbm9ybWFsWzFdICsgd19pbnRlcmlvciAqIGZhY2Vfbm9ybWFsWzJdOyAvLyAtIGZhY2Vfc3BlZWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJTkZPKCJSZXZlcnNlIEZsb3ciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTkZPKCJTdXBlcnNvbmljIEZsb3ciKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIlN1cGVyc29uaWMgZmxvdyBkZXRlY3RlZCBhdCBwbGVudW0hXG4iKTsKICAgICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>total</last-search>
+      <last-search>printf</last-search>
       <last-offset />
-      <last-pattern>total</last-pattern>
+      <last-pattern>printf</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5107,7 +5107,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CONVER</entry>
         <entry>max</entry>
         <entry>Total</entry>
         <entry>qc</entry>
@@ -5127,6 +5126,7 @@
         <entry>q_ext</entry>
         <entry>calcE.*nondim</entry>
         <entry>total</entry>
+        <entry>printf</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

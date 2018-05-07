@@ -66,7 +66,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="/LLDB" timestamp="1525700477010">
+      <file name="/LLDB" timestamp="1525718270763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1524257785680">
@@ -306,12 +306,12 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1525700460282">
-        <mark key="'" line="296" column="23" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="286" column="100" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1525718266120">
+        <mark key="'" line="326" column="23" />
+        <mark key="[" line="158" column="41" />
+        <mark key="]" line="158" column="42" />
+        <mark key="^" line="158" column="42" />
+        <mark key="." line="158" column="42" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/CellIdFilter.cpp" timestamp="1524698426369">
         <mark key="[" line="1" column="0" />
@@ -1387,8 +1387,8 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525716394015">
-        <mark key="'" line="191" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525718311578">
+        <mark key="'" line="259" column="18" />
         <mark key="[" line="190" column="44" />
         <mark key="]" line="190" column="59" />
         <mark key="." line="190" column="59" />
@@ -1551,9 +1551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
-      <jump line="35" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="15" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
       <jump line="5" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
       <jump line="3" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
       <jump line="33" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
@@ -1651,6 +1648,9 @@
       <jump line="188" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="190" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="191" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="182" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="185" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="259" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1661,7 +1661,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5064,55 +5064,55 @@
         <text>pressure_interior</text>
       </register>
       <register name="/" type="4">
-        <text>qc</text>
+        <text>unormi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oImJyYW5jaCAyIil7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTRUNUSU9OKCJicmFuY2ggMiIpewo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsKICAgICAgICAgICAgICAgIHByaW50ZigidmFsdWU6ICVlIGxpbWl0OiAlZVxuIiwgZWlnZW52YWx1ZSwgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFoYXJ0ZW4gPSAwLjUgKiAoZWlnZW52YWx1ZSAqIGVpZ2VudmFsdWUgLyBlaWdlbnZhbHVlX2xpbWl0ICsgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgNTAuLCAwLjAsIDAuMCwgMTAxMzI1LjB9OwogICAgc3RkOjphcnJheTxkb3VibGUsIDM+IGZhY2Vfbm9ybWFsID0gey0xLjAsIDAuMCwgMC4wfTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX3NwZWVkID0gezAuMCwgMC4wLCAwLjB9OwogICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIDM+IHh5eiA9IHswLDAsMH07CiAgICBjb25zdCBkb3VibGUgdGltZSA9IDA7CgogICAgYXV0byBxX2V4dCA9IHN1YnNvbmljSW5mbG93LT5jYWxjRXh0ZXJpb3JTdGF0ZShxX2ludGVyaW9yLCB4eXosIHRpbWUsIGZhY2Vfbm9ybWFsLCBmYWNlX3NwZWVkICk7CiAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgyLjMzMjYxKSApOwogICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goNTAuMCkgKTsKICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KDAuMCkgKTsKICAgIFJFUVVJUkUocV9leHRbM10gPT0gQXBwcm94KDAuMCkgKTsKICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KDIwMDE3MCkgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ampHCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsKICAgICAgICAgICAgICAgIHByaW50ZigidmFsdWU6ICVlIGxpbWl0OiAlZVxuIiwgZWlnZW52YWx1ZSwgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5xYQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>qc</last-search>
+      <last-search>unormi</last-search>
       <last-offset />
-      <last-pattern>qc</last-pattern>
+      <last-pattern>unormi</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5120,7 +5120,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cpp</entry>
         <entry>cpp</entry>
         <entry>Thermo</entry>
         <entry>calculateUpdate</entry>
@@ -5140,6 +5139,7 @@
         <entry>Total</entry>
         <entry>ht</entry>
         <entry>qc</entry>
+        <entry>unormi</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

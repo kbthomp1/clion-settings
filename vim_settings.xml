@@ -66,7 +66,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="/LLDB" timestamp="1525274927055">
+      <file name="/LLDB" timestamp="1525700477010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1524257785680">
@@ -306,12 +306,12 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1520519433909">
-        <mark key="'" line="297" column="23" />
-        <mark key="[" line="287" column="89" />
-        <mark key="]" line="287" column="100" />
-        <mark key="." line="287" column="100" />
-        <mark key="^" line="287" column="100" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1525700460282">
+        <mark key="'" line="296" column="23" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="286" column="100" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/CellIdFilter.cpp" timestamp="1524698426369">
         <mark key="[" line="1" column="0" />
@@ -508,7 +508,6 @@
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
-        <mark key="^" line="178" column="3" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait/parfait/CGNSElements.h" timestamp="1523486515198">
         <mark key="[" line="197" column="11" />
@@ -548,12 +547,6 @@
         <mark key="]" line="4" column="24" />
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" timestamp="1525698565491">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1523659774393">
         <mark key="'" line="168" column="11" />
@@ -1091,12 +1084,6 @@
         <mark key="." line="23" column="82" />
         <mark key="^" line="23" column="82" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EigenvalueLimiting.h" timestamp="1525698675343">
-        <mark key="[" line="14" column="95" />
-        <mark key="]" line="14" column="93" />
-        <mark key="^" line="14" column="93" />
-        <mark key="." line="14" column="93" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1501618565135">
         <mark key="'" line="282" column="0" />
         <mark key="[" line="1" column="0" />
@@ -1400,6 +1387,13 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525700299095">
+        <mark key="'" line="191" column="32" />
+        <mark key="[" line="190" column="44" />
+        <mark key="]" line="190" column="59" />
+        <mark key="." line="190" column="59" />
+        <mark key="^" line="190" column="59" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="195" column="79" />
@@ -1557,11 +1551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
-      <jump line="161" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
-      <jump line="232" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
-      <jump line="175" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" />
-      <jump line="100" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="41" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
       <jump line="35" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
       <jump line="15" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" />
@@ -1657,6 +1646,11 @@
       <jump line="237" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="244" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="191" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="186" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="188" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="190" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="191" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1666,8 +1660,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0.5 * (</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5067,58 +5061,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.5 * (</text>
+        <text>pressure_interior</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>qc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsKICAgICAgICAgICAgICAgIHByaW50ZigidmFsdWU6ICVlIGxpbWl0OiAlZVxuIiwgZWlnZW52YWx1ZSwgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsKICAgICAgICAgICAgICAgIHByaW50ZigidmFsdWU6ICVlIGxpbWl0OiAlZVxuIiwgZWlnZW52YWx1ZSwgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFoYXJ0ZW4gPSAwLjUgKiAoZWlnZW52YWx1ZSAqIGVpZ2VudmFsdWUgLyBlaWdlbnZhbHVlX2xpbWl0ICsgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFoYXJ0ZW4gPSAwLjUgKiAoZWlnZW52YWx1ZSAqIGVpZ2VudmFsdWUgLyBlaWdlbnZhbHVlX2xpbWl0ICsgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ampHCg==</text>
+        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ampHCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text encoding="base64">JzwsJz5xYQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>qc</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>qc</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5126,9 +5120,6 @@
     </search>
     <history>
       <history-search>
-        <entry>math</entry>
-        <entry>thermo</entry>
-        <entry>isnan</entry>
         <entry>Cpp</entry>
         <entry>cpp</entry>
         <entry>Thermo</entry>
@@ -5146,6 +5137,9 @@
         <entry>valid step</entry>
         <entry>CONVER</entry>
         <entry>max</entry>
+        <entry>Total</entry>
+        <entry>ht</entry>
+        <entry>qc</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -5165,9 +5159,9 @@
         <entry>wq</entry>
         <entry>vs[</entry>
         <entry>vsp</entry>
-        <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>w</entry>
         <entry>qa</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />

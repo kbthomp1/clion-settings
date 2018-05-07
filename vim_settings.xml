@@ -66,7 +66,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="/LLDB" timestamp="1525719600951">
+      <file name="/LLDB" timestamp="1525728063799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1524257785680">
@@ -212,11 +212,6 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.h" timestamp="1525275868025">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1521829658242">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="540" column="39" />
@@ -306,16 +301,13 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1525724196221">
-        <mark key="[" line="176" column="123" />
-        <mark key="]" line="176" column="123" />
-        <mark key="^" line="176" column="86" />
-        <mark key="." line="176" column="123" />
-      </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/src/CellIdFilter.cpp" timestamp="1524698426369">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1525728979379">
+        <mark key="'" line="165" column="35" />
+        <mark key="k" line="494" column="0" />
+        <mark key="[" line="191" column="24" />
+        <mark key="]" line="191" column="34" />
+        <mark key="^" line="191" column="34" />
+        <mark key="." line="191" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
@@ -745,7 +737,7 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525275585319">
+      <file name="/Dummy.txt" timestamp="1525728194792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/main.f90" timestamp="1500466562288">
@@ -1045,11 +1037,6 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/one-ring/t_infinity/src/SurfaceTagFilter.h" timestamp="1524698850522">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
         <mark key="'" line="11" column="21" />
         <mark key="[" line="11" column="28" />
@@ -1338,6 +1325,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1525725425806" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1524055609202">
         <mark key="'" line="37" column="45" />
         <mark key="[" line="70" column="0" />
@@ -1386,12 +1374,12 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525723573692">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="^" line="215" column="95" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1525728138033">
+        <mark key="'" line="213" column="16" />
+        <mark key="[" line="693" column="64" />
+        <mark key="]" line="693" column="75" />
+        <mark key="^" line="693" column="75" />
+        <mark key="." line="693" column="75" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
@@ -1550,33 +1538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
-      <jump line="102" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
-      <jump line="104" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
-      <jump line="106" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
-      <jump line="43" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="4" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="32" column="91" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="68" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
-      <jump line="99" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
-      <jump line="91" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
-      <jump line="6" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="14" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="15" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/RelizabilityController.h" />
-      <jump line="1" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="21" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="22" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="25" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="26" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="27" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
-      <jump line="48" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="8" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="58" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="75" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
-      <jump line="26" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/RelizabilityControllerTests.cpp" />
-      <jump line="127" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="130" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="82" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="86" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
@@ -1650,6 +1611,33 @@
       <jump line="215" column="90" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="177" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="159" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="227" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="166" column="43" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="54" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="258" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="772" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="59" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="446" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="478" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="130" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="136" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="184" column="48" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="185" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="196" column="48" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="487" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="412" column="44" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="168" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="210" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="211" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="212" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="214" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="240" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="369" column="31" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="529" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="190" column="71" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="165" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1660,7 +1648,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nondimensionalizeQ(q_interior, nondim);</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5060,60 +5048,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nondimensionalizeQ(q_interior, nondim);</text>
       </register>
       <register name="/" type="4">
-        <text>xgm1</text>
+        <text>total</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHFbM10gPSBub25kaW0ubm9uZGltZW5zaW9uYWxTcGVlZChkaW1lbnNpb25hbF9xWzNdKTsK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oIlN1YnNvbmljIEZsb3ciKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBnYW1tYSA9IDEuNDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIFJFUVVJUkUocV9leHRbMF0gPT0gQXBwcm94KDAuNSkgKTsKICAgIFJFUVVJUkUocV9leHRbMV0gPT0gQXBwcm94KDUwLjApICk7CiAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveCgwLjApICk7CiAgICBSRVFVSVJFKHFfZXh0WzNdID09IEFwcHJveCgwLjApICk7CiAgICBSRVFVSVJFKHFfZXh0WzRdID09IEFwcHJveCg1MDY2Mi41KSApOwo=</text>
+        <text encoding="base64">CiAgICBhdXRvIG5vbmRpbSA9IGdldE5vbmRpbWVuc2lvbmFsaXphdGlvbigpOwogICAgYXV0byB0aGVybW8gPSBnZXRUaGVybW9keW5hbWljcygpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSB4Z20xZyA9IGdhbW1hIC8gKGdhbW1hIC0gMS4wKTsK</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjUpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goNTAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KDUwNjYyLjUpICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSB4Z20xZyA9IGdhbW1hIC8gKGdhbW1hIC0gMS4wKTsK</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjEpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goMTIwMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KDAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzNdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goMTkzNDk4LikgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBwX3RvdGFsID0gdG90YWxfcHJlc3N1cmVfcGxlbnVtOwogICAgICAgICAgICAgICAgZG91YmxlIHRfdG90YWwgPSB0b3RhbF90ZW1wZXJhdHVyZV9wbGVudW07Cgo=</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveCgwLjUpICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goNTAuMCkgKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveCgwLjApICk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goMC4wKSApOwogICAgICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KDUwNjYyLjUpICk7Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>)
-)
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuIG1wbWRvaWRkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJTkZPKCJSZXZlcnNlIEZsb3ciKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgMzAwLjAsIDAuMCwgMC4wLCAxMDEzMjUuMH07CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9ub3JtYWwgPSB7LTEuMCwgMC4wLCAwLjB9OwogICAgc3RkOjphcnJheTxkb3VibGUsIDM+IGZhY2Vfc3BlZWQgPSB7MC4wLCAwLjAsIDAuMH07CiAgICBjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgMz4geHl6ID0gezAsMCwwfTsKICAgIGNvbnN0IGRvdWJsZSB0aW1lID0gMDsKCiAgICBhdXRvIHFfZXh0ID0gc3Vic29uaWNJbmZsb3ctPmNhbGNFeHRlcmlvclN0YXRlKHFfaW50ZXJpb3IsIHh5eiwgdGltZSwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQgKTsKICAgIFJFUVVJUkUocV9leHRbMF0gPT0gQXBwcm94KDEuNzQ1NjU4NjM2NykgKTsKICAgIFJFUVVJUkUocV9leHRbMV0gPT0gQXBwcm94KDMwMC4wKSApOwogICAgUkVRVUlSRShxX2V4dFsyXSA9PSBBcHByb3goMC4wKSApOwogICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goMC4wKSApOwogICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goMTMzNDAxLjYxNTYpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJTkZPKCJTdXBlcnNvbmljIEZsb3ciKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBwX3RvdGFsID0gdG90YWxfcHJlc3N1cmVfcGxlbnVtOwogICAgICAgICAgICAgICAgZG91YmxlIHRfdG90YWwgPSB0b3RhbF90ZW1wZXJhdHVyZV9wbGVudW07Cgo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5xYQ==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>xgm1</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>xgm1</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5121,17 +5107,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lineSearch</entry>
-        <entry>line_status</entry>
-        <entry>settings</entry>
-        <entry>relax</entry>
-        <entry>cfl</entry>
-        <entry>is_valid_step</entry>
-        <entry>time_in</entry>
-        <entry>node_id</entry>
-        <entry>valid_step</entry>
-        <entry>Conver</entry>
-        <entry>valid step</entry>
         <entry>CONVER</entry>
         <entry>max</entry>
         <entry>Total</entry>
@@ -5141,6 +5116,17 @@
         <entry>ai</entry>
         <entry>p_total</entry>
         <entry>xgm1</entry>
+        <entry>calcSpeed</entry>
+        <entry>Dirch</entry>
+        <entry>Dir</entry>
+        <entry>Back</entry>
+        <entry>for</entry>
+        <entry>Fixed</entry>
+        <entry>expected</entry>
+        <entry>time</entry>
+        <entry>q_ext</entry>
+        <entry>calcE.*nondim</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -5160,9 +5146,9 @@
         <entry>wq</entry>
         <entry>vs[</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -578,11 +578,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/EigenvalueLimitingTests.cpp" timestamp="1525462988760">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EigenvalueLimitingTests.cpp" timestamp="1525695374151">
         <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
@@ -1091,11 +1091,11 @@
         <mark key="." line="23" column="82" />
         <mark key="^" line="23" column="82" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EigenvalueLimiting.h" timestamp="1525464774539">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EigenvalueLimiting.h" timestamp="1525695947499">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="12" column="52" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1501618565135">
         <mark key="'" line="282" column="0" />
@@ -1666,8 +1666,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>eigenvalue</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5067,53 +5067,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>eigenvalue</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFic2VpZ1swXSA9IEhTOjpFaWdlbnZhbHVlTGltaXRpbmc6OmhhcnRlbihlaWdbMF0sIGVpZ19saW1pdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ampHCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiRWlnZW52YWx1ZSBsaW1pdGluZyBlbmdhZ2VkXG4iKTsKICAgICAgICAgICAgICAgIHByaW50ZigidmFsdWU6ICVlIGxpbWl0OiAlZVxuIiwgZWlnZW52YWx1ZSwgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFoYXJ0ZW4gPSAwLjUgKiAoZWlnZW52YWx1ZSAqIGVpZ2VudmFsdWUgLyBlaWdlbnZhbHVlX2xpbWl0ICsgZWlnZW52YWx1ZV9saW1pdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGludGVyaW9yX2phY29iaWFuX3Rlc3Rlci5wcmludEphY29iaWFucygpOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">emVybywgCnplcm8sIAp6ZXJvLCA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ampHCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PFQsIDM+IGVpZ2w7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>0.0
-0.0
-0.0</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>0
-0
-0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

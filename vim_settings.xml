@@ -1106,7 +1106,7 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1525813242620">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1525816245290">
         <mark key="'" line="222" column="32" />
         <mark key="[" line="223" column="8" />
         <mark key="]" line="223" column="13" />
@@ -1340,7 +1340,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1525725425806" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1525815834889">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1524055609202">
         <mark key="'" line="37" column="45" />
         <mark key="[" line="70" column="0" />
@@ -1663,7 +1668,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>avogadros_number * boltzmann_constant</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5063,13 +5068,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>avogadros_number * boltzmann_constant</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIGRvdWJsZSBIUzo6VGhlcm1vU3RhdGU6OmNhbGNTcGVlZE9mU291bmQoZG91YmxlLCBkb3VibGUpIGNvbnN0Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0ZXhwciBkb3VibGUgaWRlYWxfZ2FzX2NvbnN0YW50X21rcyA9IGF2b2dhZHJvc19udW1iZXIgKiBib2x0em1hbm5fY29uc3RhbnQ7IC8vIFtKXS9ba2ddLVtLXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRvdWJsZSBzcGVlZF9vZl9zb3VuZCA9IHN0ZDo6c3FydChnYW1tYSAqIEhTOjppZGVhbF9nYXNfY29uc3RhbnRfbWtzICogdGVtcGVyYXR1cmUpOwo=</text>

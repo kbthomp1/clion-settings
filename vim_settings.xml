@@ -588,6 +588,12 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1525810377142">
+        <mark key="[" line="351" column="46" />
+        <mark key="]" line="351" column="50" />
+        <mark key="^" line="351" column="50" />
+        <mark key="." line="351" column="50" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
         <mark key="[" line="54" column="0" />
@@ -1339,9 +1345,9 @@
         <mark key="^" line="37" column="110" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1525783233178">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="68" column="31" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1525810043224">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
         <mark key="^" line="69" column="27" />
         <mark key="." line="69" column="27" />
@@ -1654,7 +1660,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>v = std::max()</text>
+        <text>speed_of_sound</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5054,7 +5060,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v = std::max()</text>
+        <text>speed_of_sound</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
@@ -5063,40 +5069,40 @@
         <text encoding="base64">ICAgIHRlbXBsYXRlIGRvdWJsZSBIUzo6VGhlcm1vU3RhdGU6OmNhbGNTcGVlZE9mU291bmQoZG91YmxlLCBkb3VibGUpIGNvbnN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzcGVlZF9vZl9zb3VuZCA9IHN0ZDo6c3FydChnYW1tYSAqIEhTOjppZGVhbF9nYXNfY29uc3RhbnRfbWtzICogdGVtcGVyYXR1cmUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnByaW50ZihmcCwgIlRoaXMgaXMgdGVzdGluZyBmb3IgZnByaW50Zi4uLlxuIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKGZwLCAiVGhpcyBpcyB0ZXN0aW5nIGZvciBmcHJpbnRmLi4uXG4iKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IC0wLjUqcV9pbnRlcmlvclsxXTsKIC0wLjUqcV9pbnRlcmlvclsyXTsKIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmY2xvc2UoZnApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IFQgJmRlbnNpdHlfaW50ZXJpb3IgPSBxX2ludGVyaW9yWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBmcHV0cygiVGhpcyBpcyB0ZXN0aW5nIGZvciBmcHV0cy4uLlxuIiwgZnApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcV9leHQgPSBxX2ludGVyaW9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByb2VJbnZpc2NpZEZsdXgocV9pbnRlcmlvciwgcV9leHRlcmlvciwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQsIHRoZXJtb2R5bmFtaWNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQgdW1hZyA9IHNxcnQodW1hZ19zcSk7CiAgICAgICAgICAgICAgICBUIG1hY2hfaW50ZXJpb3IgPSB1bWFnIC8gYWk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtYWNoX2ludGVyaW9yIDwgMS4wKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

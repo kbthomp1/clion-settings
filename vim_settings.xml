@@ -820,8 +820,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1526496302283">
-        <mark key="'" line="356" column="4" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1526930585354">
+        <mark key="'" line="55" column="4" />
         <mark key="[" line="171" column="41" />
         <mark key="k" line="80" column="27" />
         <mark key="]" line="172" column="45" />
@@ -1569,9 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="198" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="205" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="12" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="24" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="52" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1669,6 +1666,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="80" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="356" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="77" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="235" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="55" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5082,7 +5082,7 @@
         <text encoding="base64">IC8vIEluaXRpYWxpemUgdG8gc3RhZ25hbnQgZmxvdw==</text>
       </register>
       <register name="/" type="4">
-        <text>linear_solve</text>
+        <text>SNESCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUoZWlnZW52YWx1ZXNbMF0gPT0gQXBwcm94KDEuMCAvIDMuMCkpOwo=</text>
@@ -5128,9 +5128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>linear_solve</last-search>
+      <last-search>SNESCreate</last-search>
       <last-offset />
-      <last-pattern>linear_solve</last-pattern>
+      <last-pattern>SNESCreate</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5138,8 +5138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p_total</entry>
-        <entry>xgm1</entry>
         <entry>calcSpeed</entry>
         <entry>Dirch</entry>
         <entry>Dir</entry>
@@ -5158,6 +5156,8 @@
         <entry>SNES</entry>
         <entry>Residual</entry>
         <entry>linear_solve</entry>
+        <entry>SNESC</entry>
+        <entry>SNESCreate</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

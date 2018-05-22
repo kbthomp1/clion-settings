@@ -822,8 +822,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1526999807006">
-        <mark key="'" line="177" column="51" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1527006509491">
+        <mark key="'" line="129" column="4" />
         <mark key="k" line="79" column="27" />
         <mark key="[" line="177" column="77" />
         <mark key="]" line="177" column="65" />
@@ -1440,11 +1440,11 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/RealizabilityController.h" timestamp="1526999825214">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="20" column="54" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/RealizabilityController.h" timestamp="1527007286828">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/PseudoTimeIntegratorFactory.h" timestamp="1522103384745">
         <mark key="'" line="7" column="13" />
@@ -1577,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
       <jump line="131" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" />
       <jump line="32" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="374" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
@@ -1677,6 +1676,7 @@
       <jump line="64" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="123" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="177" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="129" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,8 +1686,9 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImV4cGVjdGVkIG5vbmRpbTogIik7CiAgICAgICAgZm9yIChhdXRvIHFlIDogZXhwZWN0ZWQpCiAgICAgICAgICAgIHByaW50ZigiJWUgIiwgcWUpOwogICAgICAgIHByaW50ZigiXG4iKTsK</text>
+      <register name="&quot;" type="8">
+        <text>max
+max</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5087,58 +5088,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>density_omega</text>
       </register>
       <register name="/" type="4">
-        <text>solution_update</text>
+        <text>PreCh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gcWkgOiBxX2ludGVyaW9yKQogICAgICAgICAgICBwcmludGYoIiVlICIsIHFpKTsKICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVsYXggPSBzdGQ6Om1heChkZW5zaXR5X29tZWdhLCByZWxheCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImV4cGVjdGVkIG5vbmRpbTogIik7CiAgICAgICAgZm9yIChhdXRvIHFlIDogZXhwZWN0ZWQpCiAgICAgICAgICAgIHByaW50ZigiJWUgIiwgcWUpOwogICAgICAgIHByaW50ZigiXG4iKTsK</text>
+      <register name="1" type="8">
+        <text>max
+max</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcHQgPSBub25kaW0ubm9uZGltZW5zaW9uYWxQcmVzc3VyZSgyLjAgKiAxMDEzMjUuMCk7CiAgICAgICAgZG91YmxlIHR0ID0gbm9uZGltLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoMzAwLjApOwogICAgICAgIGRvdWJsZSBkZW5zaXR5ID0gdGhlcm1vLmNhbGNEZW5zaXR5KHR0LCBwdCk7CiAgICAgICAgcHJpbnRmKCJwdCA9ICVlXG4iLCBwdCk7CiAgICAgICAgcHJpbnRmKCJ0dCA9ICVlXG4iLCB0dCk7CiAgICAgICAgcHJpbnRmKCJkZW5zaXR5ID0gJWVcbiIsIGRlbnNpdHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gcWkgOiBxX2ludGVyaW9yKQogICAgICAgICAgICBwcmludGYoIiVlICIsIHFpKTsKICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdWzNdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEhTOjpTb2x1dGlvblVwZGF0ZTxULCBOdW1FcW5zPiBkUShsb2NhbF90b19nbG9iYWwuc2l6ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIkknbSBzdXBlcnNvbmljIVxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>solution_update</last-search>
+      <last-search>PreCh</last-search>
       <last-offset />
-      <last-pattern>solution_update</last-pattern>
+      <last-pattern>PreCh</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5146,7 +5148,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcE.*nondim</entry>
         <entry>printf</entry>
         <entry>cell_points</entry>
         <entry>setup</entry>
@@ -5166,6 +5167,7 @@
         <entry>aero</entry>
         <entry>Post</entry>
         <entry>solution_update</entry>
+        <entry>PreCh</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -5186,8 +5188,8 @@
         <entry>vs[</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -46,6 +46,7 @@
         <mark key="." line="86" column="56" />
         <mark key="^" line="86" column="56" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" timestamp="1527003306548" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1520016977880">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -304,13 +305,12 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1527001718805">
-        <mark key="'" line="275" column="4" />
-        <mark key="k" line="497" column="0" />
-        <mark key="[" line="156" column="30" />
-        <mark key="]" line="157" column="20" />
-        <mark key="^" line="157" column="20" />
-        <mark key="." line="157" column="20" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1527003724682">
+        <mark key="'" line="285" column="4" />
+        <mark key="k" line="507" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="179" column="21" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
@@ -1369,7 +1369,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1525815834889">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1527003498329">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="48" />
         <mark key="^" line="11" column="48" />
@@ -1416,7 +1416,7 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1526996434165">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1527003574200">
         <mark key="[" line="228" column="38" />
         <mark key="]" line="228" column="39" />
         <mark key="." line="228" column="39" />
@@ -1688,8 +1688,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_in</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoImV4cGVjdGVkIG5vbmRpbTogIik7CiAgICAgICAgZm9yIChhdXRvIHFlIDogZXhwZWN0ZWQpCiAgICAgICAgICAgIHByaW50ZigiJWUgIiwgcWUpOwogICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5089,43 +5089,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_in</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>solution_update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsU3BlZWQoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdWzJdKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gcWkgOiBxX2ludGVyaW9yKQogICAgICAgICAgICBwcmludGYoIiVlICIsIHFpKTsKICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdWzNdOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImV4cGVjdGVkIG5vbmRpbTogIik7CiAgICAgICAgZm9yIChhdXRvIHFlIDogZXhwZWN0ZWQpCiAgICAgICAgICAgIHByaW50ZigiJWUgIiwgcWUpOwogICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcHQgPSBub25kaW0ubm9uZGltZW5zaW9uYWxQcmVzc3VyZSgyLjAgKiAxMDEzMjUuMCk7CiAgICAgICAgZG91YmxlIHR0ID0gbm9uZGltLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoMzAwLjApOwogICAgICAgIGRvdWJsZSBkZW5zaXR5ID0gdGhlcm1vLmNhbGNEZW5zaXR5KHR0LCBwdCk7CiAgICAgICAgcHJpbnRmKCJwdCA9ICVlXG4iLCBwdCk7CiAgICAgICAgcHJpbnRmKCJ0dCA9ICVlXG4iLCB0dCk7CiAgICAgICAgcHJpbnRmKCJkZW5zaXR5ID0gJWVcbiIsIGRlbnNpdHkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEhTOjpTb2x1dGlvblVwZGF0ZTxULCBOdW1FcW5zPiBkUShsb2NhbF90b19nbG9iYWwuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gcWkgOiBxX2ludGVyaW9yKQogICAgICAgICAgICBwcmludGYoIiVlICIsIHFpKTsKICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdWzNdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIkknbSBzdXBlcnNvbmljIVxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEhTOjpTb2x1dGlvblVwZGF0ZTxULCBOdW1FcW5zPiBkUShsb2NhbF90b19nbG9iYWwuc2l6ZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIkknbSBzdXBlcnNvbmljIVxuIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />

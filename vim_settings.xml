@@ -728,11 +728,11 @@
         <mark key="." line="37" column="81" />
         <mark key="^" line="37" column="81" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1526995948442">
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="30" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="30" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1527009402181">
+        <mark key="[" line="68" column="91" />
+        <mark key="]" line="68" column="90" />
+        <mark key="." line="68" column="90" />
+        <mark key="^" line="68" column="90" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/dummy_plugins/DummyFluidSolver.h" timestamp="1523568086807">
         <mark key="[" line="12" column="2" />
@@ -1414,11 +1414,11 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1527003574200">
-        <mark key="[" line="228" column="38" />
-        <mark key="]" line="228" column="39" />
-        <mark key="." line="228" column="39" />
-        <mark key="^" line="228" column="39" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1527009351134">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
@@ -1577,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" />
       <jump line="32" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="374" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="237" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
@@ -1677,6 +1676,7 @@
       <jump line="123" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="177" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="129" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="88" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,9 +1686,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>max
-max</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5088,35 +5087,35 @@ max</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>density_omega</text>
+        <text>dt[node_id];</text>
       </register>
       <register name="/" type="4">
-        <text>PreCh</text>
+        <text>Subsonic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsYXggPSBzdGQ6Om1heChkZW5zaXR5X29tZWdhLCByZWxheCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9sdW1lX292ZXJfdGltZXN0ZXBbbm9kZV9pZF0gPSBtZXNoLmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV9pZF0gLyBkdFtub2RlX2lkXTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>max
-max</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHZvbHVtZV9vdmVyX3RpbWVzdGVwID0gc3RkOjp2ZWN0b3I8VD4oZHQuc2l6ZSgpLCAxZS0xMCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGR0W25vZGVfaWRdID0gbWVzaC5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdIC8gZHRbbm9kZV9pZF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIGR0KCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>max
+max</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5125,22 +5124,22 @@ max</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PreCh</last-search>
+      <last-search>Subsonic</last-search>
       <last-offset />
-      <last-pattern>PreCh</last-pattern>
+      <last-pattern>Subsonic</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5157,7 +5156,6 @@ max</text>
         <entry>linear_solve</entry>
         <entry>SNESC</entry>
         <entry>SNESCreate</entry>
-        <entry>Subsonic</entry>
         <entry>SubsonicInflowTotal</entry>
         <entry>Total</entry>
         <entry>total</entry>
@@ -5168,6 +5166,7 @@ max</text>
         <entry>Post</entry>
         <entry>solution_update</entry>
         <entry>PreCh</entry>
+        <entry>Subsonic</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

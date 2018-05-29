@@ -483,7 +483,7 @@
         <mark key="." line="51" column="82" />
         <mark key="^" line="51" column="82" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" timestamp="1527598370775">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" timestamp="1527599924103">
         <mark key="'" line="131" column="27" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="81" />
@@ -556,12 +556,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" timestamp="1527598076594">
-        <mark key="'" line="115" column="36" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" timestamp="1527600000576">
+        <mark key="'" line="40" column="19" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="8" />
+        <mark key="^" line="44" column="8" />
+        <mark key="." line="44" column="8" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1523659774393">
         <mark key="'" line="168" column="11" />
@@ -1592,12 +1592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="276" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="44" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
-      <jump line="268" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="279" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="47" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="61" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="37" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
@@ -1692,6 +1686,12 @@
       <jump line="313" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="314" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="256" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
+      <jump line="26" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
+      <jump line="28" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
+      <jump line="29" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
+      <jump line="30" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
+      <jump line="39" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
+      <jump line="40" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1701,8 +1701,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZWdhdGl2ZV9mbHV4WzBdID0gMC4wOwo=</text>
+      <register name="&quot;" type="4">
+        <text>double</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5102,76 +5102,78 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.fill(0.0);</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
-        <text>hr</text>
+        <text>double</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZWdhdGl2ZV9mbHV4WzBdID0gMC4wOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFQgaHIgICAgICAgPSAoZW5yZ3lyICsgcHJlc3NyKS9yaG9yOwo=</text>
+      <register name="1" type="8">
+        <text>double
+double
+double
+double
+double
+double
+double</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFQgaGwgICAgICAgPSAoZW5yZ3lsICsgcHJlc3NsKS9yaG9sOwo=</text>
+        <text encoding="base64">ICAgIFQgaHIgICAgICAgPSAoZW5yZ3lyICsgcHJlc3NyKS9yaG9yOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFQgaGwgICAgICAgPSAoZW5yZ3lsICsgcHJlc3NsKS9yaG9sOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZsdXhbMF0gPSBwb3NpdGl2ZV9mbHV4ICsgCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>positive_
 positive_
 positive_
 positive_
 positive_</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>_flux
 _flux
 _flux
 _flux</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>positive
 positive
 positive
 positive</text>
-      </register>
-      <register name="8" type="8">
-        <text>positive
-s::fabs(
-[0] = ar
-[1] = po
-[2] = po</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="8">
         <text>positive
-positive
-positive
-positive
-positive</text>
+s::fabs(
+[0] = ar
+[1] = po
+[2] = po</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hr</last-search>
+      <last-search>double</last-search>
       <last-offset />
-      <last-pattern>hr</last-pattern>
+      <last-pattern>double</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5179,8 +5181,6 @@ positive</text>
     </search>
     <history>
       <history-search>
-        <entry>petsc_precond</entry>
-        <entry>petsc_jacobian</entry>
         <entry>solution_update</entry>
         <entry>ksp</entry>
         <entry>iteration</entry>
@@ -5199,6 +5199,8 @@ positive</text>
         <entry>ubar</entry>
         <entry>l</entry>
         <entry>hr</entry>
+        <entry>doub;e</entry>
+        <entry>double</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

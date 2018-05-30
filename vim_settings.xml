@@ -323,8 +323,8 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1527689066072">
-        <mark key="'" line="92" column="38" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1527706741627">
+        <mark key="'" line="53" column="18" />
         <mark key="k" line="493" column="0" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
@@ -1429,7 +1429,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1527705689923">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1527706406929">
         <mark key="'" line="71" column="8" />
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="48" />
@@ -1634,24 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="42" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="307" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="315" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="321" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="313" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="35" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
-      <jump line="203" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="151" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="119" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="173" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="192" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="193" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="215" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="31" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="53" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="78" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="184" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="186" column="90" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="191" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1734,6 +1716,24 @@
       <jump line="27" column="3" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/plot_pressure_comparison.py" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/plot_pressure_comparison.py" />
       <jump line="71" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="67" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="96" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="104" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="125" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="147" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="180" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="216" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="238" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="284" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="316" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="408" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="450" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="489" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="538" column="65" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="12" column="16" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="34" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="53" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5147,7 +5147,7 @@
         <text>check_output</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text>getThermodynamics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z251cGxvdCA8PEVPRgpzZXQgdGVybWluYWwgcG5nCnNldCBvdXRwdXQgInByZXNzdXJlX2NvbXBhcmlzb24ucG5nIgpzZXQgZGF0YWZpbGUgc2VwYXJhdG9yICIsIgpzZXQgeGxhYmVsICJ4IChtKSIKc2V0IHlsYWJlbCAicHJlc3N1cmUgKE4vbV4yKSIKc2V0IHRpdGxlICAiSHlwZXJzb2x2ZS1GVU4zRCBwcmVzc3VyZSBjb21wYXJpc29uIGF0IHk9MC4yIChPTTYgVmlzY291cykiCnBsb3QgImZ1bjNkX3N1cmZhY2VfcHJlc3N1cmUuY3N2IiB1c2luZyAxOjIgdGl0bGUgIkZVTjNEIiB3aXRoIHBvaW50cywgXAogICAgICIkaHlwZXJzb2x2ZV9vdXRwdXQiIHVzaW5nIDEwOjUgdGl0bGUgIkh5cGVyU29sdmUiIHdpdGggcG9pbnRzCkVPRgo=</text>
@@ -5193,9 +5193,9 @@
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search>getThermodynamics</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern>getThermodynamics</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5203,7 +5203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preconditioner</entry>
         <entry>precheck</entry>
         <entry>Pre</entry>
         <entry>jacobian</entry>
@@ -5223,6 +5222,7 @@
         <entry>output_filename</entry>
         <entry>options</entry>
         <entry>header</entry>
+        <entry>getThermodynamics</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

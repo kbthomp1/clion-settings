@@ -455,11 +455,11 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/CFLController.h" timestamp="1525293041897">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="48" column="3" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/CFLController.h" timestamp="1528208929968">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/convertor.py" timestamp="1498590446671">
         <mark key="'" line="16" column="10" />
@@ -628,12 +628,12 @@
         <mark key="." line="66" column="7" />
         <mark key="^" line="66" column="7" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1528203643859">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1528208940310">
         <mark key="'" line="322" column="73" />
-        <mark key="[" line="362" column="46" />
-        <mark key="]" line="362" column="50" />
-        <mark key="." line="362" column="50" />
-        <mark key="^" line="362" column="50" />
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="48" />
+        <mark key="." line="80" column="48" />
+        <mark key="^" line="80" column="48" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
@@ -809,7 +809,7 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527716259455">
+      <file name="/Dummy.txt" timestamp="1528208545142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/main.f90" timestamp="1500466562288">
@@ -885,7 +885,8 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528207822221">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528208979356">
+        <mark key="'" line="139" column="54" />
         <mark key="[" line="125" column="82" />
         <mark key="]" line="125" column="101" />
         <mark key="." line="125" column="101" />
@@ -1672,9 +1673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="304" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="305" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="306" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="307" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="311" column="100" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
@@ -1772,6 +1770,9 @@
       <jump line="62" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="322" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="25" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" />
+      <jump line="10" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CFLController.h" />
+      <jump line="13" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CFLController.h" />
+      <jump line="139" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1781,8 +1782,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBtYXhfcGVyY2VudF9jaGFuZ2UgPSAwLjE6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ return; }</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5182,60 +5183,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>max_percent_change</text>
+        <text>{ return; }</text>
       </register>
       <register name="/" type="4">
-        <text>nonlinear so</text>
+        <text>residual_all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvdWJsZSBtYXhfcGVyY2VudF9jaGFuZ2UgPSAwLjE6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJJJ20gZGVhZC4uLlxuIik7CiAgICAgICAgICAgIGZmbHVzaChzdGRvdXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigidHJ5aW5nIHRvIGxvd2VyIGNmbCwgYnV0IGFscmVhZHkgYXQgY2ZsIGZsb29yLiAgTWF5YmUgeW91J3ZlIHN0YWxsZWQuIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRvdWJsZSBzcGVlZF9vZl9zb3VuZCA9IHN0ZDo6c3FydChnYW1tYSAqIEhTOjppZGVhbF9nYXNfY29uc3RhbnRfbWtzICogdGVtcGVyYXR1cmUpOwo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>-
 -
 -</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJOb24tcmVhbGl6YWJsZSBzb2x1dGlvbiByZWplY3RlZCIpIHsKICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwogICAgZG91YmxlIGRlbnNpdHkgPSAxLjA7CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHNvbHV0aW9uKDMsIHtkZW5zaXR5LCAwLjEsIDAuMiwgMC4zLCAxLjB9KTsKCiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHVwZGF0ZSgzKTsKICAgIHVwZGF0ZVswXSA9IHswLjUsIDAuMSwgMC4yLCAwLjMsIDAuNX07CiAgICB1cGRhdGVbMV0gPSB7MC41LCAwLjEsIDAuMiwgMC4zLCAwLjV9OwogICAgdXBkYXRlWzJdID0gezAuNSwgMC4xLCAwLjIsIDAuMywgMC41fTsKCiAgICAvLyBDcmVhdGUgYW4gdXBkYXRlIHRoYXQgbWFrZXMgZGVuc2l0eSBuZWdhdGl2ZSwgYW5kIGlzIGJlbG93IHRoZSByZWxheHRpb24gdG9sZXJhbmNlLgogICAgZG91YmxlIGFjY2VwdGFibGVfcmVsYXhhdGlvbl90b2xlcmFuY2UgPSAwLjAyOwogICAgZG91YmxlIGludmFsaWRfZGVuc2l0eV91cGRhdGUgPSBkZW5zaXR5IC8gYWNjZXB0YWJsZV9yZWxheGF0aW9uX3RvbGVyYW5jZSArIDEuMDsKICAgIHVwZGF0ZVsxXVswXSA9IGludmFsaWRfZGVuc2l0eV91cGRhdGU7CgogICAgYXV0byByZWxheGF0aW9uID0gUmVhbGl6YWJpbGl0eTo6Y2FsY3VsYXRlVXBkYXRlUmVsYXhhdGlvbihtcCwgc29sdXRpb24sIHVwZGF0ZSk7CiAgICBSRVFVSVJFKHJlbGF4YXRpb24gPT0gMC4wKTsKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBhY2NlcHRhYmxlX3JlbGF4YXRpb25fdG9sZXJhbmNlID0gMC4wMjsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBhY2NlcHRhYmxlX3JlbGF4YXRpb25fdG9sZXJhbmNlID0gMC4wMjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB1cGRhdGVfcmVsYXhhdGlvbl90b2xlcmFuY2UgPSBzLT5zZXR0aW5ncy5hdCgibm9ubGluZWFyIHNvbHZlciBzZXR0aW5ncyIpLmF0KCJ1cGRhdGUgcmVsYXhhdGlvbiB0b2xlcmFuY2UiKTsK</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJOb24tcmVhbGl6YWJsZSBzb2x1dGlvbiByZWplY3RlZCIpIHsKICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwogICAgZG91YmxlIGRlbnNpdHkgPSAxLjA7CiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHNvbHV0aW9uKDMsIHtkZW5zaXR5LCAwLjEsIDAuMiwgMC4zLCAxLjB9KTsKCiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHVwZGF0ZSgzKTsKICAgIHVwZGF0ZVswXSA9IHswLjUsIDAuMSwgMC4yLCAwLjMsIDAuNX07CiAgICB1cGRhdGVbMV0gPSB7MC41LCAwLjEsIDAuMiwgMC4zLCAwLjV9OwogICAgdXBkYXRlWzJdID0gezAuNSwgMC4xLCAwLjIsIDAuMywgMC41fTsKCiAgICAvLyBDcmVhdGUgYW4gdXBkYXRlIHRoYXQgbWFrZXMgZGVuc2l0eSBuZWdhdGl2ZSwgYW5kIGlzIGJlbG93IHRoZSByZWxheHRpb24gdG9sZXJhbmNlLgogICAgZG91YmxlIGFjY2VwdGFibGVfcmVsYXhhdGlvbl90b2xlcmFuY2UgPSAwLjAyOwogICAgZG91YmxlIGludmFsaWRfZGVuc2l0eV91cGRhdGUgPSBkZW5zaXR5IC8gYWNjZXB0YWJsZV9yZWxheGF0aW9uX3RvbGVyYW5jZSArIDEuMDsKICAgIHVwZGF0ZVsxXVswXSA9IGludmFsaWRfZGVuc2l0eV91cGRhdGU7CgogICAgYXV0byByZWxheGF0aW9uID0gUmVhbGl6YWJpbGl0eTo6Y2FsY3VsYXRlVXBkYXRlUmVsYXhhdGlvbihtcCwgc29sdXRpb24sIHVwZGF0ZSk7CiAgICBSRVFVSVJFKHJlbGF4YXRpb24gPT0gMC4wKTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nonlinear so</last-search>
+      <last-search>residual_all</last-search>
       <last-offset />
-      <last-pattern>nonlinear so</last-pattern>
+      <last-pattern>residual_all</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5243,7 +5244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
         <entry>header</entry>
         <entry>getThermodynamics</entry>
         <entry>printf</entry>
@@ -5263,6 +5263,7 @@
         <entry>Create</entry>
         <entry>Non</entry>
         <entry>nonlinear so</entry>
+        <entry>residual_all</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

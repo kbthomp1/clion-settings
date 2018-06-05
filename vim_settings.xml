@@ -1450,12 +1450,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1528128068103">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1528218846247">
         <mark key="'" line="71" column="8" />
-        <mark key="[" line="72" column="87" />
-        <mark key="]" line="72" column="73" />
-        <mark key="^" line="72" column="73" />
-        <mark key="." line="72" column="73" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1524055609202">
         <mark key="'" line="37" column="45" />
@@ -1778,8 +1777,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBkb3VibGUgZ2V0R2FzQ29uc3RhbnQoKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5179,49 +5178,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pressure</text>
       </register>
       <register name="/" type="4">
         <text>solution_update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUocmVsYXhhdGlvblswXSA9PSAwLjEgLyAxLjIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIFQgY2FsY1Zpc2Nvc2l0eShUIGRlbnNpdHksIFQgcHJlc3N1cmUpIGNvbnN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBkb3VibGUgZ2V0R2FzQ29uc3RhbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoZG91YmxlIHJlbGF4KQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogICAgICAgIFQgY2FsY0QoVCBkZW5zaXR5LCBUIHRlbXBlcmF0dXJlKSBjb25zdCB7CiAgICAgICAgICAgIAogICAgICAgIH07Cgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWluaW11bV9yZWxheGF0aW9uID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHNpemVfdCBOdW1WYXJzPgo=</text>
+        <text encoding="base64">ICAgIGZvciAoZG91YmxlIHJlbGF4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pbl9yZWxheCA9IG1wLlBhcmFsbGVsTWluKG1pbl9yZWxheCk7CiAgICBWZWNTY2FsZSh1cGRhdGUsIG1pbl9yZWxheCk7CiAgICByZXR1cm4gbWluX3JlbGF4Owo=</text>
+        <text encoding="base64">ICAgIGF1dG8gbWluaW11bV9yZWxheGF0aW9uID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWluX3JlbGF4ID0gKnN0ZDo6bWluX2VsZW1lbnQocmVhbGl6YWJpbGl0eV9yZWxheGF0aW9uLmJlZ2luKCksIHJlYWxpemFiaWxpdHlfcmVsYXhhdGlvbi5lbmQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWluX3JlbGF4ID0gKnN0ZDo6bWluX2VsZW1lbnQocmVhbGl6YWJpbGl0eV9yZWxheGF0aW9uLmJlZ2luKCksIHJlYWxpemFiaWxpdHlfcmVsYXhhdGlvbi5lbmQoKSk7CiAgICBtaW5fcmVsYXggPSBtcC5QYXJhbGxlbE1pbihtaW5fcmVsYXgpOwogICAgcmV0dXJuIG1pbl9yZWxheDsK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlPHNpemVfdCBOdW1WYXJzPgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG1pbl9yZWxheCA9IG1wLlBhcmFsbGVsTWluKG1pbl9yZWxheCk7CiAgICBWZWNTY2FsZSh1cGRhdGUsIG1pbl9yZWxheCk7CiAgICByZXR1cm4gbWluX3JlbGF4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

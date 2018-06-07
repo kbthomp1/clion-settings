@@ -878,11 +878,13 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528292133632">
-        <mark key="[" line="98" column="66" />
-        <mark key="]" line="99" column="3" />
-        <mark key="." line="99" column="3" />
-        <mark key="^" line="99" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528373681512">
+        <mark key="'" line="8" column="35" />
+        <mark key="k" line="100" column="7" />
+        <mark key="[" line="102" column="64" />
+        <mark key="]" line="102" column="64" />
+        <mark key="." line="102" column="64" />
+        <mark key="^" line="102" column="64" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1519339779091">
         <mark key="'" line="838" column="27" />
@@ -1102,7 +1104,7 @@
         <mark key="." line="51" column="37" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1528318133318">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1528373473766">
         <mark key="'" line="31" column="13" />
         <mark key="[" line="56" column="66" />
         <mark key="]" line="56" column="64" />
@@ -1664,8 +1666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/make_comparison_plot.sh" />
-      <jump line="24" column="9" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/plot_pressure_comparison.py" />
       <jump line="27" column="3" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/plot_pressure_comparison.py" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/plot_pressure_comparison.py" />
       <jump line="71" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
@@ -1713,7 +1713,6 @@
       <jump line="402" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="69" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="99" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="122" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="388" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="419" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1764,6 +1763,9 @@
       <jump line="46" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="30" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
       <jump line="26" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
+      <jump line="85" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="99" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="8" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1773,8 +1775,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>applyPenalizationMatrix</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5174,10 +5176,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-4.62962962963};</text>
+        <text>applyPenalizationMatrix</text>
       </register>
       <register name="/" type="4">
-        <text>Solution</text>
+        <text>volume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSLmZpbGwoMS4wKTsKICAgICAgICByZXNpZHVhbC5zZXQoMCwgezAsIDEsIDIsIDMsIDR9LCBSLmRhdGEoKSk7Cg==</text>
@@ -5189,43 +5191,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEhTOjoK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgaWYgKG5vdCBzLT51c2VfamFjb2JpYW5fZnJlZSkKLy8gICAgICAgIGphY29iaWFuX21hdHJpeCA9IHMtPnByZWNvbmRpdGlvbmVyLnNoYWxsb3dDb3B5VG9QZXRzY01hdHJpeCgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBSOwogICAgUi5maWwKICAgIHJlc2lkdWFsLnNldCgwLCB7MCwgMSwgMiwgMywgNH0sIFIuZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc29sdXRpb25bbm9kZV1bdGVtcGVyYXR1cmVfaW5kZXhdKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBSOwogICAgUi5maWwKICAgIHJlc2lkdWFsLnNldCgwLCB7MCwgMSwgMiwgMywgNH0sIFIuZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Solution</last-search>
+      <last-search>volume</last-search>
       <last-offset />
-      <last-pattern>Solution</last-pattern>
+      <last-pattern>volume</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5233,7 +5235,6 @@
     </search>
     <history>
       <history-search>
-        <entry>q</entry>
         <entry>Thermo</entry>
         <entry>Solve</entry>
         <entry>rhs</entry>
@@ -5253,6 +5254,7 @@
         <entry>ni</entry>
         <entry>double</entry>
         <entry>Solution</entry>
+        <entry>volume</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

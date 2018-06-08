@@ -885,7 +885,8 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528467350627">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528471653341">
+        <mark key="'" line="9" column="24" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1680,7 +1681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="64" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="394" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1780,6 +1780,7 @@
       <jump line="24" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
       <jump line="2" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
       <jump line="9" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ConstraintTerms.h" />
+      <jump line="9" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5193,7 +5194,7 @@
         <text>eqn_map;</text>
       </register>
       <register name="/" type="4">
-        <text>diag</text>
+        <text>Jacobian</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29sdXRpb24uZ2V0VmFyaWFibGUobm9kZSwgSFM6OlZhcmlhYmxlOjpkZW5zaXR5X2JlZ2luLCAmZGVuc2l0eSk7Cg==</text>
@@ -5239,9 +5240,9 @@
       </register>
     </registers>
     <search>
-      <last-search>diag</last-search>
+      <last-search>Jacobian</last-search>
       <last-offset />
-      <last-pattern>diag</last-pattern>
+      <last-pattern>Jacobian</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5249,8 +5250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printTo</entry>
-        <entry>exit</entry>
         <entry>printJacobian</entry>
         <entry>PostCh</entry>
         <entry>printSolution</entry>
@@ -5269,6 +5268,8 @@
         <entry>block</entry>
         <entry>diagonal_piece</entry>
         <entry>diag</entry>
+        <entry>ComputeJ</entry>
+        <entry>Jacobian</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

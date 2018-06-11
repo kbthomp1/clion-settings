@@ -23,12 +23,6 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1528727866399">
-        <mark key="[" line="84" column="44" />
-        <mark key="]" line="84" column="48" />
-        <mark key="^" line="84" column="48" />
-        <mark key="." line="84" column="48" />
-      </file>
       <file name="/a.dummy" timestamp="1507832837549">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,6 +31,13 @@
         <mark key="]" line="157" column="67" />
         <mark key="^" line="157" column="67" />
         <mark key="." line="157" column="67" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/WeakBC.h" timestamp="1528750819625">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationSet.h" timestamp="1528467242649">
         <mark key="[" line="100" column="0" />
@@ -50,6 +51,12 @@
         <mark key="]" line="86" column="56" />
         <mark key="." line="86" column="56" />
         <mark key="^" line="86" column="56" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" timestamp="1528754790740">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="15" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1520016977880">
         <mark key="'" line="0" column="0" />
@@ -79,11 +86,6 @@
         <mark key="]" line="19" column="44" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1528317100486">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
@@ -333,6 +335,11 @@
         <mark key="^" line="29" column="76" />
         <mark key="." line="29" column="76" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1528754030633">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="45" column="94" />
@@ -526,6 +533,11 @@
         <mark key="^" line="197" column="14" />
         <mark key="." line="197" column="14" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1528752388338">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
         <mark key="[" line="398" column="7" />
@@ -553,12 +565,6 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" timestamp="1528749361042">
-        <mark key="[" line="67" column="50" />
-        <mark key="]" line="67" column="50" />
-        <mark key="." line="68" column="62" />
-        <mark key="^" line="59" column="50" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/PetscRuntime.h" timestamp="1522793898606">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="24" />
@@ -578,8 +584,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" timestamp="1525288428346">
-        <mark key="'" line="75" column="14" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" timestamp="1528752382617">
+        <mark key="'" line="74" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" timestamp="1522971872390">
         <mark key="'" line="38" column="0" />
@@ -836,12 +845,12 @@
         <mark key="." line="87" column="78" />
         <mark key="^" line="87" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.h" timestamp="1527185390076">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="156" column="5" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.h" timestamp="1528750871680">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/LeastSquaresGradient.hpp" timestamp="1518473263198">
         <mark key="'" line="39" column="4" />
@@ -875,10 +884,8 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528749184201">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1528750139520">
+        <mark key="'" line="428" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/DddataTests.cpp" timestamp="1519339779091">
         <mark key="'" line="838" column="27" />
@@ -975,6 +982,11 @@
         <mark key="]" line="79" column="42" />
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="42" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SAInteriorTerms.h" timestamp="1528752354258">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportProperties.cpp" timestamp="1498836325915">
         <mark key="'" line="19" column="4" />
@@ -1099,11 +1111,9 @@
         <mark key="^" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1528749192023">
-        <mark key="'" line="55" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
-        <mark key="^" line="42" column="72" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" timestamp="1511895406815">
         <mark key="'" line="21" column="18" />
@@ -1183,6 +1193,13 @@
         <mark key="]" line="23" column="85" />
         <mark key="." line="23" column="82" />
         <mark key="^" line="23" column="82" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" timestamp="1528753697368">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1501618565135">
         <mark key="'" line="282" column="0" />
@@ -1496,11 +1513,12 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1528731403837">
-        <mark key="'" line="305" column="70" />
-        <mark key="[" line="687" column="0" />
-        <mark key="]" line="687" column="0" />
-        <mark key="." line="687" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1528754746549">
+        <mark key="'" line="108" column="13" />
+        <mark key="[" line="679" column="38" />
+        <mark key="]" line="679" column="39" />
+        <mark key="." line="679" column="39" />
+        <mark key="^" line="679" column="40" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
@@ -1543,12 +1561,12 @@
         <mark key="." line="116" column="56" />
         <mark key="^" line="116" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" timestamp="1523659799287">
-        <mark key="'" line="150" column="34" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" timestamp="1528752402209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="37" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ConstraintTerms.h" timestamp="1528470222998">
         <mark key="'" line="10" column="20" />
@@ -1584,8 +1602,8 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1527600480818">
-        <mark key="'" line="114" column="8" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1528752117210">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1528210113021">
         <mark key="'" line="0" column="0" />
@@ -1661,54 +1679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="32" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
-      <jump line="6" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="7" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="2" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="28" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="22" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="25" column="42" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="46" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="30" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="26" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="85" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="99" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="8" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="60" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="77" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="178" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="33" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="49" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="91" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="108" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="110" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="111" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="115" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="116" column="46" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="118" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="119" column="46" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="121" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="122" column="46" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
-      <jump line="43" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DenseMatrix.h" />
-      <jump line="111" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="88" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="83" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="94" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
-      <jump line="13" column="6" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
-      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
-      <jump line="24" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
-      <jump line="2" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" />
-      <jump line="9" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ConstraintTerms.h" />
-      <jump line="9" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="109" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="67" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="110" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="37" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="107" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="105" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="139" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="166" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="47" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="69" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1761,6 +1731,54 @@
       <jump line="55" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="168" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
       <jump line="407" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="60" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="428" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="28" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="62" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/interfaces/WeakBC.h" />
+      <jump line="9" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="0" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="4" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="78" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="196" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
+      <jump line="612" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="683" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="29" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
+      <jump line="4" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
+      <jump line="96" column="27" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
+      <jump line="108" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="32" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="36" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="55" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="75" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="97" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="105" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="126" column="25" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="148" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="181" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="217" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="239" column="27" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="285" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="301" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="317" column="27" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="333" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="375" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="392" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="424" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="464" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="504" column="39" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="518" column="39" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="538" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="33" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="11" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="73" column="45" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="99" column="31" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="95" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="38" column="47" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="11" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1770,9 +1788,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>1.2
-2.2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9mbHV4ZXNbY29ybmVyXVtpXSA9IHFfZXh0W2ldOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5172,61 +5189,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>q_ext[0] * a * a / gamma;</text>
       </register>
       <register name="/" type="4">
-        <text>eqn_map</text>
+        <text>Dirich</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKGJsb2NrX2RpYWdvbmFsWzBdKGksMCkgPT0gQXBwcm94KC0xLjAgLyAoMC4xKjAuMSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9mbHV4ZXNbY29ybmVyXVtpXSA9IGZbaV07Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>1.2
-2.2</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9mbHV4ZXNbY29ybmVyXVtpXSA9IHFfZXh0W2ldOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>1.1
-2.1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBxX2V4dDsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
-        <text>1.0
-2.0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgKytpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc19hdF9ub2RlID0gezEuMiwgMC4wLCAwLjAsIDAuMCwgMi4yfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHFfZXh0WzRdID0gcV9mYXJmaWVsZFs0XTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc19hdF9ub2RlID0gezEuMSwgMC4wLCAwLjAsIDAuMCwgMi4xfXNqCg==</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJEaXJjaGxldCBCb3VuZGFyeSBDb25kaXRpb24gRmx1eCIpewogICAgYXV0byB0aGVybW8gPSBnZXRUaGVybW9keW5hbWljcygpOwogICAgYXV0byBub25kaW0gPSBnZXROb25kaW1lbnNpb25hbGl6YXRpb24oKTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ludGVyaW9yID0gezEuMCwgMS4wLCAwLjAsIDAuMCwgMS4wIC8gMS40fTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX25vcm1hbCA9IHsxLjAsIDIuMCwgMi4wfTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX3NwZWVkID0gezEuMCwgMC4wLCAwLjB9OwogICAgY29uc3Qgc3RkOjphcnJheTxkb3VibGUsIDM+IHh5eiA9IHswLDAsMH07CiAgICBjb25zdCBkb3VibGUgdGltZSA9IDA7CiAgICBubG9obWFubjo6anNvbiBjb25maWc7CiAgICBjb25maWdbInR5cGUiXSA9ICJkaXJpY2hsZXQiOwogICAgY29uZmlnWyJkZW5zaXR5Il0gPSAxLjIyNTsKICAgIGNvbmZpZ1sidmVsb2NpdHkiXSA9IHszNDcuMjIwNzY1NTA4LCAwLjAsIDAuMH07CiAgICBjb25maWdbInByZXNzdXJlIl0gPSBub25kaW0uZGltZW5zaW9uYWxQcmVzc3VyZSgxLjAgLyAxLjQpOwogICAgYXV0byBkaXJpY2hsZXQgPSBIUzo6V2Vha0JDOjpnZXRCQ0Zyb21Db25maWc8ZG91YmxlPihjb25maWcuZHVtcCgpLCAicm9lIiwgbm9uZGltLCB0aGVybW8pOwogICAgYXV0byBxX2V4dCA9IGRpcmljaGxldC0+Y2FsY0V4dGVyaW9yU3RhdGUocV9pbnRlcmlvciwgeHl6LCB0aW1lLCB7MSwwLDB9LCBmYWNlX3NwZWVkICk7CiAgICBhdXRvIGZsdXggPSBkaXJpY2hsZXQtPmNhbGNGbHV4KHFfaW50ZXJpb3IsIHFfZXh0LCBmYWNlX25vcm1hbCwgZmFjZV9zcGVlZCk7CgogICAgUkVRVUlSRShxX2V4dFswXSA9PSBBcHByb3gocV9pbnRlcmlvclswXSkpOwogICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3gocV9pbnRlcmlvclsxXSkpOwogICAgUkVRVUlSRShxX2V4dFsyXSA9PSBBcHByb3gocV9pbnRlcmlvclsyXSkpOwogICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3gocV9pbnRlcmlvclszXSkpOwogICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3gocV9pbnRlcmlvcls0XSkpOwoKICAgIGZvciAoYXV0byBmIDogZmx1eCkKICAgICAgICBwcmludGYoIiVlXG4iLCBmKTsKICAgIFJFUVVJUkUoZmx1eFswXSA9PSBBcHByb3goMC4wKSk7CiAgICBSRVFVSVJFKGZsdXhbMV0gPT0gQXBwcm94KDEuOCkpOwogICAgUkVRVUlSRShmbHV4WzJdID09IEFwcHJveCgzLjYpKTsKICAgIFJFUVVJUkUoZmx1eFszXSA9PSBBcHByb3goMy42KSk7CiAgICBSRVFVSVJFKGZsdXhbNF0gPT0gQXBwcm94KDEuOCkpOwp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRvdWJsZSB0ZW1wZXJhdHVyZSA9IHRoZXJtby5jYWxjVGVtcGVyYXR1cmUoMS4wLCAxLjgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgKytpKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgZG91YmxlIHJlZmVyZW5jZV9kZW5zaXR5ID0gMS4yMjU7Ci8vICAgIGRvdWJsZSByZWZlcmVuY2Vfc3BlZWQgPSAzNDcuMjIwNzY1NTA4OyAvLyBTcGVlZCBvZiBTb3VuZHMgQCAzMDBLCi8vICAgIGRvdWJsZSByZWZlcmVuY2VfdGVtcGVyYXR1cmUgPSAzMDAuMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZmx1eF9mdW5jdGlvbiA9IEhTOjpJbnZpc2NpZDo6c2VsZWN0Rmx1eEZ1bmN0aW9uPGRvdWJsZT4oInJvZSIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBULCBzaXplX3QgTnVtRXFucz4KICAgICAgICB2b2lkIGFwcGx5UGVuYWxpemF0aW9uSmFjb2JpYW5SZXNpZHVhbFByb2R1Y3QoY29uc3QgSFM6OlNvbHV0aW9uVmFyaWFibGVzPFQsIE51bUVxbnM+ICZzb2x1dGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUkhTPFQsIE51bUVxbnM+ICpyaHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExIUzxOdW1FcW5zPiAqbGhzKSB7CiAgICAgICAgICAgIHN0ZDo6dmVjdG9yPGludD4gZXFuX21hcChOdW1FcW5zKTsKICAgICAgICAgICAgZm9yIChzaXplX3QgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgICAgICBlcW5fbWFwW2Vxbl0gPSBpbnQoZXFuKTsKICAgICAgICAgICAgaW50IGRlbnNpdHlfaW5kZXggPSBzb2x1dGlvbi5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6ZGVuc2l0eV9iZWdpbik7CiAgICAgICAgICAgIGludCB0ZW1wZXJhdHVyZV9pbmRleCA9IHNvbHV0aW9uLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7CiAgICAgICAgICAgIERlbnNlTWF0cml4PFQsIE51bUVxbnMsIE51bUVxbnM+IGJsb2NrOwogICAgICAgICAgICBibG9jay5maWxsKDAuMCk7CiAgICAgICAgICAgIGZvciAoc2l6ZV90IG5vZGUgPSAwOyBub2RlIDwgc29sdXRpb24uc2l6ZSgpOyArK25vZGUpIHsKICAgICAgICAgICAgICAgIFQgZGVuc2l0eSA9IHNvbHV0aW9uW25vZGVdW2RlbnNpdHlfaW5kZXhdOwogICAgICAgICAgICAgICAgVCB0ZW1wZXJhdHVyZSA9IHNvbHV0aW9uW25vZGVdW3RlbXBlcmF0dXJlX2luZGV4XTsKICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4gcmVzaWR1YWxfYXRfbm9kZTsKICAgICAgICAgICAgICAgIHJocy0+Z2V0KG5vZGUsIGVxbl9tYXAsIHJlc2lkdWFsX2F0X25vZGUuZGF0YSgpKTsKICAgICAgICAgICAgICAgIFQgcGVuYWx0eV9qYWNvYmlhbl9yZXNpZHVhbF9wcm9kdWN0ID0gY29tcHV0ZVBlbmFsdHlKYWNvYmlhblJlc2lkdWFsUHJvZHVjdChkZW5zaXR5LCB0ZW1wZXJhdHVyZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNpZHVhbF9hdF9ub2RlW2RlbnNpdHlfaW5kZXhdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc2lkdWFsX2F0X25vZGVbdGVtcGVyYXR1cmVfaW5kZXhdKTsKICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGVxbiA9IDA7IGVxbiA8IE51bUVxbnM7ICsrZXFuKQogICAgICAgICAgICAgICAgICAgIGJsb2NrKGVxbiwgZXFuKSA9IHBlbmFsdHlfamFjb2JpYW5fcmVzaWR1YWxfcHJvZHVjdDsKICAgICAgICAgICAgICAgIGxocy0+YWRkKG5vZGUsIG5vZGUsIGVxbl9tYXAsIGVxbl9tYXAsIGJsb2NrLmRhdGEoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gdGFuZ2VuY3kgPSBIUzo6V2Vha0JDOjpUYW5nZW5jeTxkb3VibGU+KHRoZXJtbyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>eqn_map</last-search>
+      <last-search>Dirich</last-search>
       <last-offset />
-      <last-pattern>eqn_map</last-pattern>
+      <last-pattern>Dirich</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Own</last-substitute>
       <last-dir>1</last-dir>
@@ -5234,17 +5248,10 @@
     </search>
     <history>
       <history-search>
-        <entry>block</entry>
-        <entry>diagonal_piece</entry>
-        <entry>diag</entry>
-        <entry>ComputeJ</entry>
-        <entry>Jacobian</entry>
-        <entry>use_jacobian_free</entry>
         <entry>in_line_search</entry>
         <entry>sparsity</entry>
         <entry>lhs</entry>
         <entry>formB</entry>
-        <entry>Riemann</entry>
         <entry>Dir</entry>
         <entry>Riemm</entry>
         <entry>Riem</entry>
@@ -5254,6 +5261,13 @@
         <entry>computePen</entry>
         <entry>RHS</entry>
         <entry>eqn_map</entry>
+        <entry>WeakBou</entry>
+        <entry>pow</entry>
+        <entry>Weak</entry>
+        <entry>Riemann</entry>
+        <entry>WeakBC::</entry>
+        <entry>getBCFrom</entry>
+        <entry>Dirich</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

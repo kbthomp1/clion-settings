@@ -806,11 +806,12 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1528805272300">
-        <mark key="'" line="67" column="16" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1528810830889">
+        <mark key="'" line="112" column="21" />
+        <mark key="[" line="109" column="23" />
+        <mark key="]" line="109" column="23" />
+        <mark key="." line="109" column="23" />
+        <mark key="^" line="109" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ConstraintTermsTests.cpp" timestamp="1528470528094">
         <mark key="[" line="17" column="0" />
@@ -1285,11 +1286,10 @@
         <mark key="." line="31" column="29" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" timestamp="1528805343115">
-        <mark key="[" line="132" column="11" />
-        <mark key="]" line="132" column="13" />
-        <mark key="^" line="132" column="13" />
-        <mark key="." line="132" column="13" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" timestamp="1528810959251">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/ReverseCuthillMcKee.h" timestamp="1524083967359">
         <mark key="[" line="2" column="0" />
@@ -1469,12 +1469,11 @@
         <mark key="^" line="37" column="110" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" timestamp="1528807329694">
-        <mark key="'" line="51" column="36" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="36" />
-        <mark key="^" line="66" column="36" />
-        <mark key="." line="66" column="36" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" timestamp="1528810825785">
+        <mark key="'" line="59" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1528213196602">
         <mark key="'" line="13" column="0" />
@@ -1676,8 +1675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="84" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="338" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="69" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="70" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
@@ -1776,6 +1773,8 @@
       <jump line="11" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="46" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" />
       <jump line="51" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" />
+      <jump line="59" column="21" filename="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" />
+      <jump line="112" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1786,7 +1785,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIkRkYXRhIG15bWluIikgewogICAgICAgIExpbmVhcml6ZTo6RGRhdGE8NT4gYSgxLjApOwogICAgICAgIExpbmVhcml6ZTo6RGRhdGE8NT4gYigwLjkpOwogICAgICAgIFJFUVVJUkUoQ29tcGxleEhlbHBlcnM6Om15bWluKGEsYikgPT0gYik7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgYWJzZWlnWzJdID0gZWlnWzJdOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5186,60 +5185,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>ComplexHelpers::fabs(</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>fabs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIkRkYXRhIG15bWluIikgewogICAgICAgIExpbmVhcml6ZTo6RGRhdGE8NT4gYSgxLjApOwogICAgICAgIExpbmVhcml6ZTo6RGRhdGE8NT4gYigwLjkpOwogICAgICAgIFJFUVVJUkUoQ29tcGxleEhlbHBlcnM6Om15bWluKGEsYikgPT0gYik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFic2VpZ1syXSA9IENvbXBsZXhIZWxwZXJzOjpmYWJzKGVpZ1syXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYWJzZWlnWzJdID0gZWlnWzJdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIkNvbXBsZXgtRG91YmxlIG15bWluIikgewogICAgICAgIGRvdWJsZSBhID0gMS4wOwogICAgICAgIGNvbXBsZXggYiA9IDAuOTsKICAgICAgICBSRVFVSVJFKENvbXBsZXhIZWxwZXJzOjpteW1pbihhLGIpID09IGIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgLWEgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5lYXJpemU6OkRkYXRhPDU+IGIoMC45KTsK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlIDx0eXBlbmFtZSBUPgogICAgaW5saW5lIHN0ZDo6Y29tcGxleDxUPiBmYWJzKHN0ZDo6Y29tcGxleDxUPiBhKSB7CiAgICAgICAgaWYgKGEucmVhbCgpIDwgMC4wKSByZXR1cm4gLWE7CiAgICAgICAgcmV0dXJuIGE7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNFQ1RJT04oIkNvbXBsZXgtRG91YmxlIG15bWluIikgewogICAgICAgIGRvdWJsZSBhID0gMS4wOwogICAgICAgIGNvbXBsZXggYiA9IDAuOTsKICAgICAgICBSRVFVSVJFKENvbXBsZXhIZWxwZXJzOjpteW1pbihhLGIpID09IGIpOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMaW5lYXJpemU6OkRkYXRhPDU+IGIoMC45KTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBMaW5lYXJpemU6OkRkYXRhPDU+IGEoMS4wKTsK</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ID0gCiA9IA==</text>
-      </register>
-      <register name="6" type="8">
-        <text>double
-double</text>
-      </register>
-      <register name="7" type="8">
-        <text>complex
-complex</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFKENvbXBsZXhIZWxwZXJzOjpmYWJzKC1hKSA9PSBhKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text>double
+double</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>fabs</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>fabs</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>Dirich</last-substitute>
       <last-dir>1</last-dir>
@@ -5247,7 +5245,6 @@ complex</text>
     </search>
     <history>
       <history-search>
-        <entry>sparsity</entry>
         <entry>lhs</entry>
         <entry>formB</entry>
         <entry>Dir</entry>
@@ -5267,6 +5264,7 @@ complex</text>
         <entry>getBCFrom</entry>
         <entry>Dirich</entry>
         <entry>min</entry>
+        <entry>fabs</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

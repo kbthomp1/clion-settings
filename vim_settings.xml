@@ -1580,12 +1580,12 @@
       <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1528992021879">
         <mark key="'" line="72" column="5" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1524055609202">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1529004169565">
         <mark key="'" line="37" column="45" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="37" column="110" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="21" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" timestamp="1528815541429">
         <mark key="'" line="66" column="21" />
@@ -1904,7 +1904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>double</text>
+        <text>Viscous</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5304,49 +5304,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>Viscous</text>
       </register>
       <register name="/" type="4">
         <text>thermodynamics</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8VD4mIHRoZXJtb2R5bmFtaWNzX3Joc19pbiwKICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zPj4mIHRoZXJtb2R5bmFtaWNzX2xoc19pbiwKICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zKzk+PiYgdGhlcm1vZHluYW1pY3NfbGhzZ3JhZF9pbiwK</text>
+        <text encoding="base64">ICAgICAgICBWaXNjb3VzSW50ZXJpb3JUZXJtczxULCBOdW1FcW5zPgogICAgICAgIGNyZWF0ZVZpc2NvdXNJbnRlcmlvclRlcm1zKGNvbnN0IEhTOjpNZXNoJiBtZXNoLCBjb25zdCBIUzo6Tm9uZGltZW5zaW9uYWxpemF0aW9uICZub25kaW1lbnNpb25hbGl6YXRpb24pIGNvbnN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPFQ+dGhlcm1vZHluYW1pY3NfcmhzX2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zPj50aGVybW9keW5hbWljc19saHNfaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpUaGVybW9TdGF0ZTxMaW5lYXJpemU6OkRkYXRhPE51bUVxbnMrOT4+dGhlcm1vZHluYW1pY3NfbGhzZ3JhZF9pbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8VD4gdGhlcm1vZHluYW1pY3NfaW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPFQ+dGhlcm1vZHluYW1pY3NfcmhzX2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8TGluZWFyaXplOjpEZGF0YTxOdW1FcW5zPj50aGVybW9keW5hbWljc19saHNfaW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpUaGVybW9TdGF0ZTxMaW5lYXJpemU6OkRkYXRhPE51bUVxbnMrOT4+dGhlcm1vZHluYW1pY3NfbGhzZ3JhZF9pbiwK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8VD4gdGhlcm1vZHluYW1pY3MsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPFQ+IHRoZXJtb2R5bmFtaWNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8VD4gdGhlcm1vZHluYW1pY3NfaW4sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHVyYnVsZW50X3RoZXJtb2R5bmFtaWNzKGNyZWF0ZVR1cmJ1bGVudFRoZXJtb2R5bmFtaWNzKCkpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6VGhlcm1vU3RhdGU8VD4gdGhlcm1vZHluYW1pY3MsCiAgICAgICAgICAgICAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPFQ+IHRoZXJtb2R5bmFtaWNzLAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">dHVyYnVsZW50X3RoZXJtb2R5bmFtaWNzKGNyZWF0ZVR1cmJ1bGVudFRoZXJtb2R5bmFtaWNzKCkpIHt9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpUaGVybW9TdGF0ZTxUPnRoZXJtb2R5bmFtaWNzX2luLAo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ZXh0ZXJuIApleHRlcm4gCmV4dGVybiAKZXh0ZXJuIApleHRlcm4gCmV4dGVybiA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb1N0YXRlLmNwcCIK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+CkhTOjpUaGVybW9TdGF0ZSBWaXNjb3VzQm91bmRhcnlUZXJtczxULCBOdW1FcW5zPjo6Y3JlYXRlVHVyYnVsZW50VGhlcm1vZHluYW1pY3MoKSB7CiAgICBhdXRvIHR1cmJfdGhlcm1vID0gdGhlcm1vZHluYW1pY3M7CiAgICB0dXJiX3RoZXJtby5zZXRQcmFuZHRsTnVtYmVyKDAuOSk7CiAgICByZXR1cm4gdHVyYl90aGVybW87Cn0KCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb1N0YXRlLmNwcCIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+CkhTOjpUaGVybW9TdGF0ZSBWaXNjb3VzQm91bmRhcnlUZXJtczxULCBOdW1FcW5zPjo6Y3JlYXRlVHVyYnVsZW50VGhlcm1vZHluYW1pY3MoKSB7CiAgICBhdXRvIHR1cmJfdGhlcm1vID0gdGhlcm1vZHluYW1pY3M7CiAgICB0dXJiX3RoZXJtby5zZXRQcmFuZHRsTnVtYmVyKDAuOSk7CiAgICByZXR1cm4gdHVyYl90aGVybW87Cn0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

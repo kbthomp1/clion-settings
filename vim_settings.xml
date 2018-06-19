@@ -125,11 +125,10 @@
         <mark key="^" line="145" column="35" />
         <mark key="." line="145" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/CMakeLists.txt" timestamp="1529421448721">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="21" />
+      <file name="$USER_HOME$/one-ring/ra/CMakeLists.txt" timestamp="1529426931326">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFluxFactory.h" timestamp="1527598032171">
         <mark key="[" line="14" column="58" />
@@ -843,6 +842,11 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/Thermodynamics.h" timestamp="1529085930288">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="97" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/BoundaryConditions.h" timestamp="1525273020496">
         <mark key="'" line="175" column="40" />
       </file>
@@ -983,11 +987,11 @@
       <file name="/Dummy.txt" timestamp="1529330912062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1529426639906">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1529426770744">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/main.f90" timestamp="1500466562288">
         <mark key="'" line="21" column="23" />
@@ -1189,7 +1193,7 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" timestamp="1529426606065" />
+      <file name="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" timestamp="1529427204216" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/CMakeLists.txt" timestamp="1523983372200">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="3" column="32" />
@@ -1385,6 +1389,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/one-ring/ra/src/raConfig.cmake" timestamp="1529427064148">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512596545098">
         <mark key="'" line="30" column="56" />
         <mark key="[" line="86" column="77" />
@@ -1511,9 +1521,6 @@
         <mark key="]" line="37" column="40" />
         <mark key="^" line="61" column="16" />
         <mark key="." line="61" column="16" />
-      </file>
-      <file name="$USER_HOME$/one-ring/ra/src/TransportNonEquilbOneTemp.h" timestamp="1529094972722">
-        <mark key="^" line="374" column="36" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/CMakeLists.txt" timestamp="1528467386609">
         <mark key="[" line="44" column="29" />
@@ -2145,8 +2152,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>parfait</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5561,34 +5568,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5zdGFsbChGSUxFUyByYUNvbmZpZy5jbWFrZQogICAgICAgIERFU1RJTkFUSU9OIHJhKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+CiAgICBUaGVybW9TdGF0ZTxUPjo6VGhlcm1vU3RhdGUoY29uc3QgSFM6Ok5vbmRpbWVuc2lvbmFsaXphdGlvbiAmbm9uZGltZW5zaW9uYWxpemF0aW9uX2luLCBkb3VibGUgZ2FtbWFfaW4pCiAgICAgICAgICAgIDogc3V0aGVybGFuZHNfY29uc3RhbnRfU19haXIobm9uZGltZW5zaW9uYWxpemF0aW9uX2luLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoc3V0aGVybGFuZHNfY29uc3RhbnRfU19haXJfbWtzKSksCiAgICAgICAgICAgICAgc3V0aGVybGFuZHNfY29uc3RhbnRfQzFfYWlyKG5vbmRpbWVuc2lvbmFsaXplU3V0aGVybGFuZHNDMUNvbnN0YW50KG5vbmRpbWVuc2lvbmFsaXphdGlvbl9pbikpLAogICAgICAgICAgICAgIHByYW5kdGxfbnVtYmVyKDAuNzIpLAogICAgICAgICAgICAgIHNwZWNpZmljX2dhc19jb25zdGFudChub25kaW1lbnNpb25hbGl6ZVNwZWNpZmljR2FzQ29uc3RhbnQobm9uZGltZW5zaW9uYWxpemF0aW9uX2luKSksCiAgICAgICAgICAgICAgZ2FtbWEoZ2FtbWFfaW4pLAogICAgICAgICAgICAgIHNwZWNpZmljX2hlYXRfY29uc3RhbnRfcHJlc3N1cmUoY2FsY1NwZWNpZmljSGVhdENvbnN0YW50UHJlc3N1cmUoc3BlY2lmaWNfZ2FzX2NvbnN0YW50LCBnYW1tYSkpIHt9Cgo=</text>
+        <text encoding="base64">I3RhcmdldF9zb3VyY2VzKHJhIElOVEVSRkFDRSAke0hFQURFUl9GSUxFU30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyguICR7Q01BS0VfQ1VSUkVOVF9TT1VSQ0VfRElSfS8uLi9zcmMpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlPHR5cGVuYW1lIFQ+CiAgICBUaGVybW9TdGF0ZTxUPjo6VGhlcm1vU3RhdGUoY29uc3QgSFM6Ok5vbmRpbWVuc2lvbmFsaXphdGlvbiAmbm9uZGltZW5zaW9uYWxpemF0aW9uX2luLCBkb3VibGUgZ2FtbWFfaW4pCiAgICAgICAgICAgIDogc3V0aGVybGFuZHNfY29uc3RhbnRfU19haXIobm9uZGltZW5zaW9uYWxpemF0aW9uX2luLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoc3V0aGVybGFuZHNfY29uc3RhbnRfU19haXJfbWtzKSksCiAgICAgICAgICAgICAgc3V0aGVybGFuZHNfY29uc3RhbnRfQzFfYWlyKG5vbmRpbWVuc2lvbmFsaXplU3V0aGVybGFuZHNDMUNvbnN0YW50KG5vbmRpbWVuc2lvbmFsaXphdGlvbl9pbikpLAogICAgICAgICAgICAgIHByYW5kdGxfbnVtYmVyKDAuNzIpLAogICAgICAgICAgICAgIHNwZWNpZmljX2dhc19jb25zdGFudChub25kaW1lbnNpb25hbGl6ZVNwZWNpZmljR2FzQ29uc3RhbnQobm9uZGltZW5zaW9uYWxpemF0aW9uX2luKSksCiAgICAgICAgICAgICAgZ2FtbWEoZ2FtbWFfaW4pLAogICAgICAgICAgICAgIHNwZWNpZmljX2hlYXRfY29uc3RhbnRfcHJlc3N1cmUoY2FsY1NwZWNpZmljSGVhdENvbnN0YW50UHJlc3N1cmUoc3BlY2lmaWNfZ2FzX2NvbnN0YW50LCBnYW1tYSkpIHt9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyguICR7Q01BS0VfQ1VSUkVOVF9TT1VSQ0VfRElSfS8uLi9zcmMpCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5zdGFsbChUQVJHRVRTIHJhCiAgICAgICAgREVTVElOQVRJT04gbGliKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -572,11 +572,10 @@
         <mark key="." line="89" column="3" />
         <mark key="^" line="89" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/RelizabilityControllerTests.cpp" timestamp="1528213444169">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/RelizabilityControllerTests.cpp" timestamp="1529513805364">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" timestamp="1529065003982">
         <mark key="[" line="18" column="56" />
@@ -690,11 +689,11 @@
         <mark key="^" line="118" column="90" />
         <mark key="." line="118" column="90" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/RealizabilityControllerTests.cpp" timestamp="1528892380112">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="14" column="46" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/RealizabilityControllerTests.cpp" timestamp="1529515071230">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="41" column="17" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/ChemicalKinetics.cpp" timestamp="1529094770211">
         <mark key="[" line="7" column="0" />
@@ -982,7 +981,7 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529431813367">
+      <file name="/Dummy.txt" timestamp="1529514332818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1529427673423">
@@ -1914,12 +1913,12 @@
         <mark key="." line="13" column="67" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/RealizabilityController.h" timestamp="1528213184324">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/RealizabilityController.h" timestamp="1529514977816">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/PseudoTimeIntegratorFactory.h" timestamp="1522103384745">
         <mark key="'" line="7" column="13" />
@@ -2060,8 +2059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="31" filename="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" />
-      <jump line="65" column="26" filename="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" />
       <jump line="66" column="26" filename="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" />
       <jump line="110" column="31" filename="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" />
       <jump line="7" column="15" filename="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" />
@@ -2160,6 +2157,8 @@
       <jump line="74" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
       <jump line="9" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
       <jump line="78" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="3" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/RelizabilityControllerTests.cpp" />
+      <jump line="40" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/RealizabilityControllerTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2170,7 +2169,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Catch</text>
+        <text>std::max(density_percent_change, temp))</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5570,49 +5569,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Catch</text>
+        <text>std::max(density_percent_change, temp))</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIm9sZDogIiA8PCBub25kaW1fdmlzY29zaXR5IDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oIkluY3JlYXNlIGluIGRlbnNpdHkgYW5kIHRlbXBlcmF0dXJlIikgewogICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gdXBkYXRlKDMpOwogICAgICAgIHVwZGF0ZVswXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgICAgIHVwZGF0ZVsxXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgICAgIHVwZGF0ZVsyXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwoKICAgICAgICBhdXRvIHJlbGF4YXRpb24gPSBSZWFsaXphYmlsaXR5OjpjYWxjdWxhdGVVcGRhdGVSZWxheGF0aW9uKG1wLCBtYXhfcGVyY2VudF9jaGFuZ2UsIHNvbHV0aW9uLCB1cGRhdGUpOwogICAgICAgIFJFUVVJUkUocmVsYXhhdGlvbiA9PSAxLjApOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNhdGNoLmhwcD4K</text>
+      <register name="1" type="8">
+        <text>0.1
+0.1
+0.1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgdmlzY29zaXR5MSA8PCAiICIgPDwgdmlzY29zaXR5MiA8PCBzdGQ6OmVuZGw7Cg==</text>
+      <register name="2" type="8">
+        <text>-0.1
+-0.1
+-0.1</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgbm9uZGltLmRpbWVuc2lvbmFsRHluYW1pY1Zpc2Nvc2l0eSh2aXNjb3NpdHkzKSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRlbXBlcmF0dXJlID0gY2FsY1RlbXBlcmF0dXJlKGRlbnNpdHksIHByZXNzdXJlKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gdXBkYXRlKDMpOwogICAgdXBkYXRlWzBdID0gey0wLjEsIDAuMDEsIDAuMDIsIDAuMDMsIDAuMX07CiAgICB1cGRhdGVbMV0gPSB7LTAuMSwgMC4wMSwgMC4wMiwgMC4wMywgMC4xfTsKICAgIHVwZGF0ZVsyXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwoKICAgIGRvdWJsZSBtYXhfcGVyY2VudF9jaGFuZ2UgPSAwLjE7CiAgICBhdXRvIHJlbGF4YXRpb24gPSBSZWFsaXphYmlsaXR5OjpjYWxjdWxhdGVVcGRhdGVSZWxheGF0aW9uKG1wLCBtYXhfcGVyY2VudF9jaGFuZ2UsIHNvbHV0aW9uLCB1cGRhdGUpOwogICAgUkVRVUlSRShyZWxheGF0aW9uID09IDEuMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aXNjaXN0eSkK</text>
+        <text encoding="base64">CgpURVNUX0NBU0UoImNhbGN1bGF0ZSB1cGRhdGUgcmVsYXhhdGlvbiBmYWN0b3IiKSB7CiAgICBhdXRvIG1wID0gTWVzc2FnZVBhc3NlcigpOwogICAgZG91YmxlIG1heF9wZXJjZW50X2NoYW5nZSA9IDAuMDE7CiAgICBTRUNUSU9OKCJ1bml2ZXJzYWxseSBhY2NlcHQgcG9zaXRpdmUgdXBkYXRlIikgewogICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gc29sdXRpb24oMyk7CiAgICAgICAgc29sdXRpb25bMF0gPSB7MS4wLCAwLjEsIDAuMiwgMC4zLCAxLjB9OwogICAgICAgIHNvbHV0aW9uWzFdID0gezIuMCwgMC4xLCAwLjIsIDAuMywgMS4xfTsKICAgICAgICBzb2x1dGlvblsyXSA9IHszLjAsIDAuMSwgMC4yLCAwLjMsIDEuMn07CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiB1cGRhdGUoMyk7CiAgICAgICAgdXBkYXRlWzBdID0gezEuMCwgMC4xLCAwLjIsIDAuMywgMC4wfTsKICAgICAgICB1cGRhdGVbMV0gPSB7MS41LCAwLjEsIDAuMiwgMC4zLCAwLjF9OwogICAgICAgIHVwZGF0ZVsyXSA9IHsyLjAsIDAuMSwgMC4yLCAwLjMsIDAuMn07CgogICAgfQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX3ByZXNzdXJlID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsUHJlc3N1cmUoKQo=</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJUZXN0IHN0YXRlIHJlYWxpemFiaWxpdHkiKSB7CiAgICBkb3VibGUgZGVuc2l0eSA9IDEuMDsKICAgIGRvdWJsZSB0ZW1wZXJhdHVyZSA9IDAuMjsKICAgIFJFUVVJUkVfRkFMU0UoUmVhbGl6YWJpbGl0eTo6c3RhdGVJc05vdFJlYWxpemFibGUoZGVuc2l0eSwgdGVtcGVyYXR1cmUpKTsKICAgIHRlbXBlcmF0dXJlID0gLTEyLjA7CiAgICBSRVFVSVJFKFJlYWxpemFiaWxpdHk6OnN0YXRlSXNOb3RSZWFsaXphYmxlKGRlbnNpdHksIHRlbXBlcmF0dXJlKSk7Cn0KClRFU1RfQ0FTRSgiVmFsaWQgc29sdXRpb24gdXBkYXRlIGFjY2VwdGVkIHdpdGhvdXQgcmVsYXhhdGlvbiIpIHsKICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwogICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiBzb2x1dGlvbigzLCB7MS4wLCAwLjEsIDAuMiwgMC4zLCAxLjB9KTsKCiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHVwZGF0ZSgzKTsKICAgIHVwZGF0ZVswXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgdXBkYXRlWzFdID0gey0wLjEsIDAuMDEsIDAuMDIsIDAuMDMsIDAuMX07CiAgICB1cGRhdGVbMl0gPSB7LTAuMSwgMC4wMSwgMC4wMiwgMC4wMywgMC4xfTsKCiAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwogICAgYXV0byByZWxheGF0aW9uID0gUmVhbGl6YWJpbGl0eTo6Y2FsY3VsYXRlVXBkYXRlUmVsYXhhdGlvbihtcCwgbWF4X3BlcmNlbnRfY2hhbmdlLCBzb2x1dGlvbiwgdXBkYXRlKTsKICAgIFJFUVVJUkUocmVsYXhhdGlvbiA9PSAxLjApOwp9CgpURVNUX0NBU0UoIlVwZGF0ZSBhY2NlcHRlZCB3aXRoIHJlbGF4YXRpb24iKSB7CiAgICBNZXNzYWdlUGFzc2VyIG1wKE1QSV9DT01NX1dPUkxEKTsKICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gc29sdXRpb24oMywgezEuMCwgMC4xLCAwLjIsIDAuMywgMS4wfSk7CgogICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiB1cGRhdGUoMyk7CiAgICB1cGRhdGVbMF0gPSB7MC41LCAwLjEsIDAuMiwgMC4zLCAwLjV9OwogICAgdXBkYXRlWzFdID0gezEuMiwgMC4xLCAwLjIsIDAuMywgMS4yfTsKICAgIHVwZGF0ZVsyXSA9IHswLjUsIDAuMSwgMC4yLCAwLjMsIDAuNX07CgogICAgZG91YmxlIG1heF9wZXJjZW50X2NoYW5nZSA9IDAuMTsKICAgIGF1dG8gcmVsYXhhdGlvbiA9IFJlYWxpemFiaWxpdHk6OmNhbGN1bGF0ZVVwZGF0ZVJlbGF4YXRpb24obXAsIG1heF9wZXJjZW50X2NoYW5nZSwgc29sdXRpb24sIHVwZGF0ZSk7CiAgICBSRVFVSVJFKHJlbGF4YXRpb24gPT0gMC4xIC8gMS4yKTsKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYV90cmFuc3BvcnRfcHJvcGVydGllcy5jb21wdXRlU3RhdGUoVHJhbnNwb3J0T3V0cHV0OjpWaXNjb3NpdHksICkK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNhdGNoLmhwcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -441,7 +441,7 @@
       <file name="/GDB" timestamp="1529436827843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" timestamp="1529332380605">
+      <file name="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" timestamp="1529592122327">
         <mark key="'" line="166" column="0" />
         <mark key="[" line="50" column="45" />
         <mark key="]" line="50" column="47" />
@@ -772,7 +772,6 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockThermoTests.cpp" timestamp="1529064968634" />
       <file name="$USER_HOME$/one-ring/ra/src/ChemicalKinetics.h" timestamp="1529094855999">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="24" column="54" />
@@ -1195,7 +1194,6 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" timestamp="1529427568814" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/CMakeLists.txt" timestamp="1523983372200">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="3" column="32" />
@@ -1248,6 +1246,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ThermodynamicsFactoryTests.cpp" timestamp="1529592450933">
+        <mark key="[" line="19" column="79" />
+        <mark key="]" line="19" column="85" />
+        <mark key="." line="19" column="85" />
+        <mark key="^" line="19" column="85" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HSNonLinearSolver.hpp" timestamp="1523636057214">
         <mark key="'" line="15" column="61" />
@@ -1618,7 +1622,6 @@
         <mark key="." line="164" column="60" />
         <mark key="^" line="164" column="60" />
       </file>
-      <file name="$USER_HOME$/hefss++/src/CMakeLists.txt" timestamp="1528989786441" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/ReverseCuthillMcKee.h" timestamp="1524083967359">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1824,7 +1827,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1529437977066" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1529591477507">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1529064084533">
         <mark key="'" line="37" column="45" />
         <mark key="[" line="71" column="107" />
@@ -1878,6 +1885,12 @@
         <mark key="]" line="340" column="21" />
         <mark key="." line="340" column="21" />
         <mark key="^" line="340" column="21" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermodynamicsFactory.h" timestamp="1529592298806">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="61" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/QConvertTests.cpp" timestamp="1506461835762">
         <mark key="'" line="4" column="0" />
@@ -1955,7 +1968,7 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/src/Thermodynamics.h" timestamp="1529585119826">
+      <file name="$USER_HOME$/one-ring/ra/src/Thermodynamics.h" timestamp="1529591970812">
         <mark key="'" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex1.c" timestamp="1500993653348">
@@ -2172,7 +2185,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>std::max(density_percent_change, temp))</text>
+        <text>species</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5572,56 +5585,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>std::max(density_percent_change, temp))</text>
+        <text>species</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIkluY3JlYXNlIGluIGRlbnNpdHkgYW5kIHRlbXBlcmF0dXJlIikgewogICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gdXBkYXRlKDMpOwogICAgICAgIHVwZGF0ZVswXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgICAgIHVwZGF0ZVsxXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgICAgIHVwZGF0ZVsyXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwoKICAgICAgICBhdXRvIHJlbGF4YXRpb24gPSBSZWFsaXphYmlsaXR5OjpjYWxjdWxhdGVVcGRhdGVSZWxheGF0aW9uKG1wLCBtYXhfcGVyY2VudF9jaGFuZ2UsIHNvbHV0aW9uLCB1cGRhdGUpOwogICAgICAgIFJFUVVJUkUocmVsYXhhdGlvbiA9PSAxLjApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBzcGVjaWVzX25hbWVzID0geyJwZXJmZWN0IGdhcyJ9Owo=</text>
       </register>
-      <register name="1" type="8">
-        <text>0.1
-0.1
-0.1</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>-0.1
--0.1
--0.1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb2R5bmFtaWNzLmgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPFRoZXJtb2R5bmFtaWNzLmg+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gdXBkYXRlKDMpOwogICAgdXBkYXRlWzBdID0gey0wLjEsIDAuMDEsIDAuMDIsIDAuMDMsIDAuMX07CiAgICB1cGRhdGVbMV0gPSB7LTAuMSwgMC4wMSwgMC4wMiwgMC4wMywgMC4xfTsKICAgIHVwZGF0ZVsyXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwoKICAgIGRvdWJsZSBtYXhfcGVyY2VudF9jaGFuZ2UgPSAwLjE7CiAgICBhdXRvIHJlbGF4YXRpb24gPSBSZWFsaXphYmlsaXR5OjpjYWxjdWxhdGVVcGRhdGVSZWxheGF0aW9uKG1wLCBtYXhfcGVyY2VudF9jaGFuZ2UsIHNvbHV0aW9uLCB1cGRhdGUpOwogICAgUkVRVUlSRShyZWxheGF0aW9uID09IDEuMCk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRoZXJtb1N0YXRlLmgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpURVNUX0NBU0UoImNhbGN1bGF0ZSB1cGRhdGUgcmVsYXhhdGlvbiBmYWN0b3IiKSB7CiAgICBhdXRvIG1wID0gTWVzc2FnZVBhc3NlcigpOwogICAgZG91YmxlIG1heF9wZXJjZW50X2NoYW5nZSA9IDAuMDE7CiAgICBTRUNUSU9OKCJ1bml2ZXJzYWxseSBhY2NlcHQgcG9zaXRpdmUgdXBkYXRlIikgewogICAgICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gc29sdXRpb24oMyk7CiAgICAgICAgc29sdXRpb25bMF0gPSB7MS4wLCAwLjEsIDAuMiwgMC4zLCAxLjB9OwogICAgICAgIHNvbHV0aW9uWzFdID0gezIuMCwgMC4xLCAwLjIsIDAuMywgMS4xfTsKICAgICAgICBzb2x1dGlvblsyXSA9IHszLjAsIDAuMSwgMC4yLCAwLjMsIDEuMn07CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiB1cGRhdGUoMyk7CiAgICAgICAgdXBkYXRlWzBdID0gezEuMCwgMC4xLCAwLjIsIDAuMywgMC4wfTsKICAgICAgICB1cGRhdGVbMV0gPSB7MS41LCAwLjEsIDAuMiwgMC4zLCAwLjF9OwogICAgICAgIHVwZGF0ZVsyXSA9IHsyLjAsIDAuMSwgMC4yLCAwLjMsIDAuMn07CgogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJUZXN0IHN0YXRlIHJlYWxpemFiaWxpdHkiKSB7CiAgICBkb3VibGUgZGVuc2l0eSA9IDEuMDsKICAgIGRvdWJsZSB0ZW1wZXJhdHVyZSA9IDAuMjsKICAgIFJFUVVJUkVfRkFMU0UoUmVhbGl6YWJpbGl0eTo6c3RhdGVJc05vdFJlYWxpemFibGUoZGVuc2l0eSwgdGVtcGVyYXR1cmUpKTsKICAgIHRlbXBlcmF0dXJlID0gLTEyLjA7CiAgICBSRVFVSVJFKFJlYWxpemFiaWxpdHk6OnN0YXRlSXNOb3RSZWFsaXphYmxlKGRlbnNpdHksIHRlbXBlcmF0dXJlKSk7Cn0KClRFU1RfQ0FTRSgiVmFsaWQgc29sdXRpb24gdXBkYXRlIGFjY2VwdGVkIHdpdGhvdXQgcmVsYXhhdGlvbiIpIHsKICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwogICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiBzb2x1dGlvbigzLCB7MS4wLCAwLjEsIDAuMiwgMC4zLCAxLjB9KTsKCiAgICBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PGRvdWJsZSwgNT4+IHVwZGF0ZSgzKTsKICAgIHVwZGF0ZVswXSA9IHstMC4xLCAwLjAxLCAwLjAyLCAwLjAzLCAwLjF9OwogICAgdXBkYXRlWzFdID0gey0wLjEsIDAuMDEsIDAuMDIsIDAuMDMsIDAuMX07CiAgICB1cGRhdGVbMl0gPSB7LTAuMSwgMC4wMSwgMC4wMiwgMC4wMywgMC4xfTsKCiAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0gMC4xOwogICAgYXV0byByZWxheGF0aW9uID0gUmVhbGl6YWJpbGl0eTo6Y2FsY3VsYXRlVXBkYXRlUmVsYXhhdGlvbihtcCwgbWF4X3BlcmNlbnRfY2hhbmdlLCBzb2x1dGlvbiwgdXBkYXRlKTsKICAgIFJFUVVJUkUocmVsYXhhdGlvbiA9PSAxLjApOwp9CgpURVNUX0NBU0UoIlVwZGF0ZSBhY2NlcHRlZCB3aXRoIHJlbGF4YXRpb24iKSB7CiAgICBNZXNzYWdlUGFzc2VyIG1wKE1QSV9DT01NX1dPUkxEKTsKICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gc29sdXRpb24oMywgezEuMCwgMC4xLCAwLjIsIDAuMywgMS4wfSk7CgogICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxkb3VibGUsIDU+PiB1cGRhdGUoMyk7CiAgICB1cGRhdGVbMF0gPSB7MC41LCAwLjEsIDAuMiwgMC4zLCAwLjV9OwogICAgdXBkYXRlWzFdID0gezEuMiwgMC4xLCAwLjIsIDAuMywgMS4yfTsKICAgIHVwZGF0ZVsyXSA9IHswLjUsIDAuMSwgMC4yLCAwLjMsIDAuNX07CgogICAgZG91YmxlIG1heF9wZXJjZW50X2NoYW5nZSA9IDAuMTsKICAgIGF1dG8gcmVsYXhhdGlvbiA9IFJlYWxpemFiaWxpdHk6OmNhbGN1bGF0ZVVwZGF0ZVJlbGF4YXRpb24obXAsIG1heF9wZXJjZW50X2NoYW5nZSwgc29sdXRpb24sIHVwZGF0ZSk7CiAgICBSRVFVSVJFKHJlbGF4YXRpb24gPT0gMC4xIC8gMS4yKTsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VQYXNzZXIgbXAoTVBJX0NPTU1fV09STEQpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPFRoZXJtb2R5bmFtaWNzLmg+Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNhdGNoLmhwcD4K</text>
+      <register name="9" type="8">
+        <text>0.1
+0.1
+0.1</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5675,8 +5686,8 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>we</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -1118,12 +1118,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/src/ThermodynamicsPerfectGas.h" timestamp="1529612711617">
+      <file name="$USER_HOME$/one-ring/ra/src/ThermodynamicsPerfectGas.h" timestamp="1529612868845">
         <mark key="'" line="10" column="49" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="94" column="4" />
-        <mark key="." line="92" column="66" />
-        <mark key="^" line="92" column="66" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="4" />
+        <mark key="." line="101" column="4" />
+        <mark key="^" line="101" column="4" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" timestamp="1523050859463">
         <mark key="'" line="97" column="37" />
@@ -2177,8 +2177,11 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="8">
+        <text>T
+T
+T
+T</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5586,41 +5589,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gZ2V0U3BlY2llc01vbGVjdWxhcldlaWdodCgpIGNvbnN0IG92ZXJyaWRlIHsKICAgICAgICByZXR1cm4ge3NwZWNpZXNfbW9sX3d0fTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>T
+T
+T
+T</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gc3BlY2llc19tb2xfd3Q7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJvdGVjdGVkOgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gc3BlY2llc19tb2xfd3Q7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJvdGVjdGVkOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvdGVjdGVkOgogICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBzcGVjaWVzX21vbF93dDsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gc3BlY2llc19tb2xfd3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gZ2V0U3BlY2llc01vbGVjdWxhcldlaWdodCgpIGNvbnN0IHsKICAgICAgICByZXR1cm4gc3BlY2llc19tb2xfd3Q7CiAgICB9Cgo=</text>
+        <text encoding="base64">cHJvdGVjdGVkOgogICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBzcGVjaWVzX21vbF93dDsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiUl91bml2ID0gJWVcbiIsIEhTOjp1bml2ZXJhbF9nYXNfY29uc3RhbnRfbWtzKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gZ2V0U3BlY2llc01vbGVjdWxhcldlaWdodCgpIGNvbnN0IHsKICAgICAgICByZXR1cm4gc3BlY2llc19tb2xfd3Q7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

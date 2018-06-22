@@ -1364,11 +1364,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ToConservedVariablesTests.cpp" timestamp="1528117786378">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="28" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ToConservedVariablesTests.cpp" timestamp="1529673911183">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
         <mark key="^" line="16" column="12" />
-        <mark key="." line="16" column="12" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/raConfig.cmake" timestamp="1529427064148">
         <mark key="[" line="0" column="42" />
@@ -5586,7 +5586,7 @@
         <text>getGamma</text>
       </register>
       <register name="/" type="4">
-        <text>gamma</text>
+        <text>getG</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFQgYzsKICAgIGlmIChnYW1tYWwgPT0gZ2FtbWFyKSB7CiAgICAgICAgYyA9IHNxcnQoKGdhbW1hbC0xLjApKihoIC0gMC41KnEyKSk7CiAgICB9IGVsc2UgewogICAgICAgIHRocm93IHN0ZDo6bG9naWNfZXJyb3IoIkltcGxlbWVudCBub24tcGVyZmVjdCBnYXMgcm9lIGZsdXgiKTsKICAgIH0K</text>
@@ -5632,9 +5632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gamma</last-search>
+      <last-search>getG</last-search>
       <last-offset />
-      <last-pattern>gamma</last-pattern>
+      <last-pattern>getG</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5642,7 +5642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ra</entry>
         <entry>14</entry>
         <entry>5</entry>
         <entry>hyper</entry>
@@ -5662,6 +5661,7 @@
         <entry>getGm</entry>
         <entry>getGamma</entry>
         <entry>gamma</entry>
+        <entry>getG</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dp/c_double/g</entry>

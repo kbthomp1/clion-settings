@@ -430,6 +430,9 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
+      <file name="/GDB" timestamp="1529948394980">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="31" column="0" />
@@ -555,12 +558,12 @@
         <mark key="." line="89" column="3" />
         <mark key="^" line="89" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" timestamp="1529941586353">
-        <mark key="'" line="197" column="13" />
-        <mark key="[" line="47" column="50" />
-        <mark key="]" line="47" column="53" />
-        <mark key="^" line="47" column="53" />
-        <mark key="." line="47" column="53" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" timestamp="1529948363975">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="47" column="57" />
+        <mark key="]" line="47" column="56" />
+        <mark key="^" line="47" column="56" />
+        <mark key="." line="47" column="56" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TdataReader.h" timestamp="1500379540973">
         <mark key="'" line="28" column="28" />
@@ -952,6 +955,9 @@
         <mark key="]" line="6" column="50" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529948384963">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1529601239722">
         <mark key="'" line="38" column="81" />
@@ -1566,7 +1572,7 @@
         <mark key="." line="31" column="29" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" timestamp="1529939787265">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" timestamp="1529948430831">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="104" column="14" />
         <mark key="]" line="104" column="78" />
@@ -1904,12 +1910,6 @@
         <mark key="." line="14" column="94" />
         <mark key="^" line="14" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" timestamp="1529670737811">
-        <mark key="'" line="204" column="103" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/ra/test/CMakeLists.txt" timestamp="1529601230137">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="24" column="21" />
@@ -2041,8 +2041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="38" filename="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" />
       <jump line="174" column="24" filename="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" />
       <jump line="177" column="41" filename="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" />
       <jump line="183" column="43" filename="$USER_HOME$/one-ring/ra/src/NonEquilibriumOneTemp.h" />
@@ -2141,6 +2139,8 @@
       <jump line="178" column="65" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
       <jump line="33" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
       <jump line="197" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
+      <jump line="50" column="51" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
+      <jump line="51" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2150,8 +2150,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHJvZV9hdmdfc3BlZWRfb2Zfc291bmQgPSBIUzo6Y29tcHV0ZVJvZUF2ZXJhZ2VTcGVlZE9mU291bmQoc3RhdGUsIHN0YXRlLCByb2VfYXZlcmFnZV9zdGF0ZSwgTjJfdGhlcm1vKTsK</text>
+      <register name="&quot;" type="4">
+        <text>auto</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5551,58 +5551,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>perfect_gas_thermo</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>perfec</text>
+        <text>l</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcHJlc3N1cmVfZGVuc2l0eV9saW5lYXJpemF0aW9uLCBwcmVzc3VyZV9lbmVyZ3lfbGluZWFyaXphdGlvbjsK</text>
+        <text encoding="base64">ICAgIHByaW50ZigicGw6ICVlXG4iLCB0aGVybW8uY2FsY1ByZXNzdXJlKHFsWzBdLCBxbFs0XSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHJvZV9hdmdfc3BlZWRfb2Zfc291bmQgPSBIUzo6Y29tcHV0ZVJvZUF2ZXJhZ2VTcGVlZE9mU291bmQoc3RhdGUsIHN0YXRlLCByb2VfYXZlcmFnZV9zdGF0ZSwgTjJfdGhlcm1vKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gdGhlcm1vID0gSFNNb2NrVGhlcm1vOjpnZXRUaGVybW88ZG91YmxlPih7Ik4yIn0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHJvZV9hdmdfc3BlZWRfb2Zfc291bmQgPSBIUzo6Y29tcHV0ZVJvZUF2ZXJhZ2VTcGVlZE9mU291bmQoc3RhdGUsIHN0YXRlLCByb2VfYXZlcmFnZV9zdGF0ZSwgTjJfdGhlcm1vKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFQgZ2FtbWFfcywgYmV0YTsKLy8gICAgICAgIHN0ZDo6dGllKGdhbW1hX3MsIGJldGEpID0gY29tcHV0ZVByZXNzdXJlTGluZWFyaXphdGlvblJvZUF2ZXJhZ2Uoc3RhdGVfbGVmdCwgc3RhdGVfcmlnaHQsIHJvZV9hdmVyYWdlX3N0YXRlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFQgZ2FtbWFfcywgYmV0YTsKLy8gICAgICAgIHN0ZDo6dGllKGdhbW1hX3MsIGJldGEpID0gY29tcHV0ZVByZXNzdXJlTGluZWFyaXphdGlvblJvZUF2ZXJhZ2Uoc3RhdGVfbGVmdCwgc3RhdGVfcmlnaHQsIHJvZV9hdmVyYWdlX3N0YXRlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVybW9keW5hbWljcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcyA9IHtkZW5zaXR5LCB1LCB2LCB3LCB0ZW1wZXJhdHVyZX07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcyA9IHtkZW5zaXR5LCB1LCB2LCB3LCB0ZW1wZXJhdHVyZX07Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gc3RhdGUgPSB7ZGVuc2l0eSwgdSwgdiwgdywgdGVtcGVyYXR1cmV9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcyA9IHtkZW5zaXR5LCB1LCB2LCB3LCB0ZW1wZXJhdHVyZX07Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gc3RhdGUgPSB7ZGVuc2l0eSwgdSwgdiwgdywgdGVtcGVyYXR1cmV9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>perfec</last-search>
+      <last-search>l</last-search>
       <last-offset />
-      <last-pattern>perfec</last-pattern>
+      <last-pattern>l</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5623,13 +5623,13 @@
         <entry>getG</entry>
         <entry>throw</entry>
         <entry>Riemann</entry>
-        <entry>l</entry>
         <entry>pressure</entry>
         <entry>left</entry>
         <entry>Dirich</entry>
         <entry>formA</entry>
         <entry>T</entry>
         <entry>perfec</entry>
+        <entry>l</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dp/c_double/g</entry>

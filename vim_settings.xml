@@ -81,12 +81,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" timestamp="1529952098494">
-        <mark key="'" line="53" column="6" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="67" column="85" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" timestamp="1529954199070">
+        <mark key="'" line="55" column="99" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="61" />
+        <mark key="." line="71" column="61" />
+        <mark key="^" line="71" column="61" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solution/ToConservedVariables.h" timestamp="1529692301078">
         <mark key="[" line="13" column="60" />
@@ -1128,7 +1128,6 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" timestamp="1529935560752" />
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" timestamp="1523050859463">
         <mark key="'" line="97" column="37" />
         <mark key="[" line="94" column="17" />
@@ -1454,8 +1453,8 @@
         <mark key="." line="23" column="82" />
         <mark key="^" line="23" column="82" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" timestamp="1528997224546">
-        <mark key="'" line="112" column="24" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" timestamp="1529954002975">
+        <mark key="'" line="15" column="22" />
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="53" />
         <mark key="." line="9" column="53" />
@@ -2057,9 +2056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
-      <jump line="12" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
       <jump line="46" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
       <jump line="143" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="149" column="105" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
@@ -2157,6 +2153,9 @@
       <jump line="53" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
       <jump line="12" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
       <jump line="19" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
+      <jump line="15" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
+      <jump line="68" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
+      <jump line="55" column="99" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2167,7 +2166,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIlIgPSAlZVxuIiwgSFNNb2NrVGhlcm1vOjpnZXRTcGVjaWZpY0dhc0NvbnN0YW50QWlyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBSID0gSFM6OnVuaXZlcmFsX2dhc19jb25zdGFudF9ta3MgLyBIUzo6bW9sZWN1bGFyX3dlaWdodF9haXI7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5567,13 +5566,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6385e</text>
+        <text>thermodynamics.calcPressure(density, temperature);</text>
       </register>
       <register name="/" type="4">
-        <text>temperature_ref</text>
+        <text>thermo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGltZW5zaW9uYWxfdGhlcm1vZHluYW1pY3MgPSBjcmVhdGVEaW1lbnNpb25hbFRoZXJtbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBSID0gSFM6OnVuaXZlcmFsX2dhc19jb25zdGFudF9ta3MgLyBIUzo6bW9sZWN1bGFyX3dlaWdodF9haXI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGYoIlIgPSAlZVxuIiwgSFNNb2NrVGhlcm1vOjpnZXRTcGVjaWZpY0dhc0NvbnN0YW50QWlyKCkpOwo=</text>
@@ -5616,9 +5615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>temperature_ref</last-search>
+      <last-search>thermo</last-search>
       <last-offset />
-      <last-pattern>temperature_ref</last-pattern>
+      <last-pattern>thermo</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5626,9 +5625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kappa</entry>
-        <entry>ThermoState</entry>
-        <entry>getGm</entry>
         <entry>getGamma</entry>
         <entry>gamma</entry>
         <entry>getG</entry>
@@ -5646,6 +5642,9 @@
         <entry>nondim</entry>
         <entry>ideal_gas</entry>
         <entry>temperature_ref</entry>
+        <entry>Dir</entry>
+        <entry>tehrmody</entry>
+        <entry>thermo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dp/c_double/g</entry>

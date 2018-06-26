@@ -101,9 +101,9 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1529067006267">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1530018336031">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="39" column="19" />
+        <mark key="[" line="46" column="54" />
         <mark key="]" line="39" column="26" />
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
@@ -423,6 +423,12 @@
         <mark key="." line="114" column="33" />
         <mark key="^" line="114" column="33" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.cpp" timestamp="1530016889889">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="62" />
+        <mark key="^" line="6" column="62" />
+        <mark key="." line="6" column="62" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.cpp" timestamp="1523541955006">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="0" />
@@ -437,15 +443,17 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1529948583607">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="78" column="94" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.hpp" timestamp="1530015703723">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="79" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/DualBoundary.h" timestamp="1528829422196">
         <mark key="[" line="51" column="0" />
@@ -611,12 +619,12 @@
         <mark key="^" line="197" column="14" />
         <mark key="." line="197" column="14" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1529952596839">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" timestamp="1530018190047">
         <mark key="'" line="19" column="11" />
-        <mark key="[" line="180" column="59" />
-        <mark key="]" line="180" column="85" />
-        <mark key="." line="180" column="85" />
-        <mark key="^" line="180" column="85" />
+        <mark key="[" line="213" column="71" />
+        <mark key="]" line="213" column="73" />
+        <mark key="." line="213" column="73" />
+        <mark key="^" line="213" column="73" />
       </file>
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
@@ -696,6 +704,15 @@
         <mark key="^" line="18" column="64" />
         <mark key="." line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" timestamp="1530016573266">
+        <mark key="'" line="91" column="74" />
+        <mark key="[" line="25" column="17" />
+        <mark key="k" line="80" column="65" />
+        <mark key="]" line="25" column="23" />
+        <mark key="m" line="80" column="65" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/miniapp/viscous_jacobian.cpp" timestamp="1522971872390">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="56" column="25" />
@@ -723,19 +740,19 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" timestamp="1528992594527">
-        <mark key="'" line="61" column="9" />
-        <mark key="[" line="13" column="80" />
-        <mark key="]" line="13" column="97" />
-        <mark key="." line="13" column="97" />
-        <mark key="^" line="13" column="97" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" timestamp="1530017114197">
+        <mark key="'" line="53" column="32" />
+        <mark key="[" line="111" column="32" />
+        <mark key="]" line="111" column="32" />
+        <mark key="^" line="108" column="73" />
+        <mark key="." line="111" column="73" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1529072803270">
-        <mark key="'" line="14" column="44" />
-        <mark key="[" line="108" column="84" />
-        <mark key="]" line="108" column="84" />
-        <mark key="." line="108" column="84" />
-        <mark key="^" line="104" column="98" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1530018478247">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="109" column="83" />
+        <mark key="]" line="107" column="86" />
+        <mark key="." line="109" column="85" />
+        <mark key="^" line="107" column="86" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/ThermoCurveFits.cpp" timestamp="1529331156440">
         <mark key="[" line="8" column="0" />
@@ -821,6 +838,12 @@
         <mark key="]" line="38" column="98" />
         <mark key="." line="38" column="98" />
         <mark key="^" line="38" column="98" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.cpp" timestamp="1530017682346">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="59" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TimeStepCalculationTests.cpp" timestamp="1529935822432">
         <mark key="[" line="17" column="97" />
@@ -959,9 +982,6 @@
         <mark key="]" line="6" column="50" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1529948384963">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Configuration.h" timestamp="1529952392902">
         <mark key="[" line="76" column="84" />
@@ -1392,12 +1412,12 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" timestamp="1529430088757">
-        <mark key="'" line="62" column="88" />
-        <mark key="[" line="63" column="87" />
-        <mark key="]" line="63" column="88" />
-        <mark key="^" line="56" column="88" />
-        <mark key="." line="63" column="88" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" timestamp="1530015931635">
+        <mark key="'" line="72" column="36" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" timestamp="1528999010381">
         <mark key="'" line="83" column="45" />
@@ -1419,11 +1439,12 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.h" timestamp="1529696225248">
-        <mark key="[" line="70" column="77" />
-        <mark key="]" line="70" column="75" />
-        <mark key="." line="70" column="75" />
-        <mark key="^" line="70" column="75" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.h" timestamp="1530015551844">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="18" column="63" />
+        <mark key="]" line="18" column="77" />
+        <mark key="." line="18" column="77" />
+        <mark key="^" line="18" column="77" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.cpp" timestamp="1500415717466">
         <mark key="'" line="11" column="21" />
@@ -1493,12 +1514,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1529937013311">
-        <mark key="'" line="159" column="44" />
-        <mark key="[" line="267" column="100" />
-        <mark key="]" line="267" column="100" />
-        <mark key="." line="267" column="100" />
-        <mark key="^" line="267" column="100" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1530017670410">
+        <mark key="'" line="199" column="4" />
+        <mark key="[" line="125" column="49" />
+        <mark key="]" line="125" column="46" />
+        <mark key="." line="125" column="46" />
+        <mark key="^" line="125" column="46" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513804515303">
         <mark key="'" line="18" column="0" />
@@ -1519,12 +1540,6 @@
         <mark key="]" line="2" column="18" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/one-ring/ra/src/TransportNonEquilbOneTemp.h" timestamp="1529430796534">
-        <mark key="[" line="341" column="76" />
-        <mark key="]" line="341" column="92" />
-        <mark key="^" line="341" column="92" />
-        <mark key="." line="341" column="92" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/CMakeLists.txt" timestamp="1529427915551">
         <mark key="[" line="63" column="0" />
@@ -1810,12 +1825,18 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1529064084533">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1530016116996">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1530017562554">
         <mark key="'" line="37" column="45" />
-        <mark key="[" line="71" column="107" />
-        <mark key="]" line="71" column="111" />
-        <mark key="." line="71" column="111" />
-        <mark key="^" line="71" column="111" />
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="39" />
+        <mark key="." line="63" column="39" />
+        <mark key="^" line="63" column="39" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ComplexHelpersTests.cpp" timestamp="1528815541429">
         <mark key="'" line="66" column="21" />
@@ -2067,106 +2088,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
-      <jump line="143" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="149" column="105" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="151" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="176" column="106" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="267" column="100" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="4" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="11" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="118" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="124" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="77" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="117" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="53" column="80" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="114" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="144" column="109" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="42" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
-      <jump line="115" column="38" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
-      <jump line="204" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
-      <jump line="163" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="180" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="18" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
-      <jump line="61" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
-      <jump line="24" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="26" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="35" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="14" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="22" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="25" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="33" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="36" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="59" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="148" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="580" column="89" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="7" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
-      <jump line="58" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
-      <jump line="57" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
-      <jump line="560" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="107" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="188" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="83" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="130" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="60" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="31" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" />
-      <jump line="129" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="239" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="240" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="241" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="164" column="94" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="156" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="157" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="163" column="94" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="194" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="139" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="159" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="16" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="155" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="55" column="92" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="56" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="57" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="58" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="59" column="134" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="60" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="61" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="62" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="63" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="64" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="65" column="131" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="66" column="95" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="67" column="95" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="68" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="172" column="78" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="177" column="101" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="178" column="65" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="33" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.h" />
-      <jump line="197" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="50" column="51" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="51" column="10" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="72" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
-      <jump line="67" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="68" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="69" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="70" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="77" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="78" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="79" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="80" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidFluxTests.cpp" />
-      <jump line="19" column="50" filename="$USER_HOME$/one-ring/hypersolve/test/MockThermo.h" />
-      <jump line="60" column="5" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="64" column="62" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="65" column="16" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="69" column="61" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="61" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ThermoStateTests.cpp" />
-      <jump line="53" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
-      <jump line="12" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="19" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="15" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="68" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
-      <jump line="55" column="99" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
+      <jump line="65" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="82" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="99" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="87" column="94" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="24" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="42" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="60" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="78" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="96" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="114" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="122" column="97" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="72" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solution/Nondimensionalization.cpp" />
+      <jump line="21" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="28" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="49" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="65" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="76" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="80" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="83" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="84" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="90" column="89" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="91" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.h" />
+      <jump line="143" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="91" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="118" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="157" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="175" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="92" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="13" column="119" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="23" column="89" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="57" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="58" column="93" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="119" column="129" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="120" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="126" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="128" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="127" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="158" column="132" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="159" column="105" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="165" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="166" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="167" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="176" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="52" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="74" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="79" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="108" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="169" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="55" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="106" column="48" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="59" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="49" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="53" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
+      <jump line="105" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="32" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="150" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="5" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="76" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="110" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="136" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="147" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="194" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="207" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="221" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="237" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="248" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="261" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="270" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="32" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="38" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="51" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="65" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="82" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="117" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="142" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="154" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="177" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="200" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="214" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="228" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="244" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="255" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="268" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="276" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="277" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="123" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="31" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="199" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2176,8 +2197,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getPerfectGasJson</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5577,58 +5598,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPerfectGasJson</text>
+        <text encoding="base64">SFM6OkRpc2NyZXRpemF0aW9uPFQsIE51bUVxbnM=</text>
       </register>
       <register name="/" type="4">
-        <text>thermo</text>
+        <text>for.*{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oInBlcmZlY3QgZ2FzIikgewogICAgICAgIGF1dG8gdHJhbnNwb3J0X3Byb3BlcnRpZXMgPSBjcmVhdGVUcmFuc3BvcnRQcm9wZXJ0aWVzPGRvdWJsZT4oSFNNb2NrVGhlcm1vOjpnZXRQZXJmZWN0R2FzSnNvbigpKTsKICAgICAgICBSRVFVSVJFKHRyYW5zcG9ydF9wcm9wZXJ0aWVzLT5nZXRUcmFuc3BvcnRUeXBlKCkgPT0gIlBlcmZlY3QgR2FzIik7CiAgICB9Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnMsIHNpemVfdCBOdW1TcGVjaWVzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIU01vY2tUaGVybW86OmdldFBlcmZlY3RHYXNKc29uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEhTTW9ja1RoZXJtbzo6Z2V0UGVyZmVjdEdhc0pzb24oKQogICAgYXV0byB0cmFuc3BvcnRfcHJvcGVydGllcyA9IGNyZWF0ZVRyYW5zcG9ydFByb3BlcnRpZXMoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIlIgPSAlZVxuIiwgSFNNb2NrVGhlcm1vOjpnZXRTcGVjaWZpY0dhc0NvbnN0YW50QWlyKCkpOwo=</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB0ZW1wZXJhdHVyZV9yZWYgPSBwcmVzc3VyZV9yZWYgLyAoSFNNb2NrVGhlcm1vOjpnZXRTcGVjaWZpY0dhc0NvbnN0YW50QWlyKCkgKiBkZW5zaXR5X3JlZik7Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>thermo</last-search>
+      <last-search>for.*{</last-search>
       <last-offset />
-      <last-pattern>thermo</last-pattern>
+      <last-pattern>for.*{</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5636,17 +5657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getGamma</entry>
-        <entry>gamma</entry>
-        <entry>getG</entry>
-        <entry>throw</entry>
-        <entry>Riemann</entry>
-        <entry>pressure</entry>
-        <entry>left</entry>
-        <entry>Dirich</entry>
-        <entry>formA</entry>
-        <entry>T</entry>
-        <entry>perfec</entry>
         <entry>l</entry>
         <entry>r54</entry>
         <entry encoding="base64">IA==</entry>
@@ -5656,6 +5666,17 @@
         <entry>Dir</entry>
         <entry>tehrmody</entry>
         <entry>thermo</entry>
+        <entry>T</entry>
+        <entry>double</entry>
+        <entry>6</entry>
+        <entry>14</entry>
+        <entry>Lin</entry>
+        <entry>InviscidIn</entry>
+        <entry>5</entry>
+        <entry>getHigh</entry>
+        <entry>template</entry>
+        <entry encoding="base64">SFM6OkRpc2NyZXRpemF0aW9uPFQsIE51bUVxbnM=</entry>
+        <entry>for.*{</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dp/c_double/g</entry>
@@ -5676,8 +5697,8 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

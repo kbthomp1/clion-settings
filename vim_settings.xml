@@ -502,8 +502,8 @@
         <mark key="^" line="64" column="62" />
         <mark key="." line="64" column="62" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1530018478247">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1530051635634">
+        <mark key="'" line="30" column="4" />
         <mark key="[" line="109" column="83" />
         <mark key="]" line="107" column="86" />
         <mark key="." line="109" column="85" />
@@ -1486,15 +1486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="100" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="381" column="84" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="411" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="422" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="450" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="461" column="103" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="489" column="100" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="503" column="100" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="34" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="41" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="45" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="62" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
@@ -1586,6 +1577,15 @@
       <jump line="261" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" />
       <jump line="38" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="10" column="0" filename="$USER_HOME$/one-ring/ra/src/TransportNonEquilbOneTemp.h" />
+      <jump line="403" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="72" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="419" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="99" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="409" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="14" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="29" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="30" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4999,7 +4999,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>Subsonic</text>
+        <text>Tracer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCB1X2luZGV4ID0gdmFyaWFibGVfbWFwW0hTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eV07CiAgICBpbnQgdl9pbmRleCA9IHZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OnlfdmVsb2NpdHldOwogICAgaW50IHdfaW5kZXggPSB2YXJpYWJsZV9tYXBbSFM6OlZhcmlhYmxlOjp6X3ZlbG9jaXR5XTsKICAgIGludCB0ZW1wZXJhdHVyZV9pbmRleCA9IHZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OnRlbXBlcmF0dXJlX3N0YXJ0XTsK</text>
@@ -5051,9 +5051,9 @@ density</text>
       </register>
     </registers>
     <search>
-      <last-search>Subsonic</last-search>
+      <last-search>Tracer</last-search>
       <last-offset />
-      <last-pattern>Subsonic</last-pattern>
+      <last-pattern>Tracer</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5061,7 +5061,6 @@ density</text>
     </search>
     <history>
       <history-search>
-        <entry>q_interior, xyz</entry>
         <entry>, xyz</entry>
         <entry encoding="base64">eHl6LCA=</entry>
         <entry>nondimen</entry>
@@ -5081,6 +5080,7 @@ density</text>
         <entry>variable</entry>
         <entry>5</entry>
         <entry>Subsonic</entry>
+        <entry>Tracer</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>

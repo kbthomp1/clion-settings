@@ -220,8 +220,8 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" timestamp="1528992645823">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" timestamp="1530055473617">
+        <mark key="'" line="46" column="12" />
         <mark key="[" line="98" column="12" />
         <mark key="]" line="98" column="25" />
         <mark key="^" line="98" column="25" />
@@ -1485,7 +1485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="145" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="11" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="713" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
@@ -1585,6 +1584,7 @@
       <jump line="30" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="401" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="46" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4998,7 +4998,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>Tracer</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCB1X2luZGV4ID0gdmFyaWFibGVfbWFwW0hTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eV07CiAgICBpbnQgdl9pbmRleCA9IHZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OnlfdmVsb2NpdHldOwogICAgaW50IHdfaW5kZXggPSB2YXJpYWJsZV9tYXBbSFM6OlZhcmlhYmxlOjp6X3ZlbG9jaXR5XTsKICAgIGludCB0ZW1wZXJhdHVyZV9pbmRleCA9IHZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OnRlbXBlcmF0dXJlX3N0YXJ0XTsK</text>
@@ -5046,13 +5046,13 @@ density</text>
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>Tracer</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>Tracer</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5060,7 +5060,6 @@ density</text>
     </search>
     <history>
       <history-search>
-        <entry>, xyz</entry>
         <entry encoding="base64">eHl6LCA=</entry>
         <entry>nondimen</entry>
         <entry>[0\]</entry>
@@ -5080,6 +5079,7 @@ density</text>
         <entry>5</entry>
         <entry>Subsonic</entry>
         <entry>Tracer</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -5100,8 +5100,8 @@ density</text>
         <entry>vsp</entry>
         <entry>G</entry>
         <entry>1</entry>
-        <entry>qa</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

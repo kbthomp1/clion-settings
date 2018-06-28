@@ -61,12 +61,12 @@
         <mark key="." line="86" column="56" />
         <mark key="^" line="86" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" timestamp="1530026783807">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" timestamp="1530191037743">
         <mark key="'" line="83" column="34" />
-        <mark key="[" line="85" column="58" />
-        <mark key="]" line="85" column="77" />
-        <mark key="." line="85" column="77" />
-        <mark key="^" line="85" column="77" />
+        <mark key="[" line="128" column="78" />
+        <mark key="]" line="128" column="78" />
+        <mark key="." line="128" column="78" />
+        <mark key="^" line="128" column="78" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SATurbulenceTerms.h" timestamp="1520016977880">
         <mark key="'" line="0" column="0" />
@@ -1293,6 +1293,13 @@
         <mark key="." line="103" column="51" />
         <mark key="^" line="103" column="51" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" timestamp="1530190966400">
+        <mark key="'" line="138" column="80" />
+        <mark key="[" line="73" column="71" />
+        <mark key="]" line="73" column="79" />
+        <mark key="." line="73" column="79" />
+        <mark key="^" line="73" column="79" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.cpp" timestamp="1529066989576">
         <mark key="[" line="16" column="100" />
         <mark key="]" line="16" column="107" />
@@ -1859,8 +1866,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1530132997165">
-        <mark key="[" line="13" column="23" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.h" timestamp="1530190977760">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1530024592320">
         <mark key="'" line="37" column="45" />
@@ -2119,31 +2129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="72" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="94" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="106" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="24" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="88" column="27" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="107" column="25" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="109" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="7" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="130" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="140" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="161" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="181" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="189" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="269" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="272" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="277" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="433" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="488" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="376" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="338" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="555" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="563" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="642" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="176" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="121" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="90" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="110" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2219,6 +2204,31 @@
       <jump line="60" column="34" filename="$USER_HOME$/one-ring/ra/src/ThermodynamicsPerfectGas.h" />
       <jump line="96" column="16" filename="$USER_HOME$/one-ring/ra/src/ThermodynamicsPerfectGas.h" />
       <jump line="104" column="11" filename="$USER_HOME$/one-ring/ra/src/ThermodynamicsPerfectGas.h" />
+      <jump line="10" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="19" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="28" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="70" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="119" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="42" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="38" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="47" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="51" column="97" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="53" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="58" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="15" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="43" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="48" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="54" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="59" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="66" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="96" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="108" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="109" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="128" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="133" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
+      <jump line="137" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/thermodynamics/ThermoState.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2229,7 +2239,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>density</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5629,58 +5639,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>density</text>
       </register>
       <register name="/" type="4">
-        <text>species_mol_wt</text>
+        <text>density</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJQZXJmZWN0IEdhcyBUaGVybW9keW5hbWljcyAtIGRpbWVuc2lvbmFsIikgewoKLy8gICAgICAgIFByb3BlcnRpZXMgb2YgQWlyCiAgICBkb3VibGUgbW9sZWN1bGFyX3dlaWdodCA9IDI4Ljg7CiAgICBkb3VibGUgZ2FtbWEgPSAxLjQ7CiAgICBkb3VibGUgcmdhcyA9IDI4OC42OTI7CiAgICBkb3VibGUgQ3YgPSA3MjEuNzMxOwoKLy8gICAgICAgIEFpciBjb25kaXRpb25zCiAgICBkb3VibGUgZGVuc2l0eSA9IDEuMjM7CiAgICBkb3VibGUgdGVtcGVyYXR1cmUgPSAzMDAuMDsKICAgIGRvdWJsZSBwcmVzc3VyZSA9IGRlbnNpdHkgKiByZ2FzICogdGVtcGVyYXR1cmU7CiAgICBkb3VibGUgZW5lcmd5ID0gQ3YgKiB0ZW1wZXJhdHVyZTsKICAgIGRvdWJsZSBlbnRoYWxweSA9IChDdiArIHJnYXMpICogdGVtcGVyYXR1cmU7CiAgICBkb3VibGUgZ2liYnNfZnJlZV9lbmVyZ3kgPSBlbnRoYWxweSAtIGxvZyh0ZW1wZXJhdHVyZSkgKiBDdiAqIGdhbW1hICogdGVtcGVyYXR1cmU7CiAgICBkb3VibGUgZW50cm9weSA9IGxvZyh0ZW1wZXJhdHVyZSkgKiBDdiAqIGdhbW1hOwogICAgZG91YmxlIHNwZWVkX29mX3NvdW5kID0gc3FydCgoZ2FtbWEgKiBwcmVzc3VyZSkgLyBkZW5zaXR5KTsKCi8vICAgICAgICBDcmVhdGUgdGhlIHBvaW50ZXJzCiAgICBkb3VibGUqIHJobyA9ICZkZW5zaXR5OwogICAgZG91YmxlKiBQID0gJnByZXNzdXJlOwogICAgZG91YmxlKiBUID0gJnRlbXBlcmF0dXJlOwogICAgZG91YmxlKiBlID0gJmVuZXJneTsKICAgIGRvdWJsZSogaCA9ICZlbnRoYWxweTsKCiAgICBhdXRvIHRoZXJtbyA9IFBlcmZlY3RHYXM8ZG91YmxlPihtb2xlY3VsYXJfd2VpZ2h0LGdhbW1hKTsKICAgIFJFUVVJUkUoIHRoZXJtby5nZXROc3BlY2llcygpID09IDEgKTsKICAgIFJFUVVJUkUoIHRoZXJtby5nZXRTcGVjaWVzTmFtZXMoKVswXSA9PSAicGVyZmVjdCBnYXMiICk7CgogICAgVGhlcm1vT3V0cHV0IG91dDsKCi8vICAgICAgICBDaGVjayBtdWx0aXBsZSBpbnB1dCBzdGF0ZSBjYWxjdWxhdGlvbnMKICAgIHN0ZDo6dmVjdG9yPGRvdWJsZSo+IGlucHV0X3N0YXRlcyA9IHtQLCBULCBlLCBofTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6UHJlc3N1cmU7CiAgICBjaGVja19zdGF0ZSh0aGVybW8sIHJobywgaW5wdXRfc3RhdGVzLCBvdXQsIHByZXNzdXJlKTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6VGVtcGVyYXR1cmU7CiAgICBjaGVja19zdGF0ZSh0aGVybW8sIHJobywgaW5wdXRfc3RhdGVzLCBvdXQsIHRlbXBlcmF0dXJlKTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6RW5lcmd5OwogICAgY2hlY2tfc3RhdGUodGhlcm1vLCByaG8sIGlucHV0X3N0YXRlcywgb3V0LCBlbmVyZ3kpOwogICAgb3V0ID0gVGhlcm1vT3V0cHV0OjpTcGVjaWZpY0hlYXRWb2x1bWU7CiAgICBjaGVja19zdGF0ZSh0aGVybW8sIHJobywgaW5wdXRfc3RhdGVzLCBvdXQsIEN2KTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6TW9sZWN1bGFyV2VpZ2h0OwogICAgY2hlY2tfc3RhdGUodGhlcm1vLCByaG8sIGlucHV0X3N0YXRlcywgb3V0LCBtb2xlY3VsYXJfd2VpZ2h0KTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6U3BlY2llc0VudGhhbHB5OwogICAgY2hlY2tfc3RhdGUodGhlcm1vLCByaG8sIGlucHV0X3N0YXRlcywgb3V0LCBlbnRoYWxweSk7CiAgICBvdXQgPSBUaGVybW9PdXRwdXQ6OlNwZWNpZXNHaWJic0ZyZWVFbmVyZ3k7CiAgICBjaGVja19zdGF0ZSh0aGVybW8sIHJobywgaW5wdXRfc3RhdGVzLCBvdXQsIGdpYmJzX2ZyZWVfZW5lcmd5KTsKICAgIG91dCA9IFRoZXJtb091dHB1dDo6U3BlZWRPZlNvdW5kOwogICAgY2hlY2tfc3RhdGUodGhlcm1vLCByaG8sIGlucHV0X3N0YXRlcywgb3V0LCBzcGVlZF9vZl9zb3VuZCk7CiAgICBvdXQgPSBUaGVybW9PdXRwdXQ6OkVudHJvcHk7CiAgICBjaGVja19zdGF0ZSh0aGVybW8sIHJobywgaW5wdXRfc3RhdGVzLCBvdXQsIGVudHJvcHkpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGRpbWVuc2lvbmFsX2RlbnNpdGllcyA9IGRpbWVuc2lvbmFsaXplRGVuc2l0aWVzKGRlbnNpdGllcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogTmVlZHMgdG8gYmUgdGhlIGNvcnJlY3QgZGVuc2l0eSB3aGVuIHRoaXMgaXMgZXh0ZW5kZWQgdG8gbXVsdGktc3BlY2llcy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUIGRlbnNpdHkoMS4wKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOb25kaW1lbnNpb25hbGl6YXRpb24oZG91YmxlIGRlbnNpdHlfcmVmZXJlbmNlKSA6IGRlbnNpdHlfcmVmZXJlbmNlKGRlbnNpdHlfcmVmZXJlbmNlKSB7fQoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kZW5zaXR5X3JlZmVyZW5jZSA9IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCAKY29uc3Qg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX2RlbnNpdHkgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX2RlbnNpdHkgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzdGQ6OmFycmF5PFQsIE51bVNwZWNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX2RlbnNpdHkgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX2RlbnNpdHkgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHkpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICBUIGRpbWVuc2lvbmFsX2RlbnNpdHkgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>species_mol_wt</last-search>
+      <last-search>density</last-search>
       <last-offset />
-      <last-pattern>species_mol_wt</last-pattern>
+      <last-pattern>density</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5688,8 +5698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[0\]</entry>
-        <entry>pressure</entry>
         <entry>pressure_interior</entry>
         <entry>temperature_interior</entry>
         <entry>pressure_inte</entry>
@@ -5708,6 +5716,8 @@
         <entry>add</entry>
         <entry>HEADER</entry>
         <entry>species_mol_wt</entry>
+        <entry encoding="base64">Y29uc3QgVCYgZGVuc2l0eQ==</entry>
+        <entry>density</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -5728,8 +5738,8 @@
         <entry>vsp</entry>
         <entry>G</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

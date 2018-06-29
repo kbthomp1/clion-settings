@@ -434,6 +434,12 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1530303753946">
+        <mark key="[" line="119" column="92" />
+        <mark key="]" line="119" column="93" />
+        <mark key="." line="119" column="93" />
+        <mark key="^" line="119" column="93" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="45" column="94" />
@@ -2044,13 +2050,12 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1530298813808">
-        <mark key="'" line="534" column="67" />
-        <mark key="k" line="247" column="59" />
-        <mark key="[" line="538" column="0" />
-        <mark key="]" line="538" column="0" />
-        <mark key="^" line="534" column="77" />
-        <mark key="." line="538" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1530304179917">
+        <mark key="k" line="255" column="59" />
+        <mark key="[" line="159" column="21" />
+        <mark key="]" line="159" column="21" />
+        <mark key="." line="159" column="21" />
+        <mark key="^" line="174" column="37" />
       </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
@@ -2230,9 +2235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" />
-      <jump line="55" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
-      <jump line="16" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="24" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="19" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="31" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -2330,6 +2332,9 @@
       <jump line="363" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="403" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="187" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="535" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="151" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="155" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2340,7 +2345,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>int</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5740,62 +5745,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;density&quot;</text>
+        <text>density</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtbyA9IEhTOjpUaGVybW9TdGF0ZTxkb3VibGU+KEhTTW9ja1RoZXJtbzo6Z2V0R2FzU3BlY2llc0pzb24oeyJOMiIsICJPMiJ9KSwgbm9uZGltKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB3X2luZGV4ID0gdmFyaWFibGVfbWFwW0hTOjpWYXJpYWJsZTo6el92ZWxvY2l0eV07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpemUK</text>
+      <register name="1" type="8">
+        <text>variable_map[HS::Variable::x_velocity]
+variable_map[HS::Variable::y_velocity]
+variable_map[HS::Variable::z_velocity]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBmbHV4W2ldID0gMC4wOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSB2YXJpYWJsZV9tYXBbSFM6OlZhcmlhYmxlOjpkZW5zaXR5X3N0YXJ0XTsgaSA8IHZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OmRlbnNpdHlfZW5kXSsrOyBpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHFfaW5pdGlhbFswXSA9IG5vbmRpbWVuc2lvbmFsaXphdGlvbi5ub25kaW1lbnNpb25hbERlbnNpdHkoZGVuc2l0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="8">
-        <text>nondim
-nondim
-nondim
-nondim
-nondim</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IFQmIGRlbnNpdHkgPSBxX2ludGVyaW9yW3ZhcmlhYmxlX21hcFtIUzo6VmFyaWFibGU6OmRlbnNpdHlfc3RhcnRdXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBxX2ZyYW1ld29yayA9IHtkZW5zaXR5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlbG9jaXR5WzBdLCB2ZWxvY2l0eVsxXSwgdmVsb2NpdHlbMl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGVyYXR1cmV9OwogICAgc3RkOjphcnJheTxkb3VibGUsIDU+IHFfbm9uZGltOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBkZW5zaXR5ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtbyA9IEhTOjpUaGVybW9TdGF0ZTxkb3VibGU+KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtbyA9IGdldFRoZXJtb2R5bmFtaWNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;density&quot;</last-search>
+      <last-search>density</last-search>
       <last-offset />
-      <last-pattern>&quot;density&quot;</last-pattern>
+      <last-pattern>density</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5803,9 +5806,6 @@ nondim</text>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry>left</entry>
-        <entry>Laminar</entry>
         <entry>density_index</entry>
         <entry>density_start</entry>
         <entry>mesh</entry>
@@ -5814,7 +5814,6 @@ nondim</text>
         <entry>Q</entry>
         <entry>extrac</entry>
         <entry>densities</entry>
-        <entry>density</entry>
         <entry>nondimensionalizeQ</entry>
         <entry>6</entry>
         <entry>Subsonic</entry>
@@ -5823,6 +5822,10 @@ nondim</text>
         <entry>ThermoState</entry>
         <entry>initial_q</entry>
         <entry>&quot;density&quot;</entry>
+        <entry>Tange</entry>
+        <entry>u</entry>
+        <entry>x</entry>
+        <entry>density</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>

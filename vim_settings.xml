@@ -434,11 +434,12 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1530533145279">
-        <mark key="'" line="437" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1530535265258">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="56" column="67" />
+        <mark key="]" line="56" column="97" />
+        <mark key="." line="57" column="67" />
+        <mark key="^" line="56" column="97" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
@@ -2235,13 +2236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
-      <jump line="14" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" />
-      <jump line="20" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/StateTests.cpp" />
-      <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/StateTests.cpp" />
-      <jump line="54" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/StateTests.cpp" />
-      <jump line="57" column="31" filename="$USER_HOME$/one-ring/hypersolve/test/StateTests.cpp" />
-      <jump line="62" column="19" filename="$USER_HOME$/one-ring/hypersolve/test/StateTests.cpp" />
       <jump line="17" column="29" filename="$USER_HOME$/one-ring/hypersolve/fun3d-fet/inviscid/N2/hypersolve.json" />
       <jump line="48" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="57" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
@@ -2325,7 +2319,6 @@
       <jump line="151" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="155" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="49" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="72" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="206" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="247" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2335,6 +2328,14 @@
       <jump line="400" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="407" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="441" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="19" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="24" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="49" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="132" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="154" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="203" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="461" column="89" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="13" column="37" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2344,8 +2345,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>HS::SolutionMap::Laminar()</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5745,40 +5746,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>HS::SolutionMap::Laminar()</text>
       </register>
       <register name="/" type="4">
-        <text>====</text>
+        <text>getThermodynamics</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB3X2luZGV4ID0gdmFyaWFibGVfbWFwW0hTOjpWYXJpYWJsZTo6el92ZWxvY2l0eV07Cg==</text>
+        <text encoding="base64">ICAgIENIRUNLKHFfZXh0WzRdID09IEFwcHJveChleHBlY3RlZF9leHRlcmlvcl9zdGF0ZVs0XSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYXV0byBmaXhlZFN1YnNvbmljSW5mbG93ID0gSFM6OldlYWtCQzo6Z2V0QkNGcm9tQ29uZmlnPGRvdWJsZSwxPihjb25maWcuZHVtcCgpLCAicm9lIiwgbm9uZGltLCB0aGVybW8pOwogICAgICAgIGF1dG8gcV9leHQgPSBmaXhlZFN1YnNvbmljSW5mbG93LT5jYWxjRXh0ZXJpb3JTdGF0ZShxX2ludGVyaW9yLCBIUzo6U29sdXRpb25NYXA6OkxhbWluYXIoKSwgeHl6LCB0aW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNlX25vcm1hbCwgZmFjZV9zcGVlZCk7CiAgICAgICAgYXV0byBleHBlY3RlZCA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MC4wLCAwLjAsIDAuMCwgMTUwODI1LjB9LCBub25kaW0pOwogICAgICAgIFJFUVVJUkUocV9leHRbMF0gPT0gQXBwcm94KGV4cGVjdGVkWzBdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goZXhwZWN0ZWRbMV0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveChleHBlY3RlZFsyXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbM10gPT0gQXBwcm94KGV4cGVjdGVkWzNdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goZXhwZWN0ZWRbNF0pKTsKPT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYXV0byBmaXhlZFN1YnNvbmljSW5mbG93ID0gSFM6OldlYWtCQzo6Z2V0QkNGcm9tQ29uZmlnPGRvdWJsZSwxPihjb25maWcuZHVtcCgpLCAicm9lIiwgbm9uZGltLCB0aGVybW8pOwogICAgICAgIGF1dG8gcV9leHQgPSBmaXhlZFN1YnNvbmljSW5mbG93LT5jYWxjRXh0ZXJpb3JTdGF0ZShxX2ludGVyaW9yLCBIUzo6U29sdXRpb25NYXA6OkxhbWluYXIoKSwgeHl6LCB0aW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNlX25vcm1hbCwgZmFjZV9zcGVlZCk7CiAgICAgICAgYXV0byBleHBlY3RlZCA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MC4wLCAwLjAsIDAuMCwgMTUwODI1LjB9LCBub25kaW0pOwogICAgICAgIFJFUVVJUkUocV9leHRbMF0gPT0gQXBwcm94KGV4cGVjdGVkWzBdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goZXhwZWN0ZWRbMV0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveChleHBlY3RlZFsyXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbM10gPT0gQXBwcm94KGV4cGVjdGVkWzNdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goZXhwZWN0ZWRbNF0pKTsKPT09PT09PQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MDAuMCwgMC4wLCAwLjAsIDEwMTMyNS4wfSwgbm9uZGltKTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX25vcm1hbCA9IHstMS4wLCAwLjAsIDAuMH07CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLjAsIDAuMCwgMC4wfTsKICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiB4eXogPSB7MCwwLDB9OwogICAgZG91YmxlIHRpbWUgPSAwOwoKICAgIFNFQ1RJT04oIlRlc3QgMSIpIHsKICAgICAgICBjb25maWdbImRlbnNpdGllcyJdID0gezEuMH07CiAgICAgICAgY29uZmlnWyJ2ZWxvY2l0eSJdID0gezUwMC4wLCAwLjAsIDAuMH07CiAgICAgICAgY29uZmlnWyJwcmVzc3VyZSJdID0gMTAxMzI1LjA7CgogICAgICAgIGF1dG8gZml4ZWRTdWJzb25pY0luZmxvdyA9IEhTOjpXZWFrQkM6OmdldEJDRnJvbUNvbmZpZzxkb3VibGUsMT4oY29uZmlnLmR1bXAoKSwgInJvZSIsIG5vbmRpbSwgdGhlcm1vKTsKICAgICAgICBhdXRvIHFfZXh0ID0gZml4ZWRTdWJzb25pY0luZmxvdy0+Y2FsY0V4dGVyaW9yU3RhdGUocV9pbnRlcmlvciwgSFM6OlNvbHV0aW9uTWFwOjpMYW1pbmFyKCksIHh5eiwgdGltZSwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQpOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezEuMCwgNTAwLjAsIDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFswXSA9PSBBcHByb3goZXhwZWN0ZWRbMF0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzFdID09IEFwcHJveChleHBlY3RlZFsxXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KGV4cGVjdGVkWzJdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goZXhwZWN0ZWRbM10pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzRdID09IEFwcHJveChleHBlY3RlZFs0XSkpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MDAuMCwgMC4wLCAwLjAsIDEwMTMyNS4wfSwgbm9uZGltKTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX25vcm1hbCA9IHstMS4wLCAwLjAsIDAuMH07CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLjAsIDAuMCwgMC4wfTsKICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiB4eXogPSB7MCwwLDB9OwogICAgZG91YmxlIHRpbWUgPSAwOwoKICAgIFNFQ1RJT04oIlRlc3QgMSIpIHsKICAgICAgICBjb25maWdbImRlbnNpdGllcyJdID0gezEuMH07CiAgICAgICAgY29uZmlnWyJ2ZWxvY2l0eSJdID0gezUwMC4wLCAwLjAsIDAuMH07CiAgICAgICAgY29uZmlnWyJwcmVzc3VyZSJdID0gMTAxMzI1LjA7CgogICAgICAgIGF1dG8gZml4ZWRTdWJzb25pY0luZmxvdyA9IEhTOjpXZWFrQkM6OmdldEJDRnJvbUNvbmZpZzxkb3VibGUsMT4oY29uZmlnLmR1bXAoKSwgInJvZSIsIG5vbmRpbSwgdGhlcm1vKTsKICAgICAgICBhdXRvIHFfZXh0ID0gZml4ZWRTdWJzb25pY0luZmxvdy0+Y2FsY0V4dGVyaW9yU3RhdGUocV9pbnRlcmlvciwgSFM6OlNvbHV0aW9uTWFwOjpMYW1pbmFyKCksIHh5eiwgdGltZSwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQpOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezEuMCwgNTAwLjAsIDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFswXSA9PSBBcHByb3goZXhwZWN0ZWRbMF0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzFdID09IEFwcHJveChleHBlY3RlZFsxXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KGV4cGVjdGVkWzJdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goZXhwZWN0ZWRbM10pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzRdID09IEFwcHJveChleHBlY3RlZFs0XSkpOwo9PT09PT09Cg==</text>
@@ -5787,16 +5788,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MDAuMCwgMC4wLCAwLjAsIDEwMTMyNS4wfSwgbm9uZGltKTsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX25vcm1hbCA9IHstMS4wLCAwLjAsIDAuMH07CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHswLjAsIDAuMCwgMC4wfTsKICAgIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiB4eXogPSB7MCwwLDB9OwogICAgZG91YmxlIHRpbWUgPSAwOwoKICAgIFNFQ1RJT04oIlRlc3QgMSIpIHsKICAgICAgICBjb25maWdbImRlbnNpdGllcyJdID0gezEuMH07CiAgICAgICAgY29uZmlnWyJ2ZWxvY2l0eSJdID0gezUwMC4wLCAwLjAsIDAuMH07CiAgICAgICAgY29uZmlnWyJwcmVzc3VyZSJdID0gMTAxMzI1LjA7CgogICAgICAgIGF1dG8gZml4ZWRTdWJzb25pY0luZmxvdyA9IEhTOjpXZWFrQkM6OmdldEJDRnJvbUNvbmZpZzxkb3VibGUsMT4oY29uZmlnLmR1bXAoKSwgInJvZSIsIG5vbmRpbSwgdGhlcm1vKTsKICAgICAgICBhdXRvIHFfZXh0ID0gZml4ZWRTdWJzb25pY0luZmxvdy0+Y2FsY0V4dGVyaW9yU3RhdGUocV9pbnRlcmlvciwgSFM6OlNvbHV0aW9uTWFwOjpMYW1pbmFyKCksIHh5eiwgdGltZSwgZmFjZV9ub3JtYWwsIGZhY2Vfc3BlZWQpOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezEuMCwgNTAwLjAsIDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFswXSA9PSBBcHByb3goZXhwZWN0ZWRbMF0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzFdID09IEFwcHJveChleHBlY3RlZFsxXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbMl0gPT0gQXBwcm94KGV4cGVjdGVkWzJdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFszXSA9PSBBcHByb3goZXhwZWN0ZWRbM10pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzRdID09IEFwcHJveChleHBlY3RlZFs0XSkpOwo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>====</last-search>
+      <last-search>getThermodynamics</last-search>
       <last-offset />
-      <last-pattern>====</last-pattern>
+      <last-pattern>getThermodynamics</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5804,7 +5805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nondim</entry>
         <entry>nondimen</entry>
         <entry>Q</entry>
         <entry>extrac</entry>
@@ -5824,6 +5824,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>====</entry>
+        <entry>getThermodynamics</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>

@@ -1029,6 +1029,13 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
+      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" timestamp="1530822754433">
+        <mark key="'" line="180" column="3" />
+        <mark key="[" line="193" column="83" />
+        <mark key="]" line="192" column="32" />
+        <mark key="." line="192" column="32" />
+        <mark key="^" line="192" column="32" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1528406230165">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="33" column="56" />
@@ -2256,7 +2263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="76" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="77" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
       <jump line="87" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
@@ -2356,6 +2362,7 @@
       <jump line="62" column="23" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
       <jump line="63" column="16" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
       <jump line="73" column="16" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
+      <jump line="180" column="3" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2366,7 +2373,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>quads[index].bc_type);</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8dnVsY2FuOjpWdWxjYW5NZXNoOjpRdWFkPiBxdWFkcw==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5766,58 +5773,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>quads[index].bc_type);</text>
+        <text encoding="base64">c3RkOjp2ZWN0b3I8dnVsY2FuOjpWdWxjYW5NZXNoOjpRdWFkPiBxdWFkcw==</text>
       </register>
       <register name="/" type="4">
-        <text>bc_type</text>
+        <text>u2u_bface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVJbnRlZ2VyKGZpbGUsIG1lc2gubnVtYmVyT2ZVMlVOb2RlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiIikK</text>
+        <text encoding="base64">ICAgIGZvcihhdXRvJiB1MnVfYmZhY2U6IHUydV9mYWNlKXsKLy8gICAgICAgIGJvb2wgaXNfdHJpYW5nbGUgPSAodTJ1X2JmYWNlLm5vZGVzWzNdID09IC0xKTsKLy8gICAgICAgIGlmKGlzX3RyaWFuZ2xlKQovLyAgICAgICAgICAgIHRyaWFuZ2xlcy5wdXNoX2JhY2sodnVsY2FuOjpjb252ZXJ0VG9WdWxjYW5UcmlhbmdsZSh1MnVfYmZhY2UpKTsKLy8gICAgICAgIGVsc2UKICAgICAgICBxdWFkcy5wdXNoX2JhY2sodnVsY2FuOjpjb252ZXJ0VG9WdWxjYW5RdWFkKHUydV9iZmFjZSkpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGF1dG8mIHQ6dHJpYW5nbGVzKQogICAgICAgICAgICAgICAgaWYoVW5zdHJ1Y3R1cmVkVG9VbnN0cnVjdHVyZWRCQ1R5cGUgPT0gdC5iY190eXBlKQogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgIGZvcihhdXRvJiBxOnF1YWRzKQogICAgICAgICAgICAgICAgaWYoVW5zdHJ1Y3R1cmVkVG9VbnN0cnVjdHVyZWRCQ1R5cGUgPT0gcS5iY190eXBlKQogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgIHJldHVybiBjb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiIikK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGF1dG8mIHQ6dHJpYW5nbGVzKQogICAgICAgICAgICAgICAgaWYoVW5zdHJ1Y3R1cmVkVG9VbnN0cnVjdHVyZWRCQ1R5cGUgPT0gdC5iY190eXBlKQogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgIGZvcihhdXRvJiBxOnF1YWRzKQogICAgICAgICAgICAgICAgaWYoVW5zdHJ1Y3R1cmVkVG9VbnN0cnVjdHVyZWRCQ1R5cGUgPT0gcS5iY190eXBlKQogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgIHJldHVybiBjb3VudDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgYXV0byBmaXhlZFN1YnNvbmljSW5mbG93ID0gSFM6OldlYWtCQzo6Z2V0QkNGcm9tQ29uZmlnPGRvdWJsZSwxPihjb25maWcuZHVtcCgpLCAicm9lIiwgbm9uZGltLCB0aGVybW8pOwogICAgICAgIGF1dG8gcV9leHQgPSBmaXhlZFN1YnNvbmljSW5mbG93LT5jYWxjRXh0ZXJpb3JTdGF0ZShxX2ludGVyaW9yLCBIUzo6U29sdXRpb25NYXA6OkxhbWluYXIoKSwgeHl6LCB0aW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmYWNlX25vcm1hbCwgZmFjZV9zcGVlZCk7CiAgICAgICAgYXV0byBleHBlY3RlZCA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MC4wLCAwLjAsIDAuMCwgMTUwODI1LjB9LCBub25kaW0pOwogICAgICAgIFJFUVVJUkUocV9leHRbMF0gPT0gQXBwcm94KGV4cGVjdGVkWzBdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsxXSA9PSBBcHByb3goZXhwZWN0ZWRbMV0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzJdID09IEFwcHJveChleHBlY3RlZFsyXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbM10gPT0gQXBwcm94KGV4cGVjdGVkWzNdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs0XSA9PSBBcHByb3goZXhwZWN0ZWRbNF0pKTsKPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bc_type</last-search>
+      <last-search>u2u_bface</last-search>
       <last-offset />
-      <last-pattern>bc_type</last-pattern>
+      <last-pattern>u2u_bface</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5825,7 +5832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Subsonic</entry>
         <entry>5</entry>
         <entry>1</entry>
         <entry>ThermoState</entry>
@@ -5845,6 +5851,7 @@
         <entry>-99</entry>
         <entry>writeQ</entry>
         <entry>bc_type</entry>
+        <entry>u2u_bface</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

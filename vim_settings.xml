@@ -255,7 +255,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="85" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanMeshExporter.h" timestamp="1530648889241">
+      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanMeshExporter.h" timestamp="1530805350353">
         <mark key="'" line="144" column="21" />
         <mark key="[" line="29" column="31" />
         <mark key="]" line="29" column="49" />
@@ -5769,7 +5769,7 @@
         <text>mesh.numberOfU2UCell()</text>
       </register>
       <register name="/" type="4">
-        <text>-99</text>
+        <text>writeQ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVJbnRlZ2VyKGZpbGUsIG1lc2gubnVtYmVyT2ZVMlVOb2RlcygpKTsK</text>
@@ -5815,9 +5815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>-99</last-search>
+      <last-search>writeQ</last-search>
       <last-offset />
-      <last-pattern>-99</last-pattern>
+      <last-pattern>writeQ</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5825,7 +5825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nondimensionalizeQ</entry>
         <entry>6</entry>
         <entry>Subsonic</entry>
         <entry>5</entry>
@@ -5845,6 +5844,7 @@
         <entry>number</entry>
         <entry>numberOfU</entry>
         <entry>-99</entry>
+        <entry>writeQ</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

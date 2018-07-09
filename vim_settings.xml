@@ -1034,8 +1034,8 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" timestamp="1530828196197">
-        <mark key="'" line="179" column="3" />
+      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" timestamp="1531157576755">
+        <mark key="'" line="75" column="27" />
         <mark key="[" line="74" column="65" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -2263,7 +2263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="30" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="105" column="56" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="199" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="46" column="46" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
@@ -2363,6 +2362,7 @@
       <jump line="16" column="30" filename="$USER_HOME$/one-ring/hypersolve/CMakeLists.txt" />
       <jump line="59" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="44" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
+      <jump line="75" column="27" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5776,7 +5776,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>DATA</text>
+        <text>All</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMocmEgSU5URVJGQUNFIC1EREFUQURJUj0iJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9Ly4uL2RhdGEvIikK</text>
@@ -5822,9 +5822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DATA</last-search>
+      <last-search>All</last-search>
       <last-offset />
-      <last-pattern>DATA</last-pattern>
+      <last-pattern>All</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5832,8 +5832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;density&quot;</entry>
-        <entry>Tange</entry>
         <entry>u</entry>
         <entry>x</entry>
         <entry>density</entry>
@@ -5852,6 +5850,8 @@
         <entry>raD</entry>
         <entry>ra_DIR</entry>
         <entry>DATA</entry>
+        <entry>gather</entry>
+        <entry>All</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

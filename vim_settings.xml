@@ -55,6 +55,13 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/one-ring/ringtools/PackageInstaller.py" timestamp="1531167482521">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="145" column="41" />
+        <mark key="]" line="145" column="43" />
+        <mark key="." line="145" column="43" />
+        <mark key="^" line="145" column="43" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationSet.h" timestamp="1530284149990">
         <mark key="[" line="100" column="63" />
         <mark key="]" line="100" column="67" />
@@ -1034,12 +1041,6 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" timestamp="1531157576755">
-        <mark key="'" line="75" column="27" />
-        <mark key="[" line="74" column="65" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1528406230165">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="33" column="56" />
@@ -1260,6 +1261,9 @@
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/one-ring/vulcan-support/src/U2UFaceGenerator.h" timestamp="1531166900483">
+        <mark key="'" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousFlux.h" timestamp="1523050859463">
         <mark key="'" line="97" column="37" />
@@ -2263,12 +2267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="56" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="199" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="46" column="46" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
-      <jump line="58" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
-      <jump line="57" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="443" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="177" column="81" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2363,6 +2361,12 @@
       <jump line="59" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="44" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
       <jump line="75" column="27" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
+      <jump line="179" column="8" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
+      <jump line="157" column="4" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanPreProcessor.cpp" />
+      <jump line="29" column="20" filename="$USER_HOME$/one-ring/vulcan-support/src/U2UFaceGenerator.h" />
+      <jump line="67" column="0" filename="$USER_HOME$/one-ring/vulcan-support/src/U2UFaceGenerator.h" />
+      <jump line="106" column="0" filename="$USER_HOME$/one-ring/ringtools/PackageInstaller.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2373,7 +2377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMocmEgSU5URVJGQUNFIC1EREFUQURJUj0iJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9Ly4uL2RhdGEvIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudl9zZXR1cC5hcHBlbmQoImV4cG9ydCBUTVA9IiArIHRtcF9kaXJlY3RvcnlfcGF0aCkK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5773,58 +5777,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>cell_id</text>
       </register>
       <register name="/" type="4">
-        <text>All</text>
+        <text>TMP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMocmEgSU5URVJGQUNFIC1EREFUQURJUj0iJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9Ly4uL2RhdGEvIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVudl9zZXR1cC5hcHBlbmQoImV4cG9ydCBUTVA9IiArIHRtcF9kaXJlY3RvcnlfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX2RlZmluaXRpb25zKC1EREFUQURJUj0iJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9L2RhdGEvIikKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoSFN0aGVybW9keW5hbWljcyBQVUJMSUMgLUREQVRBRElSPSIke3JhX0RJUn0vc2hhcmUvZGF0YS8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbXlfNTUyMiA9IG1lc2guZ2xvYmFsQ2VsbElkKGNlbGxfaWQpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoSFNfVW5pdFRlc3RzIFBVQkxJQyAtRERBVEFESVI9IiR7cmFfRElSfS9zaGFyZS9kYXRhLyIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChteV81NTIyID09IDU1MjIpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBmIDogZmFjZV9uZWlnaGJvcnNbY2VsbF9pZF0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJmYWNlX25laWdoYm9yLCBnaWQ6ICVkICVsZFxuIiwgZiwgbWVzaC5nbG9iYWxDZWxsSWQoZikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBmYWNlX2luZGV4OmV4cG9zZWRfZmFjZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgZmFjZV9pbmRleCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMoSHlwZXJTb2x2ZSBQVUJMSUMgLUREQVRBRElSPSIke3JhX0RJUn0vc2hhcmUvZGF0YS8iKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkX2N1c3RvbV90YXJnZXQoY290aXJlX2luc3RhbGwKICAgICAgICBDT01NQU5EIG1ha2UgaW5zdGFsbC9mYXN0CiAgICAgICAgREVQRU5EUyBIeXBlclNvbHZlX3VuaXR5IEh5cGVyRHJpdmVfdW5pdHkgVW5pdFRlc3RzKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJSYW5rLCBvZmZfcmFuaywgb3duZWRfZ2xvYmFsLCBvZmZfZ2xvYmFsOiAlZCAlZCAlbGQgJWxkXG4iLCBtZXNoLnBhcnRpdGlvbklkKCksIGZhY2Uub2ZmX3Jhbmtfb3duZXIsCiAgICAgICAgICAgICAgICAgICBmYWNlLm93bmVkX25icl9nbG9iYWwsIGZhY2Uub2ZmX3JhbmtfbmJyX2dsb2JhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBib3VuZGFyeV9sb2NhdGlvbl9pbmRpY2F0b3IsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWNlX25laWdoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gbnBoeXNpY2FsX2JvdW5kYXJ5X2ZhY2VzX3Blcl9wcm9jOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIiIpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcihhdXRvJiB1MnVfYmZhY2U6IHUydV9mYWNlKXsKLy8gICAgICAgIGJvb2wgaXNfdHJpYW5nbGUgPSAodTJ1X2JmYWNlLm5vZGVzWzNdID09IC0xKTsKLy8gICAgICAgIGlmKGlzX3RyaWFuZ2xlKQovLyAgICAgICAgICAgIHRyaWFuZ2xlcy5wdXNoX2JhY2sodnVsY2FuOjpjb252ZXJ0VG9WdWxjYW5UcmlhbmdsZSh1MnVfYmZhY2UpKTsKLy8gICAgICAgIGVsc2UKICAgICAgICBxdWFkcy5wdXNoX2JhY2sodnVsY2FuOjpjb252ZXJ0VG9WdWxjYW5RdWFkKHUydV9iZmFjZSkpOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICBmb3IgKGludCBjZWxsX2lkID0gMDsgY2VsbF9pZCA8IG1lc2gtPmNlbGxDb3VudCgpOyArK2NlbGxfaWQpIHsKLy8gICAgICAgIGludCBiID0gbXAuUmFuaygpID09IG1lc2gtPmNlbGxPd25lcihjZWxsX2lkKTsKICAgICAgICBwcmludGYoIlJhbmssIG93bmVyLCBnbG9iYWxfY2VsbF9pZDogJWQgJWQgJWxkXG4iLCBtcC5SYW5rKCksIG1lc2gtPmNlbGxPd25lcihjZWxsX2lkKSwgbWVzaC0+Z2xvYmFsQ2VsbElkKGNlbGxfaWQpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>All</last-search>
+      <last-search>TMP</last-search>
       <last-offset />
-      <last-pattern>All</last-pattern>
+      <last-pattern>TMP</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5832,8 +5836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>u</entry>
-        <entry>x</entry>
         <entry>density</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">Pj4+</entry>
@@ -5852,6 +5854,8 @@
         <entry>DATA</entry>
         <entry>gather</entry>
         <entry>All</entry>
+        <entry>printf</entry>
+        <entry>TMP</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>
@@ -5872,8 +5876,8 @@
         <entry>G</entry>
         <entry>1</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -467,12 +467,12 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1530535265258">
-        <mark key="'" line="13" column="37" />
-        <mark key="[" line="56" column="67" />
-        <mark key="]" line="56" column="97" />
-        <mark key="." line="57" column="67" />
-        <mark key="^" line="56" column="97" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1531252000127">
+        <mark key="'" line="442" column="0" />
+        <mark key="[" line="244" column="59" />
+        <mark key="]" line="244" column="59" />
+        <mark key="^" line="244" column="59" />
+        <mark key="." line="244" column="59" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
@@ -2116,6 +2116,9 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1531251683545">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="195" column="79" />
@@ -2306,9 +2309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="24" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="49" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="132" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="154" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="203" column="18" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2406,6 +2406,9 @@
       <jump line="62" column="104" filename="$USER_HOME$/one-ring/ra/build/test/CMakeFiles/ra_UnitTests.dir/build.make" />
       <jump line="333" column="103" filename="$USER_HOME$/one-ring/ra/build/test/CMakeFiles/ra_UnitTests.dir/build.make" />
       <jump line="55" column="1" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
+      <jump line="215" column="41" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="428" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2415,8 +2418,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUIGRlbnNpdHkgPSBzdW1EZW5zaXRpZXMoZGVuc2l0aWVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>checkBCPerfectGas</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5816,58 +5819,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>checkBCPerfectGas</text>
       </register>
       <register name="/" type="4">
-        <text>Thermodynam</text>
+        <text>Subsonic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKCIke0NNQUtFX0NYWF9DT01QSUxFUl9JRH0iIFNUUkVRVUFMICJHTlUiKQogICAgc2V0KENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1XYWxsIC1XZXJyb3IgLVduby1pbnQtaW4tYm9vbC1jb250ZXh0IikKZW5kaWYoKQo=</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oInBlcmZlY3QgZ2FzIikgewogICAgICAgIFNFQ1RJT04oInN1YnNvbmljIGNvbmRpdGlvbiIpIHsKICAgICAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDU+IHFfaW50ZXJpb3IgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezEuMCwgNTAuLCAwLjAsIDAuMCwgMTAxMzI1LjB9LCBub25kaW0pOwogICAgICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gZXhwZWN0ZWQgPSB7MS44OTMzNjMsIC0wLjE0NDAwMDYsIC0wLjE0NDAwMDYsIDAuMCwgMS4zNTUzNDh9OwogICAgICAgICAgICBSRVFVSVJFKGNoZWNrQkNQZXJmZWN0R2FzKGNvbmZpZy5kdW1wKCksIHFfaW50ZXJpb3IsIGV4cGVjdGVkKSk7CiAgICAgICAgfQogICAgICAgIFNFQ1RJT04oInN1cGVyc29uaWMgY29uZGl0aW9uIikgewogICAgICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA4MDAuLCAwLjAsIDAuMCwgMTAxMzI1LjB9LCBub25kaW0pOwogICAgICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gZXhwZWN0ZWQgPSB7MS45MTAwOTEsIDAuMCwgMC4wLCAwLjAsIDEuMzcyMTQyfTsKICAgICAgICAgICAgUkVRVUlSRShjaGVja0JDUGVyZmVjdEdhcyhjb25maWcuZHVtcCgpLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUIGRlbnNpdHkgPSBzdW1EZW5zaXRpZXMoZGVuc2l0aWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldChDTUFLRV9DWFhfRkxBR1MgIiR7Q01BS0VfQ1hYX0ZMQUdTfSAtV2FsbCAtV2Vycm9yIC1Xbm8taW50LWluLWJvb2wtY29udGV4dCIpCg==</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oInN1YnNvbmljIGNvbmRpdGlvbiIpIHsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA1MC4sIDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDU+IGV4cGVjdGVkID0gezEuODkzMzYzLCAtMC4xNDQwMDA2LCAtMC4xNDQwMDA2LCAwLjAsIDEuMzU1MzQ4fTsKICAgICAgICBSRVFVSVJFKGNoZWNrQkNQZXJmZWN0R2FzKGNvbmZpZy5kdW1wKCksIHFfaW50ZXJpb3IsIGV4cGVjdGVkKSk7CiAgICB9CiAgICBTRUNUSU9OKCJzdXBlcnNvbmljIGNvbmRpdGlvbiIpIHsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNT4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCA4MDAuLCAwLjAsIDAuMCwgMTAxMzI1LjB9LCBub25kaW0pOwogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA1PiBleHBlY3RlZCA9IHsxLjkxMDA5MSwgMC4wLCAwLjAsIDAuMCwgMS4zNzIxNDJ9OwogICAgICAgIFJFUVVJUkUoY2hlY2tCQ1BlcmZlY3RHYXMoY29uZmlnLmR1bXAoKSwgcV9pbnRlcmlvciwgZXhwZWN0ZWQpKTsKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfb3B0aW9ucyhyYV9Vbml0VGVzdHMgUFJJVkFURSAke0NNQUtFX0NYWF9GTEFHU30gLVdhbGwgLVdlcnJvciAtV25vLWludC1pbi1ib29sLWNvbnRleHQpCg==</text>
+        <text encoding="base64">ClRFU1RfQ0FTRSgiRmFjdG9yeSB0aHJvd3MgaWYgdW5rbm93biBiYyByZXF1ZXN0ZWQiKXsKICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sidHlwZSJdID0gInVua25vd24iOwogICAgYXV0byBub25kaW0gPSBnZXROb25kaW1lbnNpb25hbGl6YXRpb24oKTsKICAgIGF1dG8gdGhlcm1vID0gZ2V0VGhlcm1vZHluYW1pY3MoKTsKICAgIFJFUVVJUkVfVEhST1dTKEhTOjpXZWFrQkM6OmdldEJDRnJvbUNvbmZpZzxkb3VibGUsIDE+KGNvbmZpZy5kdW1wKCksICJyb2UiLCBub25kaW0sIHRoZXJtbykpOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUIGRlbnNpdHkgPSBzdW1EZW5zaXRpZXMoZGVuc2l0aWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGRpcmljaGxldCA9IEhTOjpXZWFrQkM6OmdldEJDRnJvbUNvbmZpZzxkb3VibGUsIDI+KGpzb25fbGl0ZXJhbCwgInJvZSIsIG5vbmRpbSwgdGhlcm1vKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtbyA9IEhTOjpUaGVybW9TdGF0ZTxkb3VibGU+KEhTTW9ja1RoZXJtbzo6Z2V0R2FzU3BlY2llc0pzb24oeyJOMiIsICJPMiJ9KSwgbm9uZGltKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFJhIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIG5vbmRpbSA9IGdldE5vbmRpbWVuc2lvbmFsaXphdGlvbigpOwogICAgICAgIGF1dG8gdGhlcm1vID0gSFM6OlRoZXJtb1N0YXRlPGRvdWJsZT4oSFNNb2NrVGhlcm1vOjpnZXRHYXNTcGVjaWVzSnNvbih7Ik4yIiwgIk8yIn0pLCBub25kaW0pOwogICAgICAgIGF1dG8gZGlyaWNobGV0ID0gSFM6OldlYWtCQzo6Z2V0QkNGcm9tQ29uZmlnPGRvdWJsZSwgMj4oanNvbl9saXRlcmFsLCAicm9lIiwgbm9uZGltLCB0aGVybW8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlubGluZSB2b2lkIGNoZWNrU3BlY2llc0luRGF0YWJhc2UoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+ICZzcGVjaWVzX25hbWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnN0cmluZyAmdGhlcm1vZHluYW1pY3NfZGF0YWJhc2VfZmlsZW5hbWUpIHsKICAgICAgICBzdGQ6Omlmc3RyZWFtIGkodGhlcm1vZHluYW1pY3NfZGF0YWJhc2VfZmlsZW5hbWUpOwogICAgICAgIGF1dG8gdGhlcm1vX2RhdGEgPSBubG9obWFubjo6anNvbjo6cGFyc2UoaSk7CiAgICAgICAgZm9yIChhdXRvICZzcGVjaWVzX25hbWUgOiBzcGVjaWVzX25hbWVzKSB7CiAgICAgICAgICAgIGlmICh0aGVybW9fZGF0YS5jb3VudChzcGVjaWVzX25hbWUpID09IDApIHsKICAgICAgICAgICAgICAgIHRocm93IHN0ZDo6bG9naWNfZXJyb3IoIlVua25vd24gc3BlY2llcyByZXF1ZXN0ZWQ6ICIgKyBzcGVjaWVzX25hbWUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMz4gZmFjZV9zcGVlZCA9IHsxLjAsIDAuMCwgMC4wfTsKICAgICAgICBjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgMz4geHl6ID0gezAsMCwwfTsKICAgICAgICBjb25zdCBkb3VibGUgdGltZSA9IDA7CiAgICAgICAgYXV0byBxX2V4dCA9IGRpcmljaGxldC0+Y2FsY0V4dGVyaW9yU3RhdGUocV9pbnRlcmlvciwgSFM6OlNvbHV0aW9uTWFwOjpjcmVhdGUoMiwgMSwgMCksIHh5eiwgdGltZSwgezEsMSwwfSwgZmFjZV9zcGVlZCApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFJhIHsKICAgIGlubGluZSB2b2lkIGNoZWNrU3BlY2llc0luRGF0YWJhc2UoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+ICZzcGVjaWVzX25hbWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nICZ0aGVybW9keW5hbWljc19kYXRhYmFzZV9maWxlbmFtZSkgewogICAgICAgIHN0ZDo6aWZzdHJlYW0gaSh0aGVybW9keW5hbWljc19kYXRhYmFzZV9maWxlbmFtZSk7CiAgICAgICAgYXV0byB0aGVybW9fZGF0YSA9IG5sb2htYW5uOjpqc29uOjpwYXJzZShpKTsKICAgICAgICBmb3IgKGF1dG8gJnNwZWNpZXNfbmFtZSA6IHNwZWNpZXNfbmFtZXMpIHsKICAgICAgICAgICAgaWYgKHRoZXJtb19kYXRhLmNvdW50KHNwZWNpZXNfbmFtZSkgPT0gMCkgewogICAgICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigiVW5rbm93biBzcGVjaWVzIHJlcXVlc3RlZDogIiArIHNwZWNpZXNfbmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHFfZXh0WzBdID09IEFwcHJveChleHBlY3RlZFswXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbMV0gPT0gQXBwcm94KGV4cGVjdGVkWzFdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFsyXSA9PSBBcHByb3goZXhwZWN0ZWRbMl0pKTsKICAgICAgICBSRVFVSVJFKHFfZXh0WzNdID09IEFwcHJveChleHBlY3RlZFszXSkpOwogICAgICAgIFJFUVVJUkUocV9leHRbNF0gPT0gQXBwcm94KGV4cGVjdGVkWzRdKSk7CiAgICAgICAgUkVRVUlSRShxX2V4dFs1XSA9PSBBcHByb3goZXhwZWN0ZWRbNV0pKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJUaHJvdyBpZiB1bmtub3duIHNwZWNpZXMgcmVxdWVzdGVkIikgewogICAgc3RkOjpzdHJpbmcgc3BlY2llc190aGVybW9fZGF0YSA9IHN0ZDo6c3RyaW5nKERBVEFESVIpICsgIi9zcGVjaWVzX3RoZXJtb19kYXRhLmpzb24iOwogICAgU0VDVElPTigiQWxsIHZhbGlkIHNwZWNpZXMiKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHNwZWNpZXNfbmFtZXMgPSB7Ik4yIiwgIk4iLCAiTzIiLCAiTyIsICJOTyJ9OwogICAgICAgIFJFUVVJUkVfTk9USFJPVyhSYTo6Y2hlY2tTcGVjaWVzSW5EYXRhYmFzZShzcGVjaWVzX25hbWVzLCBzcGVjaWVzX3RoZXJtb19kYXRhKSk7CiAgICB9CiAgICBTRUNUSU9OKCJJbnZhbGlkIFBpa2FjaHUgc3BlY2llcyIpIHsKICAgICAgICBzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gc3BlY2llc19uYW1lcyA9IHsiTjIiLCAiTiIsICJPMiIsICJPIiwgIlBpa2FjaHUifTsKICAgICAgICBSRVFVSVJFX1RIUk9XU19XSVRIKFJhOjpjaGVja1NwZWNpZXNJbkRhdGFiYXNlKHNwZWNpZXNfbmFtZXMsIHNwZWNpZXNfdGhlcm1vX2RhdGEpLCAiVW5rbm93biBzcGVjaWVzIHJlcXVlc3RlZDogUGlrYWNodSIpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBubG9obWFubjo6anNvbiBjb25maWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Thermodynam</last-search>
+      <last-search>Subsonic</last-search>
       <last-offset />
-      <last-pattern>Thermodynam</last-pattern>
+      <last-pattern>Subsonic</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5875,8 +5878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bc_type</entry>
-        <entry>u2u_bface</entry>
         <entry>InviscidTerms</entry>
         <entry>raD</entry>
         <entry>ra_DIR</entry>
@@ -5895,6 +5896,8 @@
         <entry>density</entry>
         <entry>CXX_FLAGS</entry>
         <entry>Thermodynam</entry>
+        <entry>config</entry>
+        <entry>Subsonic</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

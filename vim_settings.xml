@@ -16,6 +16,13 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" timestamp="1531231715393">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="20" column="106" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496438533179">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="16" column="0" />
@@ -1079,7 +1086,7 @@
         <mark key="." line="64" column="105" />
         <mark key="^" line="64" column="105" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531139061468">
+      <file name="/Dummy.txt" timestamp="1531230597378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
@@ -1316,6 +1323,13 @@
         <mark key="." line="39" column="61" />
         <mark key="^" line="39" column="61" />
       </file>
+      <file name="$USER_HOME$/one-ring/ra/ra/DatafileHelpers.h" timestamp="1531231644641">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/one-ring/install/ra/include/ra/NonEquilibriumOneTemp.h" timestamp="1529606462599">
         <mark key="[" line="298" column="0" />
         <mark key="]" line="298" column="0" />
@@ -1426,6 +1440,12 @@
         <mark key="]" line="60" column="1" />
         <mark key="^" line="60" column="1" />
         <mark key="." line="60" column="1" />
+      </file>
+      <file name="$USER_HOME$/one-ring/ra/test/DatafileHelpersTests.cpp" timestamp="1531231744490">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousBoundaryTerms.h" timestamp="1530284605487">
         <mark key="'" line="173" column="89" />
@@ -2174,6 +2194,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" timestamp="1531231578461">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SABoundaryTerms.hpp" timestamp="1523657857769">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="96" column="16" />
@@ -2200,7 +2225,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="/fragment.mm" timestamp="1530284049500">
+      <file name="/fragment.mm" timestamp="1531229260929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2271,61 +2296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="177" column="81" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="186" column="81" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="210" column="81" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="153" column="62" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="525" column="47" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="28" column="77" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="33" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="19" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="23" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="22" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="24" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" />
-      <jump line="56" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.hpp" />
-      <jump line="534" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="25" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="26" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="27" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="34" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="35" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="36" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="42" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="43" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="44" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="48" column="79" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="87" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="88" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="90" column="83" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="89" column="84" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
-      <jump line="120" column="45" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="191" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="181" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="103" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="144" column="17" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="99" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="106" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="17" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="341" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="326" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="310" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="10" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="38" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="204" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="318" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="320" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="363" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="403" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="187" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="535" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="151" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="155" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
-      <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="72" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="206" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="247" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="265" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="343" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2371,6 +2341,61 @@
       <jump line="29" column="20" filename="$USER_HOME$/one-ring/vulcan-support/src/U2UFaceGenerator.h" />
       <jump line="67" column="0" filename="$USER_HOME$/one-ring/vulcan-support/src/U2UFaceGenerator.h" />
       <jump line="106" column="0" filename="$USER_HOME$/one-ring/ringtools/PackageInstaller.py" />
+      <jump line="232" column="31" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="224" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="236" column="40" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="237" column="26" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="270" column="34" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="255" column="6" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="317" column="12" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="298" column="58" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="79" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="185" column="8" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="90" column="38" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="204" column="36" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="253" column="37" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="229" column="4" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="177" column="4" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="191" column="10" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="206" column="39" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="207" column="39" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="222" column="37" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="225" column="41" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="231" column="48" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="234" column="41" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="242" column="10" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="244" column="43" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="245" column="77" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="246" column="66" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="257" column="44" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="276" column="55" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="281" column="44" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="282" column="48" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="297" column="16" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="100" column="50" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="104" column="70" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="105" column="50" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="118" column="55" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="135" column="67" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="142" column="56" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="192" column="4" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="251" column="4" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="258" column="39" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="260" column="44" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="263" column="67" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="286" column="48" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="287" column="45" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="288" column="67" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="85" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="89" column="18" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="179" column="10" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="91" column="107" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="49" column="0" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
+      <jump line="109" column="4" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
+      <jump line="164" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="27" column="25" filename="$USER_HOME$/one-ring/ra/ra/DatafileHelpers.h" />
+      <jump line="327" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2380,8 +2405,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>requested</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5781,58 +5806,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cell_id</text>
+        <text>requested</text>
       </register>
       <register name="/" type="4">
-        <text>TMP</text>
+        <text>density</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVudl9zZXR1cC5hcHBlbmQoImV4cG9ydCBUTVA9IiArIHRtcF9kaXJlY3RvcnlfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBsb3dfb3JkZXJfdHJhbnNwb3J0X2RhdGFiYXNlX2ZpbGUgPSBSYTo6Z2V0TG93T3JkZXJUcmFuc3BvcnREYXRhRmlsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWNlX2lkcy5wdXNoX2JhY2soaSk7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFJhIHsKfQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc2gK</text>
+        <text encoding="base64">ICAgIGlubGluZSB2b2lkIGNoZWNrU3BlY2llc0luRGF0YWJhc2UoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+ICZzcGVjaWVzX25hbWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnN0cmluZyAmdGhlcm1vZHluYW1pY3NfZGF0YWJhc2VfZmlsZW5hbWUpIHsKICAgICAgICBzdGQ6Omlmc3RyZWFtIGkodGhlcm1vZHluYW1pY3NfZGF0YWJhc2VfZmlsZW5hbWUpOwogICAgICAgIGF1dG8gdGhlcm1vX2RhdGEgPSBubG9obWFubjo6anNvbjo6cGFyc2UoaSk7CiAgICAgICAgZm9yIChhdXRvICZzcGVjaWVzX25hbWUgOiBzcGVjaWVzX25hbWVzKSB7CiAgICAgICAgICAgIGlmICh0aGVybW9fZGF0YS5jb3VudChzcGVjaWVzX25hbWUpID09IDApIHsKICAgICAgICAgICAgICAgIHRocm93IHN0ZDo6bG9naWNfZXJyb3IoIlVua25vd24gc3BlY2llcyByZXF1ZXN0ZWQ6ICIgKyBzcGVjaWVzX25hbWUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">bmFtZXNwYWNlIFJhIHsKICAgIGlubGluZSB2b2lkIGNoZWNrU3BlY2llc0luRGF0YWJhc2UoY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+ICZzcGVjaWVzX25hbWVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6c3RyaW5nICZ0aGVybW9keW5hbWljc19kYXRhYmFzZV9maWxlbmFtZSkgewogICAgICAgIHN0ZDo6aWZzdHJlYW0gaSh0aGVybW9keW5hbWljc19kYXRhYmFzZV9maWxlbmFtZSk7CiAgICAgICAgYXV0byB0aGVybW9fZGF0YSA9IG5sb2htYW5uOjpqc29uOjpwYXJzZShpKTsKICAgICAgICBmb3IgKGF1dG8gJnNwZWNpZXNfbmFtZSA6IHNwZWNpZXNfbmFtZXMpIHsKICAgICAgICAgICAgaWYgKHRoZXJtb19kYXRhLmNvdW50KHNwZWNpZXNfbmFtZSkgPT0gMCkgewogICAgICAgICAgICAgICAgdGhyb3cgc3RkOjpsb2dpY19lcnJvcigiVW5rbm93biBzcGVjaWVzIHJlcXVlc3RlZDogIiArIHNwZWNpZXNfbmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbXlfNTUyMiA9IG1lc2guZ2xvYmFsQ2VsbElkKGNlbGxfaWQpOwo=</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJUaHJvdyBpZiB1bmtub3duIHNwZWNpZXMgcmVxdWVzdGVkIikgewogICAgc3RkOjpzdHJpbmcgc3BlY2llc190aGVybW9fZGF0YSA9IHN0ZDo6c3RyaW5nKERBVEFESVIpICsgIi9zcGVjaWVzX3RoZXJtb19kYXRhLmpzb24iOwogICAgU0VDVElPTigiQWxsIHZhbGlkIHNwZWNpZXMiKSB7CiAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjpzdHJpbmc+IHNwZWNpZXNfbmFtZXMgPSB7Ik4yIiwgIk4iLCAiTzIiLCAiTyIsICJOTyJ9OwogICAgICAgIFJFUVVJUkVfTk9USFJPVyhSYTo6Y2hlY2tTcGVjaWVzSW5EYXRhYmFzZShzcGVjaWVzX25hbWVzLCBzcGVjaWVzX3RoZXJtb19kYXRhKSk7CiAgICB9CiAgICBTRUNUSU9OKCJJbnZhbGlkIFBpa2FjaHUgc3BlY2llcyIpIHsKICAgICAgICBzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gc3BlY2llc19uYW1lcyA9IHsiTjIiLCAiTiIsICJPMiIsICJPIiwgIlBpa2FjaHUifTsKICAgICAgICBSRVFVSVJFX1RIUk9XU19XSVRIKFJhOjpjaGVja1NwZWNpZXNJbkRhdGFiYXNlKHNwZWNpZXNfbmFtZXMsIHNwZWNpZXNfdGhlcm1vX2RhdGEpLCAiVW5rbm93biBzcGVjaWVzIHJlcXVlc3RlZDogUGlrYWNodSIpOwogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChteV81NTIyID09IDU1MjIpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBmIDogZmFjZV9uZWlnaGJvcnNbY2VsbF9pZF0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJmYWNlX25laWdoYm9yLCBnaWQ6ICVkICVsZFxuIiwgZiwgbWVzaC5nbG9iYWxDZWxsSWQoZikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBmYWNlX2luZGV4OmV4cG9zZWRfZmFjZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgZmFjZV9pbmRleCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBoaWdoX29yZGVyID0gUmE6OmdldFRoZXJtb2R5bmFtaWNzRGF0YUZpbGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHRoZXJtb2R5bmFtaWNzX2RhdGFiYXNlX2ZpbGVuYW1lID0gUmE6OmdldFRoZXJtb2R5bmFtaWNzRGF0YUZpbGUoKTsKICAgIFJFUVVJUkVfTk9USFJPVyhSYTo6Y2hlY2tGaWxlRXhpc3RzKHRoZXJtb2R5bmFtaWNzX2RhdGFiYXNlX2ZpbGVuYW1lKSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJSYW5rLCBvZmZfcmFuaywgb3duZWRfZ2xvYmFsLCBvZmZfZ2xvYmFsOiAlZCAlZCAlbGQgJWxkXG4iLCBtZXNoLnBhcnRpdGlvbklkKCksIGZhY2Uub2ZmX3Jhbmtfb3duZXIsCiAgICAgICAgICAgICAgICAgICBmYWNlLm93bmVkX25icl9nbG9iYWwsIGZhY2Uub2ZmX3JhbmtfbmJyX2dsb2JhbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TMP</last-search>
+      <last-search>density</last-search>
       <last-offset />
-      <last-pattern>TMP</last-pattern>
+      <last-pattern>density</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5840,14 +5865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>density</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry encoding="base64">Pj4+</entry>
-        <entry>====</entry>
-        <entry>getThermodynamics</entry>
-        <entry>NumU</entry>
-        <entry>number</entry>
-        <entry>numberOfU</entry>
         <entry>-99</entry>
         <entry>writeQ</entry>
         <entry>bc_type</entry>
@@ -5860,6 +5877,14 @@
         <entry>All</entry>
         <entry>printf</entry>
         <entry>TMP</entry>
+        <entry>dpressure_denergy</entry>
+        <entry>computeS</entry>
+        <entry>computeSpeed</entry>
+        <entry>PressureJac</entry>
+        <entry>sumDen</entry>
+        <entry encoding="base64">Y29uc3QuKlQuKiYuKmRlbnNpdHk=</entry>
+        <entry>const.*density</entry>
+        <entry>density</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

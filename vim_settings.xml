@@ -2115,6 +2115,13 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1531313734243">
+        <mark key="'" line="219" column="35" />
+        <mark key="[" line="460" column="35" />
+        <mark key="]" line="460" column="35" />
+        <mark key="^" line="460" column="39" />
+        <mark key="." line="460" column="35" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/NonEquilibriumOneTemp.cpp" timestamp="1510152594806">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="195" column="79" />
@@ -2305,7 +2312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
       <jump line="51" column="48" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
       <jump line="52" column="79" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
       <jump line="146" column="14" filename="$USER_HOME$/one-ring/vulcan-support/src/VulcanMesh.h" />
@@ -2405,6 +2411,7 @@
       <jump line="216" column="90" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="212" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="214" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="219" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2415,7 +2422,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1.6, 0.4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5815,13 +5822,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.6, 0.4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>face_area</text>
+        <text>Pulsed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJGYWN0b3J5IGNhbiBjcmVhdGUgYSBwdWxzZWQgc3VwZXJzb25pYyBpbmZsb3cgYmMgLSB0d28gc3BlY2llcyIpewogICAgbmxvaG1hbm46Ompzb24gY29uZmlnOwogICAgY29uZmlnWyJ0eXBlIl0gPSAicHVsc2VkIHN1cGVyc29uaWMgaW5mbG93IjsKICAgIGNvbmZpZ1siZGVuc2l0aWVzIl0gPSB7MC44LCAwLjJ9OwogICAgY29uZmlnWyJ2ZWxvY2l0eSJdID0gezUwMC4wLCAwLjAsIDAuMH07CiAgICBjb25maWdbInByZXNzdXJlIl0gPSAxMDEzMjUuMDsKICAgIGNvbmZpZ1siYW1wbGl0dWRlIl0gPSAxLjA7CiAgICBjb25maWdbImZyZXF1ZW5jeSJdID0gMS4wOwogICAgY29uZmlnWyJwaGFzZSJdID0gMC4wOwogICAgZG91YmxlIHBpID0gYWNvcygtMS4wKTsKICAgIGF1dG8gbm9uZGltID0gZ2V0Tm9uZGltZW5zaW9uYWxpemF0aW9uKCk7CiAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNj4gcV9pbnRlcmlvciA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwyPih7MC44LCAwLjIsIDUwMC4wLCAwLjAsIDAuMCwgMTAxMzI1LjB9LCBub25kaW0pOwogICAgU0VDVElPTigidD0wIikgewogICAgICAgIGRvdWJsZSB0aW1lID0gMC4wOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8Mj4oezAuOCwgMC4yLCAtNTAwLjAsIC01MDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgUkVRVUlSRShjaGVja0JDVHdvU3BlY2llc0dhcyhjb25maWcuZHVtcCgpLCB0aW1lLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgfQogICAgU0VDVElPTigidD1waS8yIikgewogICAgICAgIGRvdWJsZSB0aW1lID0gcGkvMi4wOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8Mj4oezEuNiwgMC40LCAtNTAwLjAsIC01MDAuMCwgMC4wLCAyLjAqMTAxMzI1LjB9LCBub25kaW0pOwogICAgICAgIFJFUVVJUkUoY2hlY2tCQ1R3b1NwZWNpZXNHYXMoY29uZmlnLmR1bXAoKSwgdGltZSwgcV9pbnRlcmlvciwgZXhwZWN0ZWQpKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSByaG8gPSBxX2V4dFt2YXJpYWJsZV9tYXBbSFM6OlZhcmlhYmxlOjpkZW5zaXR5X3N0YXJ0XV0gKiAoMS4wICsgbWFnbml0dWRlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VEVTVF9DQVNFKCJGYWN0b3J5IGNhbiBjcmVhdGUgYSBwdWxzZWQgc3VwZXJzb25pYyBpbmZsb3cgYmMgLSBwZXJmZWN0IGdhcyIpewogICAgbmxvaG1hbm46Ompzb24gY29uZmlnOwogICAgY29uZmlnWyJ0eXBlIl0gPSAicHVsc2VkIHN1cGVyc29uaWMgaW5mbG93IjsKICAgIGNvbmZpZ1siZGVuc2l0aWVzIl0gPSB7MS4wfTsKICAgIGNvbmZpZ1sidmVsb2NpdHkiXSA9IHs1MDAuMCwgMC4wLCAwLjB9OwogICAgY29uZmlnWyJwcmVzc3VyZSJdID0gMTAxMzI1LjA7CiAgICBjb25maWdbImFtcGxpdHVkZSJdID0gMS4wOwogICAgY29uZmlnWyJmcmVxdWVuY3kiXSA9IDEuMDsKICAgIGNvbmZpZ1sicGhhc2UiXSA9IDAuMDsKICAgIGRvdWJsZSBwaSA9IGFjb3MoLTEuMCk7CiAgICBhdXRvIG5vbmRpbSA9IGdldE5vbmRpbWVuc2lvbmFsaXphdGlvbigpOwogICAgc3RkOjphcnJheTxkb3VibGUsIDU+IHFfaW50ZXJpb3IgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezEuMCwgNTAwLjAsIDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICBTRUNUSU9OKCJ0PTAiKSB7CiAgICAgICAgZG91YmxlIHRpbWUgPSAwLjA7CiAgICAgICAgYXV0byBleHBlY3RlZCA9IEhTOjpXZWFrQkM6Om5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZTwxPih7MS4wLCAtNTAwLjAsIC01MDAuMCwgMC4wLCAxMDEzMjUuMH0sIG5vbmRpbSk7CiAgICAgICAgUkVRVUlSRShjaGVja0JDUGVyZmVjdEdhcyhjb25maWcuZHVtcCgpLCB0aW1lLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgfQogICAgU0VDVElPTigidD1waS8yIikgewogICAgICAgIGRvdWJsZSB0aW1lID0gcGkvMi4wOwogICAgICAgIGF1dG8gZXhwZWN0ZWQgPSBIUzo6V2Vha0JDOjpub25kaW1lbnNpb25hbGl6ZUlucHV0U3RhdGU8MT4oezIuMCwgLTUwMC4wLCAtNTAwLjAsIDAuMCwgMi4wKjEwMTMyNS4wfSwgbm9uZGltKTsKICAgICAgICBSRVFVSVJFKGNoZWNrQkNQZXJmZWN0R2FzKGNvbmZpZy5kdW1wKCksIHRpbWUsIHFfaW50ZXJpb3IsIGV4cGVjdGVkKSk7CiAgICB9Cn0KCg==</text>
@@ -5866,17 +5873,16 @@ face_area</text>
       </register>
     </registers>
     <search>
-      <last-search>face_area</last-search>
+      <last-search>Pulsed</last-search>
       <last-offset />
-      <last-pattern>face_area</last-pattern>
+      <last-pattern>Pulsed</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ra_DIR</entry>
         <entry>DATA</entry>
         <entry>gather</entry>
         <entry>All</entry>
@@ -5896,6 +5902,7 @@ face_area</text>
         <entry>Subsonic</entry>
         <entry>face_normal</entry>
         <entry>face_area</entry>
+        <entry>Pulsed</entry>
       </history-search>
       <history-cmd>
         <entry>s/omega_fit/omega_coefficients/g</entry>

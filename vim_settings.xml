@@ -749,11 +749,12 @@
         <mark key="." line="87" column="78" />
         <mark key="^" line="87" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" timestamp="1531427739090">
-        <mark key="'" line="216" column="71" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" timestamp="1531428634926">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="87" column="75" />
+        <mark key="]" line="87" column="97" />
+        <mark key="." line="87" column="97" />
+        <mark key="^" line="87" column="97" />
       </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/LeastSquaresGradient.hpp" timestamp="1518473263198">
         <mark key="'" line="39" column="4" />
@@ -1105,13 +1106,13 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1531427862913">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1531428599878">
         <mark key="'" line="141" column="44" />
         <mark key="k" line="89" column="41" />
-        <mark key="[" line="246" column="126" />
-        <mark key="]" line="246" column="123" />
-        <mark key="." line="246" column="123" />
-        <mark key="^" line="246" column="123" />
+        <mark key="[" line="288" column="96" />
+        <mark key="]" line="288" column="101" />
+        <mark key="." line="288" column="101" />
+        <mark key="^" line="288" column="101" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateViscous.cpp" timestamp="1513804515303">
         <mark key="'" line="18" column="0" />
@@ -1574,8 +1575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" />
-      <jump line="133" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" />
       <jump line="150" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" />
       <jump line="155" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" />
       <jump line="158" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" />
@@ -1674,6 +1673,8 @@
       <jump line="154" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="162" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="216" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="149" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="158" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1683,8 +1684,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>compute_residual</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5084,10 +5085,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{0, 1, 2, 3, 4});</text>
+        <text>compute_residual</text>
       </register>
       <register name="/" type="4">
-        <text>compute_residual</text>
+        <text>calcBou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCAzPiBmYWNlX3NwZWVkID0gezAsIDAsIDB9Owo=</text>
@@ -5099,43 +5100,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBSZXNpZHVhbEZ1bmN0aW9uPgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBSZXNpZHVhbEZ1bmN0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTxzaXplX3QgTnVtRXFucz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY2VsbF9sc3Ffd2VpZ2h0cyA9IHN0ZDo6bWFrZV9zaGFyZWQ8SFM6OkNlbGxMU1FXZWlnaHRzPihtZXNoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBSZXNpZHVhbEZ1bmN0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpzaGFyZWRfcHRyPEhTOjpDZWxsTFNRV2VpZ2h0cz4gY2VsbF9sc3Ffd2VpZ2h0cykgY29uc3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gY2VsbF9sc3Ffd2VpZ2h0cyA9IHN0ZDo6bWFrZV9zaGFyZWQ8SFM6OkNlbGxMU1FXZWlnaHRzPihtZXNoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compute_residual</last-search>
+      <last-search>calcBou</last-search>
       <last-offset />
-      <last-pattern>compute_residual</last-pattern>
+      <last-pattern>calcBou</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5143,8 +5144,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calculate</entry>
-        <entry>calcul</entry>
         <entry>ra_trans</entry>
         <entry>calcState</entry>
         <entry>calc</entry>
@@ -5163,6 +5162,8 @@
         <entry>Inviscid</entry>
         <entry>createInvi</entry>
         <entry>compute_residual</entry>
+        <entry>ResidualFunction</entry>
+        <entry>calcBou</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>

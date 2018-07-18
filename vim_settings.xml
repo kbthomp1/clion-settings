@@ -255,6 +255,7 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1531917159107" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" timestamp="1530055473617">
         <mark key="'" line="46" column="12" />
         <mark key="[" line="98" column="12" />
@@ -364,6 +365,9 @@
         <mark key="]" line="334" column="0" />
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
+      </file>
+      <file name="/GDB" timestamp="1531917153913">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
         <mark key="'" line="75" column="0" />
@@ -700,6 +704,9 @@
         <mark key="." line="46" column="23" />
         <mark key="^" line="46" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1531424662423">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
         <mark key="'" line="34" column="16" />
         <mark key="[" line="6" column="31" />
@@ -999,6 +1006,7 @@
         <mark key="." line="27" column="36" />
         <mark key="^" line="27" column="36" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" timestamp="1531917314251" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1528839084601">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="108" column="32" />
@@ -1034,12 +1042,12 @@
         <mark key="." line="86" column="77" />
         <mark key="^" line="86" column="77" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" timestamp="1528999010381">
-        <mark key="'" line="83" column="45" />
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="83" column="43" />
-        <mark key="." line="83" column="43" />
-        <mark key="^" line="83" column="43" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" timestamp="1531917558903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="145" column="17" />
+        <mark key="]" line="145" column="17" />
+        <mark key="." line="145" column="17" />
+        <mark key="^" line="145" column="41" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1547,7 +1555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
       <jump line="78" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
       <jump line="79" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
       <jump line="80" column="85" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" />
@@ -1647,6 +1654,7 @@
       <jump line="295" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="296" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
       <jump line="297" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1656,8 +1664,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IG4+CmlubGluZSBMaW5lYXJpemU6OkRkYXRhPFQsIG4+IHBvdyhjb25zdCBMaW5lYXJpemU6OkRkYXRhPFQsIG4+JiByaHMsIFQgcikgewogICAgVCBmID0gcG93KHJocy52YWx1ZSxyKTsKICAgIHN0ZDo6YXJyYXk8VCwgbj4gZDsKICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgbjsgaSsrKQogICAgICAgIGRbaV0gPSByICogcG93KHJocy52YWx1ZSwoci0xLjApKSAqIHJocy5kZXJpdmF0aXZlc1tpXTsKICAgIHJldHVybiBMaW5lYXJpemU6OkRkYXRhPFQsIG4+KGYsIGQpOwp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5057,13 +5065,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGRhdGE8bj4=</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IG4+CmlubGluZSBMaW5lYXJpemU6OkRkYXRhPFQsIG4+IHBvdyhjb25zdCBMaW5lYXJpemU6OkRkYXRhPFQsIG4+JiByaHMsIFQgcikgewogICAgVCBmID0gcG93KHJocy52YWx1ZSxyKTsKICAgIHN0ZDo6YXJyYXk8VCwgbj4gZDsKICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgbjsgaSsrKQogICAgICAgIGRbaV0gPSByICogcG93KHJocy52YWx1ZSwoci0xLjApKSAqIHJocy5kZXJpdmF0aXZlc1tpXTsKICAgIHJldHVybiBMaW5lYXJpemU6OkRkYXRhPFQsIG4+KGYsIGQpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVyYl9kZXN0cnVjdGlvbiA9ICh0dXJiICogdHVyYiAvIGQyKSAqIChjdzEgKiBmdyAtIChjYjEgLyB2a2FyMikgKiBmdDIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ci8vICAgICAgICAxICAgICAgICAgIDAgICAgICAgICAgICAgIDEKLy8gICAgICAgIDIgICAgICAgICAgMSAgICAgICAgICAgICAgMQovLyAgICAgICAgMyAgICAgICAgICAyICAgICAgICAgICAgICAxCi8vICAgICAgICA0ICAgICAgICAgIDMgICAgICAgICAgICAgIDEKLy8gICAgICAgIDUgICAgICAgICAgNCAgICAgICAgICAgICAgMQovLyAgICAgICAgNiAgICAgICAgICA1ICAgICAgICAgICAgICAxCi8vICAgICAgICA3ICAgICAgICAgIDYgICAgICAgICAgICAgIDEKLy8gICAgICAgIDggICAgICAgICAgNyAgICAgICAgICAgICAgMQo=</text>

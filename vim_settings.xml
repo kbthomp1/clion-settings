@@ -31,12 +31,12 @@
         <mark key="." line="62" column="106" />
         <mark key="^" line="62" column="106" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" timestamp="1531941625316">
-        <mark key="'" line="111" column="33" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" timestamp="1531942477236">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/WeakBC.h" timestamp="1531405053793">
         <mark key="'" line="16" column="74" />
@@ -714,7 +714,7 @@
         <mark key="." line="34" column="66" />
         <mark key="^" line="34" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531938537045">
+      <file name="/Dummy.txt" timestamp="1531942698722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
@@ -731,12 +731,12 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1531861015892">
-        <mark key="'" line="173" column="77" />
-        <mark key="[" line="173" column="100" />
-        <mark key="]" line="173" column="100" />
-        <mark key="." line="173" column="115" />
-        <mark key="^" line="112" column="37" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1531942299812">
+        <mark key="'" line="174" column="30" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ForceIntegrator.h" timestamp="1523650186175">
         <mark key="'" line="125" column="34" />
@@ -1178,12 +1178,11 @@
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.hpp" timestamp="1531403405962">
         <mark key="'" line="145" column="4" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScHelpers.h" timestamp="1528724052225">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScHelpers.h" timestamp="1531942170453">
         <mark key="'" line="44" column="47" />
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="62" column="3" />
-        <mark key="." line="62" column="3" />
-        <mark key="^" line="62" column="3" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/vulcan-support/src/CMakeLists.txt" timestamp="1531406377567">
         <mark key="'" line="56" column="8" />
@@ -1502,6 +1501,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScConversions.h" timestamp="1531942482324">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1531936432502">
         <mark key="'" line="305" column="30" />
         <mark key="[" line="304" column="0" />
@@ -1574,7 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="165" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="9" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="16" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
@@ -1658,7 +1661,6 @@
       <jump line="76" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="28" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="26" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
-      <jump line="73" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="85" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="12" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="11" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
@@ -1674,6 +1676,8 @@
       <jump line="12" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="84" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
+      <jump line="174" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1683,8 +1687,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>PETSC_COMPLEX</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHBldHNjbWF0aC5oPgo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5084,49 +5088,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PETSC_COMPLEX</text>
+        <text>../../../../petsc_with_x/include/</text>
       </register>
       <register name="/" type="4">
         <text>FOUND</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIDx0eXBlbmFtZSBUPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBldHNjbWF0Lmg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBldHNjbWF0aC5oPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9jb21waWxlX2RlZmluaXRpb25zKEh5cGVyU29sdmUgUFJJVkFURSBXSVRIX1BFVFNDX0NPTVBMRVgpCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBldD4K</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRzCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNvbXBsZXg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlIDx0eXBlbmFtZSBUPgogICAgaW5saW5lIGRvdWJsZSBtYWtlUmVhbE9yQ29tcGxleChjb25zdCBUJiBhKSB7CiAgICAgICAgcmV0dXJuIHN0ZDo6cmVhbChhKTsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uLy4uLy4uL3Vzci9sb2NhbC9DZWxsYXIvZ2NjLzcuMy4wXzEvaW5jbHVkZS9jKysvNy4zLjAvY29tcGxleCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEhTIHsKI2lmZGVmIFdJVEhfQ09NUExFWF9QRVRTQwogICAgdGVtcGxhdGUgPHR5cGVuYW1lIFQ+CiAgICBpbmxpbmUgUGV0c2NTY2FsYXIgbWFrZVJlYWxPckNvbXBsZXgoY29uc3QgVCYgYSkgewogICAgICAgIHJldHVybiBhOwogICAgfQojZWxzZQogICAgdGVtcGxhdGUgPHR5cGVuYW1lIFQ+CiAgICBpbmxpbmUgZG91YmxlIG1ha2VSZWFsT3JDb21wbGV4KGNvbnN0IFQmIGEpIHsKICAgICAgICByZXR1cm4gc3RkOjpyZWFsKGEpOwogICAgfQojZW5kaWYKfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSBzdGQ6OnNoYXJlZF9wdHI8V2Vha0JvdW5kYXJ5Q29uZGl0aW9uPHN0ZDo6Y29tcGxleDxkb3VibGU+LCA2Pj4KICAgICAgICBnZXRCQ0Zyb21Db25maWc8c3RkOjpjb21wbGV4PGRvdWJsZT4sIDYsIDE+KGNvbnN0IHN0ZDo6c3RyaW5nICZqc29uLCBjb25zdCBzdGQ6OnN0cmluZyAmaW50ZXJpb3JfZmx1eF9mdW5jdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IE5vbmRpbWVuc2lvbmFsaXphdGlvbiAmbm9uZGltLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPHN0ZDo6Y29tcGxleDxkb3VibGU+PiAmdGhlcm1vZHluYW1pY3MpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgInI6ICIgPDwgciA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImc6ICIgPDwgZyA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHRhcmdldF9jb21waWxlX2RlZmluaXRpb25zKEh5cGVyU29sdmUgUFJJVkFURSBXSVRIX1BFVFNDX0NPTVBMRVgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

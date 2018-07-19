@@ -197,8 +197,8 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532032470612">
-        <mark key="'" line="26" column="19" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532032498478">
+        <mark key="'" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523572882655">
         <mark key="'" line="167" column="24" />
@@ -1709,9 +1709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
-      <jump line="84" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
-      <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="174" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
       <jump line="7" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
@@ -1809,6 +1806,9 @@
       <jump line="17" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="22" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="54" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
+      <jump line="18" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="75" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="20" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5222,7 +5222,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>do_own</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHN0ZDo6dmVjdG9yPGxvbmc+IGxvY2FsX3RvX2dsb2JhbDsK</text>
@@ -5268,9 +5268,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>do_own</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>do_own</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5278,7 +5278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dQ</entry>
         <entry>calcRes</entry>
         <entry>resid_l2</entry>
         <entry>Mock</entry>
@@ -5298,6 +5297,7 @@
         <entry>verifyAdjoin</entry>
         <entry>solver</entry>
         <entry>sync</entry>
+        <entry>do_own</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>

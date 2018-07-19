@@ -557,12 +557,12 @@
         <mark key="." line="57" column="66" />
         <mark key="^" line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1532030705848">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="99" column="97" />
-        <mark key="]" line="99" column="96" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1532034008567">
+        <mark key="'" line="104" column="49" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
         <mark key="^" line="99" column="96" />
-        <mark key="." line="99" column="96" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/build/test/CMakeFiles/ra_UnitTests.dir/build.make" timestamp="1531233583377">
         <mark key="'" line="333" column="103" />
@@ -1709,7 +1709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" />
       <jump line="174" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" />
       <jump line="7" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
       <jump line="46" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
@@ -1809,6 +1808,7 @@
       <jump line="18" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="75" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="20" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="104" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1818,8 +1818,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>hypersolve/src/sensitivities/</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5219,7 +5219,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>hypersolve/src/sensitivities/</text>
       </register>
       <register name="/" type="4">
         <text>do_own</text>

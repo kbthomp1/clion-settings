@@ -185,13 +185,13 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532008658236">
-        <mark key="'" line="84" column="13" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532011156743">
+        <mark key="'" line="83" column="37" />
         <mark key="k" line="37" column="38" />
-        <mark key="[" line="8" column="71" />
-        <mark key="]" line="8" column="72" />
-        <mark key="." line="8" column="72" />
-        <mark key="^" line="8" column="72" />
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="54" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523572882655">
         <mark key="'" line="167" column="24" />
@@ -540,12 +540,12 @@
         <mark key="." line="57" column="66" />
         <mark key="^" line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1532010997341">
-        <mark key="'" line="88" column="72" />
-        <mark key="[" line="91" column="101" />
-        <mark key="]" line="91" column="99" />
-        <mark key="." line="91" column="99" />
-        <mark key="^" line="91" column="99" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1532011930704">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="100" column="35" />
+        <mark key="." line="100" column="35" />
+        <mark key="^" line="100" column="35" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/build/test/CMakeFiles/ra_UnitTests.dir/build.make" timestamp="1531233583377">
         <mark key="'" line="333" column="103" />
@@ -960,10 +960,10 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" timestamp="1532010927245">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" timestamp="1532011288423">
         <mark key="'" line="33" column="39" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="71" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="62" column="53" />
         <mark key="^" line="43" column="108" />
         <mark key="." line="44" column="74" />
       </file>
@@ -1650,10 +1650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
-      <jump line="34" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
-      <jump line="48" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
-      <jump line="68" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="69" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="235" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
@@ -1750,6 +1746,10 @@
       <jump line="88" column="72" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
       <jump line="22" column="35" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
       <jump line="33" column="39" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
+      <jump line="11" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="76" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="80" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="72" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1759,8 +1759,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHBlcnR1cmJhdGlvbl9kZXRhaWxzLA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5160,58 +5160,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBlcnR1cmJhdGlvbl9kZXRhaWxzLA==</text>
+        <text encoding="base64">c3RkOjpjb21wbGV4PGRvdWJsZT4=</text>
       </register>
       <register name="/" type="4">
-        <text>Per</text>
+        <text>isCon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcGVydHVyYmF0aW9uX2RldGFpbHMgPSBIUzo6UGVydHVyYmF0aW9uRGV0YWlscygwLCAwLCBlcHNpbG9uKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gZnJlZXN0cmVhbV9zb2x1dGlvbiA9IFFbMF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gSFM6OlBlcnR1cmJhdGlvbkRldGFpbHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigicTogJWVcbiIsIHFbaV0ucmVhbCgpKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFFbMV1bMV0gPSAwLjk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZnJlZXN0cmVhbV9zb2x1dGlvbiA9IFFbMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZnJlZXN0cmVhbV9zb2x1dGlvbiA9IFFbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvbHV0aW9uWzBdID0gCiAgICBzb2x1dGlvblsxXSA9IHsxLjAsIDAuOSwgMC4wLCAwLjAsIHRlbXBlcmF0dXJlfTsKICAgIHNvbHV0aW9uWzJdID0gezEuMCwgMS4wLCAwLjAsIDAuMCwgdGVtcGVyYXR1cmV9OwogICAgc29sdXRpb25bM10gPSB7MS4wLCAxLjAsIDAuMCwgMC4wLCB0ZW1wZXJhdHVyZX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJFUVVJUkUocVtpXS5yZWFsKCkgPT0gQXBwcm94KGZyZWVzdHJlYW1fc29sdXRpb25baV0ucmVhbCgpKS5tYXJnaW4oMS5lLTEyKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoYXV0byAmcSA6IFEuc29sdXRpb24oKSkgewogICAgICAgIFJFUVVJUkUocVswXS5yZWFsKCkgPT0gQXBwcm94KDEuMCkubWFyZ2luKDEuZS0xMikpOwogICAgICAgIFJFUVVJUkUocVsxXS5yZWFsKCkgPT0gQXBwcm94KDEuMCkubWFyZ2luKDEuZS0xMikpOwogICAgICAgIFJFUVVJUkUocVsyXS5yZWFsKCkgPT0gQXBwcm94KDAuMCkubWFyZ2luKDEuZS0xMikpOwogICAgICAgIFJFUVVJUkUocVszXS5yZWFsKCkgPT0gQXBwcm94KDAuMCkubWFyZ2luKDEuZS0xMikpOwogICAgICAgIFJFUVVJUkUocVs0XS5yZWFsKCkgPT0gQXBwcm94KHRlbXBlcmF0dXJlLnJlYWwoKSkubWFyZ2luKDEuZS0xMikpOwogICAgICAgIGZvciAoYXV0byB2IDogcSkKICAgICAgICAgICAgUkVRVUlSRSh2LmltYWcoKSA9PSAwLjApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNvbHZlci5zb2x2ZShRKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Per</last-search>
+      <last-search>isCon</last-search>
       <last-offset />
-      <last-pattern>Per</last-pattern>
+      <last-pattern>isCon</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
@@ -5219,7 +5219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pow(</entry>
         <entry>cout</entry>
         <entry>std::real</entry>
         <entry>target_.*comp</entry>
@@ -5239,6 +5238,7 @@
         <entry>-1</entry>
         <entry>MockTerm</entry>
         <entry>Per</entry>
+        <entry>isCon</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>

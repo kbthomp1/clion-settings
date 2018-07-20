@@ -434,7 +434,7 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="40" column="73" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" timestamp="1532115545898">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" timestamp="1532117288643">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="118" column="28" />
         <mark key="]" line="118" column="26" />
@@ -643,12 +643,13 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1532112670274">
-        <mark key="'" line="412" column="4" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1532117091042">
+        <mark key="'" line="183" column="4" />
+        <mark key="k" line="406" column="85" />
+        <mark key="[" line="409" column="94" />
+        <mark key="]" line="410" column="3" />
+        <mark key="." line="410" column="3" />
+        <mark key="^" line="410" column="3" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
@@ -1390,10 +1391,10 @@
         <mark key="^" line="44" column="69" />
         <mark key="." line="44" column="69" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/AdjointSolverTests.cpp" timestamp="1532115386760">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/AdjointSolverTests.cpp" timestamp="1532117058162">
         <mark key="'" line="5" column="34" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="38" column="76" />
         <mark key="^" line="43" column="27" />
         <mark key="." line="45" column="0" />
       </file>
@@ -1446,12 +1447,12 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/AdjointSolver.h" timestamp="1532115432261">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="50" column="35" />
-        <mark key="^" line="50" column="35" />
-        <mark key="." line="50" column="35" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/AdjointSolver.h" timestamp="1532117336732">
+        <mark key="'" line="63" column="102" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HSPrint.h" timestamp="1522948529785">
         <mark key="'" line="7" column="0" />
@@ -1549,7 +1550,8 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1532027731430">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1532116088957">
+        <mark key="'" line="54" column="34" />
         <mark key="[" line="41" column="72" />
         <mark key="]" line="42" column="34" />
         <mark key="^" line="42" column="34" />
@@ -1760,12 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="109" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.cpp" />
-      <jump line="30" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.cpp" />
-      <jump line="33" column="135" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.cpp" />
-      <jump line="82" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="366" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="80" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SolutionVariablesTests.cpp" />
       <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
       <jump line="108" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
@@ -1860,6 +1856,12 @@
       <jump line="110" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationSet.h" />
       <jump line="106" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationSet.h" />
       <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/DualBoundary.h" />
+      <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="403" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="8" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="183" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="62" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/AdjointSolver.h" />
+      <jump line="54" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1870,7 +1872,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gYWRqb2ludF9zb2x1dGlvbihtZXNoLm5vZGVDb3VudCgpKTsKICAgIGZvciAoYXV0byYgdiA6IGFkam9pbnRfc29sdXRpb24pCiAgICAgICAgdi5maWxsKDAuMCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5270,49 +5272,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MeshUtilities</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Mesh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IG5vZGUgPSAwOyBub2RlIDwgbWVzaC5ub2RlQ291bnQoKTsgKytub2RlKQogICAgICAgIHJocy0+c2V0KG5vZGUsIHswLCAxLCAyLCAzLCA0fSwgZGZkcVtub2RlXS5kYXRhKCkpOwo=</text>
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sibGluZWFyIHNvbHZlciBzZXR0aW5ncyJdWyJyZWxhdGl2ZSB0b2xlcmFuY2UiXSA9IDEuMGUtMTI7CiAgICBjb25maWdbImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiXVsiYWJzb2x1dGUgdG9sZXJhbmNlIl0gPSAxLjBlLTEyOwogICAgY29uZmlnWyJsaW5lYXIgc29sdmVyIHNldHRpbmdzIl1bIm1heCBrcnlsb3Ygc2VhcmNoIGRpcmVjdGlvbnMiXSA9IDEwMDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHN0ZDo6YXJyYXk8ZG91YmxlLCA1Pj4gYWRqb2ludF9zb2x1dGlvbihtZXNoLm5vZGVDb3VudCgpKTsKICAgIGZvciAoYXV0byYgdiA6IGFkam9pbnRfc29sdXRpb24pCiAgICAgICAgdi5maWxsKDAuMCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIk1lc2guaCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPE1lc2guaD4K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sibGluZWFyIHNvbHZlciBzZXR0aW5ncyJdWyJyZWxhdGl2ZSB0b2xlcmFuY2UiXSA9IDEuMGUtMTI7CiAgICBjb25maWdbImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiXVsiYWJzb2x1dGUgdG9sZXJhbmNlIl0gPSAxLjBlLTEyOwogICAgY29uZmlnWyJsaW5lYXIgc29sdmVyIHNldHRpbmdzIl1bIm1heCBrcnlsb3Ygc2VhcmNoIGRpcmVjdGlvbnMiXSA9IDEwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQWRqb2ludCBzb2x2ZXIgY29udmVyZ2VkIHdpdGggcmVzaWR1YWwgTDI6ICVlXG4iLCBzdGF0dXMucmVzaWR1YWxfbDJfbm9ybSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFNwYXJzaXR5UGF0dGVybkJ1aWxkZXJzLmg+Cg==</text>
+      <register name="6" type="8">
+        <text>config
+config
+config</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFZlY3RvclV0aWxpdGllcy5oPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFBldHNjTGluZWFyU29sdmVyLmg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiZnVuY3Rpb24gdmFsdWU6ICVlXG4iLCBmdW5jdGlvbl92YWx1ZS5yZWFsKCkpOwogICAgcHJpbnRmKCJmdW5jdGlvbiBjb21wbGV4IHN0ZXA6ICUxLjE1ZVxuIiwgY29tcGxleF9zdGVwX2NoZWNrKTsKICAgIHByaW50ZigiYWRqb2ludCBzb2x1dGlvbjogICAgICAlMS4xNWVcbiIsIGFkam9pbnRfY2hlY2spOwogICAgcHJpbnRmKCJkaWZmZXJlbmNlOiAgICAgICAgICAgICUxLjE1ZVxuIiwgZGlmZmVyZW5jZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

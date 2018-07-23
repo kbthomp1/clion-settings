@@ -196,10 +196,10 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532098320717">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1532373487817">
+        <mark key="[" line="67" column="72" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523572882655">
         <mark key="'" line="167" column="24" />
@@ -1550,8 +1550,8 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1532116088957">
-        <mark key="'" line="54" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1532372533631">
+        <mark key="'" line="70" column="34" />
         <mark key="[" line="41" column="72" />
         <mark key="]" line="42" column="34" />
         <mark key="^" line="42" column="34" />
@@ -1762,9 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/SolutionVariablesTests.cpp" />
-      <jump line="4" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
-      <jump line="108" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
       <jump line="17" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="372" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -1862,6 +1859,9 @@
       <jump line="183" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="62" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/AdjointSolver.h" />
       <jump line="54" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
+      <jump line="41" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mesh/MeshUtilities.cpp" />
+      <jump line="70" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
+      <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1872,7 +1872,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuZ3JhZGllbnRzRGF0YSgpKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5281,45 +5281,45 @@
         <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sibGluZWFyIHNvbHZlciBzZXR0aW5ncyJdWyJyZWxhdGl2ZSB0b2xlcmFuY2UiXSA9IDEuMGUtMTI7CiAgICBjb25maWdbImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiXVsiYWJzb2x1dGUgdG9sZXJhbmNlIl0gPSAxLjBlLTEyOwogICAgY29uZmlnWyJsaW5lYXIgc29sdmVyIHNldHRpbmdzIl1bIm1heCBrcnlsb3Ygc2VhcmNoIGRpcmVjdGlvbnMiXSA9IDEwMDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuZ3JhZGllbnRzRGF0YSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuc29sdXRpb24oKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQWRqb2ludCBzb2x2ZXIgY29udmVyZ2VkIHdpdGggcmVzaWR1YWwgTDI6ICVlXG4iLCBzdGF0dXMucmVzaWR1YWxfbDJfbm9ybSk7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>config
 config
 config</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiZnVuY3Rpb24gdmFsdWU6ICVlXG4iLCBmdW5jdGlvbl92YWx1ZS5yZWFsKCkpOwogICAgcHJpbnRmKCJmdW5jdGlvbiBjb21wbGV4IHN0ZXA6ICUxLjE1ZVxuIiwgY29tcGxleF9zdGVwX2NoZWNrKTsKICAgIHByaW50ZigiYWRqb2ludCBzb2x1dGlvbjogICAgICAlMS4xNWVcbiIsIGFkam9pbnRfY2hlY2spOwogICAgcHJpbnRmKCJkaWZmZXJlbmNlOiAgICAgICAgICAgICUxLjE1ZVxuIiwgZGlmZmVyZW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -5372,9 +5372,9 @@ config</text>
         <entry>q</entry>
         <entry>137</entry>
         <entry>233</entry>
-        <entry>qa</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

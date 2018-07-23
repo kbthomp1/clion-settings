@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="BaseOnThisFunction" />
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
@@ -21,6 +27,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>

@@ -93,6 +93,13 @@
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScLHSTests.cpp" timestamp="1532089876967">
         <mark key="'" line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1532375418910">
+        <mark key="'" line="138" column="32" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
         <mark key="[" line="14" column="42" />
@@ -430,10 +437,6 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PetscLinearSolverTests.cpp" timestamp="1532091334060">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="40" column="73" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" timestamp="1532117288643">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="118" column="28" />
@@ -729,10 +732,6 @@
         <mark key="]" line="86" column="40" />
         <mark key="." line="86" column="40" />
         <mark key="^" line="86" column="40" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/GhostSyncer.h" timestamp="1532091107341">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="99" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ComplexHelpers.h" timestamp="1521720510508">
         <mark key="'" line="0" column="0" />
@@ -1128,6 +1127,12 @@
         <mark key="]" line="88" column="55" />
         <mark key="^" line="88" column="55" />
         <mark key="." line="88" column="55" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1532375317342">
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="73" column="40" />
+        <mark key="^" line="73" column="40" />
+        <mark key="." line="73" column="40" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SolutionVariablesTests.cpp" timestamp="1532027353143">
         <mark key="'" line="6" column="0" />
@@ -1762,7 +1767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.hpp" />
       <jump line="17" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="372" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="6" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -1862,6 +1866,7 @@
       <jump line="41" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mesh/MeshUtilities.cpp" />
       <jump line="70" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="21" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
+      <jump line="138" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1872,7 +1877,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuZ3JhZGllbnRzRGF0YSgpKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPFZlY3RvclJIUy5oPgo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5281,42 +5286,42 @@
         <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sibGluZWFyIHNvbHZlciBzZXR0aW5ncyJdWyJyZWxhdGl2ZSB0b2xlcmFuY2UiXSA9IDEuMGUtMTI7CiAgICBjb25maWdbImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiXVsiYWJzb2x1dGUgdG9sZXJhbmNlIl0gPSAxLjBlLTEyOwogICAgY29uZmlnWyJsaW5lYXIgc29sdmVyIHNldHRpbmdzIl1bIm1heCBrcnlsb3Ygc2VhcmNoIGRpcmVjdGlvbnMiXSA9IDEwMDAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuZ3JhZGllbnRzRGF0YSgpKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPFZlY3RvclJIUy5oPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuc29sdXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuZ3JhZGllbnRzRGF0YSgpKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2Jhc2VkX3N5bmNlci5zeW5jKFEuc29sdXRpb24oKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQWRqb2ludCBzb2x2ZXIgY29udmVyZ2VkIHdpdGggcmVzaWR1YWwgTDI6ICVlXG4iLCBzdGF0dXMucmVzaWR1YWxfbDJfbm9ybSk7Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>config
-config
-config</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiQWRqb2ludCBzb2x2ZXIgY29udmVyZ2VkIHdpdGggcmVzaWR1YWwgTDI6ICVlXG4iLCBzdGF0dXMucmVzaWR1YWxfbDJfbm9ybSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text>config
+config
+config</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>

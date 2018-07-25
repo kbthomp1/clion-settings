@@ -24,8 +24,8 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1532537934531">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1532547305434">
+        <mark key="'" line="32" column="78" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" timestamp="1532089818906">
         <mark key="'" line="73" column="8" />
@@ -861,9 +861,9 @@
         <mark key="." line="87" column="97" />
         <mark key="^" line="87" column="97" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/ConstraintTerms.h" timestamp="1532538592572">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="37" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/ConstraintTerms.h" timestamp="1532547240323">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="109" />
         <mark key="^" line="2" column="28" />
         <mark key="." line="6" column="0" />
       </file>
@@ -1680,11 +1680,11 @@
         <mark key="." line="250" column="61" />
         <mark key="^" line="250" column="61" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InteriorPenaltyTerms.h" timestamp="1532538597420">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="56" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InteriorPenaltyTerms.h" timestamp="1532547248339">
+        <mark key="[" line="12" column="98" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/CMakeLists.txt" timestamp="1531235044951">
         <mark key="'" line="7" column="8" />
@@ -1796,6 +1796,13 @@
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Constraints.h" timestamp="1532547538978">
+        <mark key="'" line="23" column="64" />
+        <mark key="[" line="85" column="44" />
+        <mark key="]" line="85" column="43" />
+        <mark key="^" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+      </file>
       <file name="$USER_HOME$/hefss++/fortran/hefss_interface.f90" timestamp="1503669182822">
         <mark key="'" line="88" column="33" />
         <mark key="[" line="5" column="11" />
@@ -1812,8 +1819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="183" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="69" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="79" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
       <jump line="95" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" />
@@ -1912,6 +1917,8 @@
       <jump line="404" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="17" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="391" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="32" column="78" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="23" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Constraints.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1921,8 +1928,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lIFQsIHNpemVfdCBOdW1FcW5zPgo=</text>
+      <register name="&quot;" type="4">
+        <text>= 0;</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5322,13 +5329,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InteriorPenaltyTerms</text>
+        <text>= 0;</text>
       </register>
       <register name="/" type="4">
-        <text>Pen</text>
+        <text>applyGlobalizationM</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPHR5cGVuYW1lIFQsIHNpemVfdCBOdW1FcW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIHZvaWQgZm9ybUEoTEhTPFQsIE51bUVxbnM+KiBsaHMsIGNvbnN0IFJIUzxULCBOdW1FcW5zPiogcmhzLCBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4mIHNvbHV0aW9uKSBjb25zdCA9IDA7CiAgICAgICAgdmlydHVhbCB2b2lkIGZvcm1CKFJIUzxULCBOdW1FcW5zPiogcmhzLCBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4mIHNvbHV0aW9uKSBjb25zdCA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuLi9kaXNjcmV0aXphdGlvbi9Db25zdHJhaW50cy5oKQo=</text>
@@ -5371,9 +5378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Pen</last-search>
+      <last-search>applyGlobalizationM</last-search>
       <last-offset />
-      <last-pattern>Pen</last-pattern>
+      <last-pattern>applyGlobalizationM</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5381,7 +5388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time_integ</entry>
         <entry>lhs</entry>
         <entry>time_int</entry>
         <entry>in_line_search</entry>
@@ -5401,6 +5407,7 @@
         <entry>edge_turb_stress</entry>
         <entry>formA</entry>
         <entry>Pen</entry>
+        <entry>applyGlobalizationM</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>

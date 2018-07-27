@@ -96,13 +96,13 @@
       <file name="/LLDB" timestamp="1532703472841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1532705420993">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1532705608600">
         <mark key="'" line="348" column="23" />
         <mark key="k" line="344" column="32" />
-        <mark key="[" line="427" column="83" />
-        <mark key="]" line="427" column="84" />
-        <mark key="." line="427" column="84" />
-        <mark key="^" line="427" column="110" />
+        <mark key="[" line="459" column="54" />
+        <mark key="]" line="459" column="53" />
+        <mark key="." line="459" column="53" />
+        <mark key="^" line="459" column="53" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
@@ -1952,8 +1952,9 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>residual stopping tolerance</text>
+      <register name="&quot;" type="8">
+        <text>_map[
+_map[</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5353,49 +5354,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>residual stopping tolerance</text>
+        <text encoding="base64">IC1zbmVzX2xpbmVzZWFyY2hfbW9uaXRvciI7</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpzb25fY29uZmlnWyJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIl1bInJlc2lkdWFsIHN0b3BwaW5nIHRvbGVyYW5jZSJdID0gMWUtMTY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIngxID0gJWVcbiIsIHNvbHV0aW9uX21hcFswXVswXSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uCg==</text>
+      <register name="1" type="8">
+        <text>_map[
+_map[</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNvYmlhbi5wcmludCgpOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHBldHNjX29wdGlvbnMgPSAiLXNuZXNfbGluZXNlYXJjaF90eXBlIGJ0IC1zbmVzX2xpbmVzZWFyY2hfZGFtcGluZyAxLjAgLXNuZXNfbGluZXNlYXJjaF9tb25pdG9yIjsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxocy0+c2V0KDAsIDAsIHswfSwgezB9LCAmdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBwZXRzY19vcHRpb25zID0gIi1zbmVzX2xpbmVzZWFyY2hfdHlwZSBidCAtc25lc19saW5lc2VhcmNoX2RhbXBpbmcgMS4wIC1zbmVzX2xpbmVzZWFyY2hfbW9uaXRvciI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMj4gdmFsdWVzID0gezAsMH07CiAgICAgICAgdmFsdWVzWzBdID0geDEgKyB4MiAtIDMuMDsKICAgICAgICB2YWx1ZXNbMV0gPSB4MSAqIHgxICsgeDIgKiB4MiAtIDk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgeDEgPSBzb2x1dGlvblswXVswXTsKICAgICAgICBkb3VibGUgeDIgPSBzb2x1dGlvblswXVsxXSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYWNvYmlhbi5wcmludCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxocy0+c2V0KDAsIDAsIHswfSwgezB9LCAmdmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFhTcXVhcmVkKCkgPSBkZWZhdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgMj4gdmFsdWVzID0gezAsMH07CiAgICAgICAgdmFsdWVzWzBdID0geDEgKyB4MiAtIDMuMDsKICAgICAgICB2YWx1ZXNbMV0gPSB4MSAqIHgxICsgeDIgKiB4MiAtIDk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgeDEgPSBzb2x1dGlvblswXVswXTsKICAgICAgICBkb3VibGUgeDIgPSBzb2x1dGlvblswXVsxXSA7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByaHMtPnNldCgwLCB7MCwgMX0sIHZhbHVlcy5kYXRhKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

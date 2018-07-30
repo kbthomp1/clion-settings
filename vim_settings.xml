@@ -882,13 +882,11 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1532797615853">
-        <mark key="'" line="191" column="75" />
-        <mark key="[" line="116" column="124" />
-        <mark key="k" line="201" column="51" />
-        <mark key="]" line="117" column="104" />
-        <mark key="." line="117" column="104" />
-        <mark key="^" line="117" column="104" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1532968212121">
+        <mark key="k" line="202" column="51" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1532037334035">
         <mark key="[" line="20" column="35" />
@@ -1828,10 +1826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
-      <jump line="33" column="114" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
-      <jump line="23" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
-      <jump line="21" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
       <jump line="24" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
       <jump line="14" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="5" column="1" filename="$USER_HOME$/one-ring/hypersolve/test/ConstraintsTests.cpp" />
@@ -1928,6 +1922,10 @@
       <jump line="22" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" />
       <jump line="23" column="116" filename="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" />
       <jump line="7" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" />
+      <jump line="74" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="108" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="178" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="134" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1938,7 +1936,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VQYXNzZXIgbXA7CiAgICBtcC4K</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5338,58 +5336,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>CHECKPOINT</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>CHECKPOINT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oInVua25vd24gb3B0aW9uIGluIGpzb24gb2JqZWN0IikgewogICAgICAgIHN0ZDo6c3RyaW5nIGlucHV0ID0gUiIoeyJpbnZpc2NpZCBmbHV4IHNldHRpbmdzIiA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZsdXggbGltaXRlciIgOiAibm8gbGltaXRlciIgfQogICAgICAgICAgICAgICAgICAgICAgICAgICB9KSI7CiAgICAgICAgUkVRVUlSRV9USFJPV1NfV0lUSChIUzo6SW5wdXQ6OkludGVybmFsOjpjaGVja0ZvclVua25vd25PcHRpb25HaXZlbihpbnB1dCksICJVbmtub3duIG9wdGlvbiBpbiBcImludmlzY2lkIGZsdXggc2V0dGluZ3NcIiBnaXZlbjogXCJmbHV4IGxpbWl0ZXJcIiIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VQYXNzZXIgbXA7CiAgICBtcC4K</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodi5rZXkoKSkK</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQ7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZsdXggbGltaXRlciIgOiAibm8gbGltaXRlciIgfQo=</text>
+        <text encoding="base64">ICAgIENIRUNLUE9JTlQoIlByZSBjaGVjayIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VQYXNzZXIgbXA7CiAgICBtcC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlucHV0ID0gUiIoeyJpbnZpc2NpZCBmbHV4IHNldHRpbmdzIiA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZsdXggbGltaXRlciIgOiAibm8gbGltaXRlciIgfQogICAgICAgICAgICAgICAgICAgICAgICAgICB9KSI7CiAgICBSRVFVSVJFX1RIUk9XU19XSVRIKEhTOjpJbnB1dDo6SW50ZXJuYWw6OmNoZWNrRm9yVW5rbm93bk9wdGlvbkdpdmVuKGlucHV0KSwgIlVua25vd24gb3B0aW9uIGluIFwiaW52aXNjaWQgZmx1eCBzZXR0aW5nc1wiIGdpdmVuOiBcImZsdXggbGltaXRlclwiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodi5rZXkoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZsdXggbGltaXRlciIgOiAibm8gbGltaXRlciIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIGlucHV0ID0gUiIoeyJpbnZpc2NpZCBmbHV4IHNldHRpbmdzIiA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZsdXggbGltaXRlciIgOiAibm8gbGltaXRlciIgfQogICAgICAgICAgICAgICAgICAgICAgICAgICB9KSI7CiAgICBSRVFVSVJFX1RIUk9XU19XSVRIKEhTOjpJbnB1dDo6SW50ZXJuYWw6OmNoZWNrRm9yVW5rbm93bk9wdGlvbkdpdmVuKGlucHV0KSwgIlVua25vd24gb3B0aW9uIGluIFwiaW52aXNjaWQgZmx1eCBzZXR0aW5nc1wiIGdpdmVuOiBcImZsdXggbGltaXRlclwiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>CHECKPOINT</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>CHECKPOINT</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5397,7 +5395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcJac</entry>
         <entry>HS::C</entry>
         <entry>constraint_</entry>
         <entry>lhs</entry>
@@ -5412,11 +5409,12 @@
         <entry>double, 1</entry>
         <entry>disc</entry>
         <entry>1</entry>
-        <entry>monitor</entry>
         <entry>iteration</entry>
         <entry encoding="base64">cy0+aXRlcg==</entry>
         <entry>MockTerms</entry>
         <entry>json</entry>
+        <entry>monitor</entry>
+        <entry>CHECKPOINT</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>

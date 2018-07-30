@@ -647,6 +647,7 @@
         <mark key="^" line="104" column="57" />
         <mark key="." line="104" column="57" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1532974923714" />
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
         <mark key="[" line="54" column="0" />
@@ -689,6 +690,7 @@
         <mark key="." line="142" column="20" />
         <mark key="^" line="135" column="16" />
       </file>
+      <file name="$USER_HOME$/one-ring/t_infinity/src/MetricCalculator.cpp" timestamp="1532975121139" />
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data_converter.py" timestamp="1498676971468">
         <mark key="'" line="11" column="47" />
         <mark key="[" line="17" column="80" />
@@ -1332,6 +1334,13 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/one-ring/refine-plugins/src/RefineMeshAdapter.cpp" timestamp="1532975659943">
+        <mark key="'" line="572" column="0" />
+        <mark key="[" line="591" column="0" />
+        <mark key="]" line="591" column="0" />
+        <mark key="." line="591" column="0" />
+        <mark key="^" line="576" column="3" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1513704163126">
         <mark key="'" line="470" column="4" />
         <mark key="[" line="338" column="0" />
@@ -1830,7 +1839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="42" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="43" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="32" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/InteriorPenalty.h" />
@@ -1930,6 +1938,7 @@
       <jump line="174" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="56" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="81" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" />
+      <jump line="577" column="0" filename="$USER_HOME$/one-ring/refine-plugins/src/RefineMeshAdapter.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1940,7 +1949,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImNmbDogIiA8PCBjdXJyZW50X2NmbCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICByZWZfZnJlZShyZWZfc2NhbGFyKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5343,55 +5352,55 @@
         <text>previous_solution</text>
       </register>
       <register name="/" type="4">
-        <text>cout</text>
+        <text>ref_scalar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiQ29tcHV0aW5nIGphY29iaWFuLi4uXG4iKTsK</text>
+        <text encoding="base64">ICByZWZfZnJlZShyZWZfc2NhbGFyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImNmbDogIiA8PCBjdXJyZW50X2NmbCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICByZWZfZnJlZShyZWZfc2NhbGFyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJkdCA9ICIgPDwgdGltZV9kaWFnb25hbFtub2RlX2lkXSA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHJlZl9zY2FsYXIgPSAoUkVGX0RCTCAqKW1hbGxvYyhzaXplb2YoUkVGX0RCTCkgKiByZWZfbm9kZV9tYXgocmVmX25vZGUpKTsKICBmb3IgKGludCBub2RlID0gMDsgbm9kZSA8IHNjYWxhci0+c2l6ZSgpOyBub2RlKyspIHsKICAgIHNjYWxhci0+dmFsdWUobm9kZSwgJnJlZl9zY2FsYXJbbm9kZV0pOwogIH0KCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJkdCA9ICVlXG4iLCB0aW1lX2RpYWdvbmFsW25vZGVfaWRdKTsK</text>
+        <text encoding="base64">ICAvKiBSRUZfTUVUUklDX0tFWEFDVCBpcyBwcmVmZXJyZWQsIGJ1dCBpcyBub3QgcGFyYWxsZWwgeWV0LiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3NvbHV0aW9uLnByaW50U29sdXRpb24oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZXZpb3VzX3NvbHV0aW9uID0gUTsK</text>
+        <text encoding="base64">ICBhdXRvIHJlZl9zY2FsYXIgPSAoUkVGX0RCTCAqKW1hbGxvYyhzaXplb2YoUkVGX0RCTCkgKiByZWZfbm9kZV9tYXgocmVmX25vZGUpKTsKICBmb3IgKGludCBub2RlID0gMDsgbm9kZSA8IHNjYWxhci0+c2l6ZSgpOyBub2RlKyspIHsKICAgIHNjYWxhci0+dmFsdWUobm9kZSwgJnJlZl9zY2FsYXJbbm9kZV0pOwogIH0KICByZWZfb2socmVmX21ldHJpY19scChyZWZfbWV0cmljLCByZWZfZ3JpZCwgcmVmX3NjYWxhciwKICAgICAgICAgICAgICAgICAgICAgICBSRUZfTUVUUklDX0wyUFJPSkVDVElPTiwgcCwgZ3JhZGF0aW9uLCBjb21wbGV4aXR5KSk7CiAgcmVmX2ZyZWUocmVmX3NjYWxhcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24ocy0+c29sdXRpb24sIHMtPnByZXZpb3VzX3NvbHV0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImNmbDogIiA8PCBjdXJyZW50X2NmbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKHMtPnNvbHV0aW9uLCBzLT5wcmV2aW91c19zb2x1dGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJkdCA9ICIgPDwgdGltZV9kaWFnb25hbFtub2RlX2lkXSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJkdCA9ICVlXG4iLCB0aW1lX2RpYWdvbmFsW25vZGVfaWRdKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3NvbHV0aW9uLnByaW50U29sdXRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>cout</last-search>
+      <last-search>ref_scalar</last-search>
       <last-offset />
-      <last-pattern>cout</last-pattern>
+      <last-pattern>ref_scalar</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5399,7 +5408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eqn_map</entry>
         <entry>MatDi</entry>
         <entry>penalty</entry>
         <entry>mp</entry>
@@ -5419,6 +5427,7 @@
         <entry encoding="base64">cy0+cHJldmlvdXNfc29sdXRpb24=</entry>
         <entry>previous_solution</entry>
         <entry>cout</entry>
+        <entry>ref_scalar</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>

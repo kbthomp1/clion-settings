@@ -784,12 +784,11 @@
         <mark key="^" line="305" column="136" />
         <mark key="." line="305" column="136" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1532972711602">
-        <mark key="'" line="69" column="26" />
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="66" column="55" />
-        <mark key="." line="66" column="55" />
-        <mark key="^" line="66" column="55" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1532973801906">
+        <mark key="'" line="79" column="39" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
@@ -1834,7 +1833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" />
       <jump line="81" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="42" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
       <jump line="43" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" />
@@ -1934,6 +1932,7 @@
       <jump line="93" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="174" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="56" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="81" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1944,7 +1943,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJkdCA9ICVlXG4iLCB0aW1lX2RpYWdvbmFsW25vZGVfaWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImNmbDogIiA8PCBjdXJyZW50X2NmbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5347,55 +5346,55 @@
         <text>previous_solution</text>
       </register>
       <register name="/" type="4">
-        <text>previous_solution</text>
+        <text>cout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ZigiQ29tcHV0aW5nIGphY29iaWFuLi4uXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJkdCA9ICVlXG4iLCB0aW1lX2RpYWdvbmFsW25vZGVfaWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgImNmbDogIiA8PCBjdXJyZW50X2NmbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3NvbHV0aW9uLnByaW50U29sdXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJkdCA9ICIgPDwgdGltZV9kaWFnb25hbFtub2RlX2lkXSA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZXZpb3VzX3NvbHV0aW9uID0gUTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJkdCA9ICVlXG4iLCB0aW1lX2RpYWdvbmFsW25vZGVfaWRdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24ocy0+c29sdXRpb24sIHMtPnByZXZpb3VzX3NvbHV0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3NvbHV0aW9uLnByaW50U29sdXRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKHMtPnNvbHV0aW9uLCBzLT5wcmV2aW91c19zb2x1dGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIHByZXZpb3VzX3NvbHV0aW9uID0gUTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24ocy0+c29sdXRpb24sIHMtPnByZXZpb3VzX3NvbHV0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzLT5jb3B5UGV0c2NWZWN0b3JUb1NvbHV0aW9uKHMtPnNvbHV0aW9uLCBzLT5wcmV2aW91c19zb2x1dGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiVXBkYXRpbmcgcHJldmlvdXMgc29sdXRpb25cbiIpOwogICAgcy0+Y29weVBldHNjVmVjdG9yVG9Tb2x1dGlvbihuZXh0X3NvbHV0aW9uLCBzLT5wcmV2aW91c19zb2x1dGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgIHMtPmNvcHlQZXRzY1ZlY3RvclRvU29sdXRpb24obmV4dF9zb2x1dGlvbiwgcy0+cHJldmlvdXNfc29sdXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>previous_solution</last-search>
+      <last-search>cout</last-search>
       <last-offset />
-      <last-pattern>previous_solution</last-pattern>
+      <last-pattern>cout</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5403,7 +5402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lhs</entry>
         <entry>eqn_map</entry>
         <entry>MatDi</entry>
         <entry>penalty</entry>
@@ -5423,6 +5421,7 @@
         <entry>CHECKPOINT</entry>
         <entry encoding="base64">cy0+cHJldmlvdXNfc29sdXRpb24=</entry>
         <entry>previous_solution</entry>
+        <entry>cout</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>

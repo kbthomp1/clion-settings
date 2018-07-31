@@ -24,12 +24,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1532717391473">
-        <mark key="'" line="72" column="33" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="23" />
-        <mark key="." line="64" column="23" />
-        <mark key="^" line="64" column="23" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1533059077589">
+        <mark key="'" line="73" column="33" />
+        <mark key="[" line="41" column="110" />
+        <mark key="]" line="41" column="109" />
+        <mark key="." line="41" column="109" />
+        <mark key="^" line="41" column="109" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScLHS.h" timestamp="1533042671025">
         <mark key="'" line="0" column="0" />
@@ -793,12 +793,6 @@
         <mark key="^" line="305" column="136" />
         <mark key="." line="305" column="136" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1532973801906">
-        <mark key="'" line="79" column="39" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="51" column="54" />
@@ -891,12 +885,12 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1533054578248">
-        <mark key="'" line="66" column="13" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="3" />
-        <mark key="^" line="70" column="3" />
-        <mark key="." line="70" column="3" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1533059443984">
+        <mark key="'" line="313" column="25" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="319" column="36" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1532037334035">
         <mark key="[" line="20" column="35" />
@@ -1157,12 +1151,6 @@
         <mark key="]" line="11" column="43" />
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" timestamp="1532960178814">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1532626023172">
         <mark key="'" line="44" column="16" />
@@ -1856,11 +1844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="232" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="234" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="244" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="309" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="312" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="344" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="345" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1900,7 +1883,6 @@
       <jump line="134" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="32" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionVariables.h" />
       <jump line="173" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="71" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="93" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="174" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="56" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1956,6 +1938,12 @@
       <jump line="82" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
       <jump line="229" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="66" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="120" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="263" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="355" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="321" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="329" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1965,8 +1953,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TlVMTCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5366,57 +5354,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TlVMTCwg</text>
+        <text>snes</text>
       </register>
       <register name="/" type="4">
         <text>cout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGltZW5zaW9uYWxpemVGbHV4KGZsdXhlcywgbm9uZGltZW5zaW9uYWxpemF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gcyA9IChQRVRTY05vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBFVFNDX1ZJRVdFUl9TVERPVVRfKG1wLmdldENvbW11bmljYXRvcigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGV0c2Nfb3B0aW9ucyArPSAiIC1rc3BfbW9uaXRvciI7Cg==</text>
+        <text encoding="base64">Ly8gICAgZG91YmxlIHNvbHV0aW9uX2wyLCByZXNpZHVhbF9sMiwgdXBkYXRlX2wyOwovLyAgICBzLT5jYWxjUmVzaWR1YWwocy0+c25lcywgY3VycmVudF9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwovLyAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnJlc2lkdWFsX2wyKTsKLy8gICAgVmVjTm9ybShjdXJyZW50X3NvbHV0aW9uLCBOT1JNXzIsICZzb2x1dGlvbl9sMik7Ci8vICAgIFZlY05vcm0odXBkYXRlLCBOT1JNXzIsICZ1cGRhdGVfbDIpOwovLyAgICBwcmludGYoIkNIRUNLOiBmbm9ybSA9ICVlXG4iLCByZXNpZHVhbF9sMik7Ci8vICAgIFNORVNMaW5lU2VhcmNoU2V0Tm9ybXMobHMsIHNvbHV0aW9uX2wyLCByZXNpZHVhbF9sMiwgdXBkYXRlX2wyKTsKLy8KLy8gICAgU05FU1NldEZ1bmN0aW9uTm9ybShzLT5zbmVzLCByZXNpZHVhbF9sMik7CgovLyAgICBTTkVTTGluZVNlYXJjaENvbXB1dGVOb3Jtcyhscyk7Cgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1sicGV0c2Mgb3B0aW9ucyJdID0gc3RkOjpzdHJpbmcoIiIpOwogICAgY29uZmlnID0gbmxvaG1hbm46Ompzb24oKTsK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBsMjsK</text>
       </register>
-      <register name="4" type="8">
-        <text>[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFZlY05vcm0ocmVzaWR1YWwsIE5PUk1fMiwgJmwyKTsKICAgIHN0ZDo6Y291dCA8PCAiTDI6ICIgPDwgbDIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IG5sb2htYW5uOjpqc29uKCk7Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+ClBldHNjRXJyb3JDb2RlClBFVFNjTm9uTGluZWFyU29sdmVyPFQsIE51bUVxbnM+OjpsaW5lU2VhcmNoT2JqZWN0aXZlKFNORVMgcGV0c2Nfc25lcywgVmVjIGN1cnJlbnRfc29sdXRpb24sIGRvdWJsZSAqb2JqZWN0aXZlX3ZhbHVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2b2lkICpzb2x2ZXJfZGF0YSkgewogICAgYXV0byBzID0gKFBFVFNjTm9uTGluZWFyU29sdmVyICopIHNvbHZlcl9kYXRhOwogICAgcy0+Y2FsY1Jlc2lkdWFsKHBldHNjX3NuZXMsIGN1cnJlbnRfc29sdXRpb24sIHMtPm1fcmVzaWR1YWwsIHNvbHZlcl9kYXRhKTsKICAgIFZlY05vcm0ocy0+bV9yZXNpZHVhbCwgTk9STV8yLCBvYmplY3RpdmVfdmFsdWUpOwogICAgcmV0dXJuIDA7Cn0K</text>
       </register>
-      <register name="6" type="8">
-        <text>[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1sicGV0c2Mgb3B0aW9ucyJdID0gc3RkOjpzdHJpbmcoIiIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="8">
-        <text>[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]
-[&quot;linear solver settings&quot;]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRvdWJsZSBzb2x1dGlvbl9sMiwgcmVzaWR1YWxfbDIsIHVwZGF0ZV9sMjsKICAgIHMtCiAgICBTTkVTTGluZVNlYXJjaFNldE5vcm1zKGxzLCApCgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IE51bUVxbnM+Cg==</text>
+        <text encoding="base64">ICAgIFNORVNMaW5lU2VhcmNoU2V0Tm9ybXMoKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -5433,7 +5413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MockTerms</entry>
         <entry>monitor</entry>
         <entry>CHECKPOINT</entry>
         <entry encoding="base64">cy0+cHJldmlvdXNfc29sdXRpb24=</entry>
@@ -5452,6 +5431,7 @@
         <entry>runtime</entry>
         <entry>petsc_</entry>
         <entry>petsc</entry>
+        <entry>linesearch</entry>
         <entry>cout</entry>
       </history-search>
       <history-cmd>

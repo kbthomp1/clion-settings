@@ -610,7 +610,7 @@
         <mark key="." line="57" column="66" />
         <mark key="^" line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1533230467320">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" timestamp="1533231917936">
         <mark key="'" line="48" column="100" />
         <mark key="k" line="46" column="49" />
         <mark key="[" line="72" column="74" />
@@ -1171,12 +1171,12 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1533066108796">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1533232370974">
         <mark key="'" line="38" column="5" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="11" column="43" />
-        <mark key="^" line="11" column="43" />
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="$USER_HOME$/petsc_install/petsc-3.8.4/src/snes/impls/ls/ls.c" timestamp="1533158613331" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1532626023172">
@@ -1453,12 +1453,12 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1533229443595">
-        <mark key="'" line="45" column="48" />
-        <mark key="[" line="70" column="99" />
-        <mark key="]" line="72" column="114" />
-        <mark key="." line="72" column="114" />
-        <mark key="^" line="72" column="114" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1533232393078">
+        <mark key="'" line="57" column="48" />
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="32" column="63" />
+        <mark key="." line="32" column="63" />
+        <mark key="^" line="32" column="63" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SABoundaryTerms.hpp" timestamp="1530284878897">
         <mark key="'" line="19" column="50" />
@@ -1976,8 +1976,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RkOjpudW1lcmljX2xpbWl0czxUPjo6bWF4KCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IEhTOjpjcmVhdGVUaW1lSW50ZWdyYXRvcihtcCwgbWVzaCwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncywgdGhlcm1vZHluYW1pY3MpOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5377,13 +5377,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjpudW1lcmljX2xpbWl0czxUPjo6bWF4KCk=</text>
+        <text>use_local_timestepping</text>
       </register>
       <register name="/" type="4">
         <text>timestepping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpcnR1YWwgc3RkOjp2ZWN0b3I8VD4gY2FsY1ZvbHVtZU92ZXJUaW1lU3RlcChjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4mIFEpIGNvbnN0ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IEhTOjpjcmVhdGVUaW1lSW50ZWdyYXRvcihtcCwgbWVzaCwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncywgdGhlcm1vZHluYW1pY3MpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -5392,34 +5392,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdGltZXN0ZXBwaW5nID0gTG9jYWxUaW1lU3RlcHBpbmc8Y29tcGxleCwgNT4obXAsIG1lc2gsIHNldHRpbmdzLCB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkxvY2FsVGltZVN0ZXBwaW5nLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkxvY2FsVGltZVN0ZXBwaW5nLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ZDo6bWFrZV9zaGFyZWQ8TG9jYWxUaW1lU3RlcHBpbmc8ZG91YmxlLCBOdW1FcW5zPj4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IHN0ZDo6bWFrZV9zaGFyZWQ8TG9jYWxUaW1lU3RlcHBpbmc8ZG91YmxlLCBOdW1FcW5zPj4obWVzaCwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncywgdGhlcm1vZHluYW1pY3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZWdyYXRvcl90eXBlID09ICJsb2NhbCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gdGltZV9pbnRlZ3JhdG9yID0gc3RkOjptYWtlX3NoYXJlZDxMb2NhbFRpbWVTdGVwcGluZzxkb3VibGUsIE51bUVxbnM+PihtZXNoLCBub25saW5lYXJfc29sdmVyX3NldHRpbmdzLCB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IE51bUVxbnM+CnN0ZDo6c2hhcmVkX3B0cjxUaW1lSW50ZWdyYXRvcjxULCBOdW1FcW5zPj4gY3JlYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiQ0hFQ0sgMlxuIik7Cg==</text>
+        <text encoding="base64">ICAgIG5hbWVzcGFjZSBUaW1lSW50ZWdyYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiQ0hFQ0sgMVxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIkNIRUNLIDFhXG4iKTsK</text>
+        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IE51bUVxbnM+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

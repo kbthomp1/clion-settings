@@ -209,8 +209,8 @@
         <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/petsc_install/petsc-3.8.4/src/snes/linesearch/impls/basic/linesearchbasic.c" timestamp="1533158742245" />
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1533230283680">
-        <mark key="'" line="41" column="46" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" timestamp="1533233407955">
+        <mark key="'" line="11" column="51" />
         <mark key="[" line="41" column="46" />
         <mark key="]" line="41" column="46" />
         <mark key="." line="41" column="46" />
@@ -830,7 +830,7 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533228457496">
+      <file name="/Dummy.txt" timestamp="1533233490851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Configuration.h" timestamp="1532957394954">
@@ -1453,12 +1453,12 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1533232393078">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1533233465451">
         <mark key="'" line="57" column="48" />
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="32" column="63" />
-        <mark key="." line="32" column="63" />
-        <mark key="^" line="32" column="63" />
+        <mark key="[" line="58" column="77" />
+        <mark key="]" line="58" column="77" />
+        <mark key="." line="58" column="77" />
+        <mark key="^" line="58" column="77" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SABoundaryTerms.hpp" timestamp="1530284878897">
         <mark key="'" line="19" column="50" />
@@ -1867,10 +1867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
-      <jump line="102" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
-      <jump line="120" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
-      <jump line="121" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
       <jump line="122" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
       <jump line="30" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
       <jump line="86" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PetscLinearSolver.h" />
@@ -1967,6 +1963,10 @@
       <jump line="41" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="46" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
       <jump line="48" column="100" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="53" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="61" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="11" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1976,8 +1976,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IEhTOjpjcmVhdGVUaW1lSW50ZWdyYXRvcihtcCwgbWVzaCwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncywgdGhlcm1vZHluYW1pY3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>son_con</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5377,10 +5377,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>use_local_timestepping</text>
+        <text>son_con</text>
       </register>
       <register name="/" type="4">
-        <text>timestepping</text>
+        <text>output_freq</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IEhTOjpjcmVhdGVUaW1lSW50ZWdyYXRvcihtcCwgbWVzaCwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncywgdGhlcm1vZHluYW1pY3MpOwo=</text>
@@ -5426,9 +5426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timestepping</last-search>
+      <last-search>output_freq</last-search>
       <last-offset />
-      <last-pattern>timestepping</last-pattern>
+      <last-pattern>output_freq</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5436,8 +5436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Conver</entry>
-        <entry>ConvergenceTest</entry>
         <entry>calcResidual</entry>
         <entry>printSol</entry>
         <entry>chop</entry>
@@ -5456,6 +5454,8 @@
         <entry>monitor</entry>
         <entry>time_integ</entry>
         <entry>timestepping</entry>
+        <entry>print</entry>
+        <entry>output_freq</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>

@@ -802,11 +802,11 @@
         <mark key="^" line="305" column="136" />
         <mark key="." line="305" column="136" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1533161660218">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="11" />
-        <mark key="." line="67" column="11" />
-        <mark key="^" line="67" column="11" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1533214092388">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="31" />
+        <mark key="." line="69" column="31" />
+        <mark key="^" line="69" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
@@ -1965,8 +1965,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SNESNEWTONTR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluX2R0ID0gc3RkOjptaW4obWluX2R0LCBzdGQ6OnJlYWwoZHRbbm9kZV9pZF0pKTsKICAgICAgICAgICAgbWF4X2R0ID0gc3RkOjptYXgobWF4X2R0LCBzdGQ6OnJlYWwoZHRbbm9kZV9pZF0pKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5366,49 +5366,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SNESNEWTONTR</text>
+        <text>std::min_element(dt.begin(), dt.end());</text>
       </register>
       <register name="/" type="4">
         <text>monitor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRbbm9kZV9pZF0gPSBtZXNoLmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV9pZF0gLyBkdFtub2RlX2lkXTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIm1pbiBkdCA9ICVlXG4iLCBtaW5fZHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX2R0ID0gc3RkOjptaW4obWluX2R0LCBzdGQ6OnJlYWwoZHRbbm9kZV9pZF0pKTsKICAgICAgICAgICAgbWF4X2R0ID0gc3RkOjptYXgobWF4X2R0LCBzdGQ6OnJlYWwoZHRbbm9kZV9pZF0pKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHRbbm9kZV9pZF0gPSBtZXNoLmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV9pZF0gLyBkdFtub2RlX2lkXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBib29sIGxpbmVfc2VhcmNoXwoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIm1pbiBkdCA9ICVlXG4iLCBtaW5fZHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sIGxpbmVfc2VhcmNoXwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHRbbm9kZV9pZF0gPSBtZXNoLmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV9pZF0gLyAxLmUtMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTTkVTTGluZVNlYXJjaFJlYXNvbiBsc19yZWFzb247CiAgICAgICAgU05FU0xpbmVTZWFyY2hHZXRSZWFzb24obHMsICZsc19yZWFzb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTTkVTTGluZVNlYXJjaFJlYXNvbiBsc19yZWFzb247CiAgICAgICAgU05FU0xpbmVTZWFyY2hHZXRSZWFzb24obHMsICZsc19yZWFzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBib29sIGxpbmVfc2VhcmNoXwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

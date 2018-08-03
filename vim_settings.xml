@@ -91,13 +91,13 @@
       <file name="/LLDB" timestamp="1533298464669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1533298706837">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1533299563848">
         <mark key="'" line="29" column="8" />
         <mark key="k" line="130" column="27" />
-        <mark key="[" line="189" column="48" />
-        <mark key="]" line="189" column="89" />
-        <mark key="." line="189" column="89" />
-        <mark key="^" line="189" column="89" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="98" column="54" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
@@ -2006,8 +2006,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5407,49 +5407,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>-snes_linesearch_damping 1.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">cy0+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFRyYWNlci5oPgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIlZlcmlmeSBsaW5lIHNlYXJjaCBwcmUtY2hlY2siKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFZlYyBwZXRzY19zb2x1dGlvbiwgcGV0c2NfdXBkYXRlOwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFRyYWNlci5oPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZXI6OmVuZCgiVGltZVN0ZXBDYWxjdWxhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oIlZlcmlmeSBsaW5lIHNlYXJjaCBwcmUtY2hlY2siKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZXI6OmJlZ2luKCJUaW1lU3RlcENhbGN1bGF0aW9uIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZXI6OmVuZCgiYWxsb2NhdGUgZHQiKTsK</text>
+        <text encoding="base64">ICAgIFZlYyBwZXRzY19zb2x1dGlvbiwgcGV0c2NfdXBkYXRlOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

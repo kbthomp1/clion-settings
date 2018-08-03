@@ -671,6 +671,9 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="141" column="32" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1533302817701">
+        <mark key="'" line="196" column="4" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AutoDiffTests.cpp" timestamp="1520260886203">
         <mark key="'" line="49" column="31" />
         <mark key="[" line="54" column="0" />
@@ -1897,7 +1900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="241" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="71" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="80" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -1997,6 +1999,7 @@
       <jump line="47" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
       <jump line="19" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
       <jump line="40" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
+      <jump line="196" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5410,7 +5413,7 @@
         <text>-snes_linesearch_damping 1.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">cy0+</text>
+        <text>expect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGYoInNvbHV0aW9uWzBdWzBdID0gJWVcbiIsIHNvbHV0aW9uWzBdWzBdKTsK</text>
@@ -5456,9 +5459,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">cy0+</last-search>
+      <last-search>expect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">cy0+</last-pattern>
+      <last-pattern>expect</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
@@ -5466,7 +5469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BEGIN</entry>
         <entry>CHECKPOINT</entry>
         <entry>printSo</entry>
         <entry>previous_solution</entry>
@@ -5486,6 +5488,7 @@
         <entry>setupNon</entry>
         <entry>auto</entry>
         <entry encoding="base64">cy0+</entry>
+        <entry>expect</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>

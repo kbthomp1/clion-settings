@@ -658,8 +658,8 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="141" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1533654573005">
-        <mark key="'" line="283" column="8" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1533659824379">
+        <mark key="'" line="525" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="45" />
         <mark key="." line="66" column="0" />
@@ -1915,8 +1915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" />
-      <jump line="47" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
       <jump line="19" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
       <jump line="40" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/TimeStepCalculation.h" />
       <jump line="196" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -2015,6 +2013,8 @@
       <jump line="78" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="32" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="49" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
+      <jump line="75" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="525" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5428,7 +5428,7 @@
         <text>Q[node]</text>
       </register>
       <register name="/" type="4">
-        <text>cfl</text>
+        <text>length</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0X3VwZGF0ZSA9IG5vbmxpbmVhcl9zb2x2ZXItPnNvbHZlKFEpOwo=</text>
@@ -5474,9 +5474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cfl</last-search>
+      <last-search>length</last-search>
       <last-offset />
-      <last-pattern>cfl</last-pattern>
+      <last-pattern>length</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>solver_data</last-substitute>
       <last-dir>1</last-dir>
@@ -5484,8 +5484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>applyPen</entry>
-        <entry>interior_penalty</entry>
         <entry>setupNon</entry>
         <entry>auto</entry>
         <entry encoding="base64">cy0+</entry>
@@ -5504,6 +5502,8 @@
         <entry>thermo_s</entry>
         <entry>int</entry>
         <entry>cfl</entry>
+        <entry>mesh lenght</entry>
+        <entry>length</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

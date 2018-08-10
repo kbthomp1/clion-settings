@@ -978,13 +978,13 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1533906032630">
-        <mark key="'" line="141" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1533906895943">
+        <mark key="'" line="169" column="39" />
         <mark key="k" line="168" column="1" />
-        <mark key="[" line="171" column="62" />
-        <mark key="]" line="171" column="69" />
-        <mark key="." line="171" column="69" />
-        <mark key="^" line="171" column="69" />
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="136" column="30" />
+        <mark key="." line="136" column="30" />
+        <mark key="^" line="136" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1533326691853">
         <mark key="[" line="18" column="30" />
@@ -2008,8 +2008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="273" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="292" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="182" column="28" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
       <jump line="61" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
@@ -2108,6 +2106,8 @@
       <jump line="320" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="139" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="141" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="168" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="169" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5521,7 +5521,7 @@
         <text>jacobian free newton krylov&quot;: false,</text>
       </register>
       <register name="/" type="4">
-        <text>line_search</text>
+        <text>plotLine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiamFjb2JpYW4gZnJlZSBuZXd0b24ga3J5bG92IjogZmFsc2UsCg==</text>
@@ -5569,9 +5569,9 @@
       </register>
     </registers>
     <search>
-      <last-search>line_search</last-search>
+      <last-search>plotLine</last-search>
       <last-offset />
-      <last-pattern>line_search</last-pattern>
+      <last-pattern>plotLine</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5579,7 +5579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vergen</entry>
         <entry>previous_solution</entry>
         <entry>residual_l2_norm</entry>
         <entry>printf</entry>
@@ -5599,6 +5598,7 @@
         <entry>plot</entry>
         <entry>PreCh</entry>
         <entry>line_search</entry>
+        <entry>plotLine</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

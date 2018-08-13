@@ -92,7 +92,7 @@
         <mark key="." line="67" column="80" />
         <mark key="^" line="67" column="80" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" timestamp="1530293086325">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/InputStates.h" timestamp="1534193754807">
         <mark key="'" line="14" column="72" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="58" column="120" />
@@ -5555,7 +5555,7 @@
         <text>initial_mesh</text>
       </register>
       <register name="/" type="4">
-        <text>runtime</text>
+        <text>speed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiamFjb2JpYW4gZnJlZSBuZXd0b24ga3J5bG92IjogZmFsc2UsCg==</text>
@@ -5603,9 +5603,9 @@
       </register>
     </registers>
     <search>
-      <last-search>runtime</last-search>
+      <last-search>speed</last-search>
       <last-offset />
-      <last-pattern>runtime</last-pattern>
+      <last-pattern>speed</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5613,7 +5613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
         <entry>calcJac</entry>
         <entry>monitorRe</entry>
         <entry>previous</entry>
@@ -5633,6 +5632,7 @@
         <entry>plotLine</entry>
         <entry>local_to_global</entry>
         <entry>runtime</entry>
+        <entry>speed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

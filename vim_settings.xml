@@ -442,7 +442,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1534453808037">
+      <file name="/GDB" timestamp="1534458986910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
@@ -595,6 +595,7 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/one-ring/install/hypersolve/include/PETScHelpers.h" timestamp="1534458832488" />
       <file name="$USER_HOME$/hefss++/src/TdataReader.h" timestamp="1500379540973">
         <mark key="'" line="28" column="28" />
         <mark key="[" line="12" column="39" />
@@ -678,10 +679,10 @@
         <mark key="." line="57" column="66" />
         <mark key="^" line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScCopy.h" timestamp="1534454878997">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScCopy.h" timestamp="1534458577556">
         <mark key="'" line="25" column="119" />
-        <mark key="[" line="25" column="115" />
-        <mark key="]" line="25" column="115" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="86" />
         <mark key="." line="25" column="115" />
         <mark key="^" line="25" column="115" />
       </file>
@@ -738,6 +739,7 @@
         <mark key="." line="17" column="79" />
         <mark key="^" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.hpp" timestamp="1534458281423" />
       <file name="$USER_HOME$/hefss++/fortran/bcfd_interface_test.f90" timestamp="1502213030496">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="36" column="40" />
@@ -1147,12 +1149,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534456144780">
-        <mark key="'" line="6" column="22" />
-        <mark key="[" line="122" column="62" />
-        <mark key="]" line="122" column="62" />
-        <mark key="^" line="122" column="62" />
-        <mark key="." line="122" column="62" />
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534459196860">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="120" column="35" />
+        <mark key="]" line="120" column="35" />
+        <mark key="." line="120" column="35" />
+        <mark key="^" line="120" column="35" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
@@ -2123,6 +2125,7 @@
         <mark key="^" line="36" column="48" />
         <mark key="." line="28" column="55" />
       </file>
+      <file name="$USER_HOME$/one-ring/tracer/CMakeLists.txt" timestamp="1534360165571" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1533329486156">
         <mark key="'" line="60" column="12" />
         <mark key="[" line="304" column="0" />
@@ -2130,7 +2133,7 @@
         <mark key="." line="304" column="0" />
         <mark key="^" line="306" column="20" />
       </file>
-      <file name="/fragment.mm" timestamp="1533902746541">
+      <file name="/fragment.mm" timestamp="1534459045571">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2226,7 +2229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="45" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="113" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="21" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="57" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2240,7 +2242,6 @@
       <jump line="59" column="10" filename="$USER_HOME$/LAURA-5/src/MeshUtilities.h" />
       <jump line="91" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
       <jump line="60" column="4" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
-      <jump line="119" column="60" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="42" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="120" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="129" column="75" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
@@ -2326,6 +2327,8 @@
       <jump line="90" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="117" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="21" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="116" column="72" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="119" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2335,8 +2338,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>local_to_global, do_own, sync_pattern_dummy, laura_to_petsc_ordering</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRyYWMK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5736,60 +5739,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local_to_global, do_own, sync_pattern_dummy, laura_to_petsc_ordering</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>petsc_copier</text>
+        <text>discretization</text>
       </register>
-      <register name="0" type="4">
-        <text>local_to_global, do_own, node_based_syncer,
-                                                          hs_to_petsc_ordering, grad_calculator);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSFM6OmNvcHlSSFNUb1BldHNjKHgsIHJocywgbG9jYWxfdG9fZ2xvYmFsLCBoc190b19wZXRzY19vcmRlcmluZywgZG9fb3duKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vX2dyYWQpOwo=</text>
+        <text encoding="base64">ICAgIFRyYWMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbm9fZ3JhZCA9IExBVVJBOjpOb0dyYWRpZW50Q2FsYzxkb3VibGUsIDU+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcGV0c2NfaHNfY29waWVyID0gSFM6OlBFVFNjQ29weTxkb3VibGUsIE51bUVxbnM+KGxvY2FsX3RvX2dsb2JhbCwgZG9fb3duLCBub2RlX2Jhc2VkX3N5bmNlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhzX3RvX3BldHNjX29yZGVyaW5nLCBncmFkX2NhbGN1bGF0b3IpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGxvY2FsX3RvX2dsb2JhbCwgZG9fb3duLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9kZV9iYXNlZF9zeW5jZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoc190b19wZXRzY19vcmRlcmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1YWxfZ3JhZF9jb21wdXRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHBldHNjX2hzX2NvcGllciA9IEhTOjpQRVRTY0NvcHk8ZG91YmxlLCBOdW1FcW5zPigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>local_to_global, do_own, node_based_syncer,
-                                                              hs_to_petsc_ordering, dual_grad_computer);</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHBldHNjX2NvcGllciA9IHN0ZDo6bWFrZV9zaGFyZWQ8SFM6OlBFVFNjQ29weTxkb3VibGUsIE51bUVxbnM+PigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBHcmFkaWVudENhbGN1bGF0b3I8VCwgTnVtRXFucz4mIGR1YWxfZ3JhZGllbnRfY2FsY3VsYXRvcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpQRVRTY0NvcHk8VCwgTnVtRXFucz4mIHBldHNjX2hzX2NvcGllcl9pbiwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBIUzo6R2hvc3RTeW5jZXIgbm9kZV9iYXNlZF9zeW5jZXI7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>petsc_copier</last-search>
+      <last-search>discretization</last-search>
       <last-offset />
-      <last-pattern>petsc_copier</last-pattern>
+      <last-pattern>discretization</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5797,7 +5798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>n_energy\s*=</entry>
         <entry>read_laura_namelist</entry>
         <entry>n_tot_g</entry>
         <entry>stop</entry>
@@ -5817,6 +5817,7 @@
         <entry>NoG</entry>
         <entry>PETScCopier</entry>
         <entry>petsc_copier</entry>
+        <entry>discretization</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

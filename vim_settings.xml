@@ -24,6 +24,12 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1534433317957">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/WeakBC.h" timestamp="1531405053793">
         <mark key="'" line="16" column="74" />
         <mark key="[" line="17" column="75" />
@@ -88,8 +94,8 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/pre_process.f90" timestamp="1534421666297">
-        <mark key="'" line="3628" column="27" />
+      <file name="$USER_HOME$/LAURA-5/src/pre_process.f90" timestamp="1534434832696">
+        <mark key="'" line="3190" column="4" />
         <mark key="[" line="2103" column="80" />
         <mark key="]" line="2104" column="55" />
         <mark key="^" line="2104" column="55" />
@@ -97,6 +103,13 @@
       </file>
       <file name="/LLDB" timestamp="1534424647412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1534438675034">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="101" column="62" />
+        <mark key="]" line="101" column="62" />
+        <mark key="." line="101" column="62" />
+        <mark key="^" line="97" column="27" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
@@ -214,11 +227,12 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/MeshUtilities.h" timestamp="1534352749362">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/LAURA-5/src/MeshUtilities.h" timestamp="1534438321772">
+        <mark key="'" line="59" column="10" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Mesh.cpp" timestamp="1523572882655">
         <mark key="'" line="167" column="24" />
@@ -275,11 +289,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solution/SolutionConfig.cmake" timestamp="1534363823907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1521829658242">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="540" column="39" />
@@ -300,11 +309,6 @@
         <mark key="]" line="4" column="109" />
         <mark key="." line="4" column="109" />
         <mark key="^" line="4" column="109" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adaptor.cpp" timestamp="1534422297364">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ts1.c" timestamp="1500989829202">
         <mark key="'" line="58" column="19" />
@@ -437,7 +441,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1534427165342">
+      <file name="/GDB" timestamp="1534437114032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
@@ -467,11 +471,11 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/AllTests.cpp" timestamp="1534346017499">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/AllTests.cpp" timestamp="1534434860639">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1510086583491">
         <mark key="'" line="15" column="73" />
@@ -530,7 +534,7 @@
         <mark key="." line="25" column="9" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockGradients.h" timestamp="1533824762086">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MockGradients.h" timestamp="1534438690745">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
@@ -557,13 +561,13 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534379270152">
+      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534432509874">
         <mark key="'" line="9" column="4" />
         <mark key="k" line="13" column="55" />
-        <mark key="[" line="24" column="64" />
-        <mark key="]" line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-        <mark key="." line="24" column="61" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportFactory.cpp" timestamp="1510152321745">
         <mark key="'" line="5" column="37" />
@@ -896,11 +900,11 @@
         <mark key="." line="79" column="45" />
         <mark key="^" line="83" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/AdapterTests.cpp" timestamp="1534423270721">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="45" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="34" column="48" />
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/AdapterTests.cpp" timestamp="1534438208723">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
         <mark key="'" line="100" column="77" />
@@ -936,8 +940,8 @@
         <mark key="^" line="305" column="136" />
         <mark key="." line="305" column="136" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/main.F90" timestamp="1534429368871">
-        <mark key="'" line="100" column="3" />
+      <file name="$USER_HOME$/LAURA-5/src/main.F90" timestamp="1534434764671">
+        <mark key="'" line="255" column="0" />
         <mark key="[" line="263" column="6" />
         <mark key="]" line="263" column="22" />
         <mark key="^" line="263" column="22" />
@@ -956,11 +960,12 @@
         <mark key="." line="51" column="57" />
         <mark key="^" line="51" column="57" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" timestamp="1534429736152">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" timestamp="1534432892929">
+        <mark key="'" line="88" column="16" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="65" column="8" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/DenseMatrix.h" timestamp="1533643485634">
         <mark key="'" line="62" column="24" />
@@ -992,13 +997,6 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/src/shared_laura_parameters.f90" timestamp="1534421697257">
-        <mark key="k" line="95" column="42" />
-        <mark key="[" line="459" column="31" />
-        <mark key="]" line="461" column="38" />
-        <mark key="^" line="461" column="38" />
-        <mark key="." line="461" column="38" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ComplexHelpers.h" timestamp="1531942299812">
         <mark key="'" line="174" column="30" />
@@ -1067,11 +1065,10 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534353009092">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534432904267">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534360864848">
@@ -1137,10 +1134,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534429659704">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534438741961">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="131" column="108" />
+        <mark key="]" line="131" column="108" />
+        <mark key="^" line="131" column="118" />
+        <mark key="." line="131" column="108" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
@@ -1197,11 +1196,11 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.h" timestamp="1534423175178">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.h" timestamp="1534434848735">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/CMakeLists.txt" timestamp="1532037134500">
         <mark key="[" line="13" column="31" />
@@ -1351,11 +1350,6 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/AllTests.cpp" timestamp="1534280716696">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CellGradientsTests.cpp" timestamp="1523486135399">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="165" column="30" />
@@ -1390,7 +1384,7 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1533905021478">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1534432000389">
         <mark key="'" line="39" column="5" />
         <mark key="[" line="35" column="9" />
         <mark key="]" line="35" column="32" />
@@ -1478,6 +1472,9 @@
         <mark key="]" line="4657" column="27" />
         <mark key="." line="4657" column="27" />
         <mark key="^" line="4658" column="63" />
+      </file>
+      <file name="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.h" timestamp="1534432849521">
+        <mark key="'" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1719,17 +1716,12 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1534266298663">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1534432957043">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/InterfacesConfig.cmake" timestamp="1534363820515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SABoundaryTerms.hpp" timestamp="1530284878897">
         <mark key="'" line="19" column="50" />
@@ -2158,13 +2150,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534429312127">
-        <mark key="'" line="79" column="35" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534434747299">
+        <mark key="'" line="57" column="46" />
         <mark key="k" line="85" column="39" />
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="78" column="39" />
-        <mark key="." line="78" column="39" />
-        <mark key="^" line="78" column="39" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2220,55 +2212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1519" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="273" column="39" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="29" column="68" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="37" column="67" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="143" column="34" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="53" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="60" column="45" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="61" column="45" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="39" column="42" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="70" column="14" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="75" column="43" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="111" column="11" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="174" column="2" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="123" column="7" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="213" column="11" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="69" column="2" filename="$USER_HOME$/LAURA-5/src/shared_laura_variables.f90" />
-      <jump line="294" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1566" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1560" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="66" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1567" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1603" column="55" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1613" column="55" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1606" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1602" column="63" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1608" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="352" column="56" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="87" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="89" column="54" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="338" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="440" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1502" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1580" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4661" column="56" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1585" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1592" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4586" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4652" column="36" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1581" column="64" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4665" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="89" column="37" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="71" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="41" column="22" filename="$USER_HOME$/one-ring/blaster/src/fortran_message_passer_wrappers.cpp" />
-      <jump line="68" column="24" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="262" column="61" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="75" column="39" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="62" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="72" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="40" column="32" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="48" column="68" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="249" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
@@ -2318,8 +2261,57 @@
       <jump line="20" column="20" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="79" column="35" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="34" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
+      <jump line="74" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
       <jump line="62" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
       <jump line="85" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" />
+      <jump line="16" column="29" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="71" column="21" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="52" column="23" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="53" column="56" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="58" column="24" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="57" column="19" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="67" column="24" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="68" column="53" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="70" column="6" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="72" column="24" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="73" column="48" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="74" column="48" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="75" column="24" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="76" column="48" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="77" column="48" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="78" column="79" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="79" column="25" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="3" column="27" filename="$USER_HOME$/LAURA-5/src/MeshUtilities.h" />
+      <jump line="116" column="4" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.h" />
+      <jump line="28" column="44" filename="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.h" />
+      <jump line="32" column="44" filename="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.h" />
+      <jump line="16" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="2" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="20" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="29" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="30" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="68" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="6" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="32" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="29" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" />
+      <jump line="104" column="45" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="21" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
+      <jump line="57" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="255" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
+      <jump line="35" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="1062" column="69" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="4682" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="4678" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="3100" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="3190" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="59" column="10" filename="$USER_HOME$/LAURA-5/src/MeshUtilities.h" />
+      <jump line="91" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
+      <jump line="60" column="4" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2330,7 +2322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>laura_mpi</text>
+        <text>constraint,</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5730,58 +5722,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>laura_mpi</text>
+        <text>constraint,</text>
       </register>
       <register name="/" type="4">
-        <text>PETSC_SOLVER_H</text>
+        <text>grad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9jb21waWxlX2RlZmluaXRpb25zKGxhdXJhX21waSBQUklWQVRFIC1ESEFWRV9QRVRTY1NPTFZFUikK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oImJ1aWxkIGxvY2FsX3RvX2dsb2JhbCIpIHsKICAgICAgICBhdXRvIGxvY2FsX3RvX2dsb2JhbCA9IE1lc2hVdGlsaXRpZXM6OmJ1aWxkTG9jYWxUb0dsb2JhbCgpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaWRpbSAqIGpkaW0gKiBrZGltOyArK2kpCiAgICAgICAgICAgIFJFUVVJUkUobG9jYWxfdG9fZ2xvYmFsW2ldID09IGkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXIK</text>
+        <text encoding="base64">ICAgIGF1dG8gc3luY2VyID0gUGFyZmFpdDo6U3luY1BhdHRlcm46OmJ1aWxkKG1wLCB7fSwge30pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFBFVFNjTm9uTGluZWFyU29sdmVyLmg+Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gc3luY2VyID0gUGFyZmFpdDo6U3luY1BhdHRlcm46OmJ1aWxkKG1wLCB7fSwge30pOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgZW5kIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGlkaW0gPSBnZXRfYmxvY2tfaV9kaW1lbnNpb24oMSk7CiAgICAgICAgYXV0byBqZGltID0gZ2V0X2Jsb2NrX2pfZGltZW5zaW9uKDEpOwogICAgICAgIGF1dG8ga2RpbSA9IGdldF9ibG9ja19rX2RpbWVuc2lvbigxKTsKICAgICAgICBsb25nIHRvdGFsX3Vua25vd25zID0gaWRpbSAqIGpkaW0gKiBrZGltOwoKICAgICAgICBhdXRvIGxvY2FsX3RvX2dsb2JhbCA9IHN0ZDo6dmVjdG9yPGxvbmc+KHRvdGFsX3Vua25vd25zKTsKICAgICAgICBmb3IgKGxvbmcgaW5kZXggPSAwOyBpbmRleCA8IHRvdGFsX3Vua25vd25zOyArK2luZGV4KQogICAgICAgICAgICBsb2NhbF90b19nbG9iYWxbaW5kZXhdID0gaW5kZXg7CiAgICAgICAgcmV0dXJuIGxvY2FsX3RvX2dsb2JhbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEhTOjpHaG9zdFN5bmNlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGkK</text>
+        <text encoding="base64">ICAgIAoKLy8gICAgRklYTUU6IFN0aWxsIG5lZWQgdGhlc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Ugc2hhcmVkX2xhdXJhX3ZhcmlhYmxlcywgIG9ubHkgOiBjb21wbGV0ZV9yZXNpZHVhbAo=</text>
+        <text encoding="base64">ICAgIEZJWE1FOiBTdGlsbCBuZWVkIHRoZXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludGVnZXIgOjogCg==</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVswXSA9PSAwKTsKICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVsxXSA9PSAxKTsKICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVsyXSA9PSAxMSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="8">
+        <text>0
+0
+0
+0</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoc3BhcnNpdHlbMF1bMl0gPT0gMTEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PETSC_SOLVER_H</last-search>
+      <last-search>grad</last-search>
       <last-offset />
-      <last-pattern>PETSC_SOLVER_H</last-pattern>
+      <last-pattern>grad</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5789,26 +5784,26 @@
     </search>
     <history>
       <history-search>
-        <entry>message_passer_rank</entry>
-        <entry>dirswp</entry>
-        <entry>solution</entry>
-        <entry>advance_time_step</entry>
-        <entry>setup_</entry>
-        <entry>create</entry>
-        <entry>petsc_s</entry>
-        <entry>err</entry>
-        <entry>task_error</entry>
-        <entry>soln</entry>
-        <entry>write(*,*</entry>
-        <entry>petsc</entry>
-        <entry>rhs</entry>
-        <entry>stop</entry>
-        <entry>prep</entry>
         <entry>pre_</entry>
         <entry>add_p</entry>
         <entry>add_plan</entry>
         <entry>block_id</entry>
         <entry>PETSC_SOLVER_H</entry>
+        <entry>T</entry>
+        <entry>Const</entry>
+        <entry>Constraint</entry>
+        <entry>Constrain</entry>
+        <entry>interior_pen</entry>
+        <entry>Constr</entry>
+        <entry>constraint</entry>
+        <entry>constrain</entry>
+        <entry>const</entry>
+        <entry>Inter</entry>
+        <entry>neqn</entry>
+        <entry>read_namelist</entry>
+        <entry>ndim_g</entry>
+        <entry>subroutine</entry>
+        <entry>grad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

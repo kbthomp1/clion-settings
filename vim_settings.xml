@@ -534,7 +534,7 @@
         <mark key="." line="25" column="9" />
         <mark key="^" line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MockGradients.h" timestamp="1534438690745">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MockGradients.h" timestamp="1534442042817">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
@@ -1134,12 +1134,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534438741961">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="131" column="108" />
-        <mark key="]" line="131" column="108" />
-        <mark key="^" line="131" column="118" />
-        <mark key="." line="131" column="108" />
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534442228714">
+        <mark key="'" line="125" column="75" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
@@ -2150,13 +2150,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534434747299">
-        <mark key="'" line="57" column="46" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534442713316">
+        <mark key="'" line="15" column="26" />
         <mark key="k" line="85" column="39" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2212,12 +2212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="32" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="48" column="68" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="249" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="4555" column="21" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="217" column="6" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="574" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="244" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="257" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="258" column="4" filename="$USER_HOME$/LAURA-5/src/main.F90" />
@@ -2312,6 +2306,12 @@
       <jump line="59" column="10" filename="$USER_HOME$/LAURA-5/src/MeshUtilities.h" />
       <jump line="91" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" />
       <jump line="60" column="4" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="119" column="60" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="120" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="129" column="75" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="18" column="21" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="15" column="26" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2322,7 +2322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>constraint,</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5722,61 +5722,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>constraint,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>grad</text>
+        <text>discretization</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNFQ1RJT04oImJ1aWxkIGxvY2FsX3RvX2dsb2JhbCIpIHsKICAgICAgICBhdXRvIGxvY2FsX3RvX2dsb2JhbCA9IE1lc2hVdGlsaXRpZXM6OmJ1aWxkTG9jYWxUb0dsb2JhbCgpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaWRpbSAqIGpkaW0gKiBrZGltOyArK2kpCiAgICAgICAgICAgIFJFUVVJUkUobG9jYWxfdG9fZ2xvYmFsW2ldID09IGkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc3luY2VyID0gUGFyZmFpdDo6U3luY1BhdHRlcm46OmJ1aWxkKG1wLCB7fSwge30pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc3luY2VyID0gUGFyZmFpdDo6U3luY1BhdHRlcm46OmJ1aWxkKG1wLCB7fSwge30pOwo=</text>
+        <text encoding="base64">ICAgICJsaW5lYXIgc29sdmVyIHNldHRpbmdzIjogewo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGlkaW0gPSBnZXRfYmxvY2tfaV9kaW1lbnNpb24oMSk7CiAgICAgICAgYXV0byBqZGltID0gZ2V0X2Jsb2NrX2pfZGltZW5zaW9uKDEpOwogICAgICAgIGF1dG8ga2RpbSA9IGdldF9ibG9ja19rX2RpbWVuc2lvbigxKTsKICAgICAgICBsb25nIHRvdGFsX3Vua25vd25zID0gaWRpbSAqIGpkaW0gKiBrZGltOwoKICAgICAgICBhdXRvIGxvY2FsX3RvX2dsb2JhbCA9IHN0ZDo6dmVjdG9yPGxvbmc+KHRvdGFsX3Vua25vd25zKTsKICAgICAgICBmb3IgKGxvbmcgaW5kZXggPSAwOyBpbmRleCA8IHRvdGFsX3Vua25vd25zOyArK2luZGV4KQogICAgICAgICAgICBsb2NhbF90b19nbG9iYWxbaW5kZXhdID0gaW5kZXg7CiAgICAgICAgcmV0dXJuIGxvY2FsX3RvX2dsb2JhbDsK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhTOjpHaG9zdFN5bmNlcigpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoKLy8gICAgRklYTUU6IFN0aWxsIG5lZWQgdGhlc2UK</text>
+        <text encoding="base64">ICAgICJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIjogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZJWE1FOiBTdGlsbCBuZWVkIHRoZXNlCg==</text>
+        <text encoding="base64">CiAgICBzdGQ6OmNvdXQgPDwgbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncyA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVswXSA9PSAwKTsKICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVsxXSA9PSAxKTsKICAgIFJFUVVJUkUoc3BhcnNpdHlbMTc1XVsyXSA9PSAxMSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gcmVzaWR1YWwodG90YWxfdW5rbm93bnMpOwogICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBzb2x1dGlvbih0b3RhbF91bmtub3ducyk7CiAgICBjb21wdXRlX3Jlc2lkdWFsKHNvbHV0aW9uLmRhdGEoKSwgcmVzaWR1YWwuZGF0YSgpLCB0b3RhbF91bmtub3ducyk7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>0
-0
-0
-0</text>
+      <register name="8" type="2">
+        <text encoding="base64">c3RhdGljIEVxdWF0aW9uVGVybXM8ZG91YmxlLCA1PiAqZGlzY3JldGl6YXRpb247Cgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoc3BhcnNpdHlbMF1bMl0gPT0gMTEpOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gc3luY2VyID0gUGFyZmFpdDo6U3luY1BhdHRlcm46OmJ1aWxkKG1wLCB7fSwge30pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>grad</last-search>
+      <last-search>discretization</last-search>
       <last-offset />
-      <last-pattern>grad</last-pattern>
+      <last-pattern>discretization</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5784,7 +5781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre_</entry>
         <entry>add_p</entry>
         <entry>add_plan</entry>
         <entry>block_id</entry>
@@ -5804,6 +5800,7 @@
         <entry>ndim_g</entry>
         <entry>subroutine</entry>
         <entry>grad</entry>
+        <entry>discretization</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

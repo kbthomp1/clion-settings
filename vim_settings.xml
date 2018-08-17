@@ -563,12 +563,12 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534525242486">
+      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534526412754">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="58" />
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="55" column="53" />
+        <mark key="." line="55" column="53" />
+        <mark key="^" line="55" column="53" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportFactory.cpp" timestamp="1510152321745">
         <mark key="'" line="5" column="37" />
@@ -952,11 +952,11 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" timestamp="1534525497664">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" timestamp="1534526474458">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
@@ -1140,13 +1140,13 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534525075795">
-        <mark key="'" line="133" column="48" />
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1534526772687">
+        <mark key="'" line="161" column="0" />
         <mark key="k" line="6" column="26" />
-        <mark key="[" line="104" column="48" />
-        <mark key="]" line="104" column="48" />
-        <mark key="." line="104" column="48" />
-        <mark key="^" line="104" column="46" />
+        <mark key="[" line="115" column="65" />
+        <mark key="]" line="115" column="64" />
+        <mark key="." line="115" column="64" />
+        <mark key="^" line="115" column="64" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
@@ -2216,9 +2216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="743" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="1026" column="64" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="18" column="34" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="1013" column="64" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="1016" column="52" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="1047" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
@@ -2316,6 +2313,9 @@
       <jump line="139" column="23" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="133" column="48" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="1" column="0" filename="$USER_HOME$/LAURA-5/src/Discretization.h" />
+      <jump line="159" column="42" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="112" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="161" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2325,8 +2325,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgZXFuID0gMDsgZXFuIDwgNTsgKytlcW4pIHsKICAgICAgICAgICAgc29sdXRpb25baV1bZXFuXSA9IGluZGV4OwogICAgICAgIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>-snes_mf</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5726,58 +5726,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>residual_function</text>
+        <text>-snes_mf</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>snes_mf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGlzY3JldGl6YXRpb24gPSBMQVVSQTo6RGlzY3JldGl6YXRpb248NT4ocmVzaWR1YWxfZXF1YWxzX3NvbHV0aW9uKTsKICAgIGF1dG8gc29sdXRpb25fbWFwID0gSFM6OlNvbHV0aW9uTWFwOjpjcmVhdGUoMSwgMSwgMCk7CiAgICBhdXRvIHNvbHV0aW9uID0gSFM6OlNvbHV0aW9uVmFyaWFibGVzPGRvdWJsZSwgNT4oc29sdXRpb25fbWFwLCAzKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gc29sdXRpb24gPSBIUzo6U29sdXRpb25WYXJpYWJsZXM8ZG91YmxlLCA1Pihzb2x1dGlvbl9tYXAsIDMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMzsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgZXFuID0gMDsgZXFuIDwgNTsgKytlcW4pIHsKICAgICAgICAgICAgc29sdXRpb25baV1bZXFuXSA9IGluZGV4OwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgdG90YWxfY2VsbHM7ICsraSkgewoKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc29sdXRpb24gPSBIUzo6U29sdXRpb25WYXJpYWJsZXM8ZG91YmxlLCA1PigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUkVRVUlSRShzMltpXVtlcW5dID09IHNvbHV0aW9uW2ldW2Vxbl0K</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmVzaWR1YWxfZnVuY3Rpb24gPSBbXQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgdG90YWxfdW5rbm93bnM7ICsraSkKICAgICAgICAgICAgcmVzaWR1YWxbaV0gPSBzb2x1dGlvbltpXTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGF1dG8gczIgPSBzb2x1dGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChkb3VibGUgcyA6IGZsYXRfc29sdXRpb24pCiAgICAgICAgICAgICAgICBzb2x1dGlvbltdCg==</text>
+        <text encoding="base64">ICAgIGZvciAoYXV0byYgcyA6IHMyLnNvbHV0aW9uKCkpCiAgICAgICAgcy5maWxsKDAuMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IGZsYXR0ZW5Tb2x1dGlvbihjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8ZG91YmxlLCBOdW1FcW5zPiYgc29sdXRpb24pIGNvbnN0IHsKICAgICAgICAgICAgc3RkOjp2ZWN0b3I8ZG91YmxlPiBmbGF0dGVuZWRfc29sdXRpb24oc29sdXRpb24uc2l6ZSgpICogTnVtRXFucywgMC4wKTsKICAgICAgICAgICAgaW50IGluZGV4ID0gMDsKICAgICAgICAgICAgZm9yIChzaXplX3QgZG9mID0gMDsgZG9mIDwgc29sdXRpb24uc2l6ZSgpOyArK2RvZikKICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGVxID0gMDsgZXEgPCBOdW1FcW5zOyArK2VxKQogICAgICAgICAgICAgICAgICAgIGZsYXR0ZW5lZF9zb2x1dGlvbltpbmRleCsrXSA9IHNvbHV0aW9uW2RvZl1bZXFdOwogICAgICAgICAgICByZXR1cm4gZmxhdHRlbmVkX3NvbHV0aW9uOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8mIHEgOiBzKQogICAgICAgICAgICBxID0gZG91YmxlKGluZGV4KyspOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmlubGluZSB1bmZsYXR0ZW5Tb2x1dGlvbgo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>snes_mf</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>snes_mf</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5785,8 +5785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dtv</entry>
-        <entry>vol</entry>
         <entry>time_Step</entry>
         <entry>time_step</entry>
         <entry>cn</entry>
@@ -5805,6 +5803,8 @@
         <entry>1</entry>
         <entry>get_sol</entry>
         <entry>get</entry>
+        <entry>Runtime</entry>
+        <entry>snes_mf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

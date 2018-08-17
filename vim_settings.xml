@@ -78,9 +78,6 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/libcore/ddt.f90" timestamp="1534274672374">
-        <mark key="'" line="3241" column="16" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" timestamp="1533588954314">
         <mark key="'" line="176" column="0" />
         <mark key="[" line="67" column="47" />
@@ -1481,15 +1478,12 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1534451978730">
-        <mark key="'" line="311" column="6" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
-        <mark key="^" line="361" column="61" />
-      </file>
-      <file name="$USER_HOME$/one-ring/install/hypersolve/include/PETScNonLinearSolver.h" timestamp="1534432849521">
-        <mark key="'" line="32" column="44" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1534507433189">
+        <mark key="'" line="4654" column="13" />
+        <mark key="[" line="1584" column="49" />
+        <mark key="]" line="1584" column="51" />
+        <mark key="." line="1584" column="51" />
+        <mark key="^" line="1584" column="51" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1824,9 +1818,6 @@
         <mark key="]" line="47" column="58" />
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
-      </file>
-      <file name="$USER_HOME$/one-ring/blaster/src/fortran_message_passer_wrappers.cpp" timestamp="1534452526334">
-        <mark key="'" line="64" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/ThermoCurveFitsTests.cpp" timestamp="1531234095962">
         <mark key="'" line="48" column="48" />
@@ -2167,8 +2158,8 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534454037323">
-        <mark key="'" line="30" column="26" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1534507340722">
+        <mark key="'" line="17" column="43" />
         <mark key="k" line="100" column="39" />
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="43" />
@@ -2188,9 +2179,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/libturb/turb_functions.f90" timestamp="1534275669738">
-        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SparsityPatternBuildersTests.cpp" timestamp="1521731977204">
         <mark key="'" line="22" column="0" />
@@ -2229,13 +2217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
-      <jump line="21" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
-      <jump line="57" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="255" column="0" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="35" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="1062" column="69" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="4682" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="4678" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="3100" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="3190" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
@@ -2329,6 +2310,13 @@
       <jump line="21" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="116" column="72" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="119" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="17" column="43" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="27" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="4652" column="31" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="4660" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="4666" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="1584" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="4654" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2338,8 +2326,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRyYWMK</text>
+      <register name="&quot;" type="4">
+        <text>size</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5739,10 +5727,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>discretization</text>
+        <text>add_plane_to_complete_residual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSFM6OmNvcHlSSFNUb1BldHNjKHgsIHJocywgbG9jYWxfdG9fZ2xvYmFsLCBoc190b19wZXRzY19vcmRlcmluZywgZG9fb3duKTsK</text>
@@ -5788,9 +5776,9 @@
       </register>
     </registers>
     <search>
-      <last-search>discretization</last-search>
+      <last-search>add_plane_to_complete_residual</last-search>
       <last-offset />
-      <last-pattern>discretization</last-pattern>
+      <last-pattern>add_plane_to_complete_residual</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5798,7 +5786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_laura_namelist</entry>
         <entry>n_tot_g</entry>
         <entry>stop</entry>
         <entry>imin</entry>
@@ -5818,6 +5805,7 @@
         <entry>PETScCopier</entry>
         <entry>petsc_copier</entry>
         <entry>discretization</entry>
+        <entry>add_plane_to_complete_residual</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

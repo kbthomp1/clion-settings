@@ -1068,12 +1068,12 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534778891586">
-        <mark key="'" line="387" column="0" />
-        <mark key="[" line="366" column="17" />
-        <mark key="]" line="366" column="17" />
-        <mark key="." line="366" column="17" />
-        <mark key="^" line="366" column="17" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534789554186">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="92" column="113" />
+        <mark key="]" line="92" column="113" />
+        <mark key="." line="92" column="113" />
+        <mark key="^" line="92" column="113" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534360864848">
         <mark key="'" line="26" column="16" />
@@ -1497,13 +1497,12 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1534779581147">
-        <mark key="'" line="29" column="13" />
-        <mark key="k" line="29" column="13" />
-        <mark key="[" line="15" column="100" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1534789461123">
+        <mark key="'" line="28" column="13" />
+        <mark key="k" line="28" column="13" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1510152720379">
         <mark key="'" line="43" column="47" />
@@ -2197,9 +2196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="37" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="69" column="38" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="80" column="35" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="12" column="18" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="14" column="7" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
@@ -2297,6 +2293,9 @@
       <jump line="387" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="114" column="33" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="144" column="60" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
+      <jump line="305" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="339" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="237" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2306,8 +2305,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5710,40 +5709,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>FromOpt</text>
+        <text>Jacobian</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vbmxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MuYXQoIm1heCB0aW1lIHN0ZXBzIikgPSAxMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBldHNjRmluYWxpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBldHNjRXJyb3JDb2RlIGllcnI7Cg==</text>
+        <text encoding="base64">ICAgIFBldHNjRmluYWxpemUoKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBldHNjRXJyb3JDb2RlIGllcnI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNORVNTZXRGcm9tT3B0aW9ucyhub25saW5lYXJfc29sdmVyKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEtTUFNldEZyb21PcHRpb25zKGtzcCk7Cg==</text>
+        <text encoding="base64">ICAgIFNORVNTZXRGcm9tT3B0aW9ucyhub25saW5lYXJfc29sdmVyKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQZXRzY0ZpbmFsaXplKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEtTUFNldEZyb21PcHRpb25zKGtzcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiRGVsZXRpbmcgbm9ubGluZWFyIHNvbHZlclxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQZXRzY0ZpbmFsaXplKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiRGVsZXRpbmcgbm9ubGluZWFyIHNvbHZlclxuIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -5756,9 +5755,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FromOpt</last-search>
+      <last-search>Jacobian</last-search>
       <last-offset />
-      <last-pattern>FromOpt</last-pattern>
+      <last-pattern>Jacobian</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5766,7 +5765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>snes_mf</entry>
         <entry>time</entry>
         <entry>disc</entry>
         <entry>lvl</entry>
@@ -5786,6 +5784,7 @@
         <entry>Options</entry>
         <entry>FromOptions</entry>
         <entry>FromOpt</entry>
+        <entry>Jacobian</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

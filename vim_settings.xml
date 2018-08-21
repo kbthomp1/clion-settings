@@ -99,7 +99,7 @@
         <mark key="^" line="2104" column="55" />
         <mark key="." line="2104" column="55" />
       </file>
-      <file name="/LLDB" timestamp="1534424647412">
+      <file name="/LLDB" timestamp="1534854043817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1534456064262">
@@ -455,7 +455,7 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="333" column="32" />
       </file>
-      <file name="/GDB" timestamp="1534797405452">
+      <file name="/GDB" timestamp="1534853987257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/SANegative.h" timestamp="1523664535272">
@@ -575,10 +575,10 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534796323756">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1534854192374">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportFactory.cpp" timestamp="1510152321745">
         <mark key="'" line="5" column="37" />
@@ -1089,12 +1089,13 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534789554186">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="92" column="113" />
-        <mark key="]" line="92" column="113" />
-        <mark key="." line="92" column="113" />
-        <mark key="^" line="92" column="113" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534854495836">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="89" column="50" />
+        <mark key="k" line="89" column="25" />
+        <mark key="]" line="90" column="113" />
+        <mark key="." line="90" column="113" />
+        <mark key="^" line="90" column="113" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534360864848">
         <mark key="'" line="26" column="16" />
@@ -1527,7 +1528,7 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1534797394898">
+      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1534853406913">
         <mark key="'" line="28" column="13" />
         <mark key="k" line="28" column="13" />
         <mark key="[" line="11" column="36" />
@@ -2245,10 +2246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
-      <jump line="65" column="31" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="151" column="19" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="21" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="121" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="87" column="4" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="129" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2321,7 +2318,6 @@
       <jump line="114" column="33" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="144" column="60" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="305" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="339" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="237" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="11" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/AdapterTests.cpp" />
       <jump line="52" column="23" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
@@ -2345,6 +2341,11 @@
       <jump line="217" column="27" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="240" column="47" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="2030" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="130" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="84" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="302" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="339" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2354,8 +2355,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFBldHNjSW50IE0sIE47CiAgICBNYXRHZXRTaXplKHByZWNvbmRpdGlvbmVyX21hdHJpeCwgJk0sICZOKTsKICAgIHByaW50ZigiTWF0cml4IHJvd3M6ICVkIGNvbHVtbnM6ICVkXG4iLCBNLCBOKTsKICAgIGV4aXQoMCk7Cgo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5758,55 +5759,55 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>cn</text>
+        <text>calcJacobian</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGxvY2F0ZSh0aW1lc3RlcF9vdmVyX3ZvbHVtZShwbGFuZV9zaXplKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIFBldHNjSW50IE0sIE47CiAgICBNYXRHZXRTaXplKHByZWNvbmRpdGlvbmVyX21hdHJpeCwgJk0sICZOKTsKICAgIHByaW50ZigiTWF0cml4IHJvd3M6ICVkIGNvbHVtbnM6ICVkXG4iLCBNLCBOKTsKICAgIGV4aXQoMCk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbCBhdGltZShpYmxrKG5iKSxqYmxrKG5iKSx0aW1lc3RlcF9vdmVyX3ZvbHVtZSxncmlkKG5iKSV2b2wsZ3JpZChuYiklZywgICYKICAgICAgICAgICAgICAgICAgICAgICBzb2xuKG5iKSVibGtzKDosOixrKSxrLGsrMSxjZmwsdGltZXN0ZXApCg==</text>
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG8gaWR4ID0gaXN0YXJ0LCBpZW5kCiAgICAgICAgICAgICAgICB2b2xfb3Zlcl9kdChpZHgpID0gMS4wX2RwIC8gdGltZXN0ZXBfb3Zlcl92b2x1bWUKICAgICAgICAgICAgZW5kIGRvCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvY2hlY2twb2ludC5oPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJFbmQ6IGZvcm1CXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hFQ0tQT0lOVDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJCZWdpbjogZm9ybUJcbiIpOwogICAgICAgICAgICBzb2x1dGlvbi5wcmludFNvbHV0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hFQ0tQT0lOVDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjVmlldyhwZXRzY192ZWN0b3IsIFBFVFNDX1ZJRVdFUl9TVERPVVRfU0VMRik7CiAgICAgICAgICAgIGV4aXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJzaXplOiAlZCIsIGludChzb2x1dGlvbi5zaXplKCkgKiBOdW1FcW5zKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmZmx1c2goc3Rkb3V0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hFQ0tQT0lOVDsKICAgICAgICAgICAgZXhpdCgwKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cn</last-search>
+      <last-search>calcJacobian</last-search>
       <last-offset />
-      <last-pattern>cn</last-pattern>
+      <last-pattern>calcJacobian</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5814,8 +5815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nb</entry>
-        <entry>index</entry>
         <entry>update_solution</entry>
         <entry>plane_size</entry>
         <entry>eqn</entry>
@@ -5827,13 +5826,15 @@
         <entry>Options</entry>
         <entry>FromOptions</entry>
         <entry>FromOpt</entry>
-        <entry>Jacobian</entry>
         <entry>nonlin</entry>
         <entry>fflush</entry>
         <entry>copy</entry>
         <entry>laura_to</entry>
         <entry>time</entry>
         <entry>cn</entry>
+        <entry>computeJac</entry>
+        <entry>Jacobian</entry>
+        <entry>calcJacobian</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

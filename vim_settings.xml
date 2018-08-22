@@ -1074,14 +1074,14 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534938808046">
-        <mark key="'" line="139" column="41" />
-        <mark key="[" line="209" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1534939460706">
+        <mark key="'" line="339" column="21" />
+        <mark key="[" line="199" column="0" />
         <mark key="k" line="241" column="62" />
         <mark key="l" line="137" column="40" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="216" column="32" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="199" column="7" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534871006071">
         <mark key="'" line="26" column="16" />
@@ -2235,7 +2235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="19" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="75" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="84" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="65" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
@@ -2252,7 +2251,6 @@
       <jump line="2030" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="130" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="84" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
-      <jump line="339" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="79" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" />
       <jump line="90" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="100" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -2335,6 +2333,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="184" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="139" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="260" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="339" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2345,7 +2345,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggc3VjY2VlZGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIFNORVMK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5748,55 +5748,55 @@
         <text>succeeded</text>
       </register>
       <register name="/" type="4">
-        <text>monitorRes</text>
+        <text>Post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggc3VjY2VlZGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggc3VjY2VlZGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIFNORVMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggZmFpbGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggc3VjY2VlZGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigibGluZXNlYXJjaCBzdWNjZWVkZWQ/OiAiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImxpbmVzZWFyY2ggZmFpbGVkLiBzdGVwIGxlbmd0aDogJWVcbiIsIHN0ZXBfbGVuZ3RoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBzdGVwX3RvbCwgbWF4X3N0ZXAsIHJ0b2wsIGF0b2wsIGx0b2w7CiAgICBpbnQgbWF4X2l0OwogICAgU05FU0xpbmVTZWFyY2hHZXRUb2xlcmFuY2VzKGxzLCAmc3RlcF90b2wsICZtYXhfc3RlcCwgJnJ0b2wsICZhdG9sLCAmbHRvbCwgJm1heF9pdCk7CgogICAgcHJpbnRmKCJzdGVwdG9sOiAlZSBtYXhfc3RlcDogJWUgcnRvbDogJWUgYXRvbDogJWUgbHRvbDogJWUgbWF4X2l0OiAlZFxuIiwgc3RlcF90b2wsIG1heF9zdGVwLCBydG9sLCBhdG9sLCBsdG9sLCBtYXhfaXQpOwoK</text>
+        <text encoding="base64">ICAgIHByaW50ZigibGluZXNlYXJjaCBzdWNjZWVkZWQ/OiAiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNORVNTZXRGcm9tT3B0aW9ucyhub25saW5lYXJfc29sdmVyKTsKCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzdGVwX3RvbCwgbWF4X3N0ZXAsIHJ0b2wsIGF0b2wsIGx0b2w7CiAgICBpbnQgbWF4X2l0OwogICAgU05FU0xpbmVTZWFyY2hHZXRUb2xlcmFuY2VzKGxzLCAmc3RlcF90b2wsICZtYXhfc3RlcCwgJnJ0b2wsICZhdG9sLCAmbHRvbCwgJm1heF9pdCk7CgogICAgcHJpbnRmKCJzdGVwdG9sOiAlZSBtYXhfc3RlcDogJWUgcnRvbDogJWUgYXRvbDogJWUgbHRvbDogJWUgbWF4X2l0OiAlZFxuIiwgc3RlcF90b2wsIG1heF9zdGVwLCBydG9sLCBhdG9sLCBsdG9sLCBtYXhfaXQpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJsaW5lIHNlYXJjaCBmYWlsZWQuIHJlc2V0dGluZyBzb2x1dGlvblxuIik7Cg==</text>
+        <text encoding="base64">ICAgIFNORVNTZXRGcm9tT3B0aW9ucyhub25saW5lYXJfc29sdmVyKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSByZWxheGF0aW9uX3RvbGVyYW5jZSA9IHMtPnNldHRpbmdzLmF0KCJ1cGRhdGUgcmVsYXhhdGlvbiB0b2xlcmFuY2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJsaW5lIHNlYXJjaCBmYWlsZWQuIHJlc2V0dGluZyBzb2x1dGlvblxuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChzLT5yZWFsaXphYmlsaXR5X3JlbGF4YXRpb24gPCByZWxheGF0aW9uX3RvbGVyYW5jZSkgewogICAgICAgIFNORVNMaW5lU2VhcmNoU2V0UmVhc29uKGxzLCBTTkVTX0xJTkVTRUFSQ0hfRkFJTEVEX1VTRVIpOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSByZWxheGF0aW9uX3RvbGVyYW5jZSA9IHMtPnNldHRpbmdzLmF0KCJ1cGRhdGUgcmVsYXhhdGlvbiB0b2xlcmFuY2UiKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzLT5yZWFsaXphYmlsaXR5X3JlbGF4YXRpb24gPCByZWxheGF0aW9uX3RvbGVyYW5jZSkgewogICAgICAgIFNORVNMaW5lU2VhcmNoU2V0UmVhc29uKGxzLCBTTkVTX0xJTkVTRUFSQ0hfRkFJTEVEX1VTRVIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>monitorRes</last-search>
+      <last-search>Post</last-search>
       <last-offset />
-      <last-pattern>monitorRes</last-pattern>
+      <last-pattern>Post</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5804,7 +5804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Realize</entry>
         <entry>Real</entry>
         <entry>Conver</entry>
         <entry>ConvergenceTest</entry>
@@ -5824,6 +5823,7 @@
         <entry>calcRes</entry>
         <entry>lineSearchObjective</entry>
         <entry>monitorRes</entry>
+        <entry>Post</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

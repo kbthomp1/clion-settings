@@ -848,6 +848,12 @@
         <mark key="]" line="229" column="31" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" timestamp="1535131247056">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="51" column="54" />
@@ -1299,13 +1305,12 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535056904993">
-        <mark key="'" line="154" column="24" />
-        <mark key="[" line="1623" column="10" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535131106454">
+        <mark key="'" line="1572" column="15" />
         <mark key="k" line="1581" column="23" />
-        <mark key="]" line="1623" column="9" />
-        <mark key="^" line="1623" column="9" />
-        <mark key="." line="1623" column="9" />
+        <mark key="[" line="1615" column="0" />
+        <mark key="]" line="1615" column="0" />
+        <mark key="." line="1615" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1964,7 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="59" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
       <jump line="162" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidInteriorTerms.hpp" />
       <jump line="177" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="2012" column="31" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2064,6 +2068,7 @@
       <jump line="1598" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1581" column="23" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="154" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="1572" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2073,8 +2078,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxNCkK</text>
+      <register name="&quot;" type="4">
+        <text>total_unknowns</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5474,58 +5479,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>total_unknowns</text>
       </register>
       <register name="/" type="4">
-        <text>alhs</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxNCkK</text>
+        <text encoding="base64">dm9pZCByZXNpZHVhbF9lcXVhbHNfc29sdXRpb24oZG91YmxlKiBzb2x1dGlvbiwgZG91YmxlKiByZXNpZHVhbCwgaW50IHRvdGFsX3Vua25vd25zKSB7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IHRvdGFsX3Vua25vd25zOyArK2kpCiAgICAgICAgcmVzaWR1YWxbaV0gPSBzb2x1dGlvbltpXTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuMCkK</text>
+        <text encoding="base64">ICAgIGlmICh1cGRhdGVfamFjb2JpYW4pIHRoZW4KICAgICAgZG8gayA9IDEsIDE2CiAgICAgICAgZG8gaWogPSAxLCAxMQogICAgICAgICAgd3JpdGUoKiwqKSAiazogIiwgaywgIiBpajogIiwgaWosICIgc3VtOiAiLCBzdW0oc29sbihuYiklYWxocyg6LDosaWosaykpCiAgICAgICAgZW5kIGRvCiAgICAgIGVuZCBkbwogICAgICB3cml0ZSgqLCopICJqYWNvYmlhbiBzaXplOiAiLCBzaXplKHNvbG4obmIpJWFsaHMsMyksIHNpemUoc29sbihuYiklYWxocyw0KQogICAgICBzdG9wCiAgICBlbmQgaWYKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuMCkK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG8gayA9IDEsIDE2CiAgICAgICAgICAgICAgZG8gaWogPSAxLCAxMQogICAgICAgICAgICAgICAgd3JpdGUoKiwqKSAiazogIiwgaywgIiBpajogIiwgaWosICIgc3VtOiAiLCBzdW0oc29sbihuYiklYWxocyg6LDosaWosaykpCiAgICAgICAgICAgICAgZW5kIGRvCiAgICAgICAgICAgIGVuZCBkbwogICAgICAgICAgICB3cml0ZSgqLCopICJqYWNvYmlhbiBzaXplOiAiLCBzaXplKHNvbG4obmIpJWFsaHMsMyksIHNpemUoc29sbihuYiklYWxocyw0KQogICAgICAgICAgICBzdG9wCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0X3ByZXZpb3VzX3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG8gayA9IDEsIDE2CiAgICAgICAgICAgICAgZG8gaWogPSAxLCAxMQogICAgICAgICAgICAgICAgd3JpdGUoKiwqKSAiazogIiwgaywgIiBpajogIiwgaWosICIgc3VtOiAiLCBzdW0oc29sbihuYiklYWxocyg6LDosaWosaykpCiAgICAgICAgICAgICAgZW5kIGRvCiAgICAgICAgICAgIGVuZCBkbwogICAgICAgICAgICB3cml0ZSgqLCopICJqYWNvYmlhbiBzaXplOiAiLCBzaXplKHNvbG4obmIpJWFsaHMsMyksIHNpemUoc29sbihuYiklYWxocyw0KQogICAgICAgICAgICBzdG9wCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0X3ByZXZpb3VzX3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">Y2FsbCAKY2FsbCAKY2FsbCAKY2FsbCAKY2FsbCAKY2FsbCA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kIHN1YnJvdXRpbmUgdXBkYXRlX2dob3N0X2NlbGxzCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vicm91dGluZSB1cGRhdGVfZ2hvc3RfY2VsbHMoKSBiaW5kIChjKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kIHN1YnJvdXRpbmUgdXBkYXRlX2dob3N0X2NlbGxzCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1YnJvdXRpbmUgdXBkYXRlX2dob3N0X2NlbGxzKCkgYmluZCAoYykKICAgICAgICBjYWxsIGZpbGxfc29sdXRpb25fc2xpY2UKICAgICAgICBjYWxsIHVwZGF0ZV9naG9zdF9jZWxscwogICAgICAgIGNhbGwgc2hha2VfaGFuZHMKICAgICAgICBjYWxsIGZpbGxfYmxrX21pbm1heF9zbGljZQogICAgICAgIGNhbGwgc2hha2VfaGFuZHMKICAgICAgICBjYWxsIGZpbGxfYmxrX21pbm1heF9zbGljZQogICAgZW5kIHN1YnJvdXRpbmUgdXBkYXRlX2dob3N0X2NlbGxzCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vicm91dGluZSB1cGRhdGVfZ2hvc3RfY2VsbHMoKSBiaW5kIChjKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alhs</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>alhs</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5533,7 +5538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Post</entry>
         <entry>int</entry>
         <entry>init</entry>
         <entry>eqn</entry>
@@ -5553,6 +5557,7 @@
         <entry>flip</entry>
         <entry>pivot</entry>
         <entry>alhs</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

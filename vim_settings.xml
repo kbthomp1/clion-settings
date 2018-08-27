@@ -1301,13 +1301,13 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535396257783">
-        <mark key="'" line="2916" column="49" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535397656725">
+        <mark key="'" line="2762" column="8" />
         <mark key="k" line="1581" column="23" />
-        <mark key="[" line="2730" column="50" />
-        <mark key="]" line="2730" column="65" />
-        <mark key="." line="2730" column="50" />
-        <mark key="^" line="2730" column="49" />
+        <mark key="[" line="2731" column="47" />
+        <mark key="]" line="2731" column="47" />
+        <mark key="." line="2731" column="47" />
+        <mark key="^" line="2731" column="48" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1813,6 +1813,9 @@
         <mark key="." line="250" column="61" />
         <mark key="^" line="250" column="61" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535397323805">
+        <mark key="'" line="2027" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/ra/test/CMakeLists.txt" timestamp="1534279949528">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="21" column="0" />
@@ -1969,50 +1972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="35" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="374" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="151" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="175" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="390" column="17" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="396" column="36" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="397" column="36" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="316" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="302" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="313" column="11" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="58" column="54" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="296" column="7" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="301" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="308" column="25" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="310" column="25" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="84" column="16" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="392" column="9" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="294" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="42" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="91" column="27" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="36" column="51" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="646" column="8" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="44" column="51" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="99" column="27" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="104" column="13" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="107" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="148" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="149" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="150" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="151" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="152" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="153" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="154" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="162" column="48" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="163" column="10" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="173" column="8" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="176" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="177" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="178" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="180" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="181" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="183" column="8" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="184" column="8" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="319" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="324" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="325" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="326" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
@@ -2034,10 +1993,7 @@
       <jump line="2677" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2698" column="49" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2723" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2773" column="34" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2774" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2776" column="26" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2777" column="26" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2779" column="26" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2798" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2799" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2069,6 +2025,53 @@
       <jump line="2859" column="47" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2848" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2916" column="49" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2743" column="22" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2910" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2722" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2730" column="53" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2759" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2795" column="28" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2810" column="22" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2833" column="19" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2834" column="35" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2836" column="18" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2838" column="36" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2849" column="23" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2850" column="34" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2865" column="34" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2499" column="52" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2707" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2717" column="49" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2750" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2751" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2752" column="35" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2755" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2761" column="23" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2767" column="45" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2768" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2769" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2772" column="37" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2775" column="45" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2787" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2861" column="16" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2778" column="53" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2776" column="45" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2758" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2783" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2781" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2780" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2777" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2773" column="19" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2771" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2770" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="23" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="26" column="12" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="2027" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="2829" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2862" column="38" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2703" column="51" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2718" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2762" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2079,7 +2082,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgZHEobl9ldG90LDEp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5479,10 +5482,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgZHEobl9ldG90LDEp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>before ener</text>
+        <text>dtemp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlKCosKikgImJlZm9yZSBlbmVyZ3kgPSAiLCBxbm9kZShuX2V0b3QsMSkK</text>
@@ -5528,20 +5531,16 @@
       </register>
     </registers>
     <search>
-      <last-search>before ener</last-search>
+      <last-search>dtemp</last-search>
       <last-offset />
-      <last-pattern>before ener</last-pattern>
+      <last-pattern>dtemp</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rhs</entry>
-        <entry>unlimit_frac</entry>
-        <entry>jacobian</entry>
-        <entry>frac_update</entry>
         <entry>call update_solution</entry>
         <entry>fctr</entry>
         <entry>et0</entry>
@@ -5554,10 +5553,14 @@
         <entry>call update_</entry>
         <entry>update_solution_at_block</entry>
         <entry>true</entry>
-        <entry>n_etot</entry>
         <entry>write</entry>
         <entry>tsup</entry>
         <entry>before ener</entry>
+        <entry>n_etot</entry>
+        <entry>dq</entry>
+        <entry>temperature</entry>
+        <entry>temperature_jac</entry>
+        <entry>dtemp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

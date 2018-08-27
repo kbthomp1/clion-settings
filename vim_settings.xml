@@ -1301,13 +1301,13 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535397656725">
-        <mark key="'" line="2762" column="8" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535398902372">
+        <mark key="'" line="2946" column="60" />
         <mark key="k" line="1581" column="23" />
-        <mark key="[" line="2731" column="47" />
-        <mark key="]" line="2731" column="47" />
-        <mark key="." line="2731" column="47" />
-        <mark key="^" line="2731" column="48" />
+        <mark key="[" line="2748" column="13" />
+        <mark key="]" line="2748" column="16" />
+        <mark key="." line="2748" column="16" />
+        <mark key="^" line="2748" column="16" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -1865,6 +1865,9 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" timestamp="1535398455356">
+        <mark key="'" line="38" column="58" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/VariableTransformationsTests.cpp" timestamp="1533645062377">
         <mark key="'" line="43" column="36" />
         <mark key="[" line="28" column="54" />
@@ -1972,12 +1975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="325" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="326" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="328" column="4" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="331" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="337" column="11" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="341" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="344" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="345" column="6" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
@@ -2072,6 +2069,12 @@
       <jump line="2703" column="51" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2718" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2762" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="34" column="0" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="38" column="58" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="2907" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2757" column="32" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2911" column="19" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2946" column="60" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5485,7 +5488,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dtemp</text>
+        <text>n_energy_last</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdyaXRlKCosKikgImJlZm9yZSBlbmVyZ3kgPSAiLCBxbm9kZShuX2V0b3QsMSkK</text>
@@ -5531,9 +5534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dtemp</last-search>
+      <last-search>n_energy_last</last-search>
       <last-offset />
-      <last-pattern>dtemp</last-pattern>
+      <last-pattern>n_energy_last</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5541,8 +5544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call update_solution</entry>
-        <entry>fctr</entry>
         <entry>et0</entry>
         <entry>alpha0</entry>
         <entry>blks_inflow</entry>
@@ -5556,11 +5557,13 @@
         <entry>write</entry>
         <entry>tsup</entry>
         <entry>before ener</entry>
-        <entry>n_etot</entry>
         <entry>dq</entry>
         <entry>temperature</entry>
         <entry>temperature_jac</entry>
         <entry>dtemp</entry>
+        <entry>blk</entry>
+        <entry>n_etot</entry>
+        <entry>n_energy_last</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

@@ -521,11 +521,11 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1535391110913">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="17" />
+      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1535393850337">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportFactory.cpp" timestamp="1510152321745">
         <mark key="'" line="5" column="37" />
@@ -1902,11 +1902,12 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535373510730">
-        <mark key="'" line="151" column="13" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535393674566">
+        <mark key="'" line="161" column="46" />
+        <mark key="[" line="202" column="33" />
+        <mark key="]" line="203" column="15" />
+        <mark key="." line="203" column="15" />
+        <mark key="^" line="203" column="15" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -1965,7 +1966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="3" filename="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" />
       <jump line="3" column="19" filename="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" />
       <jump line="29" column="36" filename="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" />
       <jump line="24" column="4" filename="$USER_HOME$/one-ring/install/hypersolve/include/PETScRuntime.h" />
@@ -2065,6 +2065,7 @@
       <jump line="400" column="48" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="428" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="469" column="13" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="161" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2074,8 +2075,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CHECK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5475,58 +5476,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cy0+cHJlY29uZGl0aW9uZXI=</text>
+        <text>CHECK</text>
       </register>
       <register name="/" type="4">
-        <text>blks_inflow</text>
+        <text>set_previous_sol</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICggbl90dXJiX2cgPT0gMiAuYW5kLiBjb3VwbGVkX3RrZSApIHRoZW4KICAgICAgZXQwID0gcmhvMCooIGVpMCArIGFscGhhMCArIHR1cmIwKDEpICkKICAgIGVsc2UKICAgICAgZXQwID0gcmhvMCooIGVpMCArIGFscGhhMCApCiAgICBlbmRpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJCZWdpbjogZm9ybUFcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJDSEVDS1xuIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFZlY1plcm9FbnRyaWVzKHMtPm1fcmVzaWR1YWwpOwogICAgTWF0R2V0RGlhZ29uYWwocHJlY29uZGl0aW9uZXJfbWF0cml4LCBzLT5tX3Jlc2lkdWFsKTsKICAgIFZlY1ZpZXcocy0+bV9yZXNpZHVhbCwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKICAgIGV4aXQoMCk7Cgo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZlY1plcm9FbnRyaWVzKHMtPm1fcmVzaWR1YWwpOwogICAgTWF0R2V0RGlhZ29uYWwocHJlY29uZGl0aW9uZXJfbWF0cml4LCBzLT5tX3Jlc2lkdWFsKTsKICAgIFZlY1ZpZXcocy0+bV9yZXNpZHVhbCwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKICAgIGV4aXQoMCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigibmV3OiAlZSBvbGQ6ICVlXG4iLCBuZXdfdXBkYXRlW2NlbGxdW2Vxbl0sIHVwZGF0ZVtjZWxsXVtlcW5dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cml0ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJFUVVJUkUobmV3X3VwZGF0ZVtjZWxsXVtlcW5dID09IHVwZGF0ZVtjZWxsXVtlcW5dKTsK</text>
+        <text encoding="base64">ICAgIFZlY1plcm9FbnRyaWVzKHMtPm1fcmVzaWR1YWwpOwogICAgTWF0R2V0RGlhZ29uYWwocHJlY29uZGl0aW9uZXJfbWF0cml4LCBzLT5tX3Jlc2lkdWFsKTsKICAgIFZlY1ZpZXcocy0+bV9yZXNpZHVhbCwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKICAgIGV4aXQoMCk7Cgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICggbl90dXJiX2cgPT0gMiAuYW5kLiBjb3VwbGVkX3RrZSApIHRoZW4KICAgICAgZXQwID0gcmhvMCooIGVpMCArIGFscGhhMCArIHR1cmIwKDEpICkKICAgIGVsc2UKICAgICAgZXQwID0gcmhvMCooIGVpMCArIGFscGhhMCApCiAgICBlbmRpZgogICAgCg==</text>
+        <text encoding="base64">ICAgIFZlY1plcm9FbnRyaWVzKHMtPm1fcmVzaWR1YWwpOwogICAgTWF0R2V0RGlhZ29uYWwocHJlY29uZGl0aW9uZXJfbWF0cml4LCBzLT5tX3Jlc2lkdWFsKTsKICAgIFZlY1ZpZXcocy0+bV9yZXNpZHVhbCwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKICAgIGV4aXQoMCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>blks_inflow</last-search>
+      <last-search>set_previous_sol</last-search>
       <last-offset />
-      <last-pattern>blks_inflow</last-pattern>
+      <last-pattern>set_previous_sol</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5534,7 +5535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>404</entry>
         <entry>call bc</entry>
         <entry>aa</entry>
         <entry>len</entry>
@@ -5554,6 +5554,7 @@
         <entry>et0</entry>
         <entry>alpha0</entry>
         <entry>blks_inflow</entry>
+        <entry>set_previous_sol</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

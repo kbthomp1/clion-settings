@@ -816,11 +816,11 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/UpdateRealizability.h" timestamp="1535395020759">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/LAURA-5/src/UpdateRealizability.h" timestamp="1535406724933">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
         <mark key="'" line="100" column="77" />
@@ -1301,12 +1301,12 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535403652758">
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535406954597">
         <mark key="'" line="2915" column="63" />
         <mark key="k" line="1581" column="23" />
-        <mark key="[" line="2878" column="38" />
-        <mark key="]" line="2878" column="42" />
-        <mark key="." line="2878" column="42" />
+        <mark key="[" line="2877" column="0" />
+        <mark key="]" line="2877" column="0" />
+        <mark key="." line="2877" column="0" />
         <mark key="^" line="2878" column="42" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
@@ -1813,8 +1813,11 @@
         <mark key="." line="250" column="61" />
         <mark key="^" line="250" column="61" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535401485556">
-        <mark key="'" line="1058" column="24" />
+      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535407172420">
+        <mark key="'" line="2008" column="18" />
+        <mark key="[" line="1145" column="57" />
+        <mark key="]" line="1145" column="57" />
+        <mark key="." line="1145" column="59" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/CMakeLists.txt" timestamp="1534279949528">
         <mark key="'" line="5" column="19" />
@@ -1910,13 +1913,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535403694760">
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535407850011">
         <mark key="'" line="222" column="52" />
-        <mark key="[" line="183" column="0" />
+        <mark key="[" line="185" column="0" />
         <mark key="k" line="168" column="29" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="183" column="28" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="184" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -1975,10 +1978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="48" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="428" column="40" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="469" column="13" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="161" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="2677" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2698" column="49" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2723" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2070,11 +2069,15 @@
       <jump line="2730" column="28" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2017" column="8" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="38" column="21" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="948" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1011" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="1058" column="24" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="2732" column="57" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2915" column="63" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2061" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="53" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="948" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="1011" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="1145" column="57" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="2008" column="18" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2085,7 +2088,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo1LDopID0gMC5fZHAK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5485,61 +5488,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>below</text>
+        <text>(1</text>
       </register>
       <register name="/" type="4">
-        <text>before</text>
+        <text>temperature_jacobian</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBiZWxvdyBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMSw6KSA9IDAuX2RwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo1LDopID0gMC5fZHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMiw6KSA9IDAuMV9kcAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdyaXRlKCosKikgImQodG90YWwgZW5lcmd5KSA9ICIsIGRxKG5fZXRvdCwxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdyaXRlKCosKikgImFmdGVyICBlbmVyZ3kgPSAiLCBxbm9kZShuX2V0b3QsMSkgKyBkcShuX2V0b3QsMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGUoKiwqKSBpLCAiZHEgPSAiLCBkcSg6LGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBhYm92ZSBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGUoKiwqKSBpLCAiZHEgPSAiLCBkcSg6LGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBiZWxvdyBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlKCosKikgImRxOiAiLCBkcSgxOm5lcW4saWopCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdyaXRlKCosKikgImFmdGVyOiAgZW5lcmd5ID0gIiwgcW5vZGUobl9lbmVyZ3lfaigxKSwxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdyaXRlKCosKikgImJlZm9yZTogZW5lcmd5ID0gIiwgcW5vZGUobl9lbmVyZ3lfaigxKSwxKQo=</text>
+        <text encoding="base64">ICAgIHdyaXRlKCosKikgImQodG90YWwgZW5lcmd5KSA9ICIsIGRxKG5fZXRvdCwxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>before</last-search>
+      <last-search>temperature_jacobian</last-search>
       <last-offset />
-      <last-pattern>before</last-pattern>
+      <last-pattern>temperature_jacobian</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -5560,10 +5563,10 @@
         <entry>n_etot</entry>
         <entry>n_energy_last</entry>
         <entry>Before</entry>
-        <entry>thermo_vec</entry>
-        <entry>temperature_jacobian</entry>
         <entry>after</entry>
         <entry>before</entry>
+        <entry>thermo_vec</entry>
+        <entry>temperature_jacobian</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

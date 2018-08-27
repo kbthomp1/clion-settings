@@ -521,10 +521,11 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1535141350589">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1535373158305">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportFactory.cpp" timestamp="1510152321745">
         <mark key="'" line="5" column="37" />
@@ -937,11 +938,14 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1535143952727">
-        <mark key="'" line="338" column="21" />
-        <mark key="k" line="240" column="62" />
-        <mark key="[" line="94" column="85" />
-        <mark key="l" line="136" column="40" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1535372857103">
+        <mark key="'" line="339" column="21" />
+        <mark key="k" line="241" column="62" />
+        <mark key="[" line="93" column="61" />
+        <mark key="l" line="137" column="40" />
+        <mark key="]" line="94" column="113" />
+        <mark key="^" line="94" column="113" />
+        <mark key="." line="94" column="113" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534871006071">
         <mark key="'" line="26" column="16" />
@@ -1899,12 +1903,11 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535142968923">
-        <mark key="'" line="254" column="67" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="243" column="25" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1535373510730">
+        <mark key="'" line="151" column="13" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -1963,7 +1966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1269" column="14" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1238" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1233" column="14" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1230" column="14" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2063,6 +2065,7 @@
       <jump line="367" column="70" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="370" column="35" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="374" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="151" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2073,7 +2076,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvbGVyYW5jZSA9IDEuZS0xMgo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZSgqLCopICJwcmV2aW91czogIiwgcHJldmlvdXNfc29sdXRpb24oYmxvY2tfaWQrMSklYmxrcygxOjUsMSwxKQogICAgICAgIHdyaXRlKCosKikgImN1cnJlbnQ6ICIsIHNvbG4oYmxvY2tfaWQrMSklYmxrcygxOjUsMSwxKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5473,58 +5476,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>:plane_size,k</text>
       </register>
       <register name="/" type="4">
-        <text>frac_limit</text>
+        <text>update_solution_at_block</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGUoKiwqKSAicHJldmlvdXM6ICIsIHByZXZpb3VzX3NvbHV0aW9uKGJsb2NrX2lkKzEpJWJsa3MoOiwxOnBsYW5lX3NpemUsayksICYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvbGVyYW5jZSA9IDEuZS0xMgo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZSgqLCopICJwcmV2aW91czogIiwgcHJldmlvdXNfc29sdXRpb24oYmxvY2tfaWQrMSklYmxrcygxOjUsMSwxKQogICAgICAgIHdyaXRlKCosKikgImN1cnJlbnQ6ICIsIHNvbG4oYmxvY2tfaWQrMSklYmxrcygxOjUsMSwxKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGUoKiwqKSAicHJldmlvdXM6ICIsIHByZXZpb3VzX3NvbHV0aW9uKGJsb2NrX2lkKzEpJWJsa3MoMTo1LDE6cGxhbmVfc2l6ZSxrKQogICAgICAgICAgICB3cml0ZSgqLCopICJjdXJyZW50OiAiLCBzb2xuKGJsb2NrX2lkKzEpJWJsa3MoMTo1LDE6cGxhbmVfc2l6ZSxrKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoJywgJy5qb2luKGZpbmFsX3Jlc2lkdWFsX3JvdykpCiAgICAjIGZvciByb3cgaW4gcmV2ZXJzZWQobGlzdChjc3YucmVhZGVyKGYpKSk6CiAgICAjICAgICBwcmludCgnLCAnLmpvaW4ocm93KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cml0ZSgqLCopICJkcTogIiwgZHEoZXFuLGlqKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZpbmFsX3Jlc2lkdWFsX3Jvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cml0ZSgqLCopICJuZXc6ICIsIG5ld19zb2x1dGlvbihpbmRleCksICIgb2xkOiAiLCBwcmV2aW91c19zb2x1dGlvbihibG9ja19pZCsxKSVibGtzKGVxbixpaixrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9sZXJhbmNlID0gMS5lLTEyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcShlcW4saWopID0gbmV3X3NvbHV0aW9uKGluZGV4KSAmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIHByZXZpb3VzX3NvbHV0aW9uKGJsb2NrX2lkKzEpJWJsa3MoZXFuLGlqLGspCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZpbmFsX3Jlc2lkdWFsX3Jvdwo=</text>
+        <text encoding="base64">ICAgIHRvbGVyYW5jZSA9IDEuZS0xMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLmFzc2VtYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoJywgJy5qb2luKGZpbmFsX3Jlc2lkdWFsX3JvdykpCiAgICAjIGZvciByb3cgaW4gcmV2ZXJzZWQobGlzdChjc3YucmVhZGVyKGYpKSk6CiAgICAjICAgICBwcmludCgnLCAnLmpvaW4ocm93KSkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLnplcm8oKTsK</text>
+        <text encoding="base64">ICAgIHByaW50IGZpbmFsX3Jlc2lkdWFsX3Jvdwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>frac_limit</last-search>
+      <last-search>update_solution_at_block</last-search>
       <last-offset />
-      <last-pattern>frac_limit</last-pattern>
+      <last-pattern>update_solution_at_block</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5532,7 +5535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>residual</entry>
         <entry>diflo</entry>
         <entry>diflp</entry>
         <entry>return</entry>
@@ -5552,6 +5554,7 @@
         <entry>frac_update</entry>
         <entry>call update_solution</entry>
         <entry>frac_limit</entry>
+        <entry>update_solution_at_block</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

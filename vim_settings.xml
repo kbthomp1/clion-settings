@@ -1301,12 +1301,12 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535408721409">
-        <mark key="'" line="2870" column="24" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535464648779">
+        <mark key="'" line="2885" column="41" />
         <mark key="k" line="1581" column="23" />
-        <mark key="[" line="2854" column="0" />
-        <mark key="]" line="2854" column="0" />
-        <mark key="." line="2854" column="0" />
+        <mark key="[" line="2866" column="0" />
+        <mark key="]" line="2869" column="0" />
+        <mark key="." line="2866" column="0" />
         <mark key="^" line="2878" column="42" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
@@ -1978,11 +1978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2774" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2779" column="26" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2798" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2799" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2807" column="45" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="168" column="29" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="47" column="18" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="2" column="39" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2078,6 +2073,11 @@
       <jump line="2871" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2854" column="31" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2870" column="24" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2913" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2909" column="22" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2902" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2890" column="35" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="2885" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2088,7 +2088,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiBkZW5zaXR5IGJlbG93IGZsb29yOiAiLCBxbm9kZShqLGkpCg==</text>
+        <text encoding="base64">ICAgICAgZG8gaiA9IG5fbW9teCxuX2VuZXJneV9sYXN0CiAgICAgICAgcW5vZGUoaixpKSA9IHFub2RlKGosaSkgKyBkcShqLGkpL3RzdXAgICAgICAgICAgICAgISBNb21lbnR1bS9FbmVyZ3kKICAgICAgZW5kIGRvCgo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5491,40 +5491,40 @@
         <text>(1</text>
       </register>
       <register name="/" type="4">
-        <text>floor</text>
+        <text>n_mom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHEoMSw6KSA9IDAuX2RwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiBkZW5zaXR5IGJlbG93IGZsb29yOiAiLCBxbm9kZShqLGkpCg==</text>
+        <text encoding="base64">ICAgICAgZG8gaiA9IG5fbW9teCxuX2VuZXJneV9sYXN0CiAgICAgICAgcW5vZGUoaixpKSA9IHFub2RlKGosaSkgKyBkcShqLGkpL3RzdXAgICAgICAgICAgICAgISBNb21lbnR1bS9FbmVyZ3kKICAgICAgZW5kIGRvCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo1LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiBkZW5zaXR5IGJlbG93IGZsb29yOiAiLCBxbm9kZShqLGkpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMiw6KSA9IDAuMV9kcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo1LDopID0gMC5fZHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMiw6KSA9IDAuMV9kcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBhYm92ZSBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBiZWxvdyBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBhYm92ZSBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHEoMTo0LDopID0gMC5fZHAK</text>
+        <text encoding="base64">ICAgICAgICAgIHdyaXRlKCosKikgaSwgIiB0ZW1wZXJhdHVyZSBiZWxvdyBmbG9vcjogIiwgcW5vZGUobl90ZW1wZXJhdHVyZV9qKGopLGkpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -5537,9 +5537,9 @@
       </register>
     </registers>
     <search>
-      <last-search>floor</last-search>
+      <last-search>n_mom</last-search>
       <last-offset />
-      <last-pattern>floor</last-pattern>
+      <last-pattern>n_mom</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5547,7 +5547,6 @@
     </search>
     <history>
       <history-search>
-        <entry>force_full</entry>
         <entry>call update_</entry>
         <entry>update_solution_at_block</entry>
         <entry>true</entry>
@@ -5567,6 +5566,7 @@
         <entry>thermo_vec</entry>
         <entry>temperature_jacobian</entry>
         <entry>floor</entry>
+        <entry>n_mom</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

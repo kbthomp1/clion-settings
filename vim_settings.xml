@@ -1847,8 +1847,8 @@
         <mark key="." line="250" column="61" />
         <mark key="^" line="250" column="61" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535483317159">
-        <mark key="'" line="1011" column="9" />
+      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535485010381">
+        <mark key="'" line="1450" column="27" />
         <mark key="[" line="1145" column="57" />
         <mark key="]" line="1145" column="57" />
         <mark key="." line="1145" column="59" />
@@ -2012,7 +2012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2908" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2683" column="56" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2754" column="32" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="222" column="52" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2112,6 +2111,7 @@
       <jump line="38" column="21" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="948" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="1011" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="1450" column="27" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5525,7 +5525,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>thermo_vec</text>
+        <text>temperature_jacobia</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhbGwgdGhlcm1vICAgICAgICAgKDAsICAgICAgcW5vZGUoMTpuX3NwZWNpZXMsMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl90ZW1wZXJhdHVyZV9qKDEpOm5fdGVtcGVyYXR1cmVfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9lbmVyZ3lfaigxKTpuX2VuZXJneV9qKG5fZW5lcmd5KSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9wcmVzc3VyZV9rKDEpOm5fcHJlc3N1cmVfayhuX21vbSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9kZW5zaXR5LDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9jdl9qKDEpOm5fY3ZfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgZW50aGFscHlfaWooOiw6LDopLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9tb2xlY3VsYXJfd2VpZ2h0LDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9zb25pY19rKDEpOm5fc29uaWNfayhuX21vbSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcHJlc3N1cmVfamFjKDosOiw6KSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgcW5vZGUobl9lbnRyb3B5X2ooMSk6bl9lbnRyb3B5X2oobl9lbmVyZ3kpLDE6bmNlbGwpKQoKICAgIHVwZGF0ZV9ub2RlczM6ICYKICAgIGRvIGkgPSAxLG5jZWxsCiAgICAgIGRvIGogPSAxLG5fZW5lcmd5CiAgICAgICAgZG8gaWkgPSAxLG5fc3BlY2llcwogICAgICAgICAgaWoxID0gaWkgKyAoai0xKSpuX3NwZWNpZXMKICAgICAgICAgIHFub2RlKG5fZW50aGFscHlfaWooaWoxKSxpKSA9IGVudGhhbHB5X2lqKGlpLGosaSkKICAgICAgICBlbmQgZG8KICAgICAgZW5kIGRvCiAgICAgIGRvIGogPSAxLG5fbW9tCiAgICAgICAgZG8gaWkgPSAxLG5fcGphYwogICAgICAgICAgaWoxID0gaWkgKyAoai0xKSpuX3BqYWMKICAgICAgICAgIHFub2RlKG5fcHJlc3N1cmVfamFjKGlqMSksaSkgPSBwcmVzc3VyZV9qYWMoaWksaixpKQogICAgICAgIGVuZCBkbwogICAgICBlbmQgZG8KCiAgICAgIGRvIGogPSAxLG5fZW5lcmd5CiAgICAgICAgcW5vZGUobl9tb216K2osaSkgPSBxbm9kZShuX2RlbnNpdHksaSkqcW5vZGUobl9lbmVyZ3lfaihqKSxpKQogICAgICBlbmQgZG8KICAgICAgcW5vZGUobl9ldG90LGkpID0gcW5vZGUobl9ldG90LGkpICsgaGFsZioocW5vZGUobl9tb214LGkpKioyICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgICAgICArIHFub2RlKG5fbW9teSxpKSoqMitxbm9kZShuX21vbXosaSkqKjIpL3Fub2RlKG5fZGVuc2l0eSxpKQogICAgICBpZiAoIG5fdHVyYl9nID4gMSAuYW5kLiBjb3VwbGVkX3RrZSApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgcW5vZGUobl9ldG90LGkpID0gcW5vZGUobl9ldG90LGkpICsgcW5vZGUobl90dXJiX2tlLGkpCiAgICBlbmQgZG8gdXBkYXRlX25vZGVzMwoKICAgIGlmICggaXZpc2MgPT0gMCAub3IuICgubm90LnVwZGF0ZV90cmFuKSApIHJldHVybgogICAgY2FsbCB0cmFuc3BvcnRfcHJvcChxbm9kZSgxOm5fc3BlY2llcywxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX3RlbXBlcmF0dXJlX2ooMSk6bl90ZW1wZXJhdHVyZV9qKG5fZW5lcmd5KSwxOm5jZWxsKSwgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX3ByZXNzdXJlX2soMSk6bl9wcmVzc3VyZV9rKG5fbW9tKSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX2RlbnNpdHksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX2N2X2ooMSk6bl9jdl9qKG5fZW5lcmd5KSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX21vbGVjdWxhcl93ZWlnaHQsMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX2FtdV9rKDEpOm5fYW11X2sobl9tb20pLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX2V0YV9qKDEpOm5fZXRhX2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICBxbm9kZShuX2RpZl9pKDEpOm5fZGlmX2kobl9zcGVjaWVzKSwxOm5jZWxsKSkK</text>
@@ -5579,9 +5579,9 @@ eq</text>
       </register>
     </registers>
     <search>
-      <last-search>thermo_vec</last-search>
+      <last-search>temperature_jacobia</last-search>
       <last-offset />
-      <last-pattern>thermo_vec</last-pattern>
+      <last-pattern>temperature_jacobia</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5589,7 +5589,6 @@ eq</text>
     </search>
     <history>
       <history-search>
-        <entry>before ener</entry>
         <entry>dq</entry>
         <entry>temperature</entry>
         <entry>temperature_jac</entry>
@@ -5609,6 +5608,7 @@ eq</text>
         <entry>dtemp</entry>
         <entry>thermo</entry>
         <entry>thermo_vec</entry>
+        <entry>temperature_jacobia</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vXC4vZw==</entry>

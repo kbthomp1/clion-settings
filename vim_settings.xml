@@ -1312,13 +1312,13 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535573481022">
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535575041349">
         <mark key="'" line="4982" column="16" />
         <mark key="k" line="2884" column="24" />
-        <mark key="[" line="4986" column="59" />
-        <mark key="]" line="4986" column="58" />
-        <mark key="." line="4986" column="58" />
-        <mark key="^" line="4986" column="58" />
+        <mark key="[" line="4982" column="17" />
+        <mark key="]" line="4982" column="22" />
+        <mark key="." line="4982" column="22" />
+        <mark key="^" line="4982" column="22" />
       </file>
       <file name="$USER_HOME$/LAURA-5/tests/fortran_unit_tests/CMakeLists.txt" timestamp="1535480550393">
         <mark key="[" line="4" column="0" />
@@ -1367,13 +1367,13 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" timestamp="1535573499039">
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" timestamp="1535574924621">
         <mark key="'" line="63" column="55" />
         <mark key="k" line="71" column="5" />
-        <mark key="[" line="76" column="48" />
-        <mark key="]" line="76" column="49" />
-        <mark key="." line="76" column="49" />
-        <mark key="^" line="76" column="52" />
+        <mark key="[" line="79" column="44" />
+        <mark key="]" line="79" column="43" />
+        <mark key="." line="79" column="43" />
+        <mark key="^" line="79" column="43" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1501618565135">
         <mark key="'" line="282" column="0" />
@@ -2100,7 +2100,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>correctly update solution</text>
+        <text>(1:4)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5500,57 +5500,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>correctly update solution</text>
+        <text>(1:4)</text>
       </register>
       <register name="/" type="4">
         <text>rou</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdHIgPT4gb3J0aG9nb25hbHlfdXBkYXRlX3NvbHV0aW9uCiAgY2FsbCB0ZXN0X3Byb2NlZHVyZShwdHIsImNvcnJlY3RseSB1cGRhdGUgc29sdXRpb24iKQo=</text>
+        <text encoding="base64">ICAgICEgQ29uZGl0aW9ucyB3aGVyZSBpbnRlcm5hbCBlbmVyZ3kgaXMgemVybwogICAgZHEgPSBbMC5fZHAsIDEuX2RwLCAxLl9kcCwgMS5fZHAsIDAuX2RwXQogICAgcW5vZGUoMTo0KSA9IFsxLl9kcCwgMS5fZHAsIDEuX2RwLCAxLl9kcCwgMS41X2RwXQogICAgcmVsYXhhdGlvbl9mYWN0b3IgPSBjb21wdXRlX3JlbGF4YXRpb25fZmFjdG9yKHFub2RlLCBkcSkKICAgIGNhbGwgYXNzZXJ0X2FwcHJveF9lcXVhbChyZWxheGF0aW9uX2ZhY3RvciwgMC5fZHApCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>d
-d
-d</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>rho
-rho
-rho</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHFub2RlKDUpID0gMS41X2RwCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRxKDI6MykgPSAxLl9kcAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRxKCkK</text>
+      </register>
+      <register name="5" type="8">
+        <text>d
+d
+d</text>
+      </register>
+      <register name="6" type="8">
+        <text>rho
+rho
+rho</text>
+      </register>
+      <register name="7" type="8">
         <text>d
 d
 d
 d
 d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJobyA9IHN1bShxbm9kZSgxOl9zcGVjaSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXJfb2ZfY2hlY2tzID0gbnVtYmVyX29mX2NoZWNrcyArIDEKICAgICAgICByZWxhdGl2ZV9kaWZmZXJlbmNlID0gYWJzKChhLWIpL2EpCiAgICAgICAgaWYocmVsYXRpdmVfZGlmZmVyZW5jZSA+IHRvbGVyYW5jZSkgdGhlbgogICAgICAgICAgICBmYWlsZWRfY2hlY2tzID0gZmFpbGVkX2NoZWNrcyArIDEKICAgICAgICAgICAgd3JpdGUoKiwqKSAnSW4gdGVzdDogICAnLCBjdXJyZW50X3Rlc3RfbmFtZQogICAgICAgICAgICB3cml0ZSgqLCopICcgICAgQXNzZXJ0aW9uIGZhaWxlZDonLGEsJz0nLGIKICAgICAgICAgICAgd3JpdGUoKiwqKSAnICAgIHJlbGF0aXZlIGRpZmZlcmVuY2U6JywgcmVsYXRpdmVfZGlmZmVyZW5jZQogICAgICAgICAgICB3cml0ZSgqLCopICcgZ3JlYXRlciB0aGFuIHRvbGVyYW5jZTonLCB0b2xlcmFuY2UKICAgICAgICBlbmRpZgo=</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsKGNfZG91YmxlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJobyA9IHN1bShxbm9kZSgxOl9zcGVjaSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

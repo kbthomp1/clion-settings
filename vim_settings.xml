@@ -1815,8 +1815,8 @@
         <mark key="." line="250" column="61" />
         <mark key="^" line="250" column="61" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535485010381">
-        <mark key="'" line="1450" column="27" />
+      <file name="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" timestamp="1535549190578">
+        <mark key="'" line="1011" column="9" />
         <mark key="[" line="1145" column="57" />
         <mark key="]" line="1145" column="57" />
         <mark key="." line="1145" column="59" />
@@ -1983,7 +1983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/LAURA-5/tests/fortran_unit_tests/test_driver.F90" />
       <jump line="184" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="50" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -1996,9 +1995,6 @@
       <jump line="2967" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2994" column="10" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2008" column="2" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="38" column="21" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="948" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1011" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="1450" column="27" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="2716" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="2911" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2083,6 +2079,10 @@
       <jump line="305" column="42" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
       <jump line="280" column="4" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
       <jump line="164" column="52" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="1998" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="38" column="21" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="948" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
+      <jump line="1011" column="9" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5496,7 +5496,7 @@
         <text>qnode(n_cv_j(1),1)</text>
       </register>
       <register name="/" type="4">
-        <text>vel2</text>
+        <text>thermo_vec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhbGwgYXNzZXJ0X2VxdWFsKHFub2RlKG5fdGVtcGVyYXR1cmVfaigxKSwxKSwgMTE0Ljk5ODM2NTY1MTU3NTQwX2RwKQo=</text>
@@ -5544,17 +5544,16 @@ density</text>
       </register>
     </registers>
     <search>
-      <last-search>vel2</last-search>
+      <last-search>thermo_vec</last-search>
       <last-offset />
-      <last-pattern>vel2</last-pattern>
+      <last-pattern>thermo_vec</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
         <entry>drho</entry>
         <entry>update_solu</entry>
         <entry>read_n</entry>
@@ -5574,6 +5573,7 @@ density</text>
         <entry>htw</entry>
         <entry>rhoet</entry>
         <entry>vel2</entry>
+        <entry>thermo_vec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -24,14 +24,6 @@
         <mark key="^" line="34" column="75" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1534859517885">
-        <mark key="'" line="80" column="25" />
-        <mark key="k" line="80" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="115" />
-        <mark key="." line="30" column="114" />
-        <mark key="^" line="30" column="114" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/WeakBC.h" timestamp="1531405053793">
         <mark key="'" line="16" column="74" />
         <mark key="[" line="17" column="75" />
@@ -90,14 +82,6 @@
       </file>
       <file name="/LLDB" timestamp="1535141516253">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1534870770848">
-        <mark key="'" line="186" column="43" />
-        <mark key="k" line="186" column="43" />
-        <mark key="[" line="186" column="100" />
-        <mark key="]" line="186" column="100" />
-        <mark key="." line="186" column="100" />
-        <mark key="^" line="186" column="100" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
@@ -730,14 +714,6 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/src/exchange_soln.f90" timestamp="1535050806902">
-        <mark key="'" line="1849" column="13" />
-        <mark key="k" line="1849" column="13" />
-        <mark key="[" line="1973" column="34" />
-        <mark key="]" line="1973" column="34" />
-        <mark key="^" line="1973" column="34" />
-        <mark key="." line="1973" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.h" timestamp="1532532918529">
         <mark key="'" line="37" column="53" />
@@ -1377,14 +1353,6 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1535140631083">
-        <mark key="'" line="30" column="13" />
-        <mark key="k" line="30" column="13" />
-        <mark key="[" line="15" column="100" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-      </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1510152720379">
         <mark key="'" line="43" column="47" />
         <mark key="[" line="18" column="34" />
@@ -1392,13 +1360,13 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" timestamp="1535494843943">
-        <mark key="'" line="50" column="5" />
-        <mark key="k" line="50" column="5" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="45" column="71" />
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" timestamp="1535547218131">
+        <mark key="'" line="60" column="5" />
+        <mark key="k" line="60" column="5" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+        <mark key="^" line="26" column="66" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.cpp" timestamp="1501618565135">
         <mark key="'" line="282" column="0" />
@@ -1721,14 +1689,6 @@
         <mark key="]" line="155" column="22" />
         <mark key="^" line="155" column="22" />
         <mark key="." line="155" column="22" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/src/shared_laura_variables.f90" timestamp="1535052257781">
-        <mark key="'" line="159" column="45" />
-        <mark key="[" line="6" column="23" />
-        <mark key="k" line="6" column="16" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/petsc_input.json" timestamp="1534794285280">
         <mark key="[" line="1" column="33" />
@@ -2132,8 +2092,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>update_solution</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN2ID0gCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5533,49 +5493,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>update_solution</text>
+        <text>qnode(n_cv_j(1),1)</text>
       </register>
       <register name="/" type="4">
         <text>vel2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1MSoqMit2MSoqMit3MSoqMiwK</text>
+        <text encoding="base64">ICAgIGNhbGwgYXNzZXJ0X2VxdWFsKHFub2RlKG5fdGVtcGVyYXR1cmVfaigxKSwxKSwgMTE0Ljk5ODM2NTY1MTU3NTQwX2RwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGN2ID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGUoKiwqKSBrLCAiVAo=</text>
+      <register name="2" type="8">
+        <text>density
+density
+density</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiY2VsbDogJWQgdXBkYXRlOiIsIGludChjZWxsKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGUoKiwqKSBrLCAiVAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiY2VsbDogJWQgdXBkYXRlOiIsIGludChjZWxsKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld191cGRhdGVbY2VsbF1bZXFuXSA9IG5ld19zb2x1dGlvbltjZWxsXVtlcW5dIC0gY3VycmVudF9zb2x1dGlvbltjZWxsXVtlcW5dOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGVxbiA9IDA7IGVxbiA8IE51bUVxbnM7ICsrZXFuKXt9CiAgICAgICAgICAgICAgICAgICAgbmV3X3VwZGF0ZVtjZWxsXVtlcW5dID0gbmV3X3NvbHV0aW9uW2NlbGxdW2Vxbl0gLSBjdXJyZW50X3NvbHV0aW9uW2NlbGxdW2Vxbl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld191cGRhdGVbY2VsbF1bZXFuXSA9IG5ld19zb2x1dGlvbltjZWxsXVtlcW5dIC0gY3VycmVudF9zb2x1dGlvbltjZWxsXVtlcW5dOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGVxbiA9IDA7IGVxbiA8IE51bUVxbnM7ICsrZXFuKXt9CiAgICAgICAgICAgICAgICAgICAgbmV3X3VwZGF0ZVtjZWxsXVtlcW5dID0gbmV3X3NvbHV0aW9uW2NlbGxdW2Vxbl0gLSBjdXJyZW50X3NvbHV0aW9uW2NlbGxdW2Vxbl07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

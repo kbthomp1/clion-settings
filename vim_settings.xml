@@ -133,9 +133,9 @@
         <mark key="]" line="94" column="85" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535746184734">
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1535746316043">
         <mark key="p" line="2780" column="30" />
-        <mark key="'" line="662" column="40" />
+        <mark key="'" line="50" column="66" />
         <mark key="[" line="653" column="6" />
         <mark key="k" line="1587" column="0" />
         <mark key="]" line="653" column="6" />
@@ -197,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4945" column="8" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4950" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="200" column="16" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="247" column="15" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="4949" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1612" column="46" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -297,6 +294,9 @@
       <jump line="643" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="652" column="32" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="661" column="40" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="656" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="657" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="50" column="66" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3710,7 +3710,7 @@
         <text encoding="base64">aWYgKHBldHNjX3NvbHZlKSA=</text>
       </register>
       <register name="/" type="4">
-        <text>dtv</text>
+        <text>n_level_1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKHBldHNjX3NvbHZlKSBzb2xuKG5iKSVkdHYoOixsdmwpID0gMS5fZHAK</text>
@@ -3756,9 +3756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dtv</last-search>
+      <last-search>n_level_1</last-search>
       <last-offset />
-      <last-pattern>dtv</last-pattern>
+      <last-pattern>n_level_1</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -3766,7 +3766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compute_jac</entry>
         <entry>print_jac</entry>
         <entry>flip</entry>
         <entry>flip_rhs</entry>
@@ -3786,6 +3785,7 @@
         <entry>new_solution</entry>
         <entry>relax_solution</entry>
         <entry>dtv</entry>
+        <entry>n_level_1</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

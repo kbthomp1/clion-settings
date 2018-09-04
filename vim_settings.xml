@@ -1346,12 +1346,12 @@
         <mark key="." line="87" column="106" />
         <mark key="^" line="70" column="3" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1536074611159">
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1536076159400">
         <mark key="p" line="2780" column="30" />
-        <mark key="'" line="1613" column="15" />
-        <mark key="[" line="2762" column="0" />
+        <mark key="'" line="2762" column="0" />
+        <mark key="[" line="2694" column="0" />
         <mark key="k" line="1587" column="0" />
-        <mark key="]" line="2800" column="56" />
+        <mark key="]" line="2694" column="45" />
         <mark key="." line="1495" column="30" />
         <mark key="^" line="1507" column="5" />
       </file>
@@ -1977,12 +1977,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536074640153">
-        <mark key="'" line="186" column="65" />
-        <mark key="[" line="419" column="79" />
-        <mark key="]" line="419" column="79" />
-        <mark key="." line="419" column="79" />
-        <mark key="^" line="419" column="89" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536076882826">
+        <mark key="'" line="416" column="39" />
+        <mark key="k" line="208" column="47" />
+        <mark key="[" line="176" column="34" />
+        <mark key="]" line="176" column="35" />
+        <mark key="." line="176" column="35" />
+        <mark key="^" line="176" column="47" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2041,16 +2042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1582" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1615" column="18" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="100" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1622" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="381" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1624" column="47" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1600" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="648" column="31" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1445" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="254" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="40" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="44" column="46" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="179" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2074,7 +2065,6 @@
       <jump line="11" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="291" column="48" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="638" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="205" column="15" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="245" column="19" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="631" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2141,6 +2131,17 @@
       <jump line="1068" column="16" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1613" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="186" column="65" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="389" column="10" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="428" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="2762" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="392" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="183" column="37" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="413" column="16" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="18" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="189" column="47" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="194" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="398" column="39" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2150,8 +2151,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGssIGlqLCBlcQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5551,58 +5552,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">ZGVuc2l0eSAqIA==</text>
       </register>
       <register name="/" type="4">
-        <text>relax_sol</text>
+        <text>update_solut</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICEgQ2FsbCB0aGVybW8gd2l0aCAxIGZsYWcgKGRlbnNpdHksIGVuZXJneSkgdG8gcGVyZm9ybSBuZXd0b24gaXRlcmF0aW9uIHRvCiAgICAhIG1hdGNoIHRoZSBuZXcgZGVuc2l0aWVzIGFuZCBpbnRlcm5hbCBlbmVyZ2llcyBjb21wdXRlZCBmcm9tIHVwZGF0ZQogICAgY2FsbCB0aGVybW8oMSwgICAgICBxbm9kZSgxOm5fc3BlY2llcywxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl90ZW1wZXJhdHVyZV9qKDEpOm5fdGVtcGVyYXR1cmVfaihuX2VuZXJneSksMTpuY2VsbCksICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9lbmVyZ3lfaigxKTpuX2VuZXJneV9qKG5fZW5lcmd5KSwxOm5jZWxsKSwgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9wcmVzc3VyZV9rKDEpOm5fcHJlc3N1cmVfayhuX21vbSksMTpuY2VsbCksICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9kZW5zaXR5LDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9jdl9qKDEpOm5fY3ZfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgZW50aGFscHlfaWooOiw6LDopLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9tb2xlY3VsYXJfd2VpZ2h0LDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9zb25pY19rKDEpOm5fc29uaWNfayhuX21vbSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcHJlc3N1cmVfamFjKDosOiw6KSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9lbnRyb3B5X2ooMSk6bl9lbnRyb3B5X2oobl9lbmVyZ3kpLDE6bmNlbGwpKQoKICAgIHVwZGF0ZV9ub2RlczM6IGRvIGkgPSAxLG5jZWxsCiAgICAgIGRvIGogPSAxLG5fZW5lcmd5CiAgICAgICAgZG8gaWkgPSAxLG5fc3BlY2llcwogICAgICAgICAgaWoxID0gaWkgKyAoai0xKSpuX3NwZWNpZXMKICAgICAgICAgIHFub2RlKG5fZW50aGFscHlfaWooaWoxKSxpKSA9IGVudGhhbHB5X2lqKGlpLGosaSkKICAgICAgICBlbmQgZG8KICAgICAgZW5kIGRvCiAgICAgIGRvIGogPSAxLG5fbW9tCiAgICAgICAgZG8gaWkgPSAxLG5fcGphYwogICAgICAgICAgaWoxID0gaWkgKyAoai0xKSpuX3BqYWMKICAgICAgICAgIHFub2RlKG5fcHJlc3N1cmVfamFjKGlqMSksaSkgPSBwcmVzc3VyZV9qYWMoaWksaixpKQogICAgICAgIGVuZCBkbwogICAgICBlbmQgZG8KICAgIGVuZCBkbyB1cGRhdGVfbm9kZXMzCgogICAgaWYgKCBpdmlzYyA9PSAwIC5vci4gKC5ub3QudXBkYXRlX3RyYW4pICkgcmV0dXJuCiAgICBjYWxsIHRyYW5zcG9ydF9wcm9wKHFub2RlKDE6bl9zcGVjaWVzLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fdGVtcGVyYXR1cmVfaigxKTpuX3RlbXBlcmF0dXJlX2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fcHJlc3N1cmVfaygxKTpuX3ByZXNzdXJlX2sobl9tb20pLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fZGVuc2l0eSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fY3ZfaigxKTpuX2N2X2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fbW9sZWN1bGFyX3dlaWdodCwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fYW11X2soMSk6bl9hbXVfayhuX21vbSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fZXRhX2ooMSk6bl9ldGFfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgIHFub2RlKG5fZGlmX2koMSk6bl9kaWZfaShuX3NwZWNpZXMpLDE6bmNlbGwpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvIGVxID0gbl9tb214LCBuX21vbXoKICAgICAgICAgICAgICAgICAgICBzb2xuKG5iKSVibGtzKGVxLCBpaiwgaykgPSBkZW5zaXR5ICogbmV3X3NvbHV0aW9uKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGluZGV4ID0gaW5kZXggKyAxCiAgICAgICAgICAgICAgICBlbmQgZG8K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGssIGlqLCBlcQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfdmFyaWFibGVzCg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsKGNfZG91YmxlKSwgcGFyYW1ldGVyIDo6IG1heF9jaGFuZ2UgPSAxLjBfY19kb3VibGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsIHRoZXJtbygxLCAgICAgIHFub2RlKDE6bl9zcGVjaWVzLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fdGVtcGVyYXR1cmVfaigxKTpuX3RlbXBlcmF0dXJlX2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fZW5lcmd5X2ooMSk6bl9lbmVyZ3lfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fcHJlc3N1cmVfaygxKTpuX3ByZXNzdXJlX2sobl9tb20pLDE6bmNlbGwpLCAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fZGVuc2l0eSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fY3ZfaigxKTpuX2N2X2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIGVudGhhbHB5X2lqKDosOiw6KSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fbW9sZWN1bGFyX3dlaWdodCwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fc29uaWNfaygxKTpuX3NvbmljX2sobl9tb20pLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHByZXNzdXJlX2phYyg6LDosOiksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fZW50cm9weV9qKDEpOm5fZW50cm9weV9qKG5fZW5lcmd5KSwxOm5jZWxsKSkKCiAgICAgICAgdXBkYXRlX25vZGVzMzogZG8gaSA9IDEsbmNlbGwKICAgICAgICAgICAgZG8gaiA9IDEsbl9lbmVyZ3kKICAgICAgICAgICAgICAgIGRvIGlpID0gMSxuX3NwZWNpZXMKICAgICAgICAgICAgICAgICAgICBpajEgPSBpaSArIChqLTEpKm5fc3BlY2llcwogICAgICAgICAgICAgICAgICAgIHFub2RlKG5fZW50aGFscHlfaWooaWoxKSxpKSA9IGVudGhhbHB5X2lqKGlpLGosaSkKICAgICAgICAgICAgICAgIGVuZCBkbwogICAgICAgICAgICBlbmQgZG8KICAgICAgICAgICAgZG8gaiA9IDEsbl9tb20KICAgICAgICAgICAgICAgIGRvIGlpID0gMSxuX3BqYWMKICAgICAgICAgICAgICAgICAgICBpajEgPSBpaSArIChqLTEpKm5fcGphYwogICAgICAgICAgICAgICAgICAgIHFub2RlKG5fcHJlc3N1cmVfamFjKGlqMSksaSkgPSBwcmVzc3VyZV9qYWMoaWksaixpKQogICAgICAgICAgICAgICAgZW5kIGRvCiAgICAgICAgICAgIGVuZCBkbwogICAgICAgIGVuZCBkbyB1cGRhdGVfbm9kZXMzCgogICAgICAgIGlmICggaXZpc2MgPT0gMCAub3IuICgubm90LnVwZGF0ZV90cmFuKSApIHJldHVybgogICAgICAgIGNhbGwgdHJhbnNwb3J0X3Byb3AocW5vZGUoMTpuX3NwZWNpZXMsMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fdGVtcGVyYXR1cmVfaigxKTpuX3RlbXBlcmF0dXJlX2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAmCiAgICAgICAgICAgICAgICBxbm9kZShuX3ByZXNzdXJlX2soMSk6bl9wcmVzc3VyZV9rKG5fbW9tKSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9kZW5zaXR5LDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fY3ZfaigxKTpuX2N2X2oobl9lbmVyZ3kpLDE6bmNlbGwpLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgICAgICBxbm9kZShuX21vbGVjdWxhcl93ZWlnaHQsMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJgogICAgICAgICAgICAgICAgcW5vZGUobl9hbXVfaygxKTpuX2FtdV9rKG5fbW9tKSwxOm5jZWxsKSwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgICAgIHFub2RlKG5fZXRhX2ooMSk6bl9ldGFfaihuX2VuZXJneSksMTpuY2VsbCksICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmCiAgICAgICAgICAgICAgICBxbm9kZShuX2RpZl9pKDEpOm5fZGlmX2kobl9zcGVjaWVzKSwxOm5jZWxsKSkK</text>
+        <text encoding="base64">ICAgICAgICByZWFsKGNfZG91YmxlKSA6OiByZWxheGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbnNpdHkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgIGVuZA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGwgdXBkYXRlX3Fub2RlKHFub2RlLCBlbnRoYWxweV9paiwgcHJlc3N1cmVfamFjLCBudmFyLCBuY2VsbCkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvIGVxbiA9IDEsIG5lcW4KICAgICAgICAgICAgICAgIGVuZCBkbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGxhbmVfc2l6ZSwgbnZhcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>relax_sol</last-search>
+      <last-search>update_solut</last-search>
       <last-offset />
-      <last-pattern>relax_sol</last-pattern>
+      <last-pattern>update_solut</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5610,8 +5611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>line_implicit</entry>
-        <entry>end sub</entry>
         <entry>big_res</entry>
         <entry>flip_</entry>
         <entry>calc</entry>
@@ -5630,6 +5629,8 @@
         <entry>previous_solution</entry>
         <entry>get_solution_at_block</entry>
         <entry>relax_sol</entry>
+        <entry>ivisc</entry>
+        <entry>update_solut</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

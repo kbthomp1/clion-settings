@@ -839,6 +839,12 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/src/UpdateRealizability.h" timestamp="1536082688734">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="61" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
         <mark key="'" line="100" column="77" />
         <mark key="[" line="100" column="75" />
@@ -866,13 +872,6 @@
         <mark key="]" line="60" column="47" />
         <mark key="." line="37" column="81" />
         <mark key="^" line="37" column="81" />
-      </file>
-      <file name="$USER_HOME$/LAURA-5/src/main.F90" timestamp="1535720348281">
-        <mark key="'" line="504" column="10" />
-        <mark key="k" line="505" column="60" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
       </file>
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/DiscretizationTests.cpp" timestamp="1535745982213">
         <mark key="'" line="15" column="4" />
@@ -1110,12 +1109,12 @@
         <mark key="." line="44" column="35" />
         <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.h" timestamp="1535394894792">
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.h" timestamp="1536083337275">
         <mark key="'" line="36" column="22" />
-        <mark key="[" line="16" column="84" />
-        <mark key="]" line="16" column="101" />
-        <mark key="." line="16" column="101" />
-        <mark key="^" line="16" column="101" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="17" column="60" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/AdeptLinearizations.cpp" timestamp="1520267690443">
         <mark key="'" line="125" column="0" />
@@ -1977,13 +1976,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536076882826">
-        <mark key="'" line="416" column="39" />
-        <mark key="k" line="208" column="47" />
-        <mark key="[" line="176" column="34" />
-        <mark key="]" line="176" column="35" />
-        <mark key="." line="176" column="35" />
-        <mark key="^" line="176" column="47" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536083411525">
+        <mark key="'" line="208" column="17" />
+        <mark key="k" line="226" column="23" />
+        <mark key="[" line="228" column="33" />
+        <mark key="]" line="228" column="33" />
+        <mark key="." line="228" column="33" />
+        <mark key="^" line="228" column="33" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2042,12 +2041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="41" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="44" column="46" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="179" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="216" column="11" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="257" column="15" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1587" column="10" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1628" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1586" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="1201" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
@@ -2142,6 +2135,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="194" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="398" column="39" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="128" column="36" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="225" column="52" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="226" column="23" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="163" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="172" column="21" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="208" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2151,8 +2150,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGssIGlqLCBlcQo=</text>
+      <register name="&quot;" type="4">
+        <text>new</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5552,58 +5551,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVuc2l0eSAqIA==</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
-        <text>update_solut</text>
+        <text>set_solution</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvIGVxID0gbl9tb214LCBuX21vbXoKICAgICAgICAgICAgICAgICAgICBzb2xuKG5iKSVibGtzKGVxLCBpaiwgaykgPSBkZW5zaXR5ICogbmV3X3NvbHV0aW9uKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGluZGV4ID0gaW5kZXggKyAxCiAgICAgICAgICAgICAgICBlbmQgZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvIGVxbiA9IDEsIG5fc3BlY2llcwogICAgICAgICAgICAgICAgICAgIGRxKGVxbixpaikgPSB1cGRhdGUoaW5kZXgpCiAgICAgICAgICAgICAgICAgICAgaW5kZXggPSBpbmRleCArIDEKICAgICAgICAgICAgICAgIGVuZCBkbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGssIGlqLCBlcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyaG8gPSAwLl9kcAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsKGNfZG91YmxlKSwgcGFyYW1ldGVyIDo6IG1heF9jaGFuZ2UgPSAxLjBfY19kb3VibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcShlcW4saWopID0gdXBkYXRlKGluZGV4KQogICAgICAgICAgICAgICAgICAgIGRyaG8gPSBkcmhvICsgdXBkYXRlKGluZGV4KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWFsKGNfZG91YmxlKSA6OiByZWxheGF0aW9uCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gcHJldmlvdXNfc29sdXRpb24oYmxvY2tfaWQrMSklYmxrcyhlcW4saWosaykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgIGVuZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWFsbG9jYXRlKGRxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZWFsKGRwKSwgZGltZW5zaW9uKDosOiksIGFsbG9jYXRhYmxlIDo6IGRxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGwgdXBkYXRlX3Fub2RlKHFub2RlLCBlbnRoYWxweV9paiwgcHJlc3N1cmVfamFjLCBudmFyLCBuY2VsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChzaXplX3QgY2VsbCA9IDA7IGNlbGwgPCBjdXJyZW50X3NvbHV0aW9uLnNpemUoKTsgKytjZWxsKQogICAgICAgICAgICAgICAgZm9yIChzaXplX3QgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgICAgICAgICAgbmV3X3VwZGF0ZVtjZWxsXVtlcW5dID0gbmV3X3NvbHV0aW9uW2NlbGxdW2Vxbl0gLSBjdXJyZW50X3NvbHV0aW9uW2NlbGxdW2Vxbl07CiAgICAgICAgICAgIHJlc2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGxhbmVfc2l6ZSwgbnZhcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjp2ZWN0b3I8c3RkOjphcnJheTxULCBOdW1FcW5zPj4gbmV3X3VwZGF0ZSh1cGRhdGUuc2l6ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_solut</last-search>
+      <last-search>set_solution</last-search>
       <last-offset />
-      <last-pattern>update_solut</last-pattern>
+      <last-pattern>set_solution</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5611,8 +5610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>big_res</entry>
-        <entry>flip_</entry>
         <entry>calc</entry>
         <entry>compute_residual</entry>
         <entry>atime</entry>
@@ -5628,9 +5625,11 @@
         <entry>err_l2</entry>
         <entry>previous_solution</entry>
         <entry>get_solution_at_block</entry>
-        <entry>relax_sol</entry>
         <entry>ivisc</entry>
         <entry>update_solut</entry>
+        <entry>relax_sol</entry>
+        <entry>dq</entry>
+        <entry>set_solution</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

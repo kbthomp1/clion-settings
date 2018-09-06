@@ -552,6 +552,7 @@
         <mark key="." line="213" column="52" />
         <mark key="^" line="158" column="79" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/test_driver.F90" timestamp="1536258800244" />
       <file name="$USER_HOME$/one-ring/bob-def/src/meshdef_deform.f90" timestamp="1505479005707">
         <mark key="'" line="307" column="41" />
         <mark key="[" line="398" column="7" />
@@ -691,10 +692,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" timestamp="1535635220065">
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="88" column="43" />
-        <mark key="]" line="88" column="41" />
+      <file name="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" timestamp="1536258158403">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="." line="88" column="41" />
         <mark key="^" line="88" column="41" />
       </file>
@@ -1893,18 +1894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="36" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="226" column="23" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="163" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="172" column="21" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="208" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="344" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="2694" column="40" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="171" column="57" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="192" column="16" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="10" column="37" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="500" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="48" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="57" column="39" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="161" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="227" column="51" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -1993,6 +1982,18 @@
       <jump line="65" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="66" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="70" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="3" column="14" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="10" column="25" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="11" column="25" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="12" column="25" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="13" column="25" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="36" column="15" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="46" column="15" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="56" column="15" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="67" column="15" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="80" column="13" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="83" column="15" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
+      <jump line="9" column="14" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2002,8 +2003,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>initial_Q</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZSwgaW50cmluc2ljIDo6IGlzb19jX2JpbmRpbmcsIG9ubHkgOiBjX2RvdWJsZQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5403,58 +5404,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>initial_Q</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>initial_sum</text>
+        <text>assert_equal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoInVwZGF0ZSBzdW1zOiAiKTsKICAgICAgICBmb3IgKGF1dG8gdiA6IHVwZGF0ZV9zdW0pCiAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">ICBwdHIgPT4gbXlfcGFzc2luZ190ZXN0CiAgY2FsbCB0ZXN0X3Byb2NlZHVyZShwdHIsIm15IHVuaXQgdGVzdCB0aGF0IHNob3VsZCBwYXNzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHVzZSwgaW50cmluc2ljIDo6IGlzb19jX2JpbmRpbmcsIG9ubHkgOiBjX2RvdWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIgJTE3LjEwZSIsIHYpOwo=</text>
+        <text encoding="base64">ICAgIHJlYWwoY19kb3VibGUpIDo6IGIgPSAxLjAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGF1dG8gdiA6IGluaXRpYWxfc3VtKQo=</text>
+        <text encoding="base64">ICAgIGNhbGwgYXNzZXJ0X2VxdWFsKGIsIDEuX2NfZG91YmxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiB1cGRhdGUgc3VtczogIik7CiAgICAgICAgZm9yIChhdXRvIHYgOiB1cGRhdGVfc3VtKQogICAgICAgICAgICBwcmludGYoIiAlMTcuMTBlIiwgdik7CiAgICAgICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">ICAgIGNhbGwgYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZV9zdW1bZXFuXSArPSAocW5ld1tlcW5dIC0gcW9sZFtlcW5dKSAqIG1lc2gtPmR1YWxfbWV0cmljcy5ub2RlX3ZvbHVtZXNbbm9kZV07Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBpc2tra2tqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBxbmV3ID0gSFM6OmNhbGNDb25zZXJ2YXRpdmVWYXJpYWJsZXMoUVtub2RlXSwgUS5nZXRTb2x1dGlvbk1hcCgpLCB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHFvbGQgPSBIUzo6Y2FsY0NvbnNlcnZhdGl2ZVZhcmlhYmxlcyhpbml0aWFsX1Fbbm9kZV0sIFEuZ2V0U29sdXRpb25NYXAoKSwgdGhlcm1vZHluYW1pY3MpOwo=</text>
+        <text encoding="base64">ICAhIE5lZWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHRoZXJtb19kZHQgPSBIUzo6VGhlcm1vU3RhdGU8TGluZWFyaXplOjpEZGF0YTxkb3VibGUsIE51bUVxbnM+Pih0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">ICBwdHIgPT4gY2hlY2tfZW5lcmd5X3JlbGF4YXRpb24KICBjYWxsIHRlc3RfcHJvY2VkdXJlKHB0ciwidmVyaWZ5IGVuZXJneSB1cGRhdGUgcmVsYXhhdGlvbiBmYWN0b3IiKQoKICBwdHIgPT4gY2hlY2tfcmVsYXhhdGlvbgogIGNhbGwgdGVzdF9wcm9jZWR1cmUocHRyLCJ2ZXJpZnkgZnVsbCB1cGRhdGUgcmVsYXhhdGlvbiBmYWN0b3IiKQoKICBwdHIgPT4gdGVzdF92YXJpYWJsZV90cmFuc2Zvcm1hdGlvbgogIGNhbGwgdGVzdF9wcm9jZWR1cmUocHRyLCJ2ZXJpZnkgdXBkYXRlIHZhcmlhYmxlIHRyYW5zZm9ybWF0aW9uIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>initial_sum</last-search>
+      <last-search>assert_equal</last-search>
       <last-offset />
-      <last-pattern>initial_sum</last-pattern>
+      <last-pattern>assert_equal</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5462,7 +5463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compute_jaco</entry>
         <entry>eqn</entry>
         <entry>inde</entry>
         <entry>new_solution</entry>
@@ -5482,6 +5482,7 @@
         <entry>print</entry>
         <entry>sum</entry>
         <entry>initial_sum</entry>
+        <entry>assert_equal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -1,0 +1,10 @@
+<templateSet group="C/C++">
+  <template name="sfor" value="for (size_t $INDEX$ = 0; $COPY_INDEX$ &lt; $UPPER_BOUND$; ++$COPY_INDEX$) {&#10;  $END$&#10;}" description="Indexed for(;;) loop with size_t" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="COPY_INDEX" expression="INDEX" defaultValue="" alwaysStopAt="false" />
+    <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_STATEMENT_C" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1258,6 +1258,12 @@
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" timestamp="1536349007816">
+        <mark key="[" line="17" column="92" />
+        <mark key="]" line="17" column="92" />
+        <mark key="." line="17" column="92" />
+        <mark key="^" line="17" column="92" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1532626023172">
         <mark key="'" line="44" column="16" />
         <mark key="[" line="49" column="20" />
@@ -1752,12 +1758,12 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1534259914510">
-        <mark key="'" line="41" column="26" />
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1536349359790">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="65" column="110" />
+        <mark key="]" line="65" column="110" />
+        <mark key="." line="65" column="110" />
+        <mark key="^" line="65" column="110" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2005,7 +2011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="28" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="194" column="31" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="211" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="212" column="28" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2105,6 +2110,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
       <jump line="109" column="22" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
       <jump line="179" column="27" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="45" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2115,7 +2121,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3BlY2llc19lbnRoYWxwaWVzLmRhdGEoKSwgJlQpOwo=</text>
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGhzX2pzb24gPSBqc29uLmF0KCJIeXBlclNvbHZlIik7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5515,60 +5521,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
-        <text>Temperature</text>
+        <text>HyperDrive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNoZWNrTmV3dG9uSXRlcmF0aW9uTWF0Y2hlc0VuZXJneSh0aGVybW8sIDI1MDAwLjApOwogICAgY2hlY2tOZXd0b25JdGVyYXRpb25NYXRjaGVzRW5lcmd5KHRoZXJtbywgNTAwLjApOwogICAgY2hlY2tOZXd0b25JdGVyYXRpb25NYXRjaGVzRW5lcmd5KHRoZXJtbywgMC4wMDAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3BlY2llc19lbnRoYWxwaWVzLmRhdGEoKSwgJlQpOwo=</text>
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGhzX2pzb24gPSBqc29uLmF0KCJIeXBlclNvbHZlIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoZXJtby4KCg==</text>
+        <text encoding="base64">ICAgIGlmIChjb21tLnJhbmsoKSA9PSAwKSBwcmludGYoIkxvYWRpbmcgdmlzdWFsaXphdGlvbiBwbHVnaW5cbiIpOwogICAgYXV0byB2aXpfanNvbiA9IGpzb24uYXQoInZpc3VhbGl6YXRpb24gcGx1Z2luIik7CiAgICBhdXRvIHZpeiA9IHJ1bnRpbWUuZ2V0Vml6UGx1Z2luKHZpel9qc29uLmF0KCJkaXJlY3RvcnkiKSwgdml6X2pzb24uYXQoIm5hbWUiKSk7Cgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3BlY2llc19lbnRoYWxwaWVzLmRhdGEoKSwgJlQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoZXJtby4KCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRvdWJsZSBUOwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>Energy
 Energy
 Energy</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIkxhcmdlIHRlbXBlcmF0dXJlIikgewoKICAgICAgICBkb3VibGUgZW5lcmd5OwogICAgICAgIHRoZXJtby5jYWxjU3RhdGUoVGhlcm1vSW5wdXQ6OlRlbXBlcmF0dXJlSU4sIFRoZXJtb091dHB1dDo6RW5lcmd5LCBzcGVjaWVzX2RlbnNpdGllcy5kYXRhKCksICZ0ZW1wZXJhdHVyZSwgJmVuZXJneSk7CgogICAgICAgIGRvdWJsZSBUOwogICAgICAgIHRoZXJtby5jYWxjU3RhdGUoVGhlcm1vSW5wdXQ6OkVuZXJneUlOLCBUaGVybW9PdXRwdXQ6OlRlbXBlcmF0dXJlLCBzcGVjaWVzX2RlbnNpdGllcy5kYXRhKCksICZlbmVyZ3ksICZUKTsKICAgICAgICBSRVFVSVJFKFQgPT0gQXBwcm94KHRlbXBlcmF0dXJlKSk7CiAgICB9CiAgICBTRUNUSU9OKCJTbWFsbCB0ZW1wZXJhdHVyZSIpIHsKICAgICAgICBkb3VibGUgdGVtcGVyYXR1cmUgPSAwLjAwMDE7CgogICAgICAgIGRvdWJsZSBlbmVyZ3k7CiAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9JbnB1dDo6VGVtcGVyYXR1cmVJTiwgVGhlcm1vT3V0cHV0OjpFbmVyZ3ksIHNwZWNpZXNfZGVuc2l0aWVzLmRhdGEoKSwgJnRlbXBlcmF0dXJlLCAmZW5lcmd5KTsKCiAgICAgICAgZG91YmxlIFQ7CiAgICAgICAgdGhlcm1vLmNhbGNTdGF0ZShUaGVybW9JbnB1dDo6RW5lcmd5SU4sIFRoZXJtb091dHB1dDo6VGVtcGVyYXR1cmUsIHNwZWNpZXNfZGVuc2l0aWVzLmRhdGEoKSwgJmVuZXJneSwgJlQpOwogICAgICAgIFJFUVVJUkUoVCA9PSBBcHByb3godGVtcGVyYXR1cmUpKTsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja05ld3Rvbkl0ZXJhdGlvbigyNTAwMC4wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Temperature</last-search>
+      <last-search>HyperDrive</last-search>
       <last-offset />
-      <last-pattern>Temperature</last-pattern>
+      <last-pattern>HyperDrive</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5576,7 +5582,6 @@ Energy</text>
     </search>
     <history>
       <history-search>
-        <entry>sum</entry>
         <entry>initial_sum</entry>
         <entry>assert_equal</entry>
         <entry>dQ</entry>
@@ -5596,6 +5601,7 @@ Energy</text>
         <entry>minimum_con</entry>
         <entry>test</entry>
         <entry>Temperature</entry>
+        <entry>HyperDrive</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>
@@ -5612,10 +5618,10 @@ Energy</text>
         <entry>233</entry>
         <entry>sw</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>

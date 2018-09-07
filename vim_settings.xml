@@ -10,8 +10,8 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" timestamp="1531234818062">
-        <mark key="'" line="287" column="10" />
+      <file name="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" timestamp="1536330043313">
+        <mark key="'" line="275" column="33" />
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="0" />
         <mark key="^" line="21" column="7" />
@@ -2005,16 +2005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="9" column="39" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="164" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="11" column="34" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="469" column="19" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="472" column="24" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="458" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="502" column="43" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="516" column="53" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="225" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="415" column="44" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="543" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="505" column="66" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2105,6 +2095,16 @@
       <jump line="17" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" />
       <jump line="120" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="58" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="270" column="41" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="306" column="40" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="20" column="68" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="145" column="12" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="181" column="12" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="268" column="40" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="272" column="14" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="273" column="16" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
+      <jump line="275" column="33" filename="$USER_HOME$/one-ring/ra/ra/ThermodynamicsOneTemperature.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5518,7 +5518,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>printS</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHN0ZDo6cmVhbChjb25zZXJ2ZWRfdmFyaWFibGVzW2Vxbl0pKTsK</text>
@@ -5564,9 +5564,9 @@
       </register>
     </registers>
     <search>
-      <last-search>printS</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>printS</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5574,8 +5574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_update</entry>
-        <entry>energy_sum</entry>
         <entry>updaet</entry>
         <entry>sum</entry>
         <entry>initial_sum</entry>
@@ -5594,6 +5592,8 @@
         <entry>print</entry>
         <entry>printSol</entry>
         <entry>printS</entry>
+        <entry>minimum_con</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -7,4 +7,10 @@
       <option name="OC_STATEMENT_C" value="true" />
     </context>
   </template>
+  <template name="ploop" value="printf(&quot;$CONTAINER$&quot;);&#10;for (auto v : $CONTAINER$)&#10;  printf(&quot; %e&quot;, v);&#10;printf(&quot;\n&quot;);" description="Iterate range (C++11)" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTAINER" expression="variableForIteration()" defaultValue="x" alwaysStopAt="true" />
+    <context>
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+  </template>
 </templateSet>

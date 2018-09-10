@@ -812,9 +812,9 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/UpdateRealizability.h" timestamp="1536593609603">
+      <file name="$USER_HOME$/LAURA-5/src/UpdateRealizability.h" timestamp="1536600553929">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="13" />
+        <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
@@ -1319,6 +1319,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/laura_clean/src/LocalTimestepping.h" timestamp="1536599103736">
+        <mark key="[" line="15" column="100" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ElementUtilitiesTests.cpp" timestamp="1512596545098">
         <mark key="'" line="30" column="56" />
         <mark key="[" line="86" column="77" />
@@ -1394,13 +1400,13 @@
         <mark key="." line="78" column="27" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1536587382911">
-        <mark key="'" line="48" column="22" />
-        <mark key="k" line="20" column="12" />
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="59" column="41" />
-        <mark key="." line="59" column="41" />
-        <mark key="^" line="59" column="41" />
+      <file name="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" timestamp="1536599092048">
+        <mark key="'" line="52" column="22" />
+        <mark key="k" line="22" column="12" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportNonEquilbOneTemp.h" timestamp="1510152720379">
         <mark key="'" line="43" column="47" />
@@ -1992,12 +1998,12 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536587401616">
-        <mark key="'" line="215" column="58" />
-        <mark key="[" line="393" column="47" />
-        <mark key="]" line="393" column="47" />
-        <mark key="." line="393" column="47" />
-        <mark key="^" line="393" column="47" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536600547129">
+        <mark key="'" line="303" column="36" />
+        <mark key="[" line="218" column="37" />
+        <mark key="]" line="218" column="47" />
+        <mark key="." line="218" column="47" />
+        <mark key="^" line="218" column="47" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2056,19 +2062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2005" column="79" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="2066" column="65" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="2077" column="49" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="2184" column="63" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
-      <jump line="502" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="518" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="3" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="4" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="47" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="64" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="43" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="11" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="54" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="15" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DenseMatrix.h" />
       <jump line="53" column="55" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
@@ -2156,6 +2149,19 @@
       <jump line="274" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
       <jump line="215" column="58" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="44" column="12" filename="$USER_HOME$/laura_clean/src/Discretization.h" />
+      <jump line="338" column="20" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="56" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="551" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="555" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="323" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="330" column="25" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="328" column="21" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="347" column="18" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="348" column="67" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="350" column="46" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="311" column="59" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="351" column="44" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="302" column="36" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5566,58 +5572,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>volume_over</text>
+        <text>relax_sol</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZkcSA6IHVwZGF0ZSkgewogICAgICAgICAgICAgICAgcHJpbnRmKCJkcSIpOwogICAgICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBkcSkKICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRxZHAgPSBkY29uc2VydmVkX2RwcmltaXRpdmUoc29sbihuYiklYmxrcygxOm5lcW4saWosayksICAgICAgICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc29sbihuYiklYmxrcyhuX2N2X2ooMSk6bl9jdl9qKG5fZW5lcmd5KSxpaixrKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZkcSA6IHVwZGF0ZSkgewogICAgICAgICAgICAgICAgcHJpbnRmKCJkcSIpOwogICAgICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBkcSkKICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlKCosKikK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJlcW4gbDIgbm9ybXM6ICIpOwogICAgICAgICAgICBmb3IgKGF1dG8gbDIgOiBsMl9ub3JtcykKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgbDIpOwogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRmKCIkSEVBREVSJCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRxZHAgPSBkY29uc2VydmVkX2RwcmltaXRpdmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJsMl9ub3JtIik7CiAgICAgICAgICAgIGZvciAoY29uc3QgYXV0byAmaXRlbSA6IGZsYXR0ZW5lZF9zb2x1dGlvbikKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgaXRlbSk7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGphY29iaWFuKGluZGV4KSA9IHNvbG4obmIpJWFsaHMoYmxvY2tfcm93LCBibG9ja19jb2wsICAgICAgJgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJsMiBub3JtczogIik7CiAgICAgICAgICAgIGZvciAoY29uc3QgYXV0byAmaXRlbSA6IGwyX25vcm1zKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIiKTsKICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICYgOiBsMl9ub3JtcykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvIGwyIDogbDJfbm9ybXMpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJlcW4gbDIgbm9ybXM6ICIpOwogICAgICAgICAgICBmb3IgKGF1dG8gbDIgOiBsMl9ub3JtcykKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgbDIpOwogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>volume_over</last-search>
+      <last-search>relax_sol</last-search>
       <last-offset />
-      <last-pattern>volume_over</last-pattern>
+      <last-pattern>relax_sol</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5625,9 +5631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>std</entry>
-        <entry>_ddt</entry>
-        <entry>precheck</entry>
         <entry>Pre</entry>
         <entry>LTS</entry>
         <entry>formB</entry>
@@ -5645,6 +5648,9 @@
         <entry>test</entry>
         <entry>atime</entry>
         <entry>volume_over</entry>
+        <entry>plane_index</entry>
+        <entry>neq,</entry>
+        <entry>relax_sol</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

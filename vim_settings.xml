@@ -1318,6 +1318,14 @@
         <mark key="." line="13" column="106" />
         <mark key="^" line="13" column="106" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1536586625778">
+        <mark key="'" line="1498" column="6" />
+        <mark key="[" line="15" column="37" />
+        <mark key="k" line="1780" column="4" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
         <mark key="[" line="47" column="79" />
@@ -1991,7 +1999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="26" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="203" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="219" column="52" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="220" column="50" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2091,6 +2098,7 @@
       <jump line="256" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
       <jump line="150" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryCondition.h" />
+      <jump line="1498" column="6" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2100,8 +2108,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bm9uZGltZW5zaW9uYWwg</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAg</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5509,44 +5517,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb3VibGUgcmVmZXJlbmNlX2RlbnNpdHkgPSAxLjA7CiAgICAgICAgZG91YmxlIHJlZmVyZW5jZV90ZW1wZXJhdHVyZSA9IDMwMC4wOwogICAgICAgIGRvdWJsZSByZWZlcmVuY2Vfc291bmRfc3BlZWQgPSBzdGQ6OnNxcnQoMS40ICogZ2V0U3BlY2lmaWNHYXNDb25zdGFudEFpcigpICogcmVmZXJlbmNlX3RlbXBlcmF0dXJlKTsKICAgICAgICBkb3VibGUgcmVmZXJlbmNlX2xlbmd0aCA9IDEuMDsKICAgICAgICBhdXRvIG5vbmRpbSA9IEhTOjpOb25kaW1lbnNpb25hbGl6YXRpb24ocmVmZXJlbmNlX2RlbnNpdHksIHJlZmVyZW5jZV9zb3VuZF9zcGVlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVmZXJlbmNlX3RlbXBlcmF0dXJlLCByZWZlcmVuY2VfbGVuZ3RoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJUID0gIiA8PCB0ZW1wZXJhdHVyZSA8PCAiIGRpZmY6ICIgPDwgdGVzdCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -5599,9 +5607,9 @@
         <entry>wqa</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

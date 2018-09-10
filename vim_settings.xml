@@ -1000,6 +1000,9 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" timestamp="1536605364691">
+        <mark key="'" line="67" column="53" />
+      </file>
       <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
         <mark key="'" line="29" column="52" />
         <mark key="[" line="33" column="13" />
@@ -2080,8 +2083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.h" />
-      <jump line="172" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="302" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="8" column="6" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/GlobalTimeStepping.h" />
       <jump line="14" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/GlobalTimeStepping.h" />
@@ -2180,6 +2181,8 @@
       <jump line="250" column="74" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="252" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="272" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="25" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
+      <jump line="67" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5593,7 +5596,7 @@
         <text>buildPointImplicitSparsity</text>
       </register>
       <register name="/" type="4">
-        <text>iblk</text>
+        <text>Residual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
@@ -5635,13 +5638,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZkcSA6IHVwZGF0ZSkgewogICAgICAgICAgICAgICAgcHJpbnRmKCJkcSIpOwogICAgICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBkcSkKICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>iblk</last-search>
+      <last-search>Residual</last-search>
       <last-offset />
-      <last-pattern>iblk</last-pattern>
+      <last-pattern>Residual</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5649,8 +5652,6 @@
     </search>
     <history>
       <history-search>
-        <entry>minimum_con</entry>
-        <entry>Temperature</entry>
         <entry>HyperDrive</entry>
         <entry>PerfectGas</entry>
         <entry>diff</entry>
@@ -5669,6 +5670,8 @@
         <entry>print</entry>
         <entry>ij</entry>
         <entry>iblk</entry>
+        <entry>compute_re</entry>
+        <entry>Residual</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>
@@ -5689,8 +5692,8 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

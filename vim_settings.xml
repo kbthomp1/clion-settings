@@ -2015,13 +2015,13 @@
         <mark key="^" line="202" column="24" />
         <mark key="." line="202" column="24" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536603094398">
-        <mark key="'" line="218" column="0" />
-        <mark key="k" line="464" column="17" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="^" line="472" column="78" />
-        <mark key="." line="218" column="0" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536604339923">
+        <mark key="'" line="272" column="0" />
+        <mark key="k" line="460" column="17" />
+        <mark key="[" line="252" column="61" />
+        <mark key="]" line="252" column="61" />
+        <mark key="^" line="252" column="66" />
+        <mark key="." line="252" column="61" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/Mesh.cpp" timestamp="1524070951071">
         <mark key="'" line="142" column="37" />
@@ -2080,15 +2080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="3" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.h" />
-      <jump line="65" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="72" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="10" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="34" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="51" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="49" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
-      <jump line="18" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.hpp" />
       <jump line="1" column="2" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/ExplicitSolver.h" />
       <jump line="172" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
       <jump line="302" column="7" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.hpp" />
@@ -2168,7 +2159,6 @@
       <jump line="463" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="526" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="559" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="272" column="65" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="390" column="60" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="396" column="45" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="369" column="23" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2180,6 +2170,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="218" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="28" column="0" filename="$USER_HOME$/LAURA-5/src/Discretization.h" />
+      <jump line="514" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="414" column="56" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="543" column="36" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="112" column="35" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="199" column="24" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="197" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="453" column="25" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="250" column="74" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="252" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="272" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2189,8 +2189,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, soln</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5590,58 +5590,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>, soln</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>iblk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnRlZ2VyIDo6IGssIGlqCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZkcSA6IHVwZGF0ZSkgewogICAgICAgICAgICAgICAgcHJpbnRmKCJkcSIpOwogICAgICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBkcSkKICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2Ugc2hhcmVkX2xhdXJhX3BhcmFtZXRlcnMsIG9ubHkgOiBpYmxrLCBqYmxrLCBrYmxrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBsMl9ub3JtcyA9IHJocy0+ZXF1YXRpb25MMk5vcm0oTWVzaFV0aWxpdGllczo6YnVpbGREb093bigpKTsKCiAgICAgICAgICAgIHByaW50ZigibDJfbm9ybXMiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBsMl9ub3JtcykKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2Ugc2hhcmVkX2xhdXJhX3ZhcmlhYmxlcywgIG9ubHkgOiBzb2xuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGF1dG8gbDJfbm9ybXMgPSByaHMtPmVxdWF0aW9uTDJOb3JtKE1lc2hVdGlsaXRpZXM6OmJ1aWxkRG9Pd24oKSk7CgogICAgICAgICAgICBwcmludGYoImwyX25vcm1zIik7CiAgICAgICAgICAgIGZvciAoYXV0byB2IDogbDJfbm9ybXMpCiAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICBwcmludGYoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFsKGRwKSA6OiBkcmhvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlKCosKikgImRxOiAiLCBkcSgxOm5lcW4sIGlqKQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2UgZ2VuZXJpY19nYXNfbWFwLCBvbmx5IDogbl9zcGVjaWVzLCBuX21vbXgsIG5fbW9teSwgbl9tb216LCBuX2V0b3QsICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbl9lbmVyZ3kK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG8gayA9IDEsIGtibGsobmIpCiAgICAgICAgICAgICAgICBkbyBpaiA9IDEsIGlibGsobmIpICogamJsayhuYikKICAgICAgICAgICAgICAgICAgICB3cml0ZSgqLCcoYSwyMDBnMjQuMTYpJykgIlE6ICIsIHNvbG4obmIpJWJsa3MoMTpuZXFuLCBpaiwgaykKICAgICAgICAgICAgICAgIGVuZCBkbwogICAgICAgICAgICBlbmQgZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG8gayA9IDEsIGtibGsobmIpCiAgICAgICAgICAgICAgICBkbyBpaiA9IDEsIGlibGsobmIpICogamJsayhuYikKICAgICAgICAgICAgICAgICAgICB3cml0ZSgqLCcoYSwyMDBnMjQuMTYpJykgIlE6ICIsIHNvbG4obmIpJWJsa3MoMTpuZXFuLCBpaiwgaykKICAgICAgICAgICAgICAgIGVuZCBkbwogICAgICAgICAgICBlbmQgZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJ2b2xfb3Zlcl9kdDoiKTsKICAgICAgICAgICAgZm9yIChhdXRvIHYgOiB2b2xfb3Zlcl9kdCkKICAgICAgICAgICAgICAgIHByaW50ZigiICVlIiwgdik7CiAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cml0ZSgqLCopICJROiAiLCBzb2xuKG5iKSVibGtzKDE6bmVxbiwgaWosIGspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZkcSA6IHVwZGF0ZSkgewogICAgICAgICAgICAgICAgcHJpbnRmKCJkcSIpOwogICAgICAgICAgICAgICAgZm9yIChhdXRvIHYgOiBkcSkKICAgICAgICAgICAgICAgICAgICBwcmludGYoIiAlZSIsIHYpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>iblk</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>iblk</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5649,8 +5649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printSol</entry>
-        <entry>printS</entry>
         <entry>minimum_con</entry>
         <entry>Temperature</entry>
         <entry>HyperDrive</entry>
@@ -5669,6 +5667,8 @@
         <entry>dq</entry>
         <entry>write</entry>
         <entry>print</entry>
+        <entry>ij</entry>
+        <entry>iblk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

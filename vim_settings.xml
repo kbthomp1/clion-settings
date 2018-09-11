@@ -274,8 +274,8 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536694484753">
-        <mark key="'" line="303" column="18" />
+      <file name="$USER_HOME$/LAURA-5/src/laura_interface.f90" timestamp="1536694810138">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/LAURA-5/tests/freestream/check_residual.py" timestamp="1535145737305">
         <mark key="[" line="22" column="55" />
@@ -285,10 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
-      <jump line="1" column="27" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
-      <jump line="76" column="35" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
-      <jump line="33" column="54" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
       <jump line="108" column="4" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
       <jump line="52" column="46" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
       <jump line="46" column="0" filename="$USER_HOME$/one-ring/ra/test/ThermodynamicsOneTemperatureTests.cpp" />
@@ -345,7 +341,6 @@
       <jump line="393" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="422" column="42" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="515" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="218" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="28" column="0" filename="$USER_HOME$/LAURA-5/src/Discretization.h" />
       <jump line="514" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -385,6 +380,11 @@
       <jump line="278" column="68" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="284" column="19" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="303" column="18" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="217" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="53" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="192" column="20" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="247" column="13" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3798,7 +3798,7 @@
         <text>buildPointImplicitSparsity</text>
       </register>
       <register name="/" type="4">
-        <text>nb</text>
+        <text>update_sol</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByaHMgPSBzb2xuKG5iKSVibGtzKDE6bmVxbiwxOmlibGsobmIpKmpibGsobmIpLGx2bCkK</text>
@@ -3844,9 +3844,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nb</last-search>
+      <last-search>update_sol</last-search>
       <last-offset />
-      <last-pattern>nb</last-pattern>
+      <last-pattern>update_sol</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -3854,8 +3854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plane_index</entry>
-        <entry>neq,</entry>
         <entry>relax_sol</entry>
         <entry>call update_qnode</entry>
         <entry>return</entry>
@@ -3874,6 +3872,8 @@
         <entry>compute_residual</entry>
         <entry>update_solution</entry>
         <entry>nb</entry>
+        <entry>previous</entry>
+        <entry>update_sol</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

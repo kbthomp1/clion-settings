@@ -1065,7 +1065,7 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1536605096159">
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1536687489751">
         <mark key="'" line="130" column="4" />
         <mark key="[" line="102" column="35" />
         <mark key="]" line="102" column="53" />
@@ -2200,8 +2200,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByaHMgPSBzb2xuKG5iKSVibGtzKDE6bmVxbiwxOmlibGsobmIpKmpibGsobmIpLGx2bCkK</text>
+      <register name="&quot;" type="4">
+        <text>buildPointImplicitSparsity</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5601,7 +5601,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>soln(nb)%blks(1:neqn,1:iblk(nb)*jblk(nb),lvl)</text>
+        <text>buildPointImplicitSparsity</text>
       </register>
       <register name="/" type="4">
         <text>compute_residual</text>

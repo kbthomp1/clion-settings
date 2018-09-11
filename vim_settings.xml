@@ -1385,13 +1385,13 @@
         <mark key="." line="13" column="106" />
         <mark key="^" line="13" column="106" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1536699677832">
-        <mark key="'" line="2803" column="17" />
-        <mark key="k" line="1781" column="4" />
-        <mark key="[" line="2777" column="0" />
-        <mark key="]" line="2801" column="56" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1536704541527">
+        <mark key="'" line="1672" column="17" />
+        <mark key="k" line="1782" column="4" />
+        <mark key="[" line="1496" column="36" />
+        <mark key="]" line="1496" column="34" />
+        <mark key="." line="1496" column="34" />
+        <mark key="^" line="1496" column="34" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
@@ -2090,11 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="515" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="218" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="28" column="0" filename="$USER_HOME$/LAURA-5/src/Discretization.h" />
-      <jump line="514" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="414" column="56" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="543" column="36" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="112" column="35" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2190,6 +2185,11 @@
       <jump line="379" column="20" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
       <jump line="5" column="0" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
       <jump line="12" column="12" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="2678" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="9" column="12" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="33" column="13" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="1671" column="17" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2200,7 +2200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>reset_solution_at_block</text>
+        <text>/soln(nb)%blks(n_density,cell,lvl)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5600,58 +5600,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reset_solution_at_block</text>
+        <text>/soln(nb)%blks(n_density,cell,lvl)</text>
       </register>
       <register name="/" type="4">
-        <text>inviscid_jac</text>
+        <text>dirswp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfc29sdXRpb25fYXRfYmxvY2soMCwgbmV3X3NvbHV0aW9uLmRhdGEoKSwgbmV3X3NvbHV0aW9uLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVycmkgICA9IGFicyhyaHMoaSxjZWxsKSkvc29sbihuYiklYmxrcyhuX2RlbnNpdHksY2VsbCxsdmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3cgcHV0IHRoaW5ncyBiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZQogICAgICAgIHJlc2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IG9yaWdpbmFsX3NvbHV0aW9uKHRvdGFsX2NlbGxzICogbnVtX2VxdWF0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG8gY2VsbCA9IDEsbmZhY2UxCiAgICAgICAgZG8gaSA9IDEsbmVxbgogICAgICAgICAgZXJyaSAgID0gYWJzKHJocyhpLGNlbGwpKS9zb2xuKG5iKSVibGtzKG5fZGVuc2l0eSxjZWxsLGx2bCkKICAgICAgICAgIGlmKHR1cmJfb24gLmFuZC4gaSA9PSBuX2Rpc19udXRsIC5hbmQuIG5fdHVyYl9nID09IDIpICAgICAgICAgICAgICAgICYKICAgICAgICAgICAgIGVycmkgPSBlcnJpL3NvbG4obmIpJWJsa3Mobl9kaXNfbnV0bCxjZWxsLGx2bCkKICAgICAgICAgIGVycihpKSA9IGVycihpKSArIGVycmkKICAgICAgICAgIGVycl9sMiA9IGVycl9sMiArIGVycmkqKjIKICAgICAgICAgIGlmICggZXJyX2xpbmYgPCBlcnJpICkgdGhlbiAhIGNhcHR1cmUgTF9pbmYKICAgICAgICAgICAgZXJyX2xpbmYgICAgICA9IGVycmkKICAgICAgICAgICAgZXJyX2xpbmZfZXFuICA9IGkKICAgICAgICAgICAgZXJyX2xpbmZfY2VsbCA9IGNlbGwKICAgICAgICAgICAgZXJyX2xpbmZfbHZsICA9IGx2bAogICAgICAgICAgZW5kIGlmCiAgICAgICAgZW5kIGRvCiAgICAgIGVuZCBkbwoK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfc29sdXRpb25fYXRfYmxvY2soMCwgb3JpZ2luYWxfc29sdXRpb24uZGF0YSgpLCBvcmlnaW5hbF9zb2x1dGlvbi5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3cgcHV0IHRoaW5ncyBiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZQogICAgICAgIHJlc2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IG9yaWdpbmFsX3NvbHV0aW9uKHRvdGFsX2NlbGxzICogbnVtX2VxdWF0aW9ucyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IHNvbHV0aW9uKHRvdGFsX2NlbGxzICogbnVtX2VxdWF0aW9ucyk7CiAgICAgICAgZ2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDAsIHNvbHV0aW9uLmRhdGEoKSwgc29sdXRpb24uc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBnZXRfc29sdXRpb25fYXRfYmxvY2soMCwgb3JpZ2luYWxfc29sdXRpb24uZGF0YSgpLCBvcmlnaW5hbF9zb2x1dGlvbi5zaXplKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOb3cgcHV0IHRoaW5ncyBiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZQogICAgICAgIHJlc2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IG9yaWdpbmFsX3NvbHV0aW9uKHRvdGFsX2NlbGxzICogbnVtX2VxdWF0aW9ucyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRlX3ByZXZpb3VzX3NvbHV0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjxkb3VibGU+IHNvbHV0aW9uKHRvdGFsX2NlbGxzICogbnVtX2VxdWF0aW9ucyk7CiAgICAgICAgZ2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDAsIHNvbHV0aW9uLmRhdGEoKSwgc29sdXRpb24uc2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgYWxsb2NhdGVfcHJldmlvdXNfc29sdXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBOb3cgcHV0IHRoaW5ncyBiYWNrIHRvIHRoZSBvcmlnaW5hbCBzdGF0ZQogICAgICAgIHJlc2V0X3NvbHV0aW9uX2F0X2Jsb2NrKDApOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgcmVzZXRfc29sdXRpb25fYXRfYmxvY2soaW50IGJsb2NrX2lkKTsK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRlX3ByZXZpb3VzX3NvbHV0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inviscid_jac</last-search>
+      <last-search>dirswp</last-search>
       <last-offset />
-      <last-pattern>inviscid_jac</last-pattern>
+      <last-pattern>dirswp</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5659,7 +5659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>previous</entry>
         <entry>update_sol</entry>
         <entry>set_solution</entry>
         <entry>update_qnode</entry>
@@ -5679,6 +5678,7 @@
         <entry>inviscid_jaocbian</entry>
         <entry>inviscid_jaoc</entry>
         <entry>inviscid_jac</entry>
+        <entry>dirswp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -1970,8 +1970,8 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" timestamp="1535501247731">
-        <mark key="'" line="164" column="52" />
+      <file name="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" timestamp="1536702794498">
+        <mark key="'" line="12" column="12" />
         <mark key="[" line="404" column="86" />
         <mark key="]" line="404" column="87" />
         <mark key="^" line="404" column="95" />
@@ -2090,9 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="23" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="520" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="291" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="393" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="515" column="12" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="218" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2190,6 +2187,9 @@
       <jump line="8" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="28" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="77" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="379" column="20" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="5" column="0" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
+      <jump line="12" column="12" filename="$USER_HOME$/LAURA-5/src/structured_inviscid_flux.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5603,7 +5603,7 @@
         <text>reset_solution_at_block</text>
       </register>
       <register name="/" type="4">
-        <text>previous_solution</text>
+        <text>inviscid_jac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVfc29sdXRpb25fYXRfYmxvY2soMCwgbmV3X3NvbHV0aW9uLmRhdGEoKSwgbmV3X3NvbHV0aW9uLnNpemUoKSk7Cg==</text>
@@ -5649,9 +5649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>previous_solution</last-search>
+      <last-search>inviscid_jac</last-search>
       <last-offset />
-      <last-pattern>previous_solution</last-pattern>
+      <last-pattern>inviscid_jac</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5659,9 +5659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compute_residual</entry>
-        <entry>update_solution</entry>
-        <entry>nb</entry>
         <entry>previous</entry>
         <entry>update_sol</entry>
         <entry>set_solution</entry>
@@ -5679,6 +5676,9 @@
         <entry>block_id</entry>
         <entry>set_prev</entry>
         <entry>previous_solution</entry>
+        <entry>inviscid_jaocbian</entry>
+        <entry>inviscid_jaoc</entry>
+        <entry>inviscid_jac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

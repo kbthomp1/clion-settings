@@ -13,4 +13,10 @@
       <option name="OC_STATEMENT_CPP" value="true" />
     </context>
   </template>
+  <template name="pd" value="printf(&quot;$VAR$: %e\n&quot;, $VAR$);" description="print double via printf" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>

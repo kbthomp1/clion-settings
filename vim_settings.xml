@@ -2037,6 +2037,12 @@
         <mark key="." line="14" column="94" />
         <mark key="^" line="14" column="94" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/.gitlab-ci.yml" timestamp="1537382086445">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" timestamp="1536584980831">
         <mark key="'" line="215" column="41" />
         <mark key="[" line="110" column="101" />
@@ -2332,8 +2338,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gYmlyZAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5742,13 +5748,13 @@
         <text encoding="base64">ICAgIGNsYXNzIFNvbHZlckhpc3RvcnlXcml0ZXIgewogICAgcHVibGljOgogICAgICAgIHZpcnR1YWwgdm9pZCB3cml0ZVJlc2lkdWFsKGludCBpdGVyYXRpb24sIGNvbnN0IHN0ZDo6dmVjdG9yPGRvdWJsZT4mIHJlc2lkdWFsKSA9IDA7CiAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoc2kgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgYWxsX2VxdWF0aW9uc1tpXSA9IGk7Cg==</text>
+        <text encoding="base64">ICAgIC0gYmlyZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoc2kgaSA9IDA7IGkgPCBOdW1FcW5zOyArK2kpCiAgICAgICAgYWxsX2VxdWF0aW9uc1tpXSA9IGk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
@@ -5757,28 +5763,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEhTIHsKICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBnZXRDb252ZXJnZW5jZUhpc3RvcnlOYW1lcyhpbnQgTnVtRXFucykgewogICAgICAgIHN3aXRjaChOdW1FcW5zKXsKICAgICAgICAgICAgY2FzZSAxOiByZXR1cm4geyJlcW5fMSJ9OwogICAgICAgICAgICBjYXNlIDI6IHJldHVybiB7ImVxbl8xIiwgImVxbl8yIn07CiAgICAgICAgICAgIGNhc2UgNTogcmV0dXJuIHsiZGVuc2l0eSIsICJ1IiwgInYiLCAidyIsICJwcmVzc3VyZSIsICJvdmVyYWxsIn07CiAgICAgICAgICAgIGNhc2UgNjogcmV0dXJuIHsiZGVuc2l0eSIsICJ1IiwgInYiLCAidyIsICJwcmVzc3VyZSIsICJ0dXJiIiwgIm92ZXJhbGwifTsKICAgICAgICAgICAgZGVmYXVsdDogdGhyb3cgc3RkOjpsb2dpY19lcnJvcigiSFNOb25MaW5lYXJTb2x2ZXIgY2FuJ3QgZGVjaWRlIHdoYXQgZXF1YXRpb25zIGFyZSBiZWluZyBzb2x2ZWQuIiArIHN0ZDo6c3RyaW5nKF9fRklMRV9fKSArIHN0ZDo6dG9fc3RyaW5nKF9fTElORV9fKSk7CiAgICAgICAgfQogICAgfQp9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEhTIHsKICAgIHN0ZDo6dmVjdG9yPHN0ZDo6c3RyaW5nPiBnZXRDb252ZXJnZW5jZUhpc3RvcnlOYW1lcyhpbnQgTnVtRXFucykgewogICAgICAgIHN3aXRjaChOdW1FcW5zKXsKICAgICAgICAgICAgY2FzZSAxOiByZXR1cm4geyJlcW5fMSJ9OwogICAgICAgICAgICBjYXNlIDI6IHJldHVybiB7ImVxbl8xIiwgImVxbl8yIn07CiAgICAgICAgICAgIGNhc2UgNTogcmV0dXJuIHsiZGVuc2l0eSIsICJ1IiwgInYiLCAidyIsICJwcmVzc3VyZSIsICJvdmVyYWxsIn07CiAgICAgICAgICAgIGNhc2UgNjogcmV0dXJuIHsiZGVuc2l0eSIsICJ1IiwgInYiLCAidyIsICJwcmVzc3VyZSIsICJ0dXJiIiwgIm92ZXJhbGwifTsKICAgICAgICAgICAgZGVmYXVsdDogdGhyb3cgc3RkOjpsb2dpY19lcnJvcigiSFNOb25MaW5lYXJTb2x2ZXIgY2FuJ3QgZGVjaWRlIHdoYXQgZXF1YXRpb25zIGFyZSBiZWluZyBzb2x2ZWQuIiArIHN0ZDo6c3RyaW5nKF9fRklMRV9fKSArIHN0ZDo6dG9fc3RyaW5nKF9fTElORV9fKSk7CiAgICAgICAgfQogICAgfQp9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -5831,9 +5837,9 @@
         <entry>wqa</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

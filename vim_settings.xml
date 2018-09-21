@@ -192,13 +192,13 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="40" column="100" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1537542089545">
-        <mark key="'" line="144" column="44" />
-        <mark key="[" line="151" column="66" />
-        <mark key="k" line="138" column="119" />
-        <mark key="]" line="152" column="75" />
-        <mark key="." line="152" column="75" />
-        <mark key="^" line="152" column="75" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1537548436633">
+        <mark key="'" line="154" column="33" />
+        <mark key="[" line="154" column="28" />
+        <mark key="k" line="153" column="58" />
+        <mark key="]" line="154" column="29" />
+        <mark key="." line="154" column="29" />
+        <mark key="^" line="154" column="29" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1523041519225">
         <mark key="'" line="233" column="12" />
@@ -1972,11 +1972,11 @@
         <mark key="." line="65" column="110" />
         <mark key="^" line="65" column="110" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" timestamp="1537540954947">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="122" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="118" column="87" />
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" timestamp="1537547434112">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="114" column="7" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2234,7 +2234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
       <jump line="20" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
       <jump line="91" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/InteriorPenalty.h" />
       <jump line="120" column="4" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
@@ -2334,6 +2333,7 @@
       <jump line="138" column="119" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="144" column="44" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
+      <jump line="154" column="33" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2344,7 +2344,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lu</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5744,58 +5744,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lu</text>
       </register>
       <register name="/" type="4">
-        <text>Pre</text>
+        <text>lu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElORk8oIlsiICsgc3RkOjp0b19zdHJpbmcobXAuUmFuaygpKSArICJdICIgKyAiUEVUU2MgaW5jb3JyZWN0bHkgY2hhbmdlZCBsb2NhbCBpZDogIiArIHN0ZDo6dG9fc3RyaW5nKGkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjR2hvc3RVcGRhdGVCZWdpbihwZXRzY192ZWMsIElOU0VSVF9WQUxVRVMsIFNDQVRURVJfRk9SV0FSRCk7CiAgICAgICAgICAgIFZlY0dob3N0VXBkYXRlRW5kKHBldHNjX3ZlYywgSU5TRVJUX1ZBTFVFUywgU0NBVFRFUl9GT1JXQVJEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjU2V0QmxvY2tTaXplKHYsIFBldHNjSW50KE51bUVxbnMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByaHMuYXNzZW1ibGUoKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjU2V0QmxvY2tTaXplKHYsIFBldHNjSW50KE51bUVxbnMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA7ICsraSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZnbG9iYWxfaWQgOiBsb2NhbF90b19nbG9iYWwpIHsKICAgICAgICAgICAgICAgIG1hdHJpeF90b19wZXRzYy5hdChnbG9iYWxfaWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA7ICsraSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgZW50cnkgPSAwOyBlbnRyeSA8IDsgKytlbnRyeSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvICZnbG9iYWxfaWQgOiBsb2NhbF90b19nbG9iYWwpIHsKICAgICAgICAgICAgICAgIG1hdHJpeF90b19wZXRzYy5hdChnbG9iYWxfaWQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Pre</last-search>
+      <last-search>lu</last-search>
       <last-offset />
-      <last-pattern>Pre</last-pattern>
+      <last-pattern>lu</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5803,7 +5803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>global_to_local</entry>
         <entry>Const</entry>
         <entry>all_eqn</entry>
         <entry>Enigma::</entry>
@@ -5823,6 +5822,7 @@
         <entry>preLine</entry>
         <entry>Line</entry>
         <entry>Pre</entry>
+        <entry>lu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

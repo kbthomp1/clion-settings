@@ -192,13 +192,13 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="40" column="100" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1537549084065">
-        <mark key="'" line="154" column="33" />
-        <mark key="[" line="154" column="28" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1537551599593">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="72" column="52" />
         <mark key="k" line="153" column="58" />
-        <mark key="]" line="154" column="29" />
-        <mark key="." line="154" column="29" />
-        <mark key="^" line="154" column="29" />
+        <mark key="]" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+        <mark key="^" line="73" column="11" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1523041519225">
         <mark key="'" line="233" column="12" />
@@ -1972,11 +1972,10 @@
         <mark key="." line="65" column="110" />
         <mark key="^" line="65" column="110" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" timestamp="1537549444387">
-        <mark key="[" line="118" column="20" />
-        <mark key="]" line="118" column="21" />
-        <mark key="." line="118" column="21" />
-        <mark key="^" line="118" column="21" />
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" timestamp="1537551767773">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="36" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2234,9 +2233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" />
-      <jump line="91" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/InteriorPenalty.h" />
-      <jump line="120" column="4" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="7" column="22" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="10" column="32" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="29" column="0" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
@@ -2334,6 +2330,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="144" column="44" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="154" column="33" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
+      <jump line="153" column="5" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
+      <jump line="19" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
+      <jump line="138" column="9" filename="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2344,7 +2343,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5744,7 +5743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lu</text>
+        <text>)comm, PetscInt(NumEqns), PetscInt(NumEqns * do_own.size()), PETSC_DETERMINE,</text>
       </register>
       <register name="/" type="4">
         <text>lu</text>
@@ -5753,40 +5752,40 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
+        <text encoding="base64">ICAgIFZlY1ZpZXcocmhzLmdldFZlYygpLCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBWZWNWaWV3KHJocy5nZXRWZWMoKSwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByaHMuYXNzZW1ibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjU2V0QmxvY2tTaXplKHYsIFBldHNjSW50KE51bUVxbnMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

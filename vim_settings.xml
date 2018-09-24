@@ -1974,12 +1974,12 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1537803411486">
-        <mark key="'" line="84" column="88" />
-        <mark key="[" line="80" column="50" />
-        <mark key="]" line="81" column="11" />
-        <mark key="." line="81" column="11" />
-        <mark key="^" line="81" column="11" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1537809249917">
+        <mark key="'" line="83" column="88" />
+        <mark key="[" line="76" column="9" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2346,8 +2346,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5747,7 +5747,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>&quot;${CMAKE_INSTALL_PREFIX}/t-infinity/lib&quot;</text>
       </register>
       <register name="/" type="4">
         <text>t_infinity</text>
@@ -5755,41 +5755,41 @@
       <register name="0" type="2">
         <text encoding="base64">IyAgICBzZXQoSFlQRVJEUklWRV9JTlNUQUxMX1JQQVRIUyAiJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vaHlwZXJzb2x2ZS9saWI7JHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vdC1pbmZpbml0eS9saWIiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0ZJWE1FOiBUaGlzIHNlZW1zIGxpa2UgYSBoYWNrIChrYnQpCnNldF90YXJnZXRfcHJvcGVydGllcyhIeXBlckRyaXZlIFBST1BFUlRJRVMgSU5TVEFMTF9SUEFUSCAiJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vdF9pbmZpbml0eS9saWIiKQoK</text>
+        <text encoding="base64">I2Vsc2UoKQojICAgIHNldChIWVBFUkRSSVZFX0lOU1RBTExfUlBBVEhTICIke0NNQUtFX0lOU1RBTExfUFJFRklYfS9oeXBlcnNvbHZlL2xpYjske0NNQUtFX0lOU1RBTExfUFJFRklYfS90LWluZmluaXR5L2xpYiIpCiMgICAgc2V0KENNQUtFX01BQ09TWF9SUEFUSCBUUlVFKQojICAgIFNFVChDTUFLRV9TS0lQX0JVSUxEX1JQQVRIICBGQUxTRSkKIyAgICBTRVQoQ01BS0VfQlVJTERfV0lUSF9JTlNUQUxMX1JQQVRIIEZBTFNFKQojICAgIFNFVChDTUFLRV9JTlNUQUxMX1JQQVRIICR7SFlQRVJEUklWRV9JTlNUQUxMX1JQQVRIU30pCiMgICAgU0VUKENNQUtFX0lOU1RBTExfUlBBVEhfVVNFX0xJTktfUEFUSCBUUlVFKQojICAgIExJU1QoRklORCBDTUFLRV9QTEFURk9STV9JTVBMSUNJVF9MSU5LX0RJUkVDVE9SSUVTICIke0hZUEVSRFJJVkVfSU5TVEFMTF9SUEFUSFN9IiBpc1N5c3RlbURpcikKIyAgICBJRigiJHtpc1N5c3RlbURpcn0iIFNUUkVRVUFMICItMSIpCiMgICAgICAgIFNFVChDTUFLRV9JTlNUQUxMX1JQQVRIICR7SFlQRVJEUklWRV9JTlNUQUxMX1JQQVRIU30pCiMgICAgRU5ESUYoIiR7aXNTeXN0ZW1EaXJ9IiBTVFJFUVVBTCAiLTEiKQojZW5kaWYoKQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNGSVhNRTogVGhpcyBzZWVtcyBsaWtlIGEgaGFjayAoa2J0KQogICAgc2V0X3RhcmdldF9wcm9wZXJ0aWVzKEh5cGVyRHJpdmUgUFJPUEVSVElFUyBJTlNUQUxMX1JQQVRIICIke0NNQUtFX0lOU1RBTExfUFJFRklYfS90X2luZmluaXR5L2xpYiIpCg==</text>
+        <text encoding="base64">I2lmKFVOSVggQU5EIE5PVCBBUFBMRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNGSVhNRTogVGhpcyBzZWVtcyBsaWtlIGEgaGFjayAoa2J0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmlnbWE6OmVuaWdtYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsdWlkX3NvbHZlcl9mYWN0b3IgPSAK</text>
+        <text encoding="base64">I0ZJWE1FOiBUaGlzIHNlZW1zIGxpa2UgYSBoYWNrIChrYnQpCnNldF90YXJnZXRfcHJvcGVydGllcyhIeXBlckRyaXZlIFBST1BFUlRJRVMgSU5TVEFMTF9SUEFUSCAiJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vdF9pbmZpbml0eS9saWIiKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChjb21tLnJhbmsoKSA9PSAwKSBwcmludGYoIkxvYWRpbmcgSHlwZXJTb2x2ZSBwbHVnaW4gZnJvbTogJXNcbiIsIEhZUEVSU09MVkVfTElCX0RJUkVDVE9SWSk7Cg==</text>
+        <text encoding="base64">ICAgICNGSVhNRTogVGhpcyBzZWVtcyBsaWtlIGEgaGFjayAoa2J0KQogICAgc2V0X3RhcmdldF9wcm9wZXJ0aWVzKEh5cGVyRHJpdmUgUFJPUEVSVElFUyBJTlNUQUxMX1JQQVRIICIke0NNQUtFX0lOU1RBTExfUFJFRklYfS90X2luZmluaXR5L2xpYiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lc2guZwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
+        <text encoding="base64">ICAgICAgICBlbmlnbWE6OmVuaWdtYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

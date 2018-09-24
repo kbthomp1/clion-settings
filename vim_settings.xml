@@ -1974,12 +1974,12 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1537796673047">
-        <mark key="'" line="80" column="26" />
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="71" column="17" />
-        <mark key="." line="71" column="17" />
-        <mark key="^" line="71" column="17" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1537803411486">
+        <mark key="'" line="84" column="88" />
+        <mark key="[" line="80" column="50" />
+        <mark key="]" line="81" column="11" />
+        <mark key="." line="81" column="11" />
+        <mark key="^" line="81" column="11" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2237,7 +2237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="26" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="76" column="21" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="83" column="21" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="98" column="36" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
@@ -2337,6 +2336,7 @@
       <jump line="69" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="77" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
       <jump line="79" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="80" column="88" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2346,8 +2346,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5747,13 +5747,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fluid_solver</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>HyperDrive</text>
+        <text>t_infinity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWVzaCA9IHByZXByb2Nlc3Nvci5pbXBvcnRNZXNoKGpzb24uYXQoIm1lc2ggZmlsZW5hbWUiKSwgY29tbSk7Cg==</text>
+        <text encoding="base64">IyAgICBzZXQoSFlQRVJEUklWRV9JTlNUQUxMX1JQQVRIUyAiJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vaHlwZXJzb2x2ZS9saWI7JHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vdC1pbmZpbml0eS9saWIiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5762,43 +5762,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbmlnbWE6OmVuaWdtYQo=</text>
+        <text encoding="base64">I0ZJWE1FOiBUaGlzIHNlZW1zIGxpa2UgYSBoYWNrIChrYnQpCnNldF90YXJnZXRfcHJvcGVydGllcyhIeXBlckRyaXZlIFBST1BFUlRJRVMgSU5TVEFMTF9SUEFUSCAiJHtDTUFLRV9JTlNUQUxMX1BSRUZJWH0vdF9pbmZpbml0eS9saWIiKQoK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsdWlkX3NvbHZlcl9mYWN0b3IgPSAK</text>
+        <text encoding="base64">ICAgICNGSVhNRTogVGhpcyBzZWVtcyBsaWtlIGEgaGFjayAoa2J0KQogICAgc2V0X3RhcmdldF9wcm9wZXJ0aWVzKEh5cGVyRHJpdmUgUFJPUEVSVElFUyBJTlNUQUxMX1JQQVRIICIke0NNQUtFX0lOU1RBTExfUFJFRklYfS90X2luZmluaXR5L2xpYiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjb21tLnJhbmsoKSA9PSAwKSBwcmludGYoIkxvYWRpbmcgSHlwZXJTb2x2ZSBwbHVnaW4gZnJvbTogJXNcbiIsIEhZUEVSU09MVkVfTElCX0RJUkVDVE9SWSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lc2guZwoK</text>
+        <text encoding="base64">ICAgICAgICBlbmlnbWE6OmVuaWdtYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
+        <text encoding="base64">ICAgIGZsdWlkX3NvbHZlcl9mYWN0b3IgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
+        <text encoding="base64">ICAgIGlmIChjb21tLnJhbmsoKSA9PSAwKSBwcmludGYoIkxvYWRpbmcgSHlwZXJTb2x2ZSBwbHVnaW4gZnJvbTogJXNcbiIsIEhZUEVSU09MVkVfTElCX0RJUkVDVE9SWSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFZlY1ZpZXcocmhzLmdldFZlYygpLCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
+        <text encoding="base64">ICAgIG1lc2guZwoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HyperDrive</last-search>
+      <last-search>t_infinity</last-search>
       <last-offset />
-      <last-pattern>HyperDrive</last-pattern>
+      <last-pattern>t_infinity</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5806,8 +5806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Enigma::</entry>
-        <entry>Constraints</entry>
         <entry>HAVE</entry>
         <entry>petsc</entry>
         <entry>Mesh</entry>
@@ -5826,6 +5824,8 @@
         <entry>lu</entry>
         <entry>shared_ptr</entry>
         <entry>HyperDrive</entry>
+        <entry>t_</entry>
+        <entry>t_infinity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -86,7 +86,7 @@
         <mark key="." line="2658" column="0" />
         <mark key="^" line="2658" column="34" />
       </file>
-      <file name="/LLDB" timestamp="1537542061698">
+      <file name="/LLDB" timestamp="1537797113164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PETScNonLinearSolverTests.cpp" timestamp="1537476041746">
@@ -1403,11 +1403,11 @@
         <mark key="." line="204" column="0" />
         <mark key="^" line="25" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" timestamp="1537795198507">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperDrive.cpp" timestamp="1537797227141">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="85" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1532626023172">
         <mark key="'" line="44" column="16" />
@@ -1790,6 +1790,9 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
+      <file name="$USER_HOME$/one-ring/t-infinity/t-infinity/Instance.cpp" timestamp="1537795853119">
+        <mark key="'" line="82" column="45" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLInearSolverFactory.hpp" timestamp="1537303250843">
         <mark key="'" line="48" column="47" />
         <mark key="k" line="48" column="47" />
@@ -1971,12 +1974,12 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1536349359790">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="65" column="110" />
-        <mark key="]" line="65" column="110" />
-        <mark key="." line="65" column="110" />
-        <mark key="^" line="65" column="110" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1537796673047">
+        <mark key="'" line="80" column="26" />
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="71" column="17" />
+        <mark key="." line="71" column="17" />
+        <mark key="^" line="71" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/HSNonLinearSolver.hpp" timestamp="1532797606469">
         <mark key="'" line="37" column="9" />
@@ -2234,12 +2237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
-      <jump line="29" column="0" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
-      <jump line="32" column="19" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
-      <jump line="33" column="20" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
-      <jump line="48" column="35" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
-      <jump line="50" column="4" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="68" column="26" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="76" column="21" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
       <jump line="83" column="21" filename="$USER_HOME$/one-ring/enigma/test/ConstraintsTests.cpp" />
@@ -2334,6 +2331,12 @@
       <jump line="19" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="138" column="9" filename="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" />
       <jump line="74" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
+      <jump line="64" column="23" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/Instance.cpp" />
+      <jump line="85" column="45" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/Instance.cpp" />
+      <jump line="82" column="45" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/Instance.cpp" />
+      <jump line="69" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="77" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
+      <jump line="79" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2344,7 +2347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5744,58 +5747,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)comm, PetscInt(NumEqns), PetscInt(NumEqns * do_own.size()), PETSC_DETERMINE,</text>
+        <text>fluid_solver</text>
       </register>
       <register name="/" type="4">
-        <text>lu</text>
+        <text>HyperDrive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gbWVzaCA9IHByZXByb2Nlc3Nvci5pbXBvcnRNZXNoKGpzb24uYXQoIm1lc2ggZmlsZW5hbWUiKSwgY29tbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
+        <text encoding="base64">ICAgICAgICBlbmlnbWE6OmVuaWdtYQo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZlY1ZpZXcocmhzLmdldFZlYygpLCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
+        <text encoding="base64">ICAgIGZsdWlkX3NvbHZlcl9mYWN0b3IgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjb21tLnJhbmsoKSA9PSAwKSBwcmludGYoIkxvYWRpbmcgSHlwZXJTb2x2ZSBwbHVnaW4gZnJvbTogJXNcbiIsIEhZUEVSU09MVkVfTElCX0RJUkVDVE9SWSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWZWNWaWV3KHJocy5nZXRWZWMoKSwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsKCg==</text>
+        <text encoding="base64">ICAgIG1lc2guZwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmhzLmdldChpLCB7MH0sICZ2KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWRdIGk6ICVsdSByaHM6ICVsZlxuIiwgbXAuUmFuaygpLCBpLCB2KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgdjsK</text>
+        <text encoding="base64">ICAgIFZlY1ZpZXcocmhzLmdldFZlYygpLCBQRVRTQ19WSUVXRVJfU1RET1VUX1NFTEYpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJocy5nZXQoaSwgezB9LCAmdik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lu</last-search>
+      <last-search>HyperDrive</last-search>
       <last-offset />
-      <last-pattern>lu</last-pattern>
+      <last-pattern>HyperDrive</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5803,8 +5806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Const</entry>
-        <entry>all_eqn</entry>
         <entry>Enigma::</entry>
         <entry>Constraints</entry>
         <entry>HAVE</entry>
@@ -5823,6 +5824,8 @@
         <entry>Line</entry>
         <entry>Pre</entry>
         <entry>lu</entry>
+        <entry>shared_ptr</entry>
+        <entry>HyperDrive</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

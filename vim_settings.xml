@@ -1085,12 +1085,12 @@
         <mark key="^" line="39" column="27" />
         <mark key="." line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/Graph.h" timestamp="1537815588074">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/Graph.h" timestamp="1537888330363">
+        <mark key="'" line="24" column="30" />
         <mark key="k" line="20" column="15" />
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
         <mark key="^" line="53" column="52" />
       </file>
       <file name="$USER_HOME$/hefss++/src/Thermodynamics.h" timestamp="1528990957279">
@@ -1340,7 +1340,7 @@
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/BlockVector.h" timestamp="1537886210643">
         <mark key="'" line="15" column="0" />
-        <mark key="k" line="102" column="48" />
+        <mark key="k" line="110" column="48" />
         <mark key="[" line="43" column="70" />
         <mark key="]" line="43" column="75" />
         <mark key="." line="43" column="75" />
@@ -2294,9 +2294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="282" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="284" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="310" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="289" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="75" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2394,6 +2391,9 @@
       <jump line="0" column="19" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="1" column="17" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="43" column="6" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
+      <jump line="42" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="11" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="24" column="30" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2404,7 +2404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5804,10 +5804,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>VectorRHS</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PFQsIE51bUVxbnM+ICZvcGVyYXRvcltdKGludCBsb2NhbF9ibG9ja19yb3cpIHsKICAgICAgICAgICAgcmV0dXJuIGludGVybmFsX3ZlY3Rvcltsb2NhbF9ibG9ja19yb3ddOwogICAgICAgIH0K</text>
@@ -5853,9 +5853,9 @@
       </register>
     </registers>
     <search>
-      <last-search>VectorRHS</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>VectorRHS</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5863,7 +5863,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
         <entry>Test</entry>
         <entry>monitor</entry>
         <entry>Post</entry>
@@ -5883,6 +5882,7 @@
         <entry>Non</entry>
         <entry>nonlin</entry>
         <entry>VectorRHS</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

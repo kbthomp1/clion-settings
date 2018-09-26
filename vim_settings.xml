@@ -124,11 +124,12 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/CMakeLists.txt" timestamp="1537914809279">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="53" column="28" />
+      <file name="$USER_HOME$/LAURA-5/src/CMakeLists.txt" timestamp="1537969790272">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="14" />
+        <mark key="." line="49" column="14" />
+        <mark key="^" line="49" column="14" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/converter_factory.py" timestamp="1499692830100">
         <mark key="'" line="10" column="8" />
@@ -2235,10 +2236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="16" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="9" column="10" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="99" column="10" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="176" column="57" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="190" column="24" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="212" column="4" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="254" column="4" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
@@ -2335,6 +2332,10 @@
       <jump line="5" column="25" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
       <jump line="2" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.h" />
       <jump line="40" column="83" filename="$USER_HOME$/LAURA-5/src/laura_interface.h" />
+      <jump line="29" column="11" filename="$USER_HOME$/LAURA-5/src/CMakeLists.txt" />
+      <jump line="44" column="0" filename="$USER_HOME$/LAURA-5/src/CMakeLists.txt" />
+      <jump line="47" column="67" filename="$USER_HOME$/LAURA-5/src/CMakeLists.txt" />
+      <jump line="33" column="15" filename="$USER_HOME$/LAURA-5/src/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2345,7 +2346,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjphcnJheQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5745,10 +5746,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8c3RkOjphcnJheQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>HS::</text>
+        <text>HEADERS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8UmVhbGl6YWJpbGl0eUNvbnRyb2xsZXI8VCwgTnVtRXFucz4+IHJlYWxpemFiaWxpdHlfY29udHJvbGxlcl9pbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8VGltZUludGVncmF0b3I8VCwgTnVtRXFucz4+IHRpbWVfaW50ZWdyYXRvcl9pbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8U29sdmVySGlzdG9yeVdyaXRlcj4gaGlzdF93cml0ZXIpOwo=</text>
@@ -5794,9 +5795,9 @@
       </register>
     </registers>
     <search>
-      <last-search>HS::</last-search>
+      <last-search>HEADERS</last-search>
       <last-offset />
-      <last-pattern>HS::</last-pattern>
+      <last-pattern>HEADERS</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5804,8 +5805,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SolutionVariables</entry>
-        <entry>HS::Var</entry>
         <entry>createSol</entry>
         <entry>grad_calc</entry>
         <entry>grad_c</entry>
@@ -5824,6 +5823,8 @@
         <entry>handler</entry>
         <entry>SolutionVar</entry>
         <entry>HS::</entry>
+        <entry>HEADER</entry>
+        <entry>HEADERS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

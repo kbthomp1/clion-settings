@@ -124,8 +124,8 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1537910807859">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1538140381327">
+        <mark key="'" line="64" column="1" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="40" />
         <mark key="^" line="14" column="38" />
@@ -823,6 +823,7 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1538140443254" />
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/CMakeLists.txt" timestamp="1537914629774">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="8" />
@@ -1603,8 +1604,10 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScRuntime.h" timestamp="1538077461586">
-        <mark key="[" line="18" column="27" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScRuntime.h" timestamp="1538139935402">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1538139101220">
         <mark key="'" line="292" column="12" />
@@ -2420,7 +2423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="45" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/DensityTemperatureRealizability.h" />
       <jump line="29" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/DensityTemperatureRealizability.h" />
       <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/DensityTemperatureRealizability.h" />
       <jump line="11" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/DensityTemperatureRealizability.h" />
@@ -2520,6 +2522,7 @@
       <jump line="309" column="26" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="293" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="296" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="64" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2530,7 +2533,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jYWxjUmVzaWR1YWwocGV0c2Nfc25lcywgcy0+bV9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwogICAgICAgIHMtPnZlY3Rvcl9yaHMuemVybygpOwogICAgICAgIHMtPmRpc2NyZXRpemF0aW9uLmZvcm1CKCZzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhzLT5tX3Jlc2lkdWFsLCBzLT52ZWN0b3JfcmhzKTsKICAgICAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnMtPnN0ZWFkeV9yZXNpZHVhbF9sMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGV0c2NJbml0Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5933,55 +5936,55 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>steady_residual</text>
+        <text>solve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFQgcmVzaWRfbDJfbm9ybSA9IDA7CiAgICBmb3IoYXV0byBlIDogZXF1YXRpb25fbDJfbm9ybSkKICAgICAgICByZXNpZF9sMl9ub3JtICs9IGUqZTsKICAgIHJldHVybiBzcXJ0KHJlc2lkX2wyX25vcm0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5jYWxjUmVzaWR1YWwocGV0c2Nfc25lcywgcy0+bV9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwogICAgICAgIHMtPnZlY3Rvcl9yaHMuemVybygpOwogICAgICAgIHMtPmRpc2NyZXRpemF0aW9uLmZvcm1CKCZzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhzLT5tX3Jlc2lkdWFsLCBzLT52ZWN0b3JfcmhzKTsKICAgICAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnMtPnN0ZWFkeV9yZXNpZHVhbF9sMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGV0c2NJbml0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGb3IgY29udmVyZ2VuY2UgdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzLT5jYWxjUmVzaWR1YWwocGV0c2Nfc25lcywgcy0+bV9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwogICAgICAgIHMtPnZlY3Rvcl9yaHMuemVybygpOwogICAgICAgIHMtPmRpc2NyZXRpemF0aW9uLmZvcm1CKCZzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhzLT5tX3Jlc2lkdWFsLCBzLT52ZWN0b3JfcmhzKTsKICAgICAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnMtPnN0ZWFkeV9yZXNpZHVhbF9sMik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGb3IgY29udmVyZ2VuY2UgdGVzdAogICAgICAgIHMtPmNhbGNSZXNpZHVhbChwZXRzY19zbmVzLCBzLT5tX3NvbHV0aW9uLCBzLT5tX3Jlc2lkdWFsLCBzb2x2ZXJfZGF0YSk7CiAgICAgICAgcy0+dmVjdG9yX3Jocy56ZXJvKCk7CiAgICAgICAgcy0+ZGlzY3JldGl6YXRpb24uZm9ybUIoJnMtPnZlY3Rvcl9yaHMsIHMtPnNvbHV0aW9uKTsKICAgICAgICBzLT5FbmlnbWFUb1BFVFNjKHMtPm1fcmVzaWR1YWwsIHMtPnZlY3Rvcl9yaHMpOwogICAgICAgIFZlY05vcm0ocy0+bV9yZXNpZHVhbCwgTk9STV8yLCAmcy0+c3RlYWR5X3Jlc2lkdWFsX2wyKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGb3IgY29udmVyZ2VuY2UgdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUIHN0ZWFkeV9yZXNpZHVhbF9sMjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGb3IgY29udmVyZ2VuY2UgdGVzdAogICAgICAgIHMtPmNhbGNSZXNpZHVhbChwZXRzY19zbmVzLCBzLT5tX3NvbHV0aW9uLCBzLT5tX3Jlc2lkdWFsLCBzb2x2ZXJfZGF0YSk7CiAgICAgICAgcy0+dmVjdG9yX3Jocy56ZXJvKCk7CiAgICAgICAgcy0+ZGlzY3JldGl6YXRpb24uZm9ybUIoJnMtPnZlY3Rvcl9yaHMsIHMtPnNvbHV0aW9uKTsKICAgICAgICBzLT5FbmlnbWFUb1BFVFNjKHMtPm1fcmVzaWR1YWwsIHMtPnZlY3Rvcl9yaHMpOwogICAgICAgIFZlY05vcm0ocy0+bV9yZXNpZHVhbCwgTk9STV8yLCAmcy0+c3RlYWR5X3Jlc2lkdWFsX2wyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0ZWFkeV9yZXNpZHVhbF9sMigxLjApLAo=</text>
+        <text encoding="base64">ICAgICAgICBUIHN0ZWFkeV9yZXNpZHVhbF9sMjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0ZWFkeV9yZXNpZHVhbF9sMigxLjApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIER1ZSB0byBtZSBub3QgdW5kZXJzdGFuZGluZyB3aGVyZSBQRVRTYyBnb3QgdGhlIG9yaWdpbmFsIG51bWJlciBmcm9tLi4uCiAgICByZXNpZHVhbF9sMl9ub3JtID0gcy0+c3RlYWR5X3Jlc2lkdWFsX2wyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRm9yIGNvbnZlcmdlbmNlIHRlc3QKICAgICAgICBzLT5jYWxjUmVzaWR1YWwocGV0c2Nfc25lcywgcy0+bV9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwogICAgICAgIHMtPnZlY3Rvcl9yaHMuemVybygpOwogICAgICAgIHMtPmRpc2NyZXRpemF0aW9uLmZvcm1CKCZzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhzLT5tX3Jlc2lkdWFsLCBzLT52ZWN0b3JfcmhzKTsKICAgICAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnMtPnN0ZWFkeV9yZXNpZHVhbF9sMik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIER1ZSB0byBtZSBub3QgdW5kZXJzdGFuZGluZyB3aGVyZSBQRVRTYyBnb3QgdGhlIG9yaWdpbmFsIG51bWJlciBmcm9tLi4uCiAgICByZXNpZHVhbF9sMl9ub3JtID0gcy0+c3RlYWR5X3Jlc2lkdWFsX2wyOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgVmVjTm9ybShzLT5tX3Jlc2lkdWFsLCBOT1JNXzIsICZzLT5zdGVhZHlfcmVzaWR1YWxfbDIpOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRm9yIGNvbnZlcmdlbmNlIHRlc3QKICAgICAgICBzLT5jYWxjUmVzaWR1YWwocGV0c2Nfc25lcywgcy0+bV9zb2x1dGlvbiwgcy0+bV9yZXNpZHVhbCwgc29sdmVyX2RhdGEpOwogICAgICAgIHMtPnZlY3Rvcl9yaHMuemVybygpOwogICAgICAgIHMtPmRpc2NyZXRpemF0aW9uLmZvcm1CKCZzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhzLT5tX3Jlc2lkdWFsLCBzLT52ZWN0b3JfcmhzKTsKICAgICAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgJnMtPnN0ZWFkeV9yZXNpZHVhbF9sMik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>steady_residual</last-search>
+      <last-search>solve</last-search>
       <last-offset />
-      <last-pattern>steady_residual</last-pattern>
+      <last-pattern>solve</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5989,7 +5992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postCheck</entry>
         <entry>Post</entry>
         <entry>thist</entry>
         <entry>can't happen</entry>
@@ -6009,6 +6011,7 @@
         <entry>previous_solution</entry>
         <entry>steady_res</entry>
         <entry>steady_residual</entry>
+        <entry>solve</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

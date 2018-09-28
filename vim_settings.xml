@@ -10,6 +10,12 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1538147151889">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496438533179">
         <mark key="'" line="30" column="31" />
         <mark key="[" line="16" column="0" />
@@ -793,10 +799,10 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScLinearSolver.h" timestamp="1537821648662">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScLinearSolver.h" timestamp="1538147559377">
         <mark key="'" line="70" column="24" />
-        <mark key="[" line="37" column="73" />
-        <mark key="]" line="37" column="73" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="108" column="56" />
         <mark key="." line="37" column="73" />
         <mark key="^" line="37" column="55" />
       </file>
@@ -1522,7 +1528,7 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" timestamp="1538146086213">
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" timestamp="1538146998437">
         <mark key="'" line="216" column="15" />
         <mark key="[" line="42" column="27" />
         <mark key="]" line="42" column="27" />
@@ -1849,11 +1855,18 @@
         <mark key="^" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/CMakeLists.txt" timestamp="1538081677696">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/CMakeLists.txt" timestamp="1538147130233">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1538148227738">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="11" column="67" />
+        <mark key="]" line="11" column="93" />
+        <mark key="." line="11" column="93" />
+        <mark key="^" line="11" column="93" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" timestamp="1521832347671">
         <mark key="'" line="0" column="0" />
@@ -2419,7 +2432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="72" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
       <jump line="204" column="80" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="23" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/DensityTemperatureRealizability.h" />
       <jump line="89" column="6" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
@@ -2519,6 +2531,7 @@
       <jump line="140" column="13" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="15" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="192" column="15" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
+      <jump line="18" column="31" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2528,10 +2541,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>1.0
-1.0
-1.0</text>
+      <register name="&quot;" type="4">
+        <text>Mat preconditioner</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5931,51 +5942,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0k</text>
+        <text>Mat preconditioner</text>
       </register>
       <register name="/" type="4">
         <text>runtime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoc29sdXRpb25bMl0gPT0gMS4wKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVuaWdtYS9QRVRTY1ZlY3Rvci5oPgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>1.0
-1.0
-1.0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS1NQU2V0T3BlcmF0b3JzKGxpbmVhcl9zb2x2ZXIsIHByZWNvbmRpdGlvbmVyLCBwcmVjb25kaXRpb25lcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGVuYW1lCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBldHNjX21hdHJpeC5zZXQoMGspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS1NQQ3JlYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcGV0c2NfdmVjID0gRW5pZ21hOjpQRVRTY1ZlY3Rvcjxkb3VibGUsIDE+KG1wLmdldENvbW11bmljYXRvcigpLCBncmFwaC5sbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcnVudGltZSA9IEVuaWdtYTo6UEVUU2NSdW50aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gb3duZWRfYnlfcmFuaygzLCBtcC5SYW5rKCkpOwogICAgc3RkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGU6CiAgICAgICAgVmVjawo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZQo=</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -827,7 +827,6 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1538140443254" />
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/CMakeLists.txt" timestamp="1537914629774">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="8" />
@@ -1660,6 +1659,13 @@
         <mark key="." line="13" column="106" />
         <mark key="^" line="13" column="106" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/src/relax_laura.f90" timestamp="1538404358414">
+        <mark key="'" line="40" column="58" />
+        <mark key="[" line="327" column="28" />
+        <mark key="]" line="327" column="27" />
+        <mark key="." line="327" column="27" />
+        <mark key="^" line="327" column="27" />
+      </file>
       <file name="$USER_HOME$/one-ring/ra/src/EntropyCurveFit.h" timestamp="1529605564743">
         <mark key="'" line="48" column="49" />
         <mark key="[" line="47" column="79" />
@@ -2315,7 +2321,6 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/TimeIntegrator.h" timestamp="1538154839269" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1533329486156">
         <mark key="'" line="60" column="12" />
         <mark key="[" line="304" column="0" />
@@ -2416,10 +2421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="269" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="188" column="38" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="184" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="165" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="376" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="251" column="42" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2516,6 +2517,10 @@
       <jump line="22" column="50" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
       <jump line="27" column="50" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
       <jump line="23" column="21" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="327" column="27" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="1408" column="10" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="1397" column="10" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
+      <jump line="40" column="58" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2525,8 +2530,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQZXRzY0ZpbmFsaXplKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5926,10 +5931,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Vec</text>
+        <text>source</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJFUVVJUkUodlswXSA9PSA1LjApOwo=</text>
@@ -5975,9 +5980,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Vec</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>Vec</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5985,8 +5990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Toler</entry>
-        <entry>calcJac</entry>
         <entry>equation</entry>
         <entry>equationL2</entry>
         <entry>calcRes</entry>
@@ -6005,6 +6008,8 @@
         <entry>previous_solution</entry>
         <entry>runtime</entry>
         <entry>Vec</entry>
+        <entry>soure</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

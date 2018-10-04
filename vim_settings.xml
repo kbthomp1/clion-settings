@@ -1240,12 +1240,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1537975273893">
-        <mark key="'" line="75" column="61" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="88" column="110" />
+      <file name="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" timestamp="1538678442402">
+        <mark key="'" line="67" column="55" />
+        <mark key="[" line="80" column="50" />
+        <mark key="]" line="80" column="71" />
+        <mark key="." line="80" column="71" />
+        <mark key="^" line="80" column="71" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalKinetics.h" timestamp="1498595771086">
         <mark key="'" line="3" column="10" />
@@ -2429,7 +2429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="15" filename="$USER_HOME$/one-ring/enigma/test/VectorUtilities.cpp" />
       <jump line="5" column="3" filename="$USER_HOME$/one-ring/enigma/enigma/VectorUtilitiesTests.h" />
       <jump line="254" column="25" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="7" column="27" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2529,6 +2528,7 @@
       <jump line="327" column="22" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="330" column="32" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="336" column="21" filename="$USER_HOME$/LAURA-5/src/main.F90" />
+      <jump line="67" column="55" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2538,8 +2538,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJfbDJfYWxsID0gc3FydChlcnJfbDJfYWxsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>buildNearestNeighbors</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5939,10 +5939,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/(cn*cn)</text>
+        <text>buildNearestNeighbors</text>
       </register>
       <register name="/" type="4">
-        <text>err_l2</text>
+        <text>Nei</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlcnJfbDJfYWxsID0gZXJyX2wyX2FsbC8oY24qY24pCg==</text>
@@ -5988,9 +5988,9 @@
       </register>
     </registers>
     <search>
-      <last-search>err_l2</last-search>
+      <last-search>Nei</last-search>
       <last-offset />
-      <last-pattern>err_l2</last-pattern>
+      <last-pattern>Nei</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5998,7 +5998,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printf</entry>
         <entry>Equat</entry>
         <entry>Eq</entry>
         <entry>monitorRes</entry>
@@ -6018,6 +6017,7 @@
         <entry>task</entry>
         <entry>err</entry>
         <entry>err_l2</entry>
+        <entry>Nei</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

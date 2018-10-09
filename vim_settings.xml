@@ -785,12 +785,12 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="36" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScLinearSolver.h" timestamp="1538147559377">
-        <mark key="'" line="70" column="24" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="108" column="56" />
-        <mark key="." line="37" column="73" />
-        <mark key="^" line="37" column="55" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScLinearSolver.h" timestamp="1539099303779">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity_python_bindings.cpp" timestamp="1523563669537">
         <mark key="'" line="57" column="6" />
@@ -1481,11 +1481,11 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="65" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/LinearSolver.h" timestamp="1537821688333">
-        <mark key="[" line="15" column="79" />
-        <mark key="]" line="15" column="79" />
-        <mark key="." line="15" column="79" />
-        <mark key="^" line="15" column="61" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/LinearSolver.h" timestamp="1539099253044">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="66" />
+        <mark key="." line="16" column="66" />
+        <mark key="^" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CellGradientsTests.cpp" timestamp="1523486135399">
         <mark key="'" line="168" column="0" />
@@ -2413,7 +2413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="117" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="118" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="6" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/VectorUtilities.h" />
       <jump line="29" column="3" filename="$USER_HOME$/one-ring/enigma/test/VectorUtilitiesTests.cpp" />
@@ -2513,6 +2512,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="123" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" />
       <jump line="121" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScVectorTests.cpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2522,8 +2522,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBWZWNWaWV3KHJocy5nZXRWZWMoKSwgUEVUU0NfVklFV0VSX1NURE9VVF9TRUxGKTsK</text>
+      <register name="&quot;" type="4">
+        <text>double</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5923,7 +5923,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Read</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text>VecView</text>

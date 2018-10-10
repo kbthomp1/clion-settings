@@ -1487,8 +1487,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1539177437082">
-        <mark key="'" line="314" column="4" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1539182106160">
+        <mark key="'" line="232" column="12" />
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="37" />
       </file>
@@ -2292,7 +2292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/ExplicitSolverTests.cpp" />
       <jump line="27" column="51" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
       <jump line="22" column="33" filename="$USER_HOME$/one-ring/hypersolve/test/MockTermsTests.cpp" />
       <jump line="349" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2392,6 +2391,7 @@
       <jump line="159" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="314" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="151" column="71" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
+      <jump line="232" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5805,7 +5805,7 @@
         <text>changed_solution_in_post_check</text>
       </register>
       <register name="/" type="4">
-        <text>bisection</text>
+        <text>monitorRes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICpjaGFuZ2VkX3NvbHV0aW9uX2luX3Bvc3RfY2hlY2sgPSBQRVRTQ19GQUxTRTsK</text>
@@ -5851,9 +5851,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bisection</last-search>
+      <last-search>monitorRes</last-search>
       <last-offset />
-      <last-pattern>bisection</last-pattern>
+      <last-pattern>monitorRes</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5879,8 +5879,8 @@
         <entry>err_l2</entry>
         <entry>Nei</entry>
         <entry>VecView</entry>
-        <entry>monitorRes</entry>
         <entry>bisection</entry>
+        <entry>monitorRes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

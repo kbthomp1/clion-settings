@@ -412,12 +412,12 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/JacobiLinearSolverTests.cpp" timestamp="1539266108808">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/one-ring/enigma/test/JacobiLinearSolverTests.cpp" timestamp="1539283439688">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="35" />
+        <mark key="^" line="53" column="25" />
+        <mark key="." line="53" column="35" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/OldDensityTemperatureRealizability.h" timestamp="1538070330043">
         <mark key="'" line="29" column="18" />
@@ -1086,13 +1086,13 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/SparseMatrix.h" timestamp="1539277141624">
-        <mark key="'" line="77" column="12" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/SparseMatrix.h" timestamp="1539282098453">
+        <mark key="'" line="23" column="35" />
         <mark key="k" line="77" column="12" />
-        <mark key="[" line="85" column="25" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="85" column="24" />
-        <mark key="^" line="85" column="24" />
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="32" />
+        <mark key="." line="81" column="32" />
+        <mark key="^" line="81" column="32" />
       </file>
       <file name="$USER_HOME$/hefss++/fortran/main.f90" timestamp="1500466562288">
         <mark key="'" line="21" column="23" />
@@ -2094,11 +2094,13 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" timestamp="1539266095490">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" timestamp="1539283643050">
+        <mark key="'" line="104" column="24" />
+        <mark key="[" line="65" column="82" />
+        <mark key="k" line="65" column="34" />
+        <mark key="]" line="65" column="82" />
+        <mark key="." line="65" column="82" />
+        <mark key="^" line="65" column="82" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/ThermoCurveFitsTests.cpp" timestamp="1531234095962">
         <mark key="'" line="48" column="48" />
@@ -2450,13 +2452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1465" column="40" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1472" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1476" column="42" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1487" column="66" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="1488" column="65" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="444" column="12" filename="$USER_HOME$/LAURA-5/src/main.F90" />
-      <jump line="469" column="24" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="456" column="43" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="352" column="13" filename="$USER_HOME$/LAURA-5/src/main.F90" />
       <jump line="347" column="22" filename="$USER_HOME$/LAURA-5/src/main.F90" />
@@ -2550,6 +2545,13 @@
       <jump line="57" column="42" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="22" column="30" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="23" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
+      <jump line="23" column="35" filename="$USER_HOME$/one-ring/enigma/enigma/SparseMatrix.h" />
+      <jump line="32" column="49" filename="$USER_HOME$/one-ring/enigma/test/JacobiLinearSolverTests.cpp" />
+      <jump line="43" column="13" filename="$USER_HOME$/one-ring/enigma/test/JacobiLinearSolverTests.cpp" />
+      <jump line="63" column="15" filename="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" />
+      <jump line="64" column="34" filename="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" />
+      <jump line="16" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" />
+      <jump line="104" column="24" filename="$USER_HOME$/one-ring/enigma/enigma/JacobianLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2559,8 +2561,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNUElfQ29tbSBnZXRDb21tKCkgY29uc3QgewogICAgICAgICAgICByZXR1cm4gbXAuZ2V0Q29tbXVuaWNhdG9yKCk7CiAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5960,49 +5962,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mp.Rank()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3duZWRfYnlfcmFuayA9IHswLCAxLCAwLCAxfQo=</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKHJlc2lkdWFsW3Jvd11bMF0gPT0gMC4wKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNUElfQ29tbSBnZXRDb21tKCkgY29uc3QgewogICAgICAgICAgICByZXR1cm4gbXAuZ2V0Q29tbXVuaWNhdG9yKCk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGluZWFyU29sdmVyQ29udmVyZ2VuY2VTdGF0dXM8VD4gc3RhdHVzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChtcC5SYW5rKCkgPT0gMCkgewogICAgICAgIHN0ZDo6dmVjdG9yPGludD4gb3duZWRfYnlfcmFuayA9IHswLCBtcC5SYW5rKCksIDAsIG1wLlJhbmsoKX07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCByb3cgPSAwOyByb3cgPCAzOyArK3JvdykgewogICAgICAgICAgICBSRVFVSVJFKHJlc2lkdWFsW3Jvd11bMF0gPT0gMC4wKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChtcC5OdW1iZXJPZlByb2Nlc3NlcygpID4gMikK</text>
+      <register name="3" type="8">
+        <text>0.5;
+0.5;
+0.5;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvblsyXVswXSA9IDAuNTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUSFJPVygiTm90IGltcGxlbWVudGVkIGZvciBtb3JlIHRoYXQgMiBwcm9jZXNzZXMiKTsK</text>
+        <text encoding="base64">CiAgICAgICAgfQogICAgICAgIHNvbHV0aW9uWzBdWzBdID0gMC41OwogICAgICAgIHNvbHV0aW9uWzFdWzBdID0gMC41Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFbmlnbWE6OkJsb2NrVmVjdG9yPGRvdWJsZSwgMT4gc29sdXRpb24obXAuZ2V0Q29tbXVuaWNhdG9yKCksIGdyYXBoLm51bWJlck9mRW50cmllcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFbmlnbWE6OkJsb2NrVmVjdG9yPGRvdWJsZSwgMT4gc29sdXRpb24obXAuZ2V0Q29tbXVuaWNhdG9yKCksIGdyYXBoLm51bWJlck9mRW50cmllcygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lZF9ieV9yYW5rID0ge21wLlJhbmsoKSwgbXAuUmFuaygpLCBtcC5SYW5rKCksIG1wLlJhbmsoKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhdXRvJiBzb2x1dGlvbiA9IHJoczsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAobXAuTnVtYmVyT2ZQcm9jZXNzZXMoKSA9PSAyKSB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDM7ICsraSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

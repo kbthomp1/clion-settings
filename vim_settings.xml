@@ -830,6 +830,13 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1539366042824">
+        <mark key="'" line="183" column="56" />
+        <mark key="[" line="183" column="99" />
+        <mark key="]" line="183" column="109" />
+        <mark key="." line="183" column="109" />
+        <mark key="^" line="183" column="109" />
+      </file>
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/CMakeLists.txt" timestamp="1537914629774">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="8" />
@@ -2470,17 +2477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/SparseMatrix.h" />
-      <jump line="132" column="32" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="173" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="153" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="178" column="43" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="175" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="139" column="59" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="169" column="12" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
-      <jump line="5" column="32" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="21" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="56" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="99" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
@@ -2570,6 +2566,17 @@
       <jump line="29" column="18" filename="$USER_HOME$/one-ring/enigma/enigma/FixedPointNonlinearSolver.h" />
       <jump line="42" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/JacobiLinearSolver.h" />
       <jump line="110" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/JacobiLinearSolver.h" />
+      <jump line="242" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="305" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="364" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="314" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="315" column="110" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="317" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="318" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="319" column="110" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="321" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="322" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="183" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2580,7 +2587,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>pressure</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5980,58 +5987,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>pressure</text>
       </register>
       <register name="/" type="4">
-        <text>Full</text>
+        <text>pressure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbGluZWFyX3NvbHZlcl9zZXR0aW5ncyA9IEVuaWdtYTo6SmFjb2JpTGluZWFyU29sdmVyU2V0dGluZ3MoMS5lLTcsIDEuZS03LCAxNSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdGVtcGVyYXR1cmVfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ3JhcGgoc3RkOjptb3ZlKGdyYXBoX2luKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTnVtRXFucyA+IDUpCiAgICAgICAgZWxzZQogICAgICAgICAgICByZXR1cm4gMC4wOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBsaW5lYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxLaW5lbWF0aWNWaXNjb3NpdHkoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdWzVdKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeV9tb21faW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp4X3ZlbG9jaXR5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeF9tb21faW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp4X3ZlbG9jaXR5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgel9tb21faW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp4X3ZlbG9jaXR5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAobm9ubGluZWFyX3NvbHZlciA9PSAiSmFjb2JpIikgewogICAgICAgIGF1dG8gbG9jYWxfdG9fZ2xvYmFsID0gSFM6Ok1lc2hVdGlsaXRpZXM6OmJ1aWxkTG9jYWxUb0dsb2JhbChtZXNoKTsKICAgICAgICBhdXRvIG5vZGVfb3duZWRfYnlfcmFuayA9IEhTOjpNZXNoVXRpbGl0aWVzOjpidWlsZE93bmVkQnkobWVzaCk7CiAgICAgICAgYXV0byBncmFwaCA9IEVuaWdtYTo6R3JhcGgobXAuZ2V0Q29tbXVuaWNhdG9yKCksIGxvY2FsX3RvX2dsb2JhbCwgbm9kZV9vd25lZF9ieV9yYW5rLCBzcGFyc2l0eSk7CgogICAgICAgIGF1dG8gdGltZV9pbnRlZ3JhdG9yID0gSFM6OmNyZWF0ZVRpbWVJbnRlZ3JhdG9yPE51bUVxbnM+KG1wLCBtZXNoLCBub25saW5lYXJfc29sdmVyX3NldHRpbmdzLCBzb2x1dGlvbl9tYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcm1vZHluYW1pY3MpOwoKICAgICAgICBkb3VibGUgbWF4X3BlcmNlbnRfY2hhbmdlID0ganNvbl9jb25maWcuYXQoIm5vbmxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKS5hdCgibWF4IHVwZGF0ZSBwZXJjZW50YWdlIik7CiAgICAgICAgYXV0byByZWFsaXphYmlsaXR5X2NvbnRyb2xsZXIgPSBzdGQ6Om1ha2Vfc2hhcmVkPEhTOjpEZW5zaXR5VGVtcGVyYXR1cmVSZWFsaXphYmlsaXR5PGRvdWJsZSwgTnVtRXFucz4+KG1wLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb2x1dGlvbl9tYXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhfcGVyY2VudF9jaGFuZ2UpOwoKICAgICAgICBzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gc29sdmVyX3NwZWNpZmljX29wdGlvbnMgPSB7InBldHNjIG9wdGlvbnMiLCAibm9ubGluZWFyIHNvbHZlciBzZXR0aW5ncyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsaW5lYXIgc29sdmVyIHNldHRpbmdzIn07CiAgICAgICAgbmxvaG1hbm46Ompzb24gc29sdmVyX2NvbmZpZzsKICAgICAgICBmb3IgKGNvbnN0IGF1dG8gJm9wdGlvbiA6IHNvbHZlcl9zcGVjaWZpY19vcHRpb25zKQogICAgICAgICAgICBzb2x2ZXJfY29uZmlnW29wdGlvbl0gPSBqc29uX2NvbmZpZy5hdChvcHRpb24pOwoKICAgICAgICByZXR1cm4gRW5pZ21hOjpjcmVhdGVOb25MaW5lYXJTb2x2ZXI8ZG91YmxlLCBOdW1FcW5zPihzb2x2ZXJfY29uZmlnLmR1bXAoKSwgbXAuZ2V0Q29tbXVuaWNhdG9yKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG1wLlJhbmsoKSA9PSAwKSwgZ3JhcGgsIGRpc2NyZXRpemF0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWxpemFiaWxpdHlfY29udHJvbGxlciwgdGltZV9pbnRlZ3JhdG9yLCBoaXN0X3dyaXRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ3JhcGgoc3RkOjptb3ZlKGdyYXBoX2luKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBjb252ZXJnZW5jZV9oaXN0b3J5X2ZpbGVuYW1lID0gSnNvblRvb2xzOjpleHRyYWN0U3RyaW5nKGpzb25fY29uZmlnLCAiZG9tYWluIG5hbWUiKSArICItcmVzaWR1YWwuY3N2IjsKICAgICAgICBhdXRvIGhpc3Rfd3JpdGVyID0gc3RkOjptYWtlX3NoYXJlZDxDb252ZXJnZW5jZUhpc3RvcnlXcml0ZXI+KGNvbnZlcmdlbmNlX2hpc3RvcnlfZmlsZW5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIUzo6Z2V0Q29udmVyZ2VuY2VIaXN0b3J5TmFtZXMoTnVtRXFucykpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBsaW5lYXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVuaWdtYS9Ob25MaW5lYXJTb2x2ZXIuaD4KI2luY2x1ZGUgPGVuaWdtYS9MaW5lYXJTb2x2ZXIuaD4KI2luY2x1ZGUgPGVuaWdtYS9UaW1lSW50ZWdyYXRvci5oPgojaW5jbHVkZSA8ZW5pZ21hL1JlYWxpemFiaWxpdHlDb250cm9sbGVyLmg+CiNpbmNsdWRlIDxlbmlnbWEvR3JhcGguaD4KI2luY2x1ZGUgPGVuaWdtYS9CbG9ja1ZlY3Rvci5oPgojaW5jbHVkZSA8ZW5pZ21hL1ZlY3RvclV0aWxpdGllcy5oPgojaW5jbHVkZSA8bmxvaG1hbm4vanNvbi5ocHA+CiNpbmNsdWRlIDxlbmlnbWEvSmFjb2JpYW5MaW5lYXJTb2x2ZXIuaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Full</last-search>
+      <last-search>pressure</last-search>
       <last-offset />
-      <last-pattern>Full</last-pattern>
+      <last-pattern>pressure</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6039,11 +6046,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Nei</entry>
-        <entry>VecView</entry>
-        <entry>bisection</entry>
-        <entry>monitorRes</entry>
-        <entry>rhs</entry>
         <entry>rank</entry>
         <entry>buildMatrix</entry>
         <entry>local_to_global</entry>
@@ -6059,6 +6061,11 @@
         <entry>graph</entry>
         <entry>JacobiLinear</entry>
         <entry>Full</entry>
+        <entry>sa-var</entry>
+        <entry>mom</entry>
+        <entry>vel</entry>
+        <entry>pressure-limitier</entry>
+        <entry>pressure</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -1614,8 +1614,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1539289224673">
-        <mark key="'" line="383" column="37" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1539366634868">
+        <mark key="'" line="245" column="29" />
         <mark key="[" line="320" column="0" />
         <mark key="]" line="335" column="29" />
         <mark key="." line="68" column="44" />
@@ -2477,7 +2477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="56" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="99" column="28" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
       <jump line="142" column="30" filename="$USER_HOME$/one-ring/enigma/test/SparseMatrixTests.cpp" />
@@ -2577,6 +2576,7 @@
       <jump line="321" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="322" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="183" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="245" column="29" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5990,7 +5990,7 @@
         <text>pressure</text>
       </register>
       <register name="/" type="4">
-        <text>pressure</text>
+        <text>calcJac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgdGVtcGVyYXR1cmVfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7Cg==</text>
@@ -6036,9 +6036,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pressure</last-search>
+      <last-search>calcJac</last-search>
       <last-offset />
-      <last-pattern>pressure</last-pattern>
+      <last-pattern>calcJac</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6046,7 +6046,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rank</entry>
         <entry>buildMatrix</entry>
         <entry>local_to_global</entry>
         <entry>globalId</entry>
@@ -6066,6 +6065,7 @@
         <entry>vel</entry>
         <entry>pressure-limitier</entry>
         <entry>pressure</entry>
+        <entry>calcJac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

@@ -776,11 +776,11 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1539616139840">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1539616922455">
         <mark key="'" line="97" column="59" />
-        <mark key="[" line="462" column="0" />
-        <mark key="]" line="462" column="0" />
-        <mark key="." line="462" column="0" />
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="494" column="0" />
+        <mark key="." line="494" column="0" />
       </file>
       <file name="$USER_HOME$/LAURA-5/tests/unit_tests/CMakeLists.txt" timestamp="1537914629774">
         <mark key="[" line="12" column="9" />
@@ -970,6 +970,18 @@
         <mark key="]" line="50" column="38" />
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1537304757244">
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/LAURA-5/src/main.F90" timestamp="1538666475011">
+        <mark key="'" line="336" column="21" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
@@ -1562,6 +1574,12 @@
         <mark key="]" line="47" column="79" />
         <mark key="." line="47" column="79" />
         <mark key="^" line="47" column="79" />
+      </file>
+      <file name="$USER_HOME$/one-ring/enigma/test/VectorRHSTests.cpp" timestamp="1538082395477">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/DenseMatrix.h" timestamp="1539275827939">
         <mark key="'" line="9" column="0" />
@@ -2436,7 +2454,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lc2gtPmdsCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBhZGpvaW50X2NoZWNrID0gYWRqb2ludF9zb2x1dGlvbltub2RlX3RvX3BlcnR1cmJdW2VxdWF0aW9uX3RvX3BlcnR1cmJdOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5836,49 +5854,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>local_node_id</text>
       </register>
       <register name="/" type="4">
         <text>verifyAdjoint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdGVtcGVyYXR1cmVfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBjb21wbGV4X3BlcnR1cmJhdGlvbl90ZXJtcyA9IHN0ZDo6bWFrZV9zaGFyZWQ8Q29tcGxleFBlcnR1cmJhdGlvbjxOdW1FcW5zPj4obm9kZV90b19wZXJ0dXJiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcXVhdGlvbl90b19wZXJ0dXJiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcHNpbG9uKTsKICAgICAgICAgICAgY29tcGxleF9kaXNjcmV0aXphdGlvbi5hZGRUZXJtcyhjb21wbGV4X3BlcnR1cmJhdGlvbl90ZXJtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc2gtPmdsCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBhZGpvaW50X2NoZWNrID0gYWRqb2ludF9zb2x1dGlvbltub2RlX3RvX3BlcnR1cmJdW2VxdWF0aW9uX3RvX3BlcnR1cmJdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEJyb2FkY2FzdCB0aGUgYWRqb2ludCBzb2x1dGlvbiB0byB0aGUgb3RoZXIgcmFua3MsIHRvIGJlIG9uIHRoZSBzYWZlIHNpZGUuCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGxvY2FsX25vZGVfaWQgPSAwOyBsb2NhbF9ub2RlX2lkIDwgbWVzaC0+bm9kZUNvdW50KCk7ICsrbG9jYWxfbm9kZV9pZCkgewogICAgICAgIGlmIChtZXNoLT5nbG9iYWxOb2RlSWQobG9jYWxfbm9kZV9pZCkgPT0gbm9kZV90b19wZXJ0dXJiKSB7CiAgICAgICAgICAgIGF1dG8gY29tcGxleF9wZXJ0dXJiYXRpb25fdGVybXMgPSBzdGQ6Om1ha2Vfc2hhcmVkPENvbXBsZXhQZXJ0dXJiYXRpb248TnVtRXFucz4+KG5vZGVfdG9fcGVydHVyYiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXF1YXRpb25fdG9fcGVydHVyYiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXBzaWxvbik7CiAgICAgICAgICAgIGNvbXBsZXhfZGlzY3JldGl6YXRpb24uYWRkVGVybXMoY29tcGxleF9wZXJ0dXJiYXRpb25fdGVybXMpOwogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGludCBub2RlX3RvX3BlcnR1cmIgPSAwOwogICAgaW50IGVxdWF0aW9uX3RvX3BlcnR1cmIgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChncmFwaC5kb093bihpKSl7CiAgICAgICAgICAgICAgICAgICAgZGlhZ29uYWxfaW52ZXJzZS5zZXQoaSwgaSwgYWxsX2VxdWF0aW9uc19tYXAsIGFsbF9lcXVhdGlvbnNfbWFwLCBpbnZlcnRNYXRyaXgobGhzKGksaSkpLmRhdGEoKSk7fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzaC0+Z2xvYmFsTm9kZUlkKGxvY2FsX25vZGVfaWQpID09IG5vZGVfdG9fcGVydHVyYikgewogICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWFnb25hbF9pbnZlcnNlLnNldChpLCBpLCBhbGxfZXF1YXRpb25zX21hcCwgYWxsX2VxdWF0aW9uc19tYXAsIGludmVydE1hdHJpeChsaHMoaSxpKSkuZGF0YSgpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGludCBub2RlX3RvX3BlcnR1cmIgPSAwOwogICAgaW50IGVxdWF0aW9uX3RvX3BlcnR1cmIgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVzaC0+Z2xvYmFsTm9kZUlkKGxvY2FsX25vZGVfaWQpID09IG5vZGVfdG9fcGVydHVyYikgewogICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvIGludmVydGVkX2Jsb2NrID0gaW52ZXJ0TWF0cml4KGxocyhpLGkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBjb21wbGV4X3BlcnR1cmJhdGlvbl90ZXJtcyA9IHN0ZDo6bWFrZV9zaGFyZWQ8Q29tcGxleFBlcnR1cmJhdGlvbjxOdW1FcW5zPj4obm9kZV90b19wZXJ0dXJiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcXVhdGlvbl90b19wZXJ0dXJiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcHNpbG9uKTsKICAgICAgICAgICAgY29tcGxleF9kaXNjcmV0aXphdGlvbi5hZGRUZXJtcyhjb21wbGV4X3BlcnR1cmJhdGlvbl90ZXJtcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

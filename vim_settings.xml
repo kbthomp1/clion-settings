@@ -308,6 +308,12 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.hpp" timestamp="1539630824023">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" timestamp="1518464145132">
         <mark key="'" line="52" column="58" />
         <mark key="[" line="90" column="70" />
@@ -680,6 +686,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/LinearSolver.h" timestamp="1539113924055">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="99" />
+        <mark key="." line="16" column="66" />
+        <mark key="^" line="16" column="66" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CellGradientsTests.cpp" timestamp="1523486135399">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="165" column="30" />
@@ -927,6 +939,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="9" column="43" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InteriorTermsFactory.h" timestamp="1539639177626">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CornerAreas.h" timestamp="1510846849810">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="4" column="13" />
@@ -956,6 +974,12 @@
         <mark key="^" line="57" column="46" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationTermsFactory.h" timestamp="1539639050143">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/VanLeerFlux.h" timestamp="1533674638420">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="63" column="23" />
@@ -969,6 +993,12 @@
         <mark key="]" line="101" column="75" />
         <mark key="^" line="101" column="75" />
         <mark key="." line="101" column="75" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/CMakeLists.txt" timestamp="1539639071154">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/ThermodynamicsPerfectGasTests.cpp" timestamp="1530139032469">
         <mark key="'" line="22" column="3" />
@@ -1676,9 +1706,9 @@
         <mark key="^" line="21" column="59" />
         <mark key="." line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryConditionTerms.h" timestamp="1539635739413">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryConditionTerms.h" timestamp="1539638702514">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="40" />
         <mark key="^" line="17" column="77" />
         <mark key="." line="18" column="0" />
       </file>
@@ -1709,6 +1739,12 @@
         <mark key="]" line="86" column="40" />
         <mark key="." line="86" column="40" />
         <mark key="^" line="86" column="40" />
+      </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScHelpers.h" timestamp="1539105556828">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="28" column="42" />
+        <mark key="^" line="28" column="42" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/ComplexHelpers.h" timestamp="1521720510508">
         <mark key="'" line="0" column="0" />
@@ -2125,8 +2161,8 @@
         <mark key="^" line="119" column="79" />
         <mark key="." line="119" column="79" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1539638217969">
-        <mark key="'" line="20" column="10" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1539639235985">
+        <mark key="'" line="158" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -2467,21 +2503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="43" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="209" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="295" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="27" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="204" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="17" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="22" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="23" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="24" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="27" column="29" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="32" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="34" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="54" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="55" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="56" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="58" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="60" column="14" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="76" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
@@ -2491,7 +2512,6 @@
       <jump line="85" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="86" column="58" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="87" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="12" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="221" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="36" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="70" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
@@ -2501,7 +2521,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="147" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="29" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="23" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="59" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="57" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="36" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
@@ -2530,10 +2549,8 @@
       <jump line="74" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="78" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="51" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
-      <jump line="21" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" />
       <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="31" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="32" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="33" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="34" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
@@ -2549,11 +2566,9 @@
       <jump line="199" column="83" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="11" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="24" column="32" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="30" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="80" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="90" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="94" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="100" column="91" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="152" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="215" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
@@ -2567,6 +2582,27 @@
       <jump line="279" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="16" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="20" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="91" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="94" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="88" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="21" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="174" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="197" column="83" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="278" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="23" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="149" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="44" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="61" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="30" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="31" column="10" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="43" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="60" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="214" column="77" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="244" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
+      <jump line="20" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/interfaces/CMakeLists.txt" />
+      <jump line="158" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2577,7 +2613,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGQ6OnZlY3Rvcjxib29sPiBkb19vd247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5977,58 +6013,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TermsPtr</text>
+        <text>EquationTerms</text>
       </register>
       <register name="/" type="4">
-        <text>node_based_syncer</text>
+        <text>dual_grad</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPEVxdWF0aW9uVGVybXM8VCwgTnVtRXFucz4+</text>
+      <register name="0" type="2">
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+CmNsYXNzIEVxdWF0aW9uVGVybXNGYWN0b3J5IHsKICAgIHZpcnR1YWwgc3RkOjpzaGFyZWRfcHRyPEVxdWF0aW9uVGVybXM8VCwgTnVtRXFucz4+IGNyZWF0ZSgpIGNvbnN0ID0gMDsKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGQ6OnZlY3Rvcjxib29sPiBkb19vd247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvX293bihIUzo6TWVzaFV0aWxpdGllczo6YnVpbGREb093bigqbWVzaC5nZXQoKSkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEVTVF9DQVNFKCJWaXNjb3VzSW50ZXJpb3JUZXJtcyBjb3JyZWN0bHkgY29tcHV0ZXMgZWRkeSB2aXNjb3NpdHkiKSB7CiAgICBNZXNzYWdlUGFzc2VyIG1wOwogICAgZG91YmxlIGdhbW1hID0gMS40OwogICAgZG91YmxlIGRlbnNpdHlfcmVmID0gMS4yMjU7CiAgICBkb3VibGUgcHJlc3N1cmVfcmVmID0gMTAxMzI1LjA7CiAgICBkb3VibGUgc3BlZWRfb2Zfc291bmRfcmVmID0gc3FydChnYW1tYSAqIHByZXNzdXJlX3JlZiAvIGRlbnNpdHlfcmVmKTsKICAgIGRvdWJsZSB0ZW1wZXJhdHVyZV9yZWYgPSBwcmVzc3VyZV9yZWYgLyAoSFNNb2NrVGhlcm1vOjpnZXRTcGVjaWZpY0dhc0NvbnN0YW50QWlyKCkgKiBkZW5zaXR5X3JlZik7CiAgICBkb3VibGUgbGVuZ3RoX3JlZiA9IDEuMDsKCiAgICBhdXRvIHRldF9tZXNoID0gSFNNb2NrTWVzaDo6Z2V0U2luZ2xlVGV0TWVzaCgpOwogICAgSFM6OlNvbHV0aW9uVmFyaWFibGVzPGRvdWJsZSwgNj4gc29sdXRpb24oSFM6OlNvbHV0aW9uTWFwOjpPbmVFcW5UdXJiKCksIHRldF9tZXNoLm5vZGVDb3VudCgpKTsKCiAgICBIUzo6Tm9uZGltZW5zaW9uYWxpemF0aW9uIG5vbmRpbWVuc2lvbmFsaXphdGlvbihkZW5zaXR5X3JlZiwgc3BlZWRfb2Zfc291bmRfcmVmLCB0ZW1wZXJhdHVyZV9yZWYsIGxlbmd0aF9yZWYpOwogICAgYXV0byB0aGVybW9faW5wdXQgPSBIU01vY2tUaGVybW86OmdldFBlcmZlY3RHYXNKc29uKCk7CiAgICBhdXRvIHRoZXJtb2R5bmFtaWNzID0gSFM6OlRoZXJtb1N0YXRlPGRvdWJsZT4odGhlcm1vX2lucHV0LCBub25kaW1lbnNpb25hbGl6YXRpb24pOwoKICAgIGRvdWJsZSBkZW5zaXR5ID0gMS4wOwogICAgZG91YmxlIGZhcmZpZWxkX3R1cmJ1bGVuY2UgPSAzLjAgKiB0aGVybW9keW5hbWljcy5jYWxjVmlzY29zaXR5KCZkZW5zaXR5LCAxLjApOwoKICAgIGZvciAoaW50IGNvcm5lciA9IDA7IGNvcm5lciA8IHRldF9tZXNoLm5vZGVDb3VudCgpOyArK2Nvcm5lcikgewogICAgICAgIHNvbHV0aW9uW2Nvcm5lcl1bMF0gPSBub25kaW1lbnNpb25hbGl6YXRpb24ubm9uZGltZW5zaW9uYWxEZW5zaXR5KGRlbnNpdHlfcmVmKTsKICAgICAgICBzb2x1dGlvbltjb3JuZXJdWzFdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLm5vbmRpbWVuc2lvbmFsU3BlZWQoMTcwLjE0Nyk7CiAgICAgICAgc29sdXRpb25bY29ybmVyXVsyXSA9IDAuMDsKICAgICAgICBzb2x1dGlvbltjb3JuZXJdWzNdID0gMC4wOwogICAgICAgIHNvbHV0aW9uW2Nvcm5lcl1bNF0gPSBub25kaW1lbnNpb25hbGl6YXRpb24ubm9uZGltZW5zaW9uYWxUZW1wZXJhdHVyZSh0ZW1wZXJhdHVyZV9yZWYpOwogICAgICAgIHNvbHV0aW9uW2Nvcm5lcl1bNV0gPSBmYXJmaWVsZF90dXJidWxlbmNlOwogICAgfQoKICAgIHN0ZDo6c3RyaW5nIGpzb25fbGl0ZXJhbCA9IFIiKFt7Im1lc2ggYm91bmRhcnkgdGFnIjpbMCwgMiwgM10sICJ0eXBlIjoiZGlyaWNobGV0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkZW5zaXR5IjogMS4yMjUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidmVsb2NpdHkiOlsxNzAuMTQ3LDAsMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicHJlc3N1cmUiOjEwMTMyNS4wfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Im1lc2ggYm91bmRhcnkgdGFnIjpbMV0sICJ0eXBlIjogIm5vIHNsaXAiLCAid2FsbCB0ZW1wZXJhdHVyZSI6IDMwMC4wfV0pIjsKCiAgICBhdXRvIGJvdW5kYXJ5X2NvbmRpdGlvbnMgPSBubG9obWFubjo6anNvbjo6cGFyc2UoanNvbl9saXRlcmFsKTsKCiAgICBhdXRvIGR1YWxfZ3JhZGllbnRzID0gSFM6OkR1YWxHcmFkaWVudENhbGN1bGF0b3I8ZG91YmxlLCA2Pih0ZXRfbWVzaCk7CiAgICBzdGQ6OnZlY3RvcjxpbnQ+IHZpc2NvdXNfZXF1YXRpb25fbnVtYmVycyA9IHswLCAxLCAyLCAzLCA0fTsKICAgIFR1cmJEZWJ1Z1NldHRpbmdzIHR1cmJfc2V0dGluZ3M7CiAgICB0dXJiX3NldHRpbmdzLmNvbnZlY3Rpb25fb24gPSB0cnVlOwogICAgdHVyYl9zZXR0aW5ncy5kaWZmdXNpb25fb24gPSB0cnVlOwogICAgdHVyYl9zZXR0aW5ncy5zb3VyY2Vfb24gPSB0cnVlOwogICAgdHVyYl9zZXR0aW5ncy5zZWNvbmRfb3JkZXIgPSBmYWxzZTsKICAgIHN0ZDo6dmVjdG9yPGludD4gd2FsbF9kaXN0YW5jZV90YWdzID0gSFM6OmdldFZpc2NvdXNXYWxsVGFncyhib3VuZGFyeV9jb25kaXRpb25zKTsKICAgIHN0ZDo6dmVjdG9yPGRvdWJsZT4gd2FsbF9kaXN0YW5jZSA9IEhTOjpidWlsZFdhbGxEaXN0YW5jZShtcCwgdGV0X21lc2gsIHdhbGxfZGlzdGFuY2VfdGFncyk7CiAgICBzdGQ6OnZlY3Rvcjxib29sPiBpc193YWxsX25vZGUgPSBIUzo6YnVpbGRJc1Zpc2NvdXNXYWxsTm9kZSh0ZXRfbWVzaCwgYm91bmRhcnlfY29uZGl0aW9ucyk7CiAgICBzdGQ6OnZlY3RvcjxpbnQ+IHR1cmJfZXFuX21hcCA9IHs1fTsKICAgIGF1dG8gdHVyYnVsZW5jZV90ZXJtcyA9IHN0ZDo6bWFrZV9zaGFyZWQ8U0FJbnRlcmlvclRlcm1zPGRvdWJsZSwgNj4+KHRldF9tZXNoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHVyYl9zZXR0aW5ncywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1YWxfZ3JhZGllbnRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2FsbF9kaXN0YW5jZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzX3dhbGxfbm9kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHVyYl9lcW5fbWFwKTsKICAgIGF1dG8gdmlzY291c19pbnRlcmlvcl90ZXJtcyA9IFZpc2NvdXNJbnRlcmlvclRlcm1zPGRvdWJsZSwgNj4odGV0X21lc2gsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR1cmJ1bGVuY2VfdGVybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2aXNjb3VzX2VxdWF0aW9uX251bWJlcnMpOwogICAgYXV0byBub25kaW1fbnVfcmVmID0gdGhlcm1vZHluYW1pY3MuY2FsY1Zpc2Nvc2l0eSgmZGVuc2l0eSwgMS4wKSAvIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5ub25kaW1lbnNpb25hbERlbnNpdHkoZGVuc2l0eV9yZWYpOwogICAgZG91YmxlIGV4YWN0X251X3QgPSAwLjIxMDQzOCAqIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eShub25kaW1fbnVfcmVmKTsKCiAgICBhdXRvIG5vbmRpbV9tdV90ID0gdmlzY291c19pbnRlcmlvcl90ZXJtcy5jYWxjRWRkeVZpc2Nvc2l0eShzb2x1dGlvbik7CiAgICBmb3IgKGludCBjb3JuZXIgPSAwOyBjb3JuZXIgPCB0ZXRfbWVzaC5ub2RlQ291bnQoKTsgKytjb3JuZXIpIHsKICAgICAgICBhdXRvIG51X3QgPSBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxLaW5lbWF0aWNWaXNjb3NpdHkobm9uZGltX211X3RbY29ybmVyXSAvIHNvbHV0aW9uW2Nvcm5lcl1bMF0pOwogICAgICAgIFJFUVVJUkUobnVfdCA9PSBBcHByb3goZXhhY3RfbnVfdCkpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganNvbl9jb25maWcuYXQoImludmlzY2lkIGZsdXggc2V0dGluZ3MiKS5hdCgiZmx1eCBmdW5jdGlvbiIpLAo=</text>
+        <text encoding="base64">I2luc3RhbGwoVEFSR0VUUyBJbnRlcmZhY2VzCiMgICAgICAgIEVYUE9SVCBJbnRlcmZhY2VzCiMgICAgICAgIExJQlJBUlkgREVTVElOQVRJT04gaHlwZXJzb2x2ZS9saWIpCiMKI2luc3RhbGwoRklMRVMgJHtIRUFERVJTfQojICAgICAgICBERVNUSU5BVElPTiBoeXBlcnNvbHZlL2luY2x1ZGUpCiMKI2luc3RhbGwoRklMRVMgSW50ZXJmYWNlc0NvbmZpZy5jbWFrZQojICAgICAgICBERVNUSU5BVElPTiBoeXBlcnNvbHZlKQoKI2luc3RhbGwoRVhQT1JUIEludGVyZmFjZXMKIyAgICAgICAgREVTVElOQVRJT04gaHlwZXJzb2x2ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBTdHJvbmdCQzo6U3Ryb25nQkNNYXA8VCwgTnVtRXFucz4gc3Ryb25nX2JjX21hcDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG8gc3Ryb25nX2JjX21hcCA9IEhTOjpTdHJvbmdCQzo6YnVpbGRTdHJvbmdCQ01hcDxkb3VibGUsIDY+KG5sb2htYW5uOjpqc29uOjpwYXJzZShiY19jb25maWcpLCB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIEhTIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBIUzo6U3Ryb25nQkM6OmJ1aWxkU3Ryb25nQkNNYXA8VCwgTnVtRXFucz4oanNvbl9jb25maWcuYXQoImJvdW5kYXJ5IGNvbmRpdGlvbnMiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlcm1vZHluYW1pY3MpLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpTdHJvbmdCQzo6U3Ryb25nQkNNYXA8VCwgTnVtRXFucz4mIHN0cm9uZ19iY19tYXBfaW4sCg==</text>
+        <text encoding="base64">Y2xhc3MgSW50ZXJpb3JUZXJtc0ZhY3RvcnkgewoKfTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3Ryb25nX2JjX21hcF9pbiksCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdGQ6OnZlY3Rvcjxib29sPiBkb19vd247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node_based_syncer</last-search>
+      <last-search>dual_grad</last-search>
       <last-offset />
-      <last-pattern>node_based_syncer</last-pattern>
+      <last-pattern>dual_grad</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6036,10 +6072,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turn</entry>
-        <entry>turb</entry>
-        <entry>strong_bc</entry>
-        <entry>bc_config</entry>
         <entry>weak_bc_map</entry>
         <entry>checkALl</entry>
         <entry>checkAll</entry>
@@ -6056,6 +6088,10 @@
         <entry>do_own</entry>
         <entry>nondimensional</entry>
         <entry>node_based_syncer</entry>
+        <entry>dual_gradient_calc</entry>
+        <entry>inviscid_interior_terms</entry>
+        <entry>inviscid_boundary_terms</entry>
+        <entry>dual_grad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

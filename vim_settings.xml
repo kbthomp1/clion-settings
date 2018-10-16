@@ -244,7 +244,7 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationTerms.h" timestamp="1539709885891">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationTerms.h" timestamp="1539711768071">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="116" />
       </file>
@@ -1033,6 +1033,9 @@
         <mark key="]" line="12" column="34" />
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1539711534225">
+        <mark key="." line="78" column="24" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1538069012323">
         <mark key="'" line="83" column="88" />
@@ -2064,8 +2067,8 @@
         <mark key="^" line="119" column="79" />
         <mark key="." line="119" column="79" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1539706063647">
-        <mark key="'" line="33" column="25" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" timestamp="1539711522215">
+        <mark key="'" line="211" column="28" />
         <mark key="[" line="193" column="75" />
         <mark key="]" line="194" column="83" />
         <mark key="^" line="194" column="83" />
@@ -2412,7 +2415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
       <jump line="47" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
       <jump line="49" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
       <jump line="158" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
@@ -2512,6 +2514,7 @@
       <jump line="351" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SAInteriorTerms.hpp" />
       <jump line="145" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SAInteriorTerms.hpp" />
       <jump line="71" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SAInteriorTerms.hpp" />
+      <jump line="211" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5925,7 +5928,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>formB</text>
+        <text>Terms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6IG1lc2gobWVzaF9pbiksCiAgICAgICAgICB0dXJiX3NldHRpbmdzKHNldHRpbmdzX2luKSwKICAgICAgICAgIGNlbGxfbHNxX3dlaWdodHMobWVzaF9pbiksCiAgICAgICAgICBkdWFsX2dyYWRpZW50KGR1YWxfZ3JhZGllbnRfY2FsY3VsYXRvcl9pbiksCiAgICAgICAgICBkaXN0YW5jZV90b193YWxsKHN0ZDo6bW92ZShkaXN0YW5jZV90b193YWxsX2luKSksCiAgICAgICAgICBpc193YWxsX25vZGUoc3RkOjptb3ZlKGlzX3dhbGxfbm9kZV9pbikpLAogICAgICAgICAgZXF1YXRpb25fbWFwKHN0ZDo6bW92ZShlcXVhdGlvbl9tYXBfaW4pKSwKICAgICAgICAgIHRoZXJtb2R5bmFtaWNzX3Jocyh0aGVybW9keW5hbWljcyksCiAgICAgICAgICB0aGVybW9keW5hbWljc19saHModGhlcm1vZHluYW1pY3MpLAogICAgICAgICAgdGhlcm1vZHluYW1pY3NfbGhzZ3JhZCh0aGVybW9keW5hbWljcyksCiAgICAgICAgICBzYV90dXJiX21vZGVsX3JocygxLmUtMTAsIHRoZXJtb2R5bmFtaWNzX3JocyksCiAgICAgICAgICBzYV90dXJiX21vZGVsX2xocygxLmUtMTAsIHRoZXJtb2R5bmFtaWNzX2xocyksCiAgICAgICAgICB0dXJiX21vZGVsX3BhaXIoc3RkOjptYWtlX3NoYXJlZDxUdXJiTW9kZWxQYWlyPFQsIGRkdCwgTnVtRXFucz4+KHNhX3R1cmJfbW9kZWxfcmhzLCBzYV90dXJiX21vZGVsX2xocykpIHt9Cg==</text>
@@ -5971,9 +5974,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formB</last-search>
+      <last-search>Terms</last-search>
       <last-offset />
-      <last-pattern>formB</last-pattern>
+      <last-pattern>Terms</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5981,8 +5984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bc_config</entry>
-        <entry>weak_bc_ma</entry>
         <entry>createInvisc</entry>
         <entry>Inviscid</entry>
         <entry>formA</entry>
@@ -6001,6 +6002,8 @@
         <entry>nondim</entry>
         <entry>sa_turb_model</entry>
         <entry>formB</entry>
+        <entry>add</entry>
+        <entry>Terms</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

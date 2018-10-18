@@ -575,12 +575,12 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" timestamp="1539878641782">
-        <mark key="'" line="189" column="69" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="212" column="69" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" timestamp="1539884985657">
+        <mark key="'" line="203" column="13" />
+        <mark key="[" line="159" column="103" />
+        <mark key="]" line="160" column="15" />
+        <mark key="." line="160" column="15" />
+        <mark key="^" line="160" column="15" />
       </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/LeastSquaresGradient.hpp" timestamp="1518473263198">
         <mark key="'" line="39" column="4" />
@@ -2646,14 +2646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="23" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="24" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="62" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="64" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="69" column="92" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="78" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="80" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="82" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
       <jump line="25" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
       <jump line="591" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -2733,7 +2725,6 @@
       <jump line="100" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="160" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="164" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="193" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="555" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -2746,6 +2737,15 @@
       <jump line="110" column="103" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="561" column="114" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="559" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="97" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="211" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="125" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="96" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="148" column="15" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="209" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="205" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2756,7 +2756,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6156,58 +6156,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.dump(),</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>createInviscidTerms</text>
+        <text>eqn_map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuaWdtYTo6QmxvY2tWZWN0b3I8VCwgTnVtRXFucz4gcmVzaWR1YWwobXAuZ2V0Q29tbXVuaWNhdG9yKCksIFEuc2l6ZSgpKTsKICAgICAgICAgICAgICAgIHJlc2lkdWFsLnplcm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBwYXJ0aXRpb25faGFzX2JvdW5kYXJ5X3RhZyA9IChib3VuZGFyeV90YWdzX3RvX25vZGVzLmNvdW50KGJvdW5kYXJ5X3RhZykgIT0gMCk7CgogICAgICAgICAgICBpZiAocGFydGl0aW9uX2hhc19ib3VuZGFyeV90YWcpIHsK</text>
+        <text encoding="base64">ICAgICAgICBIUzo6UG9pbnRGb3JjZXM8VD4gY2FsY1BvaW50Rm9yY2VzT25Cb3VuZGFyeShjb25zdCBFcXVhdGlvblRlcm1zPFQsIE51bUVxbnM+ICZ0ZXJtcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4gJlEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGJvdW5kYXJ5X3RhZykgY29uc3QgewogICAgICAgICAgICBhdXRvIHBvaW50X2ZvcmNlcyA9IEhTOjpQb2ludEZvcmNlczxUPihtZXNoLm5vZGVDb3VudCgpKTsKCiAgICAgICAgICAgIGF1dG8gcmVzaWR1YWwgPSBjYWxjQm91bmRhcnlSZXNpZHVhbChib3VuZGFyeV90YWcsIFEsIHRlcm1zKTsKICAgICAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLm5vZGVDb3VudCgpOyArK25vZGVfaWQpIHsKICAgICAgICAgICAgICAgIGlmIChtZXNoLm5vZGVPd25lcihub2RlX2lkKSA9PSBtcC5SYW5rKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBhdXRvICZyZXNpZHVhbF9hdF9ub2RlID0gcmVzaWR1YWxbbm9kZV9pZF07CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ4W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsxXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ5W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsyXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ6W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVszXSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHBvaW50X2ZvcmNlczsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuaWdtYTo6VmVjdG9yUkhTPFQsIE51bUVxbnM+IHJlc2lkdWFsKG1wLmdldENvbW11bmljYXRvcigpLCBsb2NhbF90b19nbG9iYWwpOwogICAgICAgICAgICAgICAgcmVzaWR1YWwuemVybygpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuaWdtYTo6QmxvY2tWZWN0b3I8VCwgTnVtRXFucz4gcmVzaWR1YWwobXAuZ2V0Q29tbXVuaWNhdG9yKCksIFEuc2l6ZSgpKTsKICAgICAgICAgICAgICAgIHJlc2lkdWFsLnplcm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBib3VuZGFyeV9jZWxsX2lkcyA9IE1lc2hVdGlsaXRpZXM6OmJ1aWxkQ2VsbElkc0Zyb21UYWdzKG1lc2gsIHtib3VuZGFyeV90YWd9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoYXV0byBub2RlX2lkIDogYm91bmRhcnlfdGFnc190b19ub2Rlcy5hdChib3VuZGFyeV90YWcpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVuaWdtYTo6VmVjdG9yPFQsIE51bUVxbnM+KiByZXNpZHVhbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSFM6OkludGVncmF0ZWRGb3JjZXM8VD4gZm9yY2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createInviscidTerms</last-search>
+      <last-search>eqn_map</last-search>
       <last-offset />
-      <last-pattern>createInviscidTerms</last-pattern>
+      <last-pattern>eqn_map</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6215,7 +6215,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thermodynamics</entry>
         <entry>dual_grad</entry>
         <entry>nondimen</entry>
         <entry>calcForces</entry>
@@ -6235,6 +6234,7 @@
         <entry>Factory</entry>
         <entry>TermsFactory</entry>
         <entry>createInviscidTerms</entry>
+        <entry>eqn_map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>

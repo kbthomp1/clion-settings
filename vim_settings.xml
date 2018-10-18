@@ -1166,6 +1166,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.h" timestamp="1539791167896">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1538069012323">
         <mark key="'" line="83" column="88" />
         <mark key="[" line="76" column="9" />
@@ -1214,6 +1220,12 @@
         <mark key="]" line="14" column="94" />
         <mark key="." line="14" column="94" />
         <mark key="^" line="14" column="94" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" timestamp="1539721798238">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/GlobalTimeSteppingTests.cpp" timestamp="1533589060248">
         <mark key="'" line="29" column="0" />
@@ -1282,6 +1294,12 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
+      </file>
+      <file name="$USER_HOME$/LAURA-5/src/post_process.f90" timestamp="1539886905622">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="778" column="0" />
+        <mark key="]" line="778" column="0" />
+        <mark key="." line="778" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CFLControllerTests.cpp" timestamp="1539632617003">
         <mark key="'" line="33" column="4" />
@@ -2646,11 +2664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="42" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/Discretization.hpp" />
-      <jump line="25" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" />
-      <jump line="591" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="41" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
-      <jump line="18" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="65" column="27" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="21" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="86" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
@@ -2746,6 +2759,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="209" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
       <jump line="205" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="766" column="13" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="962" column="13" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="992" column="40" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="1098" column="17" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2755,10 +2773,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>)
-)
-)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBsb3QgPSAwLl9kcAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6161,59 +6177,59 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>eqn_map</text>
+        <text>compute_blk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
       </register>
-      <register name="1" type="8">
-        <text>)
-)
-)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBsb3QgPSAwLl9kcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text>nondimensionalization.dimensionalForce(
-nondimensionalization.dimensionalForce(
-nondimensionalization.dimensionalForce(</text>
+        <text>)
+)
+)</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>nondimensionalization.dimensionalForce(
+nondimensionalization.dimensionalForce(
+nondimensionalization.dimensionalForce(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIUzo6UG9pbnRGb3JjZXM8VD4gY2FsY1BvaW50Rm9yY2VzT25Cb3VuZGFyeShjb25zdCBFcXVhdGlvblRlcm1zPFQsIE51bUVxbnM+ICZ0ZXJtcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4gJlEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGJvdW5kYXJ5X3RhZykgY29uc3QgewogICAgICAgICAgICBhdXRvIHBvaW50X2ZvcmNlcyA9IEhTOjpQb2ludEZvcmNlczxUPihtZXNoLm5vZGVDb3VudCgpKTsKCiAgICAgICAgICAgIGF1dG8gcmVzaWR1YWwgPSBjYWxjQm91bmRhcnlSZXNpZHVhbChib3VuZGFyeV90YWcsIFEsIHRlcm1zKTsKICAgICAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLm5vZGVDb3VudCgpOyArK25vZGVfaWQpIHsKICAgICAgICAgICAgICAgIGlmIChtZXNoLm5vZGVPd25lcihub2RlX2lkKSA9PSBtcC5SYW5rKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBhdXRvICZyZXNpZHVhbF9hdF9ub2RlID0gcmVzaWR1YWxbbm9kZV9pZF07CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ4W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsxXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ5W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsyXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ6W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVszXSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHBvaW50X2ZvcmNlczsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBIUzo6UG9pbnRGb3JjZXM8VD4gY2FsY1BvaW50Rm9yY2VzT25Cb3VuZGFyeShjb25zdCBFcXVhdGlvblRlcm1zPFQsIE51bUVxbnM+ICZ0ZXJtcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgTnVtRXFucz4gJlEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGJvdW5kYXJ5X3RhZykgY29uc3QgewogICAgICAgICAgICBhdXRvIHBvaW50X2ZvcmNlcyA9IEhTOjpQb2ludEZvcmNlczxUPihtZXNoLm5vZGVDb3VudCgpKTsKCiAgICAgICAgICAgIGF1dG8gcmVzaWR1YWwgPSBjYWxjQm91bmRhcnlSZXNpZHVhbChib3VuZGFyeV90YWcsIFEsIHRlcm1zKTsKICAgICAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLm5vZGVDb3VudCgpOyArK25vZGVfaWQpIHsKICAgICAgICAgICAgICAgIGlmIChtZXNoLm5vZGVPd25lcihub2RlX2lkKSA9PSBtcC5SYW5rKCkpIHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBhdXRvICZyZXNpZHVhbF9hdF9ub2RlID0gcmVzaWR1YWxbbm9kZV9pZF07CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ4W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsxXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ5W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVsyXSk7CiAgICAgICAgICAgICAgICAgICAgcG9pbnRfZm9yY2VzLkZ6W25vZGVfaWRdID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2UocmVzaWR1YWxfYXRfbm9kZVszXSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHBvaW50X2ZvcmNlczsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcnRpdGlvbkhhc0JvdW5kYXJ5VGFnKGJvdW5kYXJ5X3RhZykpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoYXV0byBub2RlX2lkIDogYm91bmRhcnlfdGFnc190b19ub2Rlcy5hdChib3VuZGFyeV90YWcpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoYXV0byBub2RlX2lkIDogYm91bmRhcnlfdGFnc190b19ub2Rlcy5hdChib3VuZGFyeV90YWcpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>995</text>
       </register>
     </registers>
     <search>
-      <last-search>eqn_map</last-search>
+      <last-search>compute_blk</last-search>
       <last-offset />
-      <last-pattern>eqn_map</last-pattern>
+      <last-pattern>compute_blk</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6221,7 +6237,6 @@ nondimensionalization.dimensionalForce(</text>
     </search>
     <history>
       <history-search>
-        <entry>dual_grad</entry>
         <entry>nondimen</entry>
         <entry>calcForces</entry>
         <entry>Disc</entry>
@@ -6241,9 +6256,9 @@ nondimensionalization.dimensionalForce(</text>
         <entry>TermsFactory</entry>
         <entry>createInviscidTerms</entry>
         <entry>eqn_map</entry>
+        <entry>compute_blk</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvc3RkOjphcnJheTxkb3VibGUsIDU+ICZxX2ludGVyaW9yL3N0ZDo6YXJyYXk8VCwgNT4gJnFfaW50ZXJpb3IvZw==</entry>
         <entry encoding="base64">XlxzKmlubGluZSBzdGQ6OmFycmF5PGRvdWJsZQ==</entry>
         <entry>s/ /\r/g</entry>
         <entry>s/ \s*/\r/g</entry>
@@ -6263,6 +6278,7 @@ nondimensionalization.dimensionalForce(</text>
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>995</entry>
       </history-cmd>
       <history-expr />
       <history-input />

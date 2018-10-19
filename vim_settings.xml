@@ -1716,12 +1716,13 @@
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" timestamp="1539899552595">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="77" column="20" />
+      <file name="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" timestamp="1539952617663">
+        <mark key="'" line="51" column="27" />
+        <mark key="k" line="51" column="53" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="51" column="27" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SolutionVariablesTests.cpp" timestamp="1532027353143">
         <mark key="'" line="6" column="0" />
@@ -2166,8 +2167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/PointForceComputerTests.cpp" />
-      <jump line="46" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="83" column="36" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="88" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
       <jump line="90" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceOutput.h" />
@@ -2266,6 +2265,8 @@
       <jump line="83" column="33" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.h" />
       <jump line="67" column="20" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" />
       <jump line="63" column="0" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" />
+      <jump line="51" column="53" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" />
+      <jump line="52" column="27" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/HyperSolveMiniApp.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2276,7 +2277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgbG9uZyBtYXhfY2VsbHMgPSBzdHJ0b2woYXJndlsxXSwgbnVsbHB0ciwgMCk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvbWFuaXA+Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5682,43 +5683,43 @@
         <text>NumEqns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWQlJV0gbG9vcGluZyBjZWxsOiAlbHUgb2YgJWx1XG4iLCBwZXJjZW50X2RvbmUsIGksIG1heF9jZWxscyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgbG9uZyBtYXhfY2VsbHMgPSBzdHJ0b2woYXJndlsxXSwgbnVsbHB0ciwgMCk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvbWFuaXA+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIm51bWJlciBvZiBhcmdzOiAlZFxuIiwgYXJnYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJbIiA8PCBwZXJjZW50X2RvbmUgIiVdIgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG1heF9jZWxscyA9IHN0cnRvbChhcmd2WzFdLCBudWxscHRyLCAwKTsK</text>
+        <text encoding="base64">Ly8gICAgbG9uZyBtYXhfY2VsbHMgPSBzdHJ0b2woYXJndlsxXSwgbnVsbHB0ciwgMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIm51bWJlciBvZiBhcmdzOiAlZFxuIiwgYXJnYyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG1heF9jZWxscyA9IHN0cnRvbChhcmd2WzFdLCBudWxscHRyLCAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmcgbWF4X2NlbGxzID0gc3RydG9sKGFyZ3ZbMV0sIG51bGxwdHIsIDApOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbWF4X2NlbGxzID0gaW50KDFlNyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50IG1haW4oKSB7Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgbWF4X2NlbGxzID0gc3RydG9sKGFyZ3ZbMV0sIG51bGxwdHIsIDApOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGF1dG8gbWF4X2NlbGxzID0gaW50KDFlNyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

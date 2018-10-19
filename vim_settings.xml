@@ -454,6 +454,13 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" timestamp="1539970562026">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="75" column="42" />
+        <mark key="." line="75" column="42" />
+        <mark key="^" line="75" column="42" />
+      </file>
       <file name="$USER_HOME$/one-ring/install/parfait/include/parfait/LeastSquaresGradient.hpp" timestamp="1518473263198">
         <mark key="'" line="39" column="4" />
         <mark key="[" line="39" column="28" />
@@ -1346,6 +1353,13 @@
         <mark key="." line="63" column="59" />
         <mark key="^" line="63" column="59" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" timestamp="1539970778091">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="63" column="44" />
+        <mark key="]" line="63" column="45" />
+        <mark key="." line="63" column="45" />
+        <mark key="^" line="63" column="30" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryConditionFactory.cpp" timestamp="1531939051440">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="68" column="98" />
@@ -2157,11 +2171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
-      <jump line="38" column="13" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
-      <jump line="40" column="24" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
-      <jump line="49" column="13" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
-      <jump line="32" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="51" column="1" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.h" />
       <jump line="57" column="0" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.h" />
@@ -2257,6 +2266,11 @@
       <jump line="19" column="60" filename="$USER_HOME$/one-ring/hypersolve/test/IntegratedForcesCostFunction.cpp" />
       <jump line="77" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/IntegratedForcesCostFunction.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/IntegratedForcesCostFunction.cpp" />
+      <jump line="82" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="35" column="25" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
+      <jump line="44" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="52" column="87" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
+      <jump line="53" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ForceIntegrator.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2266,8 +2280,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>boundary_tags, t);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvcmNlczIuRnggPSAyLjA7CiAgICBmb3JjZXMyLkZ5ID0gMi4xOwogICAgZm9yY2VzMi5GeiA9IDIuMjsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5667,58 +5681,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>boundary_tags, t);</text>
+        <text encoding="base64">ID0gMC4wOw==</text>
       </register>
       <register name="/" type="4">
-        <text>node_based_</text>
+        <text>Integ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJbJWQlJV0gbG9vcGluZyBjZWxsOiAlbHUgb2YgJWx1XG4iLCBwZXJjZW50X2RvbmUsIGksIG1heF9jZWxscyk7Cg==</text>
+        <text encoding="base64">ICAgIGZvcmNlczEuRnhbMF0gPSB7MS4wLCAyLjB9OwogICAgZm9yY2VzMS5GeVswXSA9IHsxLjEsIDIuMX07CiAgICBmb3JjZXMxLkZ6WzBdID0gezEuMiwgMi4yfTsKICAgIGZvcmNlczEuRnhbMV0gPSB7MS4zLCAyLjN9OwogICAgZm9yY2VzMS5GeVsxXSA9IHsxLjQsIDIuNH07CiAgICBmb3JjZXMxLkZ6WzFdID0gezEuNSwgMi41fTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTx0eXBlbmFtZSBUMj4K</text>
+        <text encoding="base64">ICAgIGZvcmNlczIuRnggPSAyLjA7CiAgICBmb3JjZXMyLkZ5ID0gMi4xOwogICAgZm9yY2VzMi5GeiA9IDIuMjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gYmNfY29uZmlnID0gbmxvaG1hbm46Ompzb246OnBhcnNlKGpzb25fbGl0ZXJhbCk7Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZm9yY2VzMiA9IEhTOjpJbnRlZ3JhdGVkRm9yY2VzPGRvdWJsZT4oKTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gbm9kZV9iYXNlZF9zeW5jZXIgPSBIUzo6R2hvc3RTeW5jZXIobXAsIEhTOjpNZXNoVXRpbGl0aWVzOjpidWlsZEdsb2JhbFRvTG9jYWwodGV0X21lc2gpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIUzo6TWVzaFV0aWxpdGllczo6YnVpbGROb2RlU3luY1BhdHRlcm4obXAsIHRldF9tZXNoKSk7Cg==</text>
+        <text encoding="base64">ICAgIG0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpHaG9zdFN5bmNlciYgbm9kZV9iYXNlZF9zeW5jZXIsCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ID0gMC4wOwogPSAwLjA7CiA9IDAuMDs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpOb25kaW1lbnNpb25hbGl6YXRpb24gJm5vbmRpbWVuc2lvbmFsaXphdGlvbiwK</text>
+      <register name="5" type="8">
+        <text>+
++
++</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBGb3JjZU91dHB1dDxMaW5lYXJpemU6OkRkYXRhPFQsIE51bUVxbnM+LCBOdW1FcW5zPiBmb3JjZV9vdXRwdXRfZGR0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9yY2Vfb3V0cHV0X2RkdChtcCwgbWVzaCwgbm9uZGltZW5zaW9uYWxpemF0aW9uLCBub2RlX2Jhc2VkX3N5bmNlciwgYmNfY29uZmlnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bS5GeFtpXSA9IEZ4W2ldICsgb3RoZXJfZm9yY2UuRnhbaV07CiAgICAgICAgICAgICAgICBzdW0uRnlbaV0gPSBGeVtpXSArIG90aGVyX2ZvcmNlLkZ5W2ldOwogICAgICAgICAgICAgICAgc3VtLkZ6W2ldID0gRnpbaV0gKyBvdGhlcl9mb3JjZS5GeltpXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IG5sb2htYW5uOjpqc29uJiBiY19jb25maWcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkV4cGxpY2l0U29sdmVyLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtLkZ4ID0gRnggKyBvdGhlcl9mb3JjZS5GeDsKICAgICAgICAgICAgc3VtLkZ5ID0gRnkgKyBvdGhlcl9mb3JjZS5GeTsKICAgICAgICAgICAgc3VtLkZ6ID0gRnogKyBvdGhlcl9mb3JjZS5GejsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>node_based_</last-search>
+      <last-search>Integ</last-search>
       <last-offset />
-      <last-pattern>node_based_</last-pattern>
+      <last-pattern>Integ</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5726,7 +5742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tet::calc</entry>
         <entry>Tet</entry>
         <entry>calcDualNormals</entry>
         <entry>Element</entry>
@@ -5746,6 +5761,7 @@
         <entry>nondim</entry>
         <entry>bc_config</entry>
         <entry>node_based_</entry>
+        <entry>Integ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">XlxzKmlubGluZSBzdGQ6OmFycmF5PGRvdWJsZQ==</entry>

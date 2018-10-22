@@ -279,11 +279,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationTerms.h" timestamp="1539869297684">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="109" />
-        <mark key="." line="17" column="97" />
-        <mark key="^" line="17" column="97" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/EquationTerms.h" timestamp="1540235484821">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/hefss++/unit_tests/TransportPropertiesTests.cpp" timestamp="1510086583491">
         <mark key="'" line="15" column="73" />
@@ -835,8 +835,8 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1539367640102">
-        <mark key="'" line="263" column="29" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540235703127">
+        <mark key="'" line="208" column="54" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="353" column="29" />
         <mark key="." line="68" column="44" />
@@ -2403,6 +2403,7 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" timestamp="1540235583781" />
       <file name="$USER_HOME$/one-ring/ra/src/TransportPerfectGas.h" timestamp="1529437745892">
         <mark key="'" line="25" column="13" />
         <mark key="[" line="50" column="35" />
@@ -2593,7 +2594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="3" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.h" />
       <jump line="98" column="0" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.h" />
       <jump line="81" column="14" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
       <jump line="9" column="0" filename="$USER_HOME$/one-ring/hypersolve/miniapp/viscous_jacobian.cpp" />
@@ -2693,6 +2693,7 @@
       <jump line="123" column="47" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="8" column="24" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="44" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/CellGradients.h" />
+      <jump line="208" column="54" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6106,7 +6107,7 @@
         <text encoding="base64">VCA=</text>
       </register>
       <register name="/" type="4">
-        <text>do_own</text>
+        <text>monitorRes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb3VibGUgdmlzY29zaXR5ID0gdGhlcm1vZHluYW1pY3MuY2FsY1Zpc2Nvc2l0eSgmc29sdXRpb25bMF1bMF0sIHNvbHV0aW9uWzBdWzRdKTsKICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IHVncmFkID0gezAuMCwgMS4wLCAwLjB9OwogICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gdmdyYWQgPSB7MC4wLCAwLjAsIDAuMH07CiAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiB3Z3JhZCA9IHswLjAsIDAuMCwgMC4wfTsKICAgICAgICBhdXRvIHRhdSA9IEhTOjpjYWxjTGFtaW5hclN0cmVzczxkb3VibGU+KHVncmFkLCB2Z3JhZCwgd2dyYWQsIHZpc2Nvc2l0eSk7CiAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBhcmVhezAuMCwgMC41LCAwLjB9OwoKICAgICAgICBhdXRvIGV4cGVjdGVkX3Zpc2NvdXNfZm9yY2VzID0gdGF1ICogYXJlYTsK</text>
@@ -6152,9 +6153,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do_own</last-search>
+      <last-search>monitorRes</last-search>
       <last-offset />
-      <last-pattern>do_own</last-pattern>
+      <last-pattern>monitorRes</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6162,7 +6163,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edge_to_face</entry>
         <entry>calcSij</entry>
         <entry>tet_cgns</entry>
         <entry>Point</entry>
@@ -6182,6 +6182,7 @@
         <entry>node_based</entry>
         <entry>Fx</entry>
         <entry>do_own</entry>
+        <entry>monitorRes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">XlxzKmlubGluZSBzdGQ6OmFycmF5PGRvdWJsZQ==</entry>

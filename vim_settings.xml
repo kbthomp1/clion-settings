@@ -1263,13 +1263,10 @@
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/LAURA-5/src/post_process.f90" timestamp="1540302548438">
-        <mark key="'" line="5179" column="44" />
+      <file name="$USER_HOME$/LAURA-5/src/post_process.f90" timestamp="1540313224689">
+        <mark key="'" line="45" column="23" />
         <mark key="k" line="3896" column="10" />
-        <mark key="[" line="3790" column="0" />
-        <mark key="]" line="3790" column="0" />
         <mark key="^" line="3788" column="36" />
-        <mark key="." line="3790" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CFLControllerTests.cpp" timestamp="1539632617003">
         <mark key="'" line="33" column="4" />
@@ -1345,6 +1342,9 @@
         <mark key="]" line="58" column="120" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="57" column="38" />
+      </file>
+      <file name="$USER_HOME$/LAURA-5/src/pre_process.f90" timestamp="1540313339489">
+        <mark key="'" line="2303" column="14" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.h" timestamp="1539792643722">
         <mark key="'" line="25" column="25" />
@@ -2616,25 +2616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="66" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
-      <jump line="45" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
-      <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
-      <jump line="63" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
-      <jump line="3" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" />
-      <jump line="59" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" />
-      <jump line="57" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/DensityTemperatureRealizabilityTests.cpp" />
-      <jump line="53" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="61" column="106" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="16" column="88" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="18" column="97" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="20" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="39" column="88" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="51" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
-      <jump line="137" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="146" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="147" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="513" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="515" column="19" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="519" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2676,7 +2657,6 @@
       <jump line="3807" column="38" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="4246" column="33" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="4247" column="33" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
-      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="1121" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="1212" column="43" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="1223" column="37" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
@@ -2716,6 +2696,26 @@
       <jump line="1255" column="17" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="4005" column="8" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="5180" column="44" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="2359" column="44" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2456" column="0" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2145" column="30" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2146" column="30" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2147" column="30" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="3787" column="35" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="3790" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="4687" column="13" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="5343" column="8" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="149" column="10" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="147" column="16" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="1463" column="14" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="0" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="45" column="23" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
+      <jump line="2235" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2251" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2254" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2294" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2458" column="9" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="2303" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6129,7 +6129,7 @@
         <text>, iunit_blayer)</text>
       </register>
       <register name="/" type="4">
-        <text>iunit_b</text>
+        <text>blayer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2hhcmFjdGVyKDEyMCkgOjogbmFtZQo=</text>
@@ -6175,9 +6175,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iunit_b</last-search>
+      <last-search>blayer</last-search>
       <last-offset />
-      <last-pattern>iunit_b</last-pattern>
+      <last-pattern>blayer</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6185,9 +6185,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new_update</entry>
-        <entry>thermo</entry>
-        <entry>thermodynamics</entry>
         <entry>PETScToEnigma</entry>
         <entry>ry</entry>
         <entry>try</entry>
@@ -6205,6 +6202,9 @@
         <entry>iunit_blayer</entry>
         <entry>get_wall_</entry>
         <entry>iunit_b</entry>
+        <entry>legacy</entry>
+        <entry>blayer_flagset</entry>
+        <entry>blayer</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

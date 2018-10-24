@@ -835,12 +835,12 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540409670967">
-        <mark key="'" line="313" column="8" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540410414594">
+        <mark key="'" line="83" column="0" />
         <mark key="k" line="30" column="27" />
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="86" column="45" />
-        <mark key="." line="87" column="36" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="59" />
+        <mark key="." line="293" column="0" />
         <mark key="^" line="86" column="45" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
@@ -1236,12 +1236,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540409675415">
-        <mark key="'" line="89" column="19" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="87" column="55" />
+      <file name="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540410409074">
+        <mark key="'" line="262" column="8" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="59" />
+        <mark key="." line="262" column="58" />
+        <mark key="^" line="262" column="58" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" timestamp="1532614697669">
         <mark key="'" line="25" column="10" />
@@ -2598,10 +2598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1248" column="31" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
-      <jump line="1264" column="31" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
-      <jump line="1274" column="31" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
-      <jump line="3807" column="38" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="4246" column="33" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="4247" column="33" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
       <jump line="1121" column="0" filename="$USER_HOME$/LAURA-5/src/post_process.f90" />
@@ -2698,6 +2694,10 @@
       <jump line="319" column="76" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="328" column="44" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="313" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="255" column="35" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="257" column="84" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="262" column="8" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="83" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2708,7 +2708,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwogICAgcy0+c29sdXRpb24ucHJpbnQoImN1cnJlbnQgc29sdXRpb24iKTsK</text>
+        <text encoding="base64">ICAgIHMtPnNvbHV0aW9uLnByaW50KCJtb25pdG9yUmVzaWR1YWw6IGN1cnJlbnQgc29sdXRpb24iKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6111,10 +6111,10 @@
         <text>previous</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">cy0+aXRlcmF0aW9u</text>
+        <text>monitorRes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiaXRlcmF0aW9uOiAlZFxuIiwgcy0+aXRlcmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIHMtPnNvbHV0aW9uLnByaW50KCJtb25pdG9yUmVzaWR1YWw6IGN1cnJlbnQgc29sdXRpb24iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwogICAgcy0+c29sdXRpb24ucHJpbnQoImN1cnJlbnQgc29sdXRpb24iKTsK</text>
@@ -6157,9 +6157,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">cy0+aXRlcmF0aW9u</last-search>
+      <last-search>monitorRes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">cy0+aXRlcmF0aW9u</last-pattern>
+      <last-pattern>monitorRes</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6167,8 +6167,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blayerout</entry>
-        <entry>itype</entry>
         <entry>active</entry>
         <entry>init_wall_prop_names</entry>
         <entry>init_shock</entry>
@@ -6187,6 +6185,8 @@
         <entry>\.print</entry>
         <entry>print</entry>
         <entry encoding="base64">cy0+aXRlcmF0aW9u</entry>
+        <entry>current_solve_iteration</entry>
+        <entry>monitorRes</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

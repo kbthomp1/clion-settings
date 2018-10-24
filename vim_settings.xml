@@ -966,9 +966,12 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1540243877385">
-        <mark key="'" line="28" column="69" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1540387398498">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="53" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="36" column="53" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/SparsityPatternBuilders.h" timestamp="1539809085901">
         <mark key="'" line="44" column="0" />
@@ -2599,12 +2602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="515" column="19" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="519" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="65" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="78" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="93" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="109" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="21" column="99" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
       <jump line="100" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -2699,6 +2696,12 @@
       <jump line="2294" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="2458" column="9" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="2303" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
+      <jump line="35" column="20" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="34" column="57" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="44" column="40" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="18" column="18" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="29" column="57" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="32" column="28" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2708,8 +2711,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHMtPmNhbGNSZXNpZHVhbChwZXRzY19zbmVzLCBjdXJyZW50X3NvbHV0aW9uLCBzLT5tX3Jlc2lkdWFsLCBzb2x2ZXJfZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>solution.</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6109,10 +6112,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, iunit_blayer)</text>
+        <text>solution.</text>
       </register>
       <register name="/" type="4">
-        <text>blayer</text>
+        <text>smoothed_residual</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2hhcmFjdGVyKDEyMCkgOjogbmFtZQo=</text>
@@ -6158,9 +6161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>blayer</last-search>
+      <last-search>smoothed_residual</last-search>
       <last-offset />
-      <last-pattern>blayer</last-pattern>
+      <last-pattern>smoothed_residual</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6168,8 +6171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PETScToEnigma</entry>
-        <entry>ry</entry>
         <entry>try</entry>
         <entry>PRe</entry>
         <entry>Pre</entry>
@@ -6188,6 +6189,8 @@
         <entry>legacy</entry>
         <entry>blayer_flagset</entry>
         <entry>blayer</entry>
+        <entry>solution</entry>
+        <entry>smoothed_residual</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

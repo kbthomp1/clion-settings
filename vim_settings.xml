@@ -2089,8 +2089,8 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1540566742897">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1540579080690">
+        <mark key="'" line="45" column="5" />
         <mark key="[" line="47" column="14" />
         <mark key="]" line="47" column="14" />
         <mark key="." line="47" column="14" />
@@ -2602,8 +2602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="28" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="89" column="19" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="28" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="39" column="56" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="61" column="18" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2702,6 +2700,8 @@
       <jump line="153" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="155" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="121" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
+      <jump line="34" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" />
+      <jump line="45" column="5" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6115,7 +6115,7 @@
         <text>td::string(__func__) + &quot;:</text>
       </register>
       <register name="/" type="4">
-        <text>rnu</text>
+        <text>ranks</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc291cmNlID0gU0FTb3VyY2VQb3NpdGl2ZVR1cmJ1bGVuY2UoZGlzdGFuY2VfdG9fd2FsbCwgdHVyYiwgd19tb2QsIGtpbmVtYXRpY192aXNjb3NpdHkpOwo=</text>
@@ -6161,9 +6161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rnu</last-search>
+      <last-search>ranks</last-search>
       <last-offset />
-      <last-pattern>rnu</last-pattern>
+      <last-pattern>ranks</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6171,8 +6171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CHECKPOIT</entry>
-        <entry>CHECKPOINT</entry>
         <entry>CHECKPOIN</entry>
         <entry>monitorResidual</entry>
         <entry>calcResi</entry>
@@ -6191,6 +6189,8 @@
         <entry>fw</entry>
         <entry>g</entry>
         <entry>rnu</entry>
+        <entry>pro</entry>
+        <entry>ranks</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

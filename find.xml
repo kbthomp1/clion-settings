@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.h*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,8 +24,8 @@
     <mask>*.ra</mask>
     <mask>*.h</mask>
     <mask>*Weak*</mask>
-    <mask>*.h*</mask>
     <mask>CMakeLists.txt</mask>
     <mask>*.json</mask>
+    <mask>*.h*</mask>
   </component>
 </application>

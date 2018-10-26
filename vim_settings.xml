@@ -863,12 +863,12 @@
         <mark key="." line="195" column="133" />
         <mark key="^" line="179" column="137" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" timestamp="1539713951612">
-        <mark key="'" line="139" column="15" />
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="36" column="45" />
-        <mark key="^" line="36" column="45" />
-        <mark key="." line="36" column="45" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" timestamp="1540575214236">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="127" column="38" />
+        <mark key="." line="127" column="38" />
+        <mark key="^" line="127" column="38" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/DenseMatrix.h" timestamp="1539275827939">
         <mark key="'" line="9" column="0" />
@@ -2603,7 +2603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2303" column="14" filename="$USER_HOME$/LAURA-5/src/pre_process.f90" />
       <jump line="35" column="20" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
       <jump line="34" column="57" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
       <jump line="44" column="40" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
@@ -2703,6 +2702,7 @@
       <jump line="96" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="610" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="611" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="109" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2713,7 +2713,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>hi</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6113,58 +6113,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>hi</text>
       </register>
       <register name="/" type="4">
-        <text>HS::Logger</text>
+        <text>sa_source</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVuaWdtYS9QRVRTY1J1bnRpbWUuaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJjaGk6ICIgPDwgY2hpIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFbmlnbWFMb2dnZXIuaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbmlnbWFMb2dnZXIuaAo=</text>
+        <text encoding="base64">ICAgICAgICBpZgoK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbmlnbWFMb2dnZXIuaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhTOjpMb2dnZXI6OnNldFJhbmtzVG9UcmFjZShqc29uX2NvbmZpZy5hdCgicHJvZmlsaW5nIikuYXQoInJhbmtzIHRvIHRyYWNlIikpOwogICAgSFM6OkxvZ2dlcjo6c2V0UHJvY2Vzc0lkKG1wLlJhbmsoKSk7CiAgICBpZiAoanNvbl9jb25maWcuYXQoInByb2ZpbGluZyIpLmF0KCJkZWJ1ZyIpKQogICAgICAgIEhTOjpMb2dnZXI6OnNldERlYnVnKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbmlnbWFMb2dnZXIuaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPENvbmZpZ3VyYXRpb24uaD4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEhTOjpMb2dnZXI6OnNldFJhbmtzVG9UcmFjZShqc29uX2NvbmZpZy5hdCgicHJvZmlsaW5nIikuYXQoInJhbmtzIHRvIHRyYWNlIikpOwogICAgSFM6OkxvZ2dlcjo6c2V0UHJvY2Vzc0lkKG1wLlJhbmsoKSk7CiAgICBpZiAoanNvbl9jb25maWcuYXQoInByb2ZpbGluZyIpLmF0KCJkZWJ1ZyIpKQogICAgICAgIEhTOjpMb2dnZXI6OnNldERlYnVnKCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">I2luY2x1ZGUgPENvbmZpZ3VyYXRpb24uaD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlUGFzc2VyIG1wOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc21vb3RoZWRfcmVzaWR1YWwoY29tbSwgZ3JhcGgubnVtYmVyT2ZFbnRyaWVzKCkpLAo=</text>
+        <text encoding="base64">ICAgIFMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HS::Logger</last-search>
+      <last-search>sa_source</last-search>
       <last-offset />
-      <last-pattern>HS::Logger</last-pattern>
+      <last-pattern>sa_source</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6172,7 +6172,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry encoding="base64">cy0+aXRlcmF0aW9u</entry>
         <entry>current_solve_iteration</entry>
         <entry>monitorRes</entry>
@@ -6192,6 +6191,7 @@
         <entry>Tracer</entry>
         <entry>Logger</entry>
         <entry>HS::Logger</entry>
+        <entry>sa_source</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

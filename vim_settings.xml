@@ -847,13 +847,12 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540583727615">
-        <mark key="'" line="80" column="0" />
-        <mark key="k" line="309" column="0" />
-        <mark key="[" line="152" column="36" />
-        <mark key="]" line="152" column="43" />
-        <mark key="." line="152" column="43" />
-        <mark key="^" line="152" column="43" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540920344722">
+        <mark key="'" line="274" column="0" />
+        <mark key="k" line="305" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -2610,10 +2609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="57" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="95" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="91" column="36" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="90" column="45" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="91" column="36" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="102" column="12" filename="$USER_HOME$/clean-one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="87" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2710,6 +2705,10 @@
       <jump line="470" column="29" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="230" column="95" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="80" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="196" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="378" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="180" column="35" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="274" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2720,7 +2719,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwogICAgcy0+c29sdXRpb24ucHJpbnQoInNvbHV0aW9uIik7Cg==</text>
+        <text encoding="base64">CiAgICBwcmludGYoImluIFBvc3RDaGVja1xuIik7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6120,58 +6119,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>solution</text>
+        <text>linear_solver_converged_reason</text>
       </register>
       <register name="/" type="4">
-        <text>Post</text>
+        <text>monitorRes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHMtPnNvbHV0aW9uLnByaW50KCJzb2x1dGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgIGlmKGxpbmVhcl9zb2x2ZXJfY29udmVyZ2VkX3JlYXNvbiA8IDApIHsKICAgICAgICBTTkVTTGluZVNlYXJjaFNldFJlYXNvbihscywgU05FU19MSU5FU0VBUkNIX0ZBSUxFRF9VU0VSKTsKICAgICAgICBpZihzLT5tcC5SYW5rKCkgPT0gMCkgcHJpbnRmKCJQcmVDaGVjazogTWFya2luZyBsaW5lIHNlYXJjaCBmYWlsZWQgYmVjYXVzZSB0aGUgbGluZWFyIHN5c3RlbSBmYWlsZWQuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwogICAgcy0+c29sdXRpb24ucHJpbnQoInNvbHV0aW9uIik7Cg==</text>
+        <text encoding="base64">CiAgICBwcmludGYoImluIFBvc3RDaGVja1xuIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocy0+YWxsb3dfcHJpbnRpbmcpCiAgICAgICAgICAgIHByaW50ZigiTWFya2luZyBsaW5lc2VhcmNoIGZhaWxlZFxuIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUIGR0KDFlLTYpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChzLT5hbGxvd19wcmludGluZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEhhY2sgdG8gZ2V0IHJlc2lkdWFsIG5vcm0gY29ycmVjdAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoKHN0ZDo6bG9naWNfZXJyb3ImIGUpIHsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJkZW5zaXR5IiA8PCBkZW5zaXR5IDw8IHN0ZDo6ZW5kbDsKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJ0ZW1wZXJhdHVyZSIgPDwgdGVtcGVyYXR1cmUgPDwgc3RkOjplbmRsOwogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGF1dG8gc25lcyA9IHMtPmdldFNORVMoKTsKICAgIEtTUCBrc3A7CiAgICBTTkVTR2V0S1NQKHNuZXMsICZrc3ApOwogICAgS1NQQ29udmVyZ2VkUmVhc29uIGxpbmVhcl9zb2x2ZXJfY29udmVyZ2VkX3JlYXNvbjsKICAgIEtTUEdldENvbnZlcmdlZFJlYXNvbihrc3AsICZsaW5lYXJfc29sdmVyX2NvbnZlcmdlZF9yZWFzb24pOwogICAgaWYobGluZWFyX3NvbHZlcl9jb252ZXJnZWRfcmVhc29uIDwgMCkgewogICAgICAgIFNORVNMaW5lU2VhcmNoU2V0UmVhc29uKGxzLCBTTkVTX0xJTkVTRUFSQ0hfRkFJTEVEX1VTRVIpOwogICAgICAgIGlmKHMtPm1wLlJhbmsoKSA9PSAwKSBwcmludGYoIlByZUNoZWNrOiBNYXJraW5nIGxpbmUgc2VhcmNoIGZhaWxlZCBiZWNhdXNlIHRoZSBsaW5lYXIgc3lzdGVtIGZhaWxlZC4iKTsKICAgIH0gZWxzZSB7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTTkVTTGluZVNlYXJjaFNldFJlYXNvbihscywgU05FU19MSU5FU0VBUkNIX0ZBSUxFRF9VU0VSKTsKICAgICAgICBpZihzLT5tcC5SYW5rKCkgPT0gMCkgcHJpbnRmKCJQcmVDaGVjazogTWFya2luZyBsaW5lIHNlYXJjaCBmYWlsZWQgYmVjYXVzZSB0aGUgbGluZWFyIHN5c3RlbSBmYWlsZWQuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwogICAgcy0+c29sdXRpb24ucHJpbnQoInNvbHV0aW9uIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUMiBzb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgIHMtPnByZXZpb3VzX3NvbHV0aW9uLnByaW50KCJwcmV2aW91cyBzb2x1dGlvbiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Post</last-search>
+      <last-search>monitorRes</last-search>
       <last-offset />
-      <last-pattern>Post</last-pattern>
+      <last-pattern>monitorRes</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6179,8 +6178,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HS::Logger</entry>
-        <entry>s_hat</entry>
         <entry>sa_source</entry>
         <entry>presssure</entry>
         <entry>pressure</entry>
@@ -6199,6 +6196,8 @@
         <entry>postCheck</entry>
         <entry>calcResidual</entry>
         <entry>Post</entry>
+        <entry>Pre</entry>
+        <entry>monitorRes</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

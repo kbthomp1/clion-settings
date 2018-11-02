@@ -352,13 +352,13 @@
         <mark key="." line="88" column="53" />
         <mark key="^" line="88" column="53" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.hpp" timestamp="1541161564631">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="142" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.hpp" timestamp="1541170203016">
+        <mark key="'" line="37" column="39" />
+        <mark key="[" line="22" column="31" />
         <mark key="k" line="63" column="0" />
-        <mark key="]" line="148" column="4" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="13" column="37" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" timestamp="1518464145132">
         <mark key="'" line="52" column="58" />
@@ -856,13 +856,6 @@
         <mark key="]" line="45" column="24" />
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
-      </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1540920344722">
-        <mark key="'" line="274" column="0" />
-        <mark key="k" line="305" column="0" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -2159,7 +2152,8 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" timestamp="1539869262844">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" timestamp="1541169954264">
+        <mark key="'" line="17" column="102" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="9" />
         <mark key="^" line="36" column="84" />
@@ -2629,11 +2623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SlopeLimiter.h" />
-      <jump line="595" column="73" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="43" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="44" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="66" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="96" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="610" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="611" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
@@ -2729,6 +2718,11 @@
       <jump line="120" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="121" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="131" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
+      <jump line="18" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
+      <jump line="14" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
+      <jump line="16" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
+      <jump line="17" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
+      <jump line="37" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2738,8 +2732,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6139,10 +6133,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>equation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
@@ -6188,9 +6182,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>equation</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>equation</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6198,8 +6192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ranks</entry>
-        <entry>try</entry>
         <entry>calcCon</entry>
         <entry>handler</entry>
         <entry>linesearch</entry>
@@ -6218,6 +6210,8 @@
         <entry>petsc_runtime</entry>
         <entry>runtime</entry>
         <entry>print</entry>
+        <entry>equation_map</entry>
+        <entry>equation</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

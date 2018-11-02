@@ -1241,8 +1241,8 @@
         <mark key="." line="96" column="17" />
         <mark key="^" line="96" column="15" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" timestamp="1541171431861">
-        <mark key="'" line="12" column="22" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" timestamp="1541180814274">
+        <mark key="'" line="9" column="4" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="65" column="4" />
       </file>
@@ -2452,11 +2452,11 @@
         <mark key="." line="78" column="8" />
         <mark key="^" line="51" column="94" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/SmoothCFLControllerTests.cpp" timestamp="1541171836724">
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="44" />
-        <mark key="." line="52" column="44" />
-        <mark key="^" line="52" column="44" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SmoothCFLControllerTests.cpp" timestamp="1541180700197">
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+        <mark key="^" line="55" column="44" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/matrix.f90" timestamp="1503353001623">
         <mark key="'" line="862" column="9" />
@@ -2634,7 +2634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="115" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="117" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="119" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
@@ -2734,6 +2733,7 @@
       <jump line="46" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
       <jump line="11" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
       <jump line="12" column="22" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
+      <jump line="9" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2743,8 +2743,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Matching nonlinearity target yields no change</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSA+IGluaXRpYWxfY2ZsKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6144,49 +6144,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Matching nonlinearity target yields no change</text>
+        <text>raises</text>
       </register>
       <register name="/" type="4">
         <text>initial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oIk1hdGNoaW5nIG5vbmxpbmVhcml0eSB0YXJnZXQgeWllbGRzIG5vIGNoYW5nZSBpbiBDRkwiKSB7CiAgICAgICAgY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNyk7CiAgICAgICAgUkVRVUlSRShjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkgPT0gaW5pdGlhbF9jZmwpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBSRVFVSVJFKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSA+IGluaXRpYWxfY2ZsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oIk1hdGNoaW5nIG5vbmxpbmVhcml0eSB0YXJnZXQgeWllbGRzIG5vIGNoYW5nZSBpbiBDRkwiKSB7CiAgICAgICAgY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNyk7CiAgICAgICAgUkVRVUlSRShjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkgPT0gaW5pdGlhbF9jZmwpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNmbF9jb250cm9sbGVyLnVwZGF0ZUNGTCgwLjcpCiAgICBSRVFVSVJFKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSA9PSBpbml0aWFsX2NmbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGJldGEgPSAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJFUVVJUkUoY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNykgPT0gaW5pdGlhbF9jZmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNmbF9jb250cm9sbGVyLnVwZGF0ZUNGTCgwLjcpCiAgICBSRVFVSVJFKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSA9PSBpbml0aWFsX2NmbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNykgPT0gaW5pdGlhbF9jZmwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYzoKICAgICAgICBTQ0ZMQ29udHJvbGxlcihkb3VibGUgaW5pdGlhbF9jZmwsIGRvdWJsZSBtaW5fY2ZsLCBkb3VibGUgbWF4X2NmbCwgZG91YmxlIGFsbG93ZWRfcmVzX2luY3JlYXNlKQogICAgICAgICAgICAgICAgOiBpbml0aWFsKGluaXRpYWxfY2ZsKSwgbWluKG1pbl9jZmwpLCBtYXgobWF4X2NmbCksIGxhc3Rfbm9ybSgxLjBlKzIwMCksIGN1cnJlbnRfY2ZsKGluaXRpYWxfY2ZsKSwKICAgICAgICAgICAgICAgICAgcmVzaWR1YWxfYWxsb3dlZF9pbmNyZWFzZShhbGxvd2VkX3Jlc19pbmNyZWFzZSkgeyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgaW5pdGlhbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

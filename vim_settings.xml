@@ -1241,6 +1241,11 @@
         <mark key="." line="96" column="17" />
         <mark key="^" line="96" column="15" />
       </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" timestamp="1541171431861">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/TermsFactory.h" timestamp="1539806445276">
         <mark key="'" line="34" column="22" />
         <mark key="[" line="20" column="34" />
@@ -2447,6 +2452,12 @@
         <mark key="." line="78" column="8" />
         <mark key="^" line="51" column="94" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SmoothCFLControllerTests.cpp" timestamp="1541171836724">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="44" />
+        <mark key="." line="52" column="44" />
+        <mark key="^" line="52" column="44" />
+      </file>
       <file name="$USER_HOME$/one-ring/sfe/matrix.f90" timestamp="1503353001623">
         <mark key="'" line="862" column="9" />
         <mark key="[" line="947" column="10" />
@@ -2623,9 +2634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="610" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="611" column="13" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="109" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="115" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
       <jump line="117" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SANegative.h" />
@@ -2723,6 +2731,9 @@
       <jump line="16" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
       <jump line="17" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousTerms.h" />
       <jump line="37" column="39" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.hpp" />
+      <jump line="46" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
+      <jump line="11" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
+      <jump line="12" column="22" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2733,7 +2744,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Matching nonlinearity target yields no change</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6133,58 +6144,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Matching nonlinearity target yields no change</text>
       </register>
       <register name="/" type="4">
-        <text>equation</text>
+        <text>initial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiXG4iKTsK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oIk1hdGNoaW5nIG5vbmxpbmVhcml0eSB0YXJnZXQgeWllbGRzIG5vIGNoYW5nZSBpbiBDRkwiKSB7CiAgICAgICAgY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNyk7CiAgICAgICAgUkVRVUlSRShjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkgPT0gaW5pdGlhbF9jZmwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBsZXhfYmxvY2sgbGhzX2Jsb2NrOwogICAgICAgICAgICAgICAgYW5hbHl0aWNfamFjb2JpYW4uZ2V0KHJvdywgY29sLCBlcW5fbWFwLCBlcW5fbWFwLCBsaHNfYmxvY2suZGF0YSgpKTsKICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgTnVtRXFuczsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yIChzaXplX3QgaiA9IDA7IGogPCBOdW1FcW5zOyArK2opIHsKICAgICAgICAgICAgICAgICAgICAgICAgZnByaW50ZihmLCIlZSAiLCBsaHNfYmxvY2soaSwgaikucmVhbCgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZnByaW50ZihmLCJcbiIpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgTnVtRXFuczsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yIChzaXplX3QgaiA9IDA7IGogPCBOdW1FcW5zOyArK2opIHsKICAgICAgICAgICAgICAgICAgICAgICAgZnByaW50ZihmLCIlZSAiLCBmaW5pdGVfZGlmZmVyZW5jZV9qYWNvYmlhbltyb3ddW2NvbF0oaSwgaikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBmcHJpbnRmKGYsIlxuIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNmbF9jb250cm9sbGVyLnVwZGF0ZUNGTCgwLjcpCiAgICBSRVFVSVJFKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSA9PSBpbml0aWFsX2NmbCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbml0ZV9kaWZmZXJlbmNlX2phY29iaWFuW3Jvd11bY29sXS5wcmludCgpOwo=</text>
+        <text encoding="base64">ICAgIFJFUVVJUkUoY2ZsX2NvbnRyb2xsZXIudXBkYXRlQ0ZMKDAuNykgPT0gaW5pdGlhbF9jZmwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiLS0tPiByb3c6ICVsdSBjb2x1bW46ICVsdSA8LS0tXG4iLCByb3csIGNvbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwcmludGYoZiwicm93OiAlbHUgY29sdW1uOiAlbHVcblxuIiwgcm93LCBjb2wpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3RvcjxpbnQ+IGVxbl9tYXAoTnVtRXFucyk7CiAgICAgICAgZm9yIChzaXplX3QgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgIGVxbl9tYXBbZXFuXSA9IGludChlcW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYzoKICAgICAgICBTQ0ZMQ29udHJvbGxlcihkb3VibGUgaW5pdGlhbF9jZmwsIGRvdWJsZSBtaW5fY2ZsLCBkb3VibGUgbWF4X2NmbCwgZG91YmxlIGFsbG93ZWRfcmVzX2luY3JlYXNlKQogICAgICAgICAgICAgICAgOiBpbml0aWFsKGluaXRpYWxfY2ZsKSwgbWluKG1pbl9jZmwpLCBtYXgobWF4X2NmbCksIGxhc3Rfbm9ybSgxLjBlKzIwMCksIGN1cnJlbnRfY2ZsKGluaXRpYWxfY2ZsKSwKICAgICAgICAgICAgICAgICAgcmVzaWR1YWxfYWxsb3dlZF9pbmNyZWFzZShhbGxvd2VkX3Jlc19pbmNyZWFzZSkgeyB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsb2NrIGxoc19ibG9jazsKICAgICAgICAgICAgICAgIGFuYWx5dGljX2phY29iaWFuLmdldChyb3csIGNvbCwgZXFuX21hcCwgZXFuX21hcCwgbGhzX2Jsb2NrLmRhdGEoKSk7CiAgICAgICAgICAgICAgICBmb3IgKHNpemVfdCBpID0gMDsgaSA8IE51bUVxbnM7ICsraSkgewogICAgICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGogPSAwOyBqIDwgTnVtRXFuczsgKytqKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50ZigiJWUgIiwgbGhzX2Jsb2NrKGksIGopKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCJcbiIpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb3VibGUgaW5pdGlhbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>equation</last-search>
+      <last-search>initial</last-search>
       <last-offset />
-      <last-pattern>equation</last-pattern>
+      <last-pattern>initial</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6192,7 +6203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcCon</entry>
         <entry>handler</entry>
         <entry>linesearch</entry>
         <entry>[4]</entry>
@@ -6212,6 +6222,7 @@
         <entry>print</entry>
         <entry>equation_map</entry>
         <entry>equation</entry>
+        <entry>initial</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

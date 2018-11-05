@@ -862,12 +862,13 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541444033399">
-        <mark key="k" line="196" column="66" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="197" column="25" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541444410102">
+        <mark key="'" line="197" column="27" />
+        <mark key="k" line="197" column="66" />
+        <mark key="[" line="195" column="31" />
+        <mark key="]" line="196" column="25" />
+        <mark key="^" line="196" column="25" />
+        <mark key="." line="196" column="25" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -2672,7 +2673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="110" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="118" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="119" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
@@ -2772,6 +2772,7 @@
       <jump line="130" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="87" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="65" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="197" column="27" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6185,7 +6186,7 @@
         <text>&quot;line_search_iteration&quot; + std::string(1000 - iteration / 10, '0') + std::to_string(iteration) + &quot;.dat&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>calcR</text>
+        <text>settings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0ZWFkeV9yZXNpZHVhbF9sMigxLjApLAo=</text>
@@ -6231,9 +6232,9 @@
       </register>
     </registers>
     <search>
-      <last-search>calcR</last-search>
+      <last-search>settings</last-search>
       <last-offset />
-      <last-pattern>calcR</last-pattern>
+      <last-pattern>settings</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6241,7 +6242,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cfl_</entry>
         <entry>residual_l2</entry>
         <entry>printI</entry>
         <entry>printIter</entry>
@@ -6261,6 +6261,7 @@
         <entry>pre_lin</entry>
         <entry>calcRes</entry>
         <entry>calcR</entry>
+        <entry>settings</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

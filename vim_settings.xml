@@ -862,12 +862,12 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541435213724">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="188" column="68" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541442273539">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="269" column="61" />
+        <mark key="]" line="269" column="86" />
+        <mark key="." line="269" column="86" />
+        <mark key="^" line="269" column="86" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -2672,14 +2672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="104" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/AdjointSolverFactory.h" />
-      <jump line="121" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="131" column="66" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="150" column="66" filename="$USER_HOME$/one-ring/hypersolve/test/InviscidTermsTests.cpp" />
-      <jump line="113" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="119" column="58" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="50" column="54" filename="$USER_HOME$/one-ring/hypersolve/test/JacobianTesterTests.cpp" />
-      <jump line="79" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/JacobianTesterTests.cpp" />
       <jump line="20" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="110" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
       <jump line="118" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/JacobianTester.h" />
@@ -2750,7 +2742,6 @@
       <jump line="87" column="11" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="92" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="125" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Configuration.h" />
-      <jump line="87" column="64" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="242" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="85" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="286" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2772,6 +2763,15 @@
       <jump line="457" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="262" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="30" column="19" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="86" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="145" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="129" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="147" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="172" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="188" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="130" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="87" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="65" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2781,8 +2781,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>steady_residual_l2</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6182,10 +6182,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>steady_res</text>
+        <text>steady_residual_l2</text>
       </register>
       <register name="/" type="4">
-        <text>smoo</text>
+        <text>calcR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0ZWFkeV9yZXNpZHVhbF9sMigxLjApLAo=</text>
@@ -6231,9 +6231,9 @@
       </register>
     </registers>
     <search>
-      <last-search>smoo</last-search>
+      <last-search>calcR</last-search>
       <last-offset />
-      <last-pattern>smoo</last-pattern>
+      <last-pattern>calcR</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6241,8 +6241,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateCFLC</entry>
-        <entry>HS</entry>
         <entry>cfl_</entry>
         <entry>residual_l2</entry>
         <entry>printI</entry>
@@ -6257,10 +6255,12 @@
         <entry>all_eq</entry>
         <entry>cfl</entry>
         <entry>monitorRes</entry>
-        <entry>calcRes</entry>
         <entry>change_in_residual</entry>
         <entry>printf</entry>
         <entry>smoo</entry>
+        <entry>pre_lin</entry>
+        <entry>calcRes</entry>
+        <entry>calcR</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

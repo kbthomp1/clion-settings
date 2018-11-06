@@ -70,7 +70,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="/LLDB" timestamp="1541530441136">
+      <file name="/LLDB" timestamp="1541539278526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
@@ -474,13 +474,13 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1541534973991">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1541539878201">
         <mark key="'" line="60" column="0" />
         <mark key="k" line="57" column="30" />
-        <mark key="[" line="73" column="54" />
-        <mark key="]" line="74" column="29" />
-        <mark key="." line="74" column="29" />
-        <mark key="^" line="74" column="29" />
+        <mark key="[" line="114" column="30" />
+        <mark key="]" line="114" column="59" />
+        <mark key="." line="114" column="59" />
+        <mark key="^" line="114" column="59" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.h" timestamp="1539721387774">
         <mark key="'" line="8" column="27" />
@@ -862,12 +862,12 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541537389786">
-        <mark key="'" line="258" column="26" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="127" column="32" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541540426070">
+        <mark key="'" line="137" column="4" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="33" />
+        <mark key="^" line="97" column="89" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -985,13 +985,9 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1541537358507">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="42" column="0" />
-        <mark key="k" line="34" column="29" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="28" column="26" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1541540280400">
+        <mark key="'" line="58" column="32" />
+        <mark key="k" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/SparsityPatternBuilders.h" timestamp="1539809085901">
         <mark key="'" line="44" column="0" />
@@ -1327,12 +1323,11 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1541536130125">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1541539848946">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/fun3d-fet/laminar/perfect_gas/hypersolve.json" timestamp="1536585067856">
         <mark key="[" line="47" column="17" />
@@ -2668,17 +2663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="23" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="155" column="94" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="284" column="63" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="288" column="83" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="322" column="44" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="339" column="87" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="356" column="60" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="34" column="10" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="65" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="82" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="102" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="118" column="7" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="132" column="35" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="253" column="26" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2768,6 +2752,17 @@
       <jump line="30" column="34" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="140" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="261" column="26" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="7" column="8" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="23" column="8" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="24" column="60" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="25" column="11" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="46" column="20" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="47" column="20" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="45" column="24" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="41" column="20" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="39" column="37" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="38" column="15" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="133" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2778,7 +2773,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byB2b2x1bWVfb3Zlcl90aW1lc3RlcCA9IHMtPnRpbWVfaW50ZWdyYXRvci0+Y2FsY1ZvbHVtZU92ZXJUaW1lU3RlcChzLT5wcmV2aW91c19zb2x1dGlvbik7Ci8vICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmFwcGx5UHJlY29uZGl0aW9uZXIocy0+bV9yZXNpZHVhbCwgdm9sdW1lX292ZXJfdGltZXN0ZXApOwoK</text>
+        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLmFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6178,58 +6173,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>current_cfl</text>
+        <text encoding="base64">cy0+cmVzaWR1YWxfc21vb3RoZXIuYWRkUmVzaWR1YWxTbW9vdGhlcihyZXNpZHVhbCk7</text>
       </register>
       <register name="/" type="4">
-        <text>time_integrator</text>
+        <text>residual</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6c2hhcmVkX3B0cjxUaW1lSW50ZWdyYXRvcjxULCBOdW1FcW5zPj4gdGltZV9pbnRlZ3JhdG9yLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRpbWVzdGVwKG1wLmdldENvbW11bmljYXRvcigpLCBwZXRzY19ydW50aW1lLCBncmFwaC5nZXRMb2NhbFRvR2xvYmFsKCksIGdyYXBoLmdldERvT3duKCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byB2b2x1bWVfb3Zlcl90aW1lc3RlcCA9IHMtPnRpbWVfaW50ZWdyYXRvci0+Y2FsY1ZvbHVtZU92ZXJUaW1lU3RlcChzLT5wcmV2aW91c19zb2x1dGlvbik7Ci8vICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmFwcGx5UHJlY29uZGl0aW9uZXIocy0+bV9yZXNpZHVhbCwgdm9sdW1lX292ZXJfdGltZXN0ZXApOwoK</text>
+        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLmFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUIGN1cnJlbnRfY2ZsKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudF9jZmwoTFRTOjpjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkpOwo=</text>
+        <text encoding="base64">ICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmNhbGNTb3VyY2VUZXJtKHMtPnJlc2lkdWFsX3Ntb290aGluZ19zb3VyY2VfdGVybS5nZXRWZWMoKSwgcy0+dmVjdG9yX3Jocywgcy0+bWFzc19tYXRyaXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzLT50aW1lc3RlcCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVCBjdXJyZW50X2NmbChjZmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXNzX21hdHJpeC5nZXQocm93LCByb3csIGFsbF9lcXVhdGlvbl9tYXAsIGFsbF9lcXVhdGlvbl9tYXAsIGJsb2NrLmRhdGEoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBWZWNSZXN0b3JlQXJyYXkoc291cmNlX3Rlcm0sICZ2KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUqIHY7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0X3ZlY3Rvci5maWxsKGR0W25vZGVfaWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICBWZWNHZXRBcnJheShzb3VyY2VfdGVybS5nZXQsICZ2KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4gZHRfdmVjdG9yOwo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBWZWNEZXN0cm95KCZyaHMpOwogICAgICAgIFZlY0Rlc3Ryb3koJnJlc2lkdWFsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time_integrator</last-search>
+      <last-search>residual</last-search>
       <last-offset />
-      <last-pattern>time_integrator</last-pattern>
+      <last-pattern>residual</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6237,8 +6232,6 @@
     </search>
     <history>
       <history-search>
-        <entry>solution_update</entry>
-        <entry>real</entry>
         <entry>time_in</entry>
         <entry>setMass</entry>
         <entry encoding="base64">cy0+</entry>
@@ -6257,6 +6250,8 @@
         <entry>time</entry>
         <entry>Recip</entry>
         <entry>time_integrator</entry>
+        <entry>rhs</entry>
+        <entry>residual</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

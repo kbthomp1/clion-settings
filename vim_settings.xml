@@ -862,11 +862,11 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541535080699">
-        <mark key="'" line="261" column="26" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541537389786">
+        <mark key="'" line="258" column="26" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
         <mark key="^" line="127" column="32" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
@@ -985,7 +985,7 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1541535906954">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1541537358507">
         <mark key="'" line="38" column="32" />
         <mark key="[" line="42" column="0" />
         <mark key="k" line="34" column="29" />
@@ -2777,8 +2777,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>current_cfl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgYXV0byB2b2x1bWVfb3Zlcl90aW1lc3RlcCA9IHMtPnRpbWVfaW50ZWdyYXRvci0+Y2FsY1ZvbHVtZU92ZXJUaW1lU3RlcChzLT5wcmV2aW91c19zb2x1dGlvbik7Ci8vICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmFwcGx5UHJlY29uZGl0aW9uZXIocy0+bV9yZXNpZHVhbCwgdm9sdW1lX292ZXJfdGltZXN0ZXApOwoK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6187,40 +6187,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6c2hhcmVkX3B0cjxUaW1lSW50ZWdyYXRvcjxULCBOdW1FcW5zPj4gdGltZV9pbnRlZ3JhdG9yLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUIGN1cnJlbnRfY2ZsKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYXV0byB2b2x1bWVfb3Zlcl90aW1lc3RlcCA9IHMtPnRpbWVfaW50ZWdyYXRvci0+Y2FsY1ZvbHVtZU92ZXJUaW1lU3RlcChzLT5wcmV2aW91c19zb2x1dGlvbik7Ci8vICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmFwcGx5UHJlY29uZGl0aW9uZXIocy0+bV9yZXNpZHVhbCwgdm9sdW1lX292ZXJfdGltZXN0ZXApOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudF9jZmwoTFRTOjpjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUIGN1cnJlbnRfY2ZsKGNmbF9jb250cm9sbGVyLmN1cnJlbnRDRkwoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVCBjdXJyZW50X2NmbChjZmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudF9jZmwoTFRTOjpjZmxfY29udHJvbGxlci5jdXJyZW50Q0ZMKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVCBjdXJyZW50X2NmbChjZmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0X3ZlY3Rvci5maWxsKGR0W25vZGVfaWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4gZHRfdmVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR0X3ZlY3Rvci5maWxsKGR0W25vZGVfaWRdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4gZHRfdmVjdG9yOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVCBtaW5fZHQgPSBtcC5QYXJhbGxlbE1pbihkdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

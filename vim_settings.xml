@@ -550,13 +550,13 @@
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1541534727063">
-        <mark key="'" line="152" column="0" />
-        <mark key="k" line="132" column="9" />
-        <mark key="[" line="121" column="65" />
-        <mark key="]" line="121" column="91" />
-        <mark key="." line="121" column="91" />
-        <mark key="^" line="121" column="91" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1541606490914">
+        <mark key="'" line="157" column="0" />
+        <mark key="k" line="137" column="9" />
+        <mark key="[" line="38" column="83" />
+        <mark key="]" line="38" column="90" />
+        <mark key="." line="38" column="90" />
+        <mark key="^" line="38" column="90" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/EnigmaLogger.h" timestamp="1540567276941">
         <mark key="[" line="7" column="10" />
@@ -862,7 +862,7 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541600570392">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1541606602044">
         <mark key="'" line="138" column="4" />
         <mark key="[" line="145" column="50" />
         <mark key="]" line="145" column="51" />
@@ -2773,7 +2773,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbnN0ID0gMDs=</text>
+        <text>conserved_variable_jacobian</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6173,49 +6173,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbnN0ID0gMDs=</text>
+        <text>conserved_variable_jacobian</text>
       </register>
       <register name="/" type="4">
         <text>residual</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIHN0ZDo6dmVjdG9yPFQ+IGNhbGNWb2x1bWVPdmVyVGltZVN0ZXAoY29uc3QgVmVjdG9yPFQsIE51bUVxbnM+JiBRKSBjb25zdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hc3NfbWF0cml4LT5hZGQobm9kZSwgbm9kZSwgYWxsX2VxdWF0aW9uc19tYXAsIGFsbF9lcXVhdGlvbnNfbWFwLCBjb25zZXJ2ZWRfdmFyaWFibGVfamFjb2JpYW4uZGF0YSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLmFzc2VtYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMtPnByZWNvbmRpdGlvbmVyLmFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmNhbGNTb3VyY2VUZXJtKHMtPnJlc2lkdWFsX3Ntb290aGluZ19zb3VyY2VfdGVybS5nZXRWZWMoKSwgcy0+dmVjdG9yX3Jocywgcy0+bWFzc19tYXRyaXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzLT50aW1lc3RlcCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXNzX21hdHJpeC5nZXQocm93LCByb3csIGFsbF9lcXVhdGlvbl9tYXAsIGFsbF9lcXVhdGlvbl9tYXAsIGJsb2NrLmRhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmNhbGNTb3VyY2VUZXJtKHMtPnJlc2lkdWFsX3Ntb290aGluZ19zb3VyY2VfdGVybS5nZXRWZWMoKSwgcy0+dmVjdG9yX3Jocywgcy0+bWFzc19tYXRyaXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzLT50aW1lc3RlcCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWZWNSZXN0b3JlQXJyYXkoc291cmNlX3Rlcm0sICZ2KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXNzX21hdHJpeC5nZXQocm93LCByb3csIGFsbF9lcXVhdGlvbl9tYXAsIGFsbF9lcXVhdGlvbl9tYXAsIGJsb2NrLmRhdGEoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUqIHY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWNSZXN0b3JlQXJyYXkoc291cmNlX3Rlcm0sICZ2KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBWZWNHZXRBcnJheShzb3VyY2VfdGVybS5nZXQsICZ2KTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUqIHY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBWZWNHZXRBcnJheShzb3VyY2VfdGVybS5nZXQsICZ2KTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWZWNEZXN0cm95KCZyaHMpOwogICAgICAgIFZlY0Rlc3Ryb3koJnJlc2lkdWFsKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

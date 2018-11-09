@@ -100,13 +100,13 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" timestamp="1541776726854">
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" timestamp="1541776829342">
         <mark key="'" line="0" column="0" />
-        <mark key="k" line="77" column="42" />
-        <mark key="[" line="77" column="86" />
-        <mark key="]" line="77" column="87" />
-        <mark key="." line="77" column="87" />
-        <mark key="^" line="77" column="87" />
+        <mark key="k" line="79" column="42" />
+        <mark key="[" line="78" column="103" />
+        <mark key="]" line="78" column="104" />
+        <mark key="." line="78" column="104" />
+        <mark key="^" line="78" column="104" />
       </file>
       <file name="$USER_HOME$/HyperSolve3D/src/ex2.c" timestamp="1500907647754">
         <mark key="'" line="59" column="11" />
@@ -834,10 +834,10 @@
         <mark key="." line="142" column="25" />
         <mark key="^" line="142" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/MockSolverFactory.h" timestamp="1541776714958">
+      <file name="$USER_HOME$/one-ring/enigma/test/MockSolverFactory.h" timestamp="1541776825830">
         <mark key="'" line="49" column="32" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="97" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="84" />
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
@@ -2529,8 +2529,8 @@
         <mark key="." line="384" column="34" />
         <mark key="^" line="384" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1536583659248">
-        <mark key="'" line="256" column="16" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1541777973691">
+        <mark key="'" line="831" column="57" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -2657,10 +2657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
-      <jump line="179" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
-      <jump line="26" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
-      <jump line="32" column="23" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="37" column="52" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="54" column="55" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
       <jump line="52" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/LocalTimeSteppingTests.cpp" />
@@ -2757,6 +2753,10 @@
       <jump line="38" column="53" filename="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" />
       <jump line="77" column="42" filename="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" />
+      <jump line="47" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="786" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="829" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
+      <jump line="831" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2766,8 +2766,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>petsc_options</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IHN0ZDo6bWFrZV9zaGFyZWQ8Tm9OZXdUaW1lSW50ZWdyYXRpb248VCwgTnVtRXFucz4+KCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6167,43 +6167,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>petsc_options</text>
+        <text>NumEqns</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text>pow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHBldHNjX3J1bnRpbWUgPSBzdGQ6Om1ha2Vfc2hhcmVkPFBFVFNjUnVudGltZT4obXAuZ2V0Q29tbXVuaWNhdG9yKCksIHBldHNjX29wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHRpbWVfaW50ZWdyYXRvciA9IHN0ZDo6bWFrZV9zaGFyZWQ8Tm9OZXdUaW1lSW50ZWdyYXRpb248VCwgTnVtRXFucz4+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcGV0c2NfcnVudGltZSA9IHN0ZAo=</text>
+        <text encoding="base64">ICAgIGF1dG8gcmVhbGl6YWJpbGl0eV9jb250cm9sbGVyID0gc3RkOjptYWtlX3NoYXJlZDxGdWxsVXBkYXRlPGRvdWJsZSwgMT4+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZV90IG51bWJlcl9vZl9saW5lc2VhcmNoX3NhbXBsZXMgPSBzLT5zZXR0aW5ncy5hdCgibGluZSBzZWFyY2ggc2FtcGxlcyIpOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gcGV0c2NfcnVudGltZSA9IHN0ZAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l6ZV90IG51bWJlcl9vZl9saW5lc2VhcmNoX3NhbXBsZXMgPSBzLT5zZXR0aW5ncy5hdCgibGluZSBzZWFyY2ggc2FtcGxlcyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8UmVhbGl6Cg==</text>
+        <text encoding="base64">ICAgICAgICBib28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnNoYXJlZF9wdHI8UmVhbGl6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvICZkcSA6IHMtPnNvbHV0aW9uX3VwZGF0ZS5nZXRWZWN0b3IoKSkKICAgICAgICAgICAgICAgIGZvciAoYXV0byAmdiA6IGRxKQogICAgICAgICAgICAgICAgICAgIHYgKj0gLTEuMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy0+UEVUU2NUb0VuaWdtYShjdXJyZW50X3NvbHV0aW9uLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIHMtPlBFVFNjVG9FbmlnbWEodXBkYXRlLCBzLT5zb2x1dGlvbl91cGRhdGUpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChhdXRvICZkcSA6IHMtPnNvbHV0aW9uX3VwZGF0ZS5nZXRWZWN0b3IoKSkKICAgICAgICAgICAgICAgIGZvciAoYXV0byAmdiA6IGRxKQogICAgICAgICAgICAgICAgICAgIHYgKj0gLTEuMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy0+UEVUU2NUb0VuaWdtYShjdXJyZW50X3NvbHV0aW9uLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIHMtPlBFVFNjVG9FbmlnbWEodXBkYXRlLCBzLT5zb2x1dGlvbl91cGRhdGUpOwoK</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -6216,9 +6216,9 @@
       </register>
     </registers>
     <search>
-      <last-search>settings</last-search>
+      <last-search>pow</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
+      <last-pattern>pow</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6226,8 +6226,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PETScVector</entry>
-        <entry>snes</entry>
         <entry>working</entry>
         <entry>private</entry>
         <entry>Post</entry>
@@ -6246,6 +6244,8 @@
         <entry>create</entry>
         <entry>PreCheck</entry>
         <entry>settings</entry>
+        <entry>Riemann</entry>
+        <entry>pow</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

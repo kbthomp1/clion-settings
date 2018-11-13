@@ -462,12 +462,6 @@
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/LocalTimeStepping.h" timestamp="1541626628222">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/Solution.h" timestamp="1513965175923">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="51" column="54" />
@@ -846,11 +840,13 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" timestamp="1542113461449">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="26" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" timestamp="1542114535294">
+        <mark key="'" line="45" column="32" />
+        <mark key="k" line="45" column="32" />
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
       </file>
       <file name="$USER_HOME$/hefss++/data/PyConvertor/transport_data0_converter.py" timestamp="1510081834327">
         <mark key="'" line="12" column="16" />
@@ -1062,12 +1058,6 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/TimeIntegrator.h" timestamp="1541626569822">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
       <file name="/fragment.mm" timestamp="1541703706175">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1116,12 +1106,6 @@
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
-      </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1541620002107">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/PETScNonLinearSolver.h" timestamp="1536788742796">
         <mark key="'" line="51" column="21" />
@@ -1750,12 +1734,6 @@
         <mark key="^" line="129" column="32" />
         <mark key="." line="129" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/GlobalTimeStepping.h" timestamp="1541626670469">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.cpp" timestamp="1532026176351">
         <mark key="'" line="33" column="135" />
         <mark key="[" line="29" column="77" />
@@ -2263,8 +2241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
-      <jump line="63" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="70" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="108" column="23" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="28" column="38" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
@@ -2363,6 +2339,8 @@
       <jump line="69" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="98" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="62" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
+      <jump line="20" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
+      <jump line="40" column="32" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2372,8 +2350,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5773,49 +5751,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>= edge_grad;</text>
       </register>
       <register name="/" type="4">
         <text>edge_to_node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGdlX2ZsdXhlc1tlZGdlXSgwLCBlcW4pID0gMC4wOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxjRmx1eChjb25zdCBzdGQ6OmFycmF5PEVkZ2VHcmFkaWVudHM8VCwgTnVtRXFucz4sIE51bUVkZ2VzPiYgZWRnZV9ncmFkaWVudHMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkZ2VfZmx1eGVzW2VkZ2VdLmZpbGwoMC4wKTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX2dyYWRpZW50c1tlZGdlXSAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4PFQsIDMsIDE+IHVncmFkLCB2Z3JhZCwgd2dyYWQsIHRncmFkOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4sIE51bUVxbnM+IGVkZ2VfZ3JhZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxzdGQ6OmFycmF5PFQsIE51bUVxbnM+LCBOdW1FZGdlcz4gZWRnZV9mbHV4ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX2dyYWQuZmlsbCh7MCwgMCwgMH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4sIE51bUVkZ2VzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChzaXplX3QgZWRnZSA9IDA7IGVkZ2UgPCBOdW1FZGdlczsgKytlZGdlKSB7CiAgICAgICAgICAgICAgICBlZGdlX2ZsdXhlc1tlZGdlXS5maWxsKDAuMCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgbmFtZXNwYWNlIEVpZ2VuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBsZWZ0X25vZGUgPSBlZGdlX3RvX25vZGVbZWRnZV1bMF07CiAgICAgICAgICAgICAgICBpbnQgcmlnaHRfbm9kZSA9IGVkZ2VfdG9fbm9kZVtlZGdlXVsxXTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDwgNTsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgZmx1eFtsZWZ0X25vZGVdW2ldICs9IGVkZ2VfZmx1eFtpLTFdOwogICAgICAgICAgICAgICAgICAgIGZsdXhbcmlnaHRfbm9kZV1baV0gLT0gZWRnZV9mbHV4W2ktMV07CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkZ2VfZmx1eGVzW2VkZ2VdLmZpbGwoMC4wKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsdXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4PFQsIDMsIDE+IHVncmFkLCB2Z3JhZCwgd2dyYWQsIHRncmFkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -399,12 +399,13 @@
         <mark key="." line="121" column="29" />
         <mark key="^" line="121" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1541773146317">
-        <mark key="k" line="72" column="43" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="113" />
-        <mark key="." line="74" column="89" />
-        <mark key="^" line="74" column="89" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1542121496381">
+        <mark key="'" line="33" column="38" />
+        <mark key="k" line="71" column="43" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="73" column="89" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousInteriorTerms.h" timestamp="1539721387774">
         <mark key="'" line="8" column="27" />
@@ -725,12 +726,12 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542120086925">
-        <mark key="'" line="181" column="0" />
-        <mark key="[" line="96" column="65" />
-        <mark key="]" line="97" column="7" />
-        <mark key="^" line="97" column="7" />
-        <mark key="." line="97" column="7" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542121737666">
+        <mark key="'" line="446" column="0" />
+        <mark key="[" line="199" column="27" />
+        <mark key="]" line="199" column="42" />
+        <mark key="^" line="199" column="42" />
+        <mark key="." line="199" column="42" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -2245,13 +2246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
-      <jump line="115" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
-      <jump line="259" column="42" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="266" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="277" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="267" column="42" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="398" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="286" column="46" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="366" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="241" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2326,7 +2320,6 @@
       <jump line="43" column="82" filename="$USER_HOME$/one-ring/enigma/test/PETScLineSearchTests.cpp" />
       <jump line="194" column="69" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="196" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="218" column="42" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="221" column="27" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="225" column="25" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="408" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2345,6 +2338,14 @@
       <jump line="71" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
       <jump line="22" column="42" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
       <jump line="83" column="50" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
+      <jump line="160" column="26" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="181" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="58" column="10" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
+      <jump line="33" column="38" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
+      <jump line="218" column="14" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="220" column="52" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="183" column="35" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="446" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2354,8 +2355,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlIHJlc2lkdWFsIHNtb290aGluZyI6IHRydWUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>current_solution</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5755,58 +5756,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>update relaxation tolerance&quot;: 0.02,</text>
+        <text>current_solution</text>
       </register>
       <register name="/" type="4">
-        <text>edge_to_node</text>
+        <text>ample</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlIHJlc2lkdWFsIHNtb290aGluZyI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIGNhbGNSZXNpZHVhbChzbmVzLCBjdXJyZW50X3NvbHV0aW9uLCBtX3Jlc2lkdWFsLCB0aGlzKTsKICAgIFZlY05vcm0obV9yZXNpZHVhbCwgTk9STV8yLCAmaW5pdGlhbF9vYmplY3RpdmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNORVNTZXRPYmplY3RpdmUobm9ubGluZWFyX3NvbHZlciwgbGluZVNlYXJjaE9iamVjdGl2ZSwgdGhpcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChzLT5zZXR0aW5nc1sidXNlIHJlc2lkdWFsIHNtb290aGluZyJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lU2VhcmNoT2JqZWN0aXZlKHNuZXMsIHdvcmtpbmdfc29sdXRpb24sICZ2YWx1ZSwgdGhpcyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxpbmVTZWFyY2hPYmplY3RpdmUoc25lcywgY3VycmVudF9zb2x1dGlvbiwgJmluaXRpYWxfb2JqZWN0aXZlLCB0aGlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVCwgc2l6ZV90IE51bUVxbnM+ClBldHNjRXJyb3JDb2RlCkVuaWdtYTo6UEVUU2NOb25MaW5lYXJTb2x2ZXI8VCwgTnVtRXFucz46OmxpbmVTZWFyY2hPYmplY3RpdmUoU05FUyBwZXRzY19zbmVzLCBWZWMgY3VycmVudF9zb2x1dGlvbiwgZG91YmxlICpvYmplY3RpdmVfdmFsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZvaWQgKnNvbHZlcl9kYXRhKSB7CiAgICBFbmlnbWE6OkxvZ2dlcjo6YmVnaW4oImxpbmVTZWFyY2hPYmplY3RpdmUiKTsKICAgIGF1dG8gcyA9IChQRVRTY05vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsKICAgIGNhbGNSZXNpZHVhbChwZXRzY19zbmVzLCBjdXJyZW50X3NvbHV0aW9uLCBzLT5tX3Jlc2lkdWFsLCBzb2x2ZXJfZGF0YSk7CiAgICBWZWNOb3JtKHMtPm1fcmVzaWR1YWwsIE5PUk1fMiwgb2JqZWN0aXZlX3ZhbHVlKTsKICAgIEVuaWdtYTo6TG9nZ2VyOjplbmQoImxpbmVTZWFyY2hPYmplY3RpdmUiKTsKICAgIHJldHVybiAwOwp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHMtPnJlc2lkdWFsX3Ntb290aGVyLmNhbGNTb3VyY2VUZXJtKHMtPnJlc2lkdWFsX3Ntb290aGVyX3NvdXJjZV90ZXJtLmdldFZlYygpLCBzLT52ZWN0b3JfcmhzLCBzLT5tYXNzX21hdHJpeCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHMtPnRpbWVzdGVwKTsK</text>
+        <text encoding="base64">ICAgICAgc3RhdGljIFBldHNjRXJyb3JDb2RlIGxpbmVTZWFyY2hPYmplY3RpdmUoU05FUyBwZXRzY19zbmVzLCBWZWMgY3VycmVudF9zb2x1dGlvbiwgZG91YmxlICpvYmplY3RpdmVfdmFsdWUsIHZvaWQgKnNvbHZlcl9kYXRhKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzLT5zZXR0aW5nc1sidXNlIHJlc2lkdWFsIHNtb290aGluZyJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGVxbiA9IDA7IGVxbiA8IE51bUVxbnM7ICsrZXFuKSB7CiAgICAgICAgICAgICAgICAgICAgZWRnZV9mbHV4ZXNbZWRnZV0oMCwgZXFuKSA9IDAuMDsKICAgICAgICAgICAgICAgICAgICBlZGdlX2ZsdXhlc1tlZGdlXSgxLCBlcW4pID0gMC4wOwogICAgICAgICAgICAgICAgICAgIGVkZ2VfZmx1eGVzW2VkZ2VdKDIsIGVxbikgPSAwLjA7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>edge_to_node</last-search>
+      <last-search>ample</last-search>
       <last-offset />
-      <last-pattern>edge_to_node</last-pattern>
+      <last-pattern>ample</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5814,8 +5815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry>Posit</entry>
         <entry>Marking</entry>
         <entry>step_length</entry>
         <entry>printIter</entry>
@@ -5834,6 +5833,8 @@
         <entry>Objec</entry>
         <entry>decltype</entry>
         <entry>edge_to_node</entry>
+        <entry>Object</entry>
+        <entry>ample</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

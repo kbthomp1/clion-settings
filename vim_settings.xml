@@ -399,11 +399,11 @@
         <mark key="." line="121" column="29" />
         <mark key="^" line="121" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1542126339660">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1542130107958">
         <mark key="'" line="33" column="38" />
         <mark key="k" line="72" column="43" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="108" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="85" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="74" column="89" />
       </file>
@@ -480,13 +480,12 @@
       <file name="/Dummy.txt" timestamp="1541775216581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542127151749">
-        <mark key="'" line="71" column="38" />
-        <mark key="k" line="71" column="38" />
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="55" column="35" />
-        <mark key="^" line="55" column="35" />
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542131738449">
+        <mark key="'" line="25" column="100" />
+        <mark key="[" line="36" column="84" />
+        <mark key="]" line="25" column="96" />
+        <mark key="." line="25" column="100" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
         <mark key="'" line="34" column="16" />
@@ -734,10 +733,10 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542126440626">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542130757766">
         <mark key="'" line="84" column="57" />
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="421" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="37" />
         <mark key="^" line="199" column="42" />
         <mark key="." line="199" column="42" />
       </file>
@@ -2258,11 +2257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="38" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="245" column="19" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="75" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" />
-      <jump line="182" column="4" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="147" column="28" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="154" column="28" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="183" column="8" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
       <jump line="247" column="43" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
@@ -2352,12 +2346,17 @@
       <jump line="183" column="35" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="446" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="18" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScNonLinearSolverTests.cpp" />
-      <jump line="24" column="7" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
       <jump line="27" column="15" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
       <jump line="84" column="57" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="47" column="28" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
       <jump line="44" column="18" filename="$USER_HOME$/one-ring/enigma/test/MockSolverTerms.h" />
-      <jump line="69" column="38" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="69" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="38" column="15" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="22" column="74" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="23" column="103" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="24" column="100" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="25" column="100" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2367,8 +2366,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dG8ganNvbl9jb25maWcgPSBubG9obWFubjo6anNvbjo6cGFyc2UoRW5pZ21hOjpNb2NrU29sdmVyVGVybXM6OmRlZmF1bHRfc29sdmVyX3NldHRpbmdzKTsKICAgIGF1dG8gbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncyA9IGpzb25fY29uZmlnLmF0KCJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIik7CiAgICBhdXRvIGxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MgPSBqc29uX2NvbmZpZy5hdCgibGluZWFyIHNvbHZlciBzZXR0aW5ncyIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>graph_in</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5768,58 +5767,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>solver_settings</text>
+        <text>graph_in</text>
       </register>
       <register name="/" type="4">
-        <text>petsc_runtime</text>
+        <text>graph_in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8ganNvbl9jb25maWcgPSBubG9obWFubjo6anNvbjo6cGFyc2UoRW5pZ21hOjpNb2NrU29sdmVyVGVybXM6OmRlZmF1bHRfc29sdmVyX3NldHRpbmdzKTsKICAgIGF1dG8gbm9ubGluZWFyX3NvbHZlcl9zZXR0aW5ncyA9IGpzb25fY29uZmlnLmF0KCJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIik7CiAgICBhdXRvIGxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MgPSBqc29uX2NvbmZpZy5hdCgibGluZWFyIHNvbHZlciBzZXR0aW5ncyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcGV0c2Nfc29sdXRpb24obXAuZ2V0Q29tbXVuaWNhdG9yKCksIHBldHNjX3J1bnRpbWUsIGdyYXBoX2luLmdldExvY2FsVG9HbG9iYWwoKSwgZ3JhcGhfaW4uZ2V0RG9Pd24oKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IHN0ZDo6c3RyaW5nIGRlZmF1bHRfc29sdmVyX3NldHRpbmdzID0gUiIoCnsKICAgICJsaW5lYXIgc29sdmVyIHNldHRpbmdzIjogewogICAgICAgICJhYnNvbHV0ZSB0b2xlcmFuY2UiOiAxZS0xNiwKICAgICAgICAibWF4IGtyeWxvdiBzZWFyY2ggZGlyZWN0aW9ucyI6IDEwMDAsCiAgICAgICAgInJlbGF0aXZlIHRvbGVyYW5jZSI6IDFlLTMsCiAgICAgICAgIm1vbml0b3IgcmVzaWR1YWwiOiBmYWxzZQogICAgfSwKICAgICJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIjogewogICAgICAgICJzdGFydGluZyBjZmwiOiAxLjAsCiAgICAgICAgImNmbCBib3VuZHMiOiBbMC4wMDEsIDEwMDAwMDAuMF0sCiAgICAgICAgImphY29iaWFuIGZyZWUgbmV3dG9uIGtyeWxvdiI6IGZhbHNlLAogICAgICAgICJsaW5lIHNlYXJjaCBzYW1wbGVzIjogMCwKICAgICAgICAibWF4IGNmbCBjaGFuZ2UiOiAxMDAwLjAsCiAgICAgICAgIm1heCB1cGRhdGUgcGVyY2VudGFnZSI6IDAuMSwKICAgICAgICAibWF4IHRpbWUgc3RlcHMiOiAxMDAwLAogICAgICAgICJub25saW5lYXJpdHkgdGFyZ2V0IjogMC43LAogICAgICAgICJwcmludCBmcmVxdWVuY3kiOiA5MDAwLAogICAgICAgICJyZXNpZHVhbCBpbmNyZWFzZSBhbGxvd2FuY2UiOiAyLjAsCiAgICAgICAgInJlc2lkdWFsIHN0b3BwaW5nIHRvbGVyYW5jZSI6IDFlLTE2LAogICAgICAgICJ1cGRhdGUgc3RvcHBpbmcgdG9sZXJhbmNlIjogMWUtMTUsCiAgICAgICAgInVwZGF0ZSByZWxheGF0aW9uIHRvbGVyYW5jZSI6IDAuMDIsCiAgICAgICAgInVzZSByZXNpZHVhbCBzbW9vdGhpbmciOiB0cnVlCiAgICB9Cn0pIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNORVNHZXRTb2wK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNORVNTb2x2ZShzbmVzLCBOVUxMLCBwZXRzY19zb2x1dGlvbi5nZXRWZWMoKSk7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHNvbHZlcl9zZXR0aW5ncyA9IFIiKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsaW5lYXIgc29sdmVyIHNldHRpbmdzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhYnNvbHV0ZSB0b2xlcmFuY2UiOiAxZS0xNiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWF4IGtyeWxvdiBzZWFyY2ggZGlyZWN0aW9ucyI6IDEwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlbGF0aXZlIHRvbGVyYW5jZSI6IDFlLTMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1vbml0b3IgcmVzaWR1YWwiOiBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub25saW5lYXIgc29sdmVyIHNldHRpbmdzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdGFydGluZyBjZmwiOiAxLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNmbCBib3VuZHMiOiBbMC4wMDEsIDEwMDAwMDAuMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImphY29iaWFuIGZyZWUgbmV3dG9uIGtyeWxvdiI6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsaW5lIHNlYXJjaCBzYW1wbGVzIjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWF4IGNmbCBjaGFuZ2UiOiAxMDAwLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1heCB1cGRhdGUgcGVyY2VudGFnZSI6IDAuMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWF4IHRpbWUgc3RlcHMiOiAxMDAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub25saW5lYXJpdHkgdGFyZ2V0IjogMC43LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwcmludCBmcmVxdWVuY3kiOiA5MDAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJyZXNpZHVhbCBpbmNyZWFzZSBhbGxvd2FuY2UiOiAyLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlc2lkdWFsIHN0b3BwaW5nIHRvbGVyYW5jZSI6IDFlLTE2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ1cGRhdGUgc3RvcHBpbmcgdG9sZXJhbmNlIjogMWUtMTUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVwZGF0ZSByZWxheGF0aW9uIHRvbGVyYW5jZSI6IDAuMDIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVzZSByZXNpZHVhbCBzbW9vdGhpbmciOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU05FU1NvbHZlKHNuZXMsIE5VTEwsIHBldHNjX3NvbHV0aW9uLmdldFZlYygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>petsc_runtime</last-search>
+      <last-search>graph_in</last-search>
       <last-offset />
-      <last-pattern>petsc_runtime</last-pattern>
+      <last-pattern>graph_in</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5827,7 +5826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>step_length</entry>
         <entry>printIter</entry>
         <entry>PostCheck</entry>
         <entry>addTime</entry>
@@ -5847,6 +5845,7 @@
         <entry>Object</entry>
         <entry>ample</entry>
         <entry>petsc_runtime</entry>
+        <entry>graph_in</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

@@ -480,13 +480,12 @@
       <file name="/Dummy.txt" timestamp="1541775216581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542140560954">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="133" column="44" />
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542142798507">
+        <mark key="'" line="112" column="8" />
         <mark key="k" line="23" column="16" />
-        <mark key="]" line="133" column="92" />
-        <mark key="." line="133" column="92" />
-        <mark key="^" line="133" column="92" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
         <mark key="'" line="34" column="16" />
@@ -1182,6 +1181,13 @@
         <mark key="]" line="91" column="93" />
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1542142709049">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="108" column="32" />
+        <mark key="." line="108" column="32" />
+        <mark key="^" line="108" column="32" />
       </file>
       <file name="$USER_HOME$/tau-one-ring/hypersolve/src/ViscousInteriorTerms.h" timestamp="1523041519225">
         <mark key="'" line="233" column="12" />
@@ -2367,8 +2373,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>absolute residual tolerance&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigibGluZXNlYXJjaCBsYW1iZGE6ICVlIEwyOiAlZVxuIiwgc3RlcF9sZW5ndGgsIHJlc2lkdWFsX2wyKTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5768,22 +5774,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>absolute residual tolerance&quot;);</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAicmVzaWR1YWwgc3RvcHBpbmcgdG9sZXJhbmNlIjogMWUtMTYsCg==</text>
+        <text encoding="base64">ICAgICAgICBWZWMgZ2V0VmVjKCkgewogICAgICAgICAgICByZXR1cm4gcGV0c2NfdmVjOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub25saW5lYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigibGluZXNlYXJjaCBsYW1iZGE6ICVlIEwyOiAlZVxuIiwgc3RlcF9sZW5ndGgsIHJlc2lkdWFsX2wyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byBub25saW5lYXJfc29sdmVyX3NldHRpbmdzID0ganNvbl9jb25maWcuYXQoIm5vbmxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKTsKICAgIGF1dG8gbGluZWFyX3NvbHZlcl9zZXR0aW5ncyA9IGpzb25fY29uZmlnLmF0KCJsaW5lYXIgc29sdmVyIHNldHRpbmdzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
@@ -5792,25 +5798,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHV0aWxpdHk+Cg==</text>
+        <text encoding="base64">ICAgIGF1dG8gc29sdXRpb24gPSBFbmlnbWE6OkJsb2NrVmVjdG9yPGRvdWJsZSwgMT4obXAuZ2V0Q29tbXVuaWNhdG9yKCksIDEpOwogICAgc29sdXRpb24uZmlsbCgxLjApOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBsaW5lc2VhcmNoX3N1Y2NlZWRlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzaWR1YWxfbDIgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gaW5pdGlhbF9yZXNpZHVhbF9sMiA9IGdldFJlc2lkdWFsTDJOb3JtKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVCBsaW5lX3NlYXJjaF9vYmplY3RpdmUgPSBzdGQ6Om51bWVyaWNfbGltaXRzPFQ+OjptYXgoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGl0ZXJhdGlvbiwgMS4wLCBnZXROdW1iZXJPZktyeWxvdlNlYXJjaFZlY3RvcnMoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNpZHVhbF9sMl9ub3JtLCB1cGRhdGVfbDJfbm9ybSk7CiAgICAgICAgICAgICAgICAgICBpdGVyYXRpb24sIDEuMCwgZ2V0TnVtYmVyT2ZLcnlsb3ZTZWFyY2hWZWN0b3JzKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsY1Jlc2lkdWFsKHNuZXMsIHByZXZpb3VzX3NvbHV0aW9uLmdldFZlYygpLCBwZXRzY19yZXNpZHVhbC5nZXRWZWMoKSwgdGhpcyk7CiAgICAgICAgICAgIGF1dG8gaW5pdGlhbF9yZXNpZHVhbF9sMiA9IGdldFJlc2lkdWFsTDJOb3JtKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

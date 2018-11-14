@@ -480,13 +480,13 @@
       <file name="/Dummy.txt" timestamp="1541775216581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542205721822">
-        <mark key="'" line="101" column="51" />
-        <mark key="k" line="23" column="16" />
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="51" column="61" />
-        <mark key="." line="51" column="61" />
-        <mark key="^" line="51" column="61" />
+      <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542206481400">
+        <mark key="'" line="103" column="51" />
+        <mark key="k" line="24" column="16" />
+        <mark key="[" line="141" column="96" />
+        <mark key="]" line="141" column="92" />
+        <mark key="." line="141" column="92" />
+        <mark key="^" line="141" column="92" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
         <mark key="'" line="34" column="16" />
@@ -734,10 +734,10 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542139626219">
-        <mark key="'" line="84" column="57" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="64" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542206445592">
+        <mark key="'" line="301" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="152" />
         <mark key="^" line="199" column="42" />
         <mark key="." line="199" column="42" />
       </file>
@@ -2265,7 +2265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="279" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="278" column="15" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="308" column="53" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2365,6 +2364,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
       <jump line="54" column="38" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
       <jump line="98" column="51" filename="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" />
+      <jump line="301" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2374,8 +2374,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpzaGFyZWRfcHRyPEVuaWdtYTo6UmVhbGl6YWJpbGl0eUNvbnRyb2xsZXI8VCwgTnVtRXFucz4+IHJlYWxpemFiaWxpdHlfY29udHJvbGxlcl9pbiwK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5781,7 +5781,7 @@
         <text>getSolutionUpdateL2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWxsb3dfcHJpbnRpbmcpIHByaW50ZigiQ2xhaW1pbmcgQ29udmVyZ2VuY2UuXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkOjpzaGFyZWRfcHRyPEVuaWdtYTo6UmVhbGl6YWJpbGl0eUNvbnRyb2xsZXI8VCwgTnVtRXFucz4+IHJlYWxpemFiaWxpdHlfY29udHJvbGxlcl9pbiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0NvbnZlcmdlZChyZXNpZHVhbF9sMl9ub3JtLCB1cGRhdGVfbDJfbm9ybSkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoYWxsb3dfcHJpbnRpbmcpIHByaW50ZigiQ2xhaW1pbmcgQ29udmVyZ2VuY2UuXG4iKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>

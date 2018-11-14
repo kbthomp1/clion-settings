@@ -52,7 +52,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="/LLDB" timestamp="1542209840354">
+      <file name="/LLDB" timestamp="1542217356959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
@@ -398,11 +398,11 @@
         <mark key="." line="121" column="29" />
         <mark key="^" line="121" column="29" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1542210405616">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.h" timestamp="1542218053665">
         <mark key="'" line="125" column="10" />
         <mark key="k" line="72" column="43" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="91" column="7" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="146" column="56" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="74" column="89" />
       </file>
@@ -1066,6 +1066,11 @@
         <mark key="]" line="96" column="16" />
         <mark key="." line="96" column="17" />
         <mark key="^" line="96" column="15" />
+      </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" timestamp="1542218040088">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="65" column="5" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/TermsFactory.h" timestamp="1539806445276">
         <mark key="'" line="34" column="22" />
@@ -2029,12 +2034,11 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542216045688">
-        <mark key="'" line="63" column="78" />
-        <mark key="[" line="204" column="20" />
-        <mark key="]" line="204" column="22" />
-        <mark key="^" line="204" column="22" />
-        <mark key="." line="204" column="22" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542218465410">
+        <mark key="'" line="224" column="49" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolveIntegrateInviscid.cpp" timestamp="1513802011983">
         <mark key="'" line="4" column="0" />
@@ -2298,8 +2302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
-      <jump line="22" column="42" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
       <jump line="83" column="50" filename="$USER_HOME$/one-ring/hypersolve/test/CellDiffusiveFluxTests.cpp" />
       <jump line="160" column="26" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="181" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2398,6 +2400,8 @@
       <jump line="150" column="40" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="58" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="60" column="78" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/CFLController.h" />
+      <jump line="224" column="49" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2407,8 +2411,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>KSPOnly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2NmbCA9IHN0ZDo6bWF4KG5ldykK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5808,58 +5812,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>KSPOnly</text>
+        <text>current_cfl</text>
       </register>
       <register name="/" type="4">
-        <text>local_iteration</text>
+        <text>getCFL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjpiZWdpbigiYWRkVGltZUNvbnRyaWJ1dGlvblRvSmFjb2JpYW4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGRvdWJsZSBjZmxfbWluID0gc2V0dGluZ3MuYXQoImNmbCBib3VuZHMiKVswXTsKICAgICAgICAgIGRvdWJsZSBjZmxfbWF4ID0gc2V0dGluZ3MuYXQoImNmbCBib3VuZHMiKVsxXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjpiZWdpbigidXBkYXRlTWFzc01hdHJpeCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2NmbCA9IHN0ZDo6bWF4KG5ldykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBjZmwgPSAxLjA7Cg==</text>
+      <register name="2" type="8">
+        <text>cfl_
+cfl_</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjplbmQoImNhbGNMaW5lU2VhcmNoUmVsYXhhdGlvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIG1pbiA9IG5vbmxpbmVhcl9zb2x2ZXJfc2V0dGluZ3MuYXQoImNmbCBib3VuZHMiKVswXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXNfc29sdXRpb24uYXNzZW1ibGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGV0c2NJbnQgbl9rcnlsb3Zfc2VhcmNoX2RpcmVjdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDEuMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1QSV9Db21tIGNvbW0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy0+cGV0c2NfcmVzaWR1YWwuYXNzZW1ibGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBtcCA9IE1lc3NhZ2VQYXNzZXIoY29tbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGV0c2Nfc29sdXRpb24uYXNzZW1ibGUoKTsKICAgICAgICAgICAgcHJldmlvdXNfc29sdXRpb24uYXNzZW1ibGUoKTsKICAgICAgICAgICAgc29sdXRpb25fdXBkYXRlLmFzc2VtYmxlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBtcCA9IE1lc3NhZ2VQYXNzZXIoY29tbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyOjpiZWdpbigidXBkYXRlTWFzc01hdHJpeCIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIG1wID0gTWVzc2FnZVBhc3Nlcihjb21tKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBjZmwgPSAxLjA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local_iteration</last-search>
+      <last-search>getCFL</last-search>
       <last-offset />
-      <last-pattern>local_iteration</last-pattern>
+      <last-pattern>getCFL</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5867,8 +5872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edge_to_node</entry>
-        <entry>Object</entry>
         <entry>ample</entry>
         <entry>petsc_runtime</entry>
         <entry>graph_in</entry>
@@ -5887,6 +5890,8 @@
         <entry>nonlinear_solver</entry>
         <entry>timestep</entry>
         <entry>local_iteration</entry>
+        <entry>crruent_cfl</entry>
+        <entry>getCFL</entry>
       </history-search>
       <history-cmd>
         <entry>s/ /\r/g</entry>

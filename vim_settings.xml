@@ -1462,12 +1462,12 @@
         <mark key="^" line="36" column="84" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542297512901">
-        <mark key="'" line="293" column="8" />
-        <mark key="[" line="274" column="37" />
-        <mark key="]" line="274" column="37" />
-        <mark key="^" line="274" column="37" />
-        <mark key="." line="274" column="37" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542304707464">
+        <mark key="'" line="298" column="0" />
+        <mark key="[" line="157" column="49" />
+        <mark key="]" line="158" column="3" />
+        <mark key="^" line="158" column="3" />
+        <mark key="." line="158" column="3" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -1781,13 +1781,13 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542297141487">
-        <mark key="'" line="88" column="38" />
-        <mark key="k" line="251" column="8" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542304697952">
+        <mark key="'" line="99" column="0" />
+        <mark key="k" line="252" column="8" />
         <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="82" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="82" column="81" />
+        <mark key="]" line="82" column="48" />
+        <mark key="." line="82" column="47" />
+        <mark key="^" line="82" column="47" />
       </file>
       <file name="$USER_HOME$/hefss++/data/convert.py" timestamp="1498593791826">
         <mark key="'" line="12" column="31" />
@@ -2306,8 +2306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="108" column="65" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="143" column="25" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="103" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2406,6 +2404,8 @@
       <jump line="269" column="42" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="400" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="293" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="99" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="295" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2415,8 +2415,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uX3VwZGF0ZS5wcmludCgidXBkYXRlIik7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5816,61 +5816,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>linesearch_relaxation</text>
       </register>
       <register name="/" type="4">
-        <text>VecView</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY1ZpZXcocGV0c2NfdXBkYXRlLCBQRVRTQ19WSUVXRVJfU1RET1VUXyhtcC5nZXRDb21tdW5pY2F0b3IoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uX3VwZGF0ZS5wcmludCgidXBkYXRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFZlY1ZpZXcodXBkYXRlLCBQRVRTQ19WSUVXRVJfU1RET1VUXyhzLT5tcC5nZXRDb21tdW5pY2F0b3IoKSkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzLT5zb2x1dGlvbi5wcmludCgic29sdXRpb24iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzb2x1dGlvbi5wcmludCgic29sdXRpb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY1ZpZXcocGV0c2NfdXBkYXRlLCBQRVRTQ19WSUVXRVJfU1RET1VUXyhtcC5nZXRDb21tdW5pY2F0b3IoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFZlY1ZpZXcodXBkYXRlLCBQRVRTQ19WSUVXRVJfU1RET1VUXyhzLT5tcC5nZXRDb21tdW5pY2F0b3IoKSkpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uLnByaW50KCJzb2x1dGlvbiIpOwoK</text>
+        <text encoding="base64">ICAgICAgICBzLT5zb2x1dGlvbi5wcmludCgic29sdXRpb24iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub25saW5lYXJfc29sdmVyLnVwZGF0ZU1hc3NNYXRyaXgoKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzb2x1dGlvbi5wcmludCgic29sdXRpb24iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vbmxpbmVhcl9zb2x2ZXIudXBkYXRlTWFzc01hdHJpeCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBwcmV2aW91c19zb2x1dGlvbiA9IEJsb2NrVmVjdG9yPFQsIE51bUVxbnM+KG1wLmdldENvbW11bmljYXRvcigpLCBncmFwaC5udW1iZXJPZkVudHJpZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uLnByaW50KCJzb2x1dGlvbiIpOwoK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHByZXZpb3VzX3NvbHV0aW9uID0gc29sdXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBub25saW5lYXJfc29sdmVyLnVwZGF0ZU1hc3NNYXRyaXgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>VecView</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>VecView</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -5892,9 +5892,9 @@
         <entry>max_</entry>
         <entry>monitorResidual</entry>
         <entry>reCheck</entry>
-        <entry>print</entry>
         <entry>monitorRes</entry>
         <entry>VecView</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

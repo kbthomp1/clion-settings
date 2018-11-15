@@ -2029,8 +2029,8 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542291725772">
-        <mark key="'" line="4" column="13" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542292658686">
+        <mark key="'" line="142" column="37" />
         <mark key="k" line="247" column="8" />
         <mark key="[" line="155" column="117" />
         <mark key="]" line="155" column="117" />
@@ -2305,8 +2305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="20" column="51" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
       <jump line="35" column="41" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
       <jump line="13" column="41" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
       <jump line="34" column="24" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
@@ -2405,6 +2403,8 @@
       <jump line="344" column="23" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="346" column="56" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="4" column="13" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="134" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="142" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5818,7 +5818,7 @@
         <text>previous_solution[row]</text>
       </register>
       <register name="/" type="4">
-        <text>Search</text>
+        <text>max_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBCbG9ja1ZlY3RvcjxULCBOdW1FcW5zPiBzb2x1dGlvbjsK</text>
@@ -5864,9 +5864,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Search</last-search>
+      <last-search>max_</last-search>
       <last-offset />
-      <last-pattern>Search</last-pattern>
+      <last-pattern>max_</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5874,8 +5874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>soluiton</entry>
-        <entry>petsc_solution</entry>
         <entry>getLast</entry>
         <entry>previous_solution</entry>
         <entry>apply_update</entry>
@@ -5894,6 +5892,8 @@
         <entry>residual</entry>
         <entry>Line</entry>
         <entry>Search</entry>
+        <entry>max step</entry>
+        <entry>max_</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

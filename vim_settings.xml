@@ -1472,12 +1472,12 @@
         <mark key="^" line="36" column="84" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542321437823">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542390381648">
         <mark key="'" line="41" column="10" />
-        <mark key="[" line="301" column="115" />
-        <mark key="]" line="301" column="115" />
+        <mark key="[" line="142" column="76" />
+        <mark key="]" line="142" column="76" />
         <mark key="^" line="301" column="115" />
-        <mark key="." line="301" column="115" />
+        <mark key="." line="142" column="76" />
       </file>
       <file name="$USER_HOME$/one-ring/parfait-plugins/CellCenteredPreProcessor/CMakeLists.txt" timestamp="1534258317236">
         <mark key="'" line="69" column="15" />
@@ -1720,12 +1720,12 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1542390094765">
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1542390450463">
         <mark key="'" line="33" column="43" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" timestamp="1521832347671">
         <mark key="'" line="0" column="0" />
@@ -2417,8 +2417,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Vec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQRVRTY1ZlY3RvcjxULCBOdW1FcW5zPiBzb2x1dGlvbjsKICAgICAgICBQRVRTY1ZlY3RvcjxULCBOdW1FcW5zPiByaHM7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5818,51 +5818,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Vec</text>
+        <text>solution</text>
       </register>
       <register name="/" type="4">
         <text>PETScVec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGVxbl9ub3JtcyA9IGNhbGNFcXVhdGlvbkwyTm9ybXMocy0+bXAsIHMtPmdyYXBoLmdldERvT3duKCksIHMtPnZlY3Rvcl9yaHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBWZWMgcGV0c2Nfc29sdXRpb247Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>v
-v
-v</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBQRVRTY1ZlY3RvcjxULCBOdW1FcW5zPiBzb2x1dGlvbjsKICAgICAgICBQRVRTY1ZlY3RvcjxULCBOdW1FcW5zPiByaHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFZlY1Jlc3RvcmVBcnJheShzb3VyY2VfdGVybS5nZXRWZWMoKSwgJnYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjQ29weShzb2x1dGlvbi5nZXRWZWMoKSwgc291cmNlX3Rlcm0pOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSogdjsKICAgIFZlY0dldEFycmF5KHNvdXJjZV90ZXJtLmdldFZlYygpLCAmdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBncmFwaC5udW1iZXJPZkVudHJpZXMoKTsgKytpKSB7CiAgICAgICAgICAgICAgICBpZiAoZ3JhcGguZG9Pd24oaSkpIHsKICAgICAgICAgICAgICAgICAgICBzb2x1dAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGguZ2V0RG9Pd24oKSk7Cg==</text>
+      <register name="4" type="8">
+        <text>v
+v
+v</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFZlY1Jlc3RvcmVBcnJheShzb3VyY2VfdGVybS5nZXRWZWMoKSwgJnYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRvdWJsZSogdjsKICAgIFZlY0dldEFycmF5KHNvdXJjZV90ZXJtLmdldFZlYygpLCAmdik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcmdlbmNlX2hpc3Rvcnlfd3JpdGVyLT53cml0ZUl0ZXJhdGlvbkhpc3RvcnkoaXRlcmF0aW9uLCByZXNpZHVhbF9lcW5fbm9ybXMsIHVwZGF0ZV9lcW5fbm9ybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRfY2ZsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGguZ2V0RG9Pd24oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzaWR1YWxfbDJfbm9ybSA9IGNhbGNMMk5vcm0ocmVzaWR1YWxfZXFuX25vcm1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

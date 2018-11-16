@@ -10,11 +10,12 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1541620002107">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="33" column="30" />
+      <file name="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" timestamp="1542389928229">
+        <mark key="'" line="35" column="31" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReactionTests.cpp" timestamp="1496438533179">
         <mark key="'" line="30" column="31" />
@@ -169,12 +170,6 @@
         <mark key="]" line="40" column="100" />
         <mark key="^" line="40" column="100" />
         <mark key="." line="40" column="100" />
-      </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1542223669902">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/test/MockSolverTermsTests.cpp" timestamp="1542209205858">
         <mark key="[" line="5" column="22" />
@@ -756,12 +751,6 @@
         <mark key="]" line="155" column="26" />
         <mark key="." line="155" column="26" />
         <mark key="^" line="155" column="26" />
-      </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1542220421838">
-        <mark key="'" line="68" column="4" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousStressUtilities.h" timestamp="1539980118273">
         <mark key="'" line="10" column="4" />
@@ -1731,6 +1720,13 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="36" />
       </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" timestamp="1542390094765">
+        <mark key="'" line="33" column="43" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="27" column="45" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/NonLinearSolver.hpp" timestamp="1521832347671">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -2312,16 +2308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="90" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="238" column="11" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="148" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="276" column="60" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="278" column="46" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="115" column="81" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="275" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="408" column="53" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="38" column="51" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="130" column="36" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="132" column="83" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="177" column="50" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2412,6 +2398,16 @@
       <jump line="41" column="10" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="42" column="7" filename="$USER_HOME$/one-ring/hypersolve/utils/plot_residual.py" />
       <jump line="18" column="32" filename="$USER_HOME$/one-ring/hypersolve/utils/plot_residual.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="56" column="13" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="49" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="27" column="51" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="28" column="73" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="30" column="37" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="33" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
+      <jump line="33" column="26" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="23" column="9" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
+      <jump line="35" column="31" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2422,7 +2418,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Vec</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5822,58 +5818,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Vec</text>
       </register>
       <register name="/" type="4">
-        <text>equation_name</text>
+        <text>PETScVec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIGVxbl9ub3JtcyA9IGNhbGNFcXVhdGlvbkwyTm9ybXMocy0+bXAsIHMtPmdyYXBoLmdldERvT3duKCksIHMtPnZlY3Rvcl9yaHMpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>v
+v
+v</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIFZlY1Jlc3RvcmVBcnJheShzb3VyY2VfdGVybS5nZXRWZWMoKSwgJnYpOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcmdlbmNlX2hpc3Rvcnlfd3JpdGVyLT53cml0ZUl0ZXJhdGlvbkhpc3RvcnkoaXRlcmF0aW9uLCByZXNpZHVhbF9lcW5fbm9ybXMsIHVwZGF0ZV9lcW5fbm9ybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRfY2ZsKTsK</text>
+        <text encoding="base64">ICAgIGRvdWJsZSogdjsKICAgIFZlY0dldEFycmF5KHNvdXJjZV90ZXJtLmdldFZlYygpLCAmdik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhcGguZ2V0RG9Pd24oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzaWR1YWxfbDJfbm9ybSA9IGNhbGNMMk5vcm0ocmVzaWR1YWxfZXFuX25vcm1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgd3JpdGVJdGVyYXRpb25IaXN0b3J5KGludCBpdGVyYXRpb24sIGNvbnN0IHN0ZDo6YXJyYXk8ZG91YmxlLCBOdW1FcW5zPiYgcmVzaWR1YWwsIGRvdWJsZSBjZmwpIG92ZXJyaWRlIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcmdlbmNlX2hpc3Rvcnlfd3JpdGVyLT53cml0ZUl0ZXJhdGlvbkhpc3RvcnkoaXRlcmF0aW9uLCByZXNpZHVhbF9lcW5fbm9ybXMsIHVwZGF0ZV9lcW5fbm9ybXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRfY2ZsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhTOjpnZXRDb252ZXJnZW5jZUhpc3RvcnlOYW1lcyhFUTo6TnVtRXFucykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzaWR1YWxfbDJfbm9ybSA9IGNhbGNMMk5vcm0ocmVzaWR1YWxfZXFuX25vcm1zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>equation_name</last-search>
+      <last-search>PETScVec</last-search>
       <last-offset />
-      <last-pattern>equation_name</last-pattern>
+      <last-pattern>PETScVec</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5881,9 +5879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>global_vector</entry>
-        <entry>rpint</entry>
-        <entry>map</entry>
         <entry>is_trivial</entry>
         <entry>is_</entry>
         <entry>trivial</entry>
@@ -5901,6 +5896,9 @@
         <entry>SolverHi</entry>
         <entry>convergence</entry>
         <entry>equation_name</entry>
+        <entry>Vec</entry>
+        <entry>source_term</entry>
+        <entry>PETScVec</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

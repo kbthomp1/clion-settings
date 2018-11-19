@@ -1781,12 +1781,10 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542651833198">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="128" column="53" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1542653223951">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/hefss++/data/convert.py" timestamp="1498593791826">
         <mark key="'" line="12" column="31" />
@@ -2299,8 +2297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="59" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="26" column="75" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="346" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="14" column="10" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="28" column="52" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2399,6 +2395,8 @@
       <jump line="105" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="158" column="52" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="72" column="64" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="80" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2409,7 +2407,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gbGluZXNlYXJjaF9yZWxheGF0aW9uID0gMS4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgc29sCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5809,43 +5807,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>residual_l2_norm</text>
+        <text>calculation</text>
       </register>
       <register name="/" type="4">
-        <text>PETScToEnigma</text>
+        <text>previous_solution</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzaWR1YWxfZXFuX25vcm1zID0gY2FsY0VxdWF0aW9uTDJOb3JtcyhtcCwgZ3JhcGguZ2V0RG9Pd24oKSwgdmVjdG9yX3Jocyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzX3NvbHV0aW9uID0gc29sdXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gbGluZXNlYXJjaF9yZWxheGF0aW9uID0gMS4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgc29sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heF9zdGVwX2xlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZpb3VzX3NvbHV0aW9uID0gc29sdXRpb247Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGNSZXNpZHVhbCh2ZWN0b3JfcmhzLCBzb2x1dGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYXV0byBibG9ja19yZXMgPSBCbG9ja1ZlY3RvcjxULCBOdW1FcW5zPihtcC5nZXRDb21tdW5pY2F0b3IoKSwgZ3JhcGgubnVtYmVyT2ZFbnRyaWVzKCkpOwovLyAgICAgICAgICAgICAgICBmb3IgKHNpemVfdCBpID0gMDsgaSA8IGJsb2NrX3Jlcy5zaXplKCk7ICsraSkKLy8gICAgICAgICAgICAgICAgICAgIHZlY3Rvcl9yaHMuZ2V0KGksIGFsbF9lcXVhdGlvbnMsIGJsb2NrX3Jlc1tpXS5kYXRhKCkpOwovLyAgICAgICAgICAgICAgICBibG9ja19yZXMucHJpbnQoInJlc2lkdWFsIiwgZ3JhcGguZ2V0RG9Pd24oKSk7Ci8vICAgICAgICAgICAgICAgIGV4aXQoMCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFyZmFpdDo6U3luY1BhdHRlcnMtPnN5bmNfcGF0dGVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0NvbnZlcmdlZChyZXNpZHVhbF9sMl9ub3JtLCB1cGRhdGVfbDJfbm9ybSkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoYWxsb3dfcHJpbnRpbmcpCiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50ZigiQ2xhaW1pbmcgQ29udmVyZ2VuY2UsIEwyIFJlc2lkICVlIEwyIGRRICVlXG4iLCByZXNpZHVhbF9sMl9ub3JtLCB1cGRhdGVfbDJfbm9ybSk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy0+Y2FsY1BldHNjUmVzaWR1YWwocy0+c25lcywgY3VycmVudF9zb2x1dGlvbiwgcmVzaWR1YWwsIHNvbHZlcl9kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcmVzX25vcm0gPSBjYWxjTDJOb3JtKG1wLCBncmFwaC5nZXREb093bigpLCB2ZWN0b3JfcmhzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcy0+c29sdXRpb24ucHJpbnQoInNvbHV0aW9uIiwgcy0+Z3JhcGguZ2V0RG9Pd24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGNSZXNpZHVhbCh2ZWN0b3JfcmhzLCBzb2x1dGlvbik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -5858,9 +5856,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PETScToEnigma</last-search>
+      <last-search>previous_solution</last-search>
       <last-offset />
-      <last-pattern>PETScToEnigma</last-pattern>
+      <last-pattern>previous_solution</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5880,7 +5878,6 @@
         <entry>calcJacobian</entry>
         <entry>PETScToEn</entry>
         <entry>calcMatrix</entry>
-        <entry>previous_solution</entry>
         <entry>vector_rhs</entry>
         <entry>solution</entry>
         <entry>calcResidual</entry>
@@ -5888,6 +5885,7 @@
         <entry>Petsc</entry>
         <entry>calcMatr</entry>
         <entry>PETScToEnigma</entry>
+        <entry>previous_solution</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

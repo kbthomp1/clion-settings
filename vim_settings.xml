@@ -170,6 +170,12 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="40" column="100" />
       </file>
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScVector.h" timestamp="1542815819938">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/enigma/test/MockSolverTermsTests.cpp" timestamp="1542209205858">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="28" />
@@ -1291,8 +1297,8 @@
         <mark key="^" line="129" column="32" />
         <mark key="." line="129" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/BlockVector.h" timestamp="1542637477644">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/BlockVector.h" timestamp="1542815782537">
+        <mark key="'" line="44" column="17" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="27" />
         <mark key="." line="85" column="0" />
@@ -2303,7 +2309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="290" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="263" column="20" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="417" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
@@ -2403,6 +2408,7 @@
       <jump line="30" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
       <jump line="132" column="48" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="524" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
+      <jump line="44" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/BlockVector.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2412,8 +2418,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBWZWMgZ2V0VmVjKCkgY29uc3QgewogICAgICAgICAgICByZXR1cm4gcGV0c2NfdmVjOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5816,37 +5822,37 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>petsc_solution</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCBpdGVyYXRpb247CiAgICBTTkVTR2V0SXRlcmF0aW9uTnVtYmVyKHBldHNjX3NuZXMsICZpdGVyYXRpb24pOwogICAgaWYgKGl0ZXJhdGlvbiA+IDAgYW5kIHMtPnNldHRpbmdzWyJ1c2UgcmVzaWR1YWwgc21vb3RoaW5nIl0pCiAgICAgICAgVmVjQVhQWShyZXNpZHVhbCwgMS4wLCBzLT5yZXNpZHVhbF9zbW9vdGhlcl9zb3VyY2VfdGVybS5nZXRWZWMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVuaWdtYS9QRVRTY05vbkxpbmVhclNvbHZlci5oPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBWZWMgZ2V0VmVjKCkgY29uc3QgewogICAgICAgICAgICByZXR1cm4gcGV0c2NfdmVjOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlBFVFNjTm9uTGluZWFyU29sdmVyLmgiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGVuaWdtYS9QRVRTY05vbkxpbmVhclNvbHZlci5oPgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHNvbHZlcl9uYW1lID09ICJQRVRTYyIpIHsK</text>
+        <text encoding="base64">I2luY2x1ZGUgIlBFVFNjTm9uTGluZWFyU29sdmVyLmgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ZDo6bWFrZV9zaGFyZWQ8UEVUU2NOb25MaW5lYXJTb2x2ZXI8ZG91YmxlLCBOdW1FcW5zPj4obXAuZ2V0Q29tbXVuaWNhdG9yKCksIGFsbG93X3ByaW50aW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXRzY19ydW50aW1lLCBncmFwaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuYXQoIm5vbmxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuYXQoImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY3JldGl6YXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZV9yZWFsaXphYmlsaXR5X2NvbnRyb2xsZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVfaW50ZWdyYXRvciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdG9yeV93cml0ZXIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFRIUk9XKCJVbmtub3duIHNvbHZlciByZXF1ZXN0ZWQ6ICIgKyBzb2x2ZXJfbmFtZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHNvbHZlcl9uYW1lID09ICJQRVRTYyIpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc29sdmVyX25hbWUgPT0gIktTUE9ubHkiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ZDo6bWFrZV9zaGFyZWQ8UEVUU2NOb25MaW5lYXJTb2x2ZXI8ZG91YmxlLCBOdW1FcW5zPj4obXAuZ2V0Q29tbXVuaWNhdG9yKCksIGFsbG93X3ByaW50aW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXRzY19ydW50aW1lLCBncmFwaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuYXQoIm5vbmxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuYXQoImxpbmVhciBzb2x2ZXIgc2V0dGluZ3MiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY3JldGl6YXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZV9yZWFsaXphYmlsaXR5X2NvbnRyb2xsZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVfaW50ZWdyYXRvciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGlzdG9yeV93cml0ZXIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFRIUk9XKCJVbmtub3duIHNvbHZlciByZXF1ZXN0ZWQ6ICIgKyBzb2x2ZXJfbmFtZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc29sdmVyX25hbWUgPT0gIktTUE9ubHkiKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -5862,9 +5868,9 @@
       </register>
     </registers>
     <search>
-      <last-search>petsc_solution</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>petsc_solution</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5872,7 +5878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setupForTime</entry>
         <entry>SNESSetJac</entry>
         <entry>jacobian free</entry>
         <entry>solution_update</entry>
@@ -5892,6 +5897,7 @@
         <entry>add</entry>
         <entry>calcSourceTerm</entry>
         <entry>petsc_solution</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

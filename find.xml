@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="CMakeLists.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,9 +24,9 @@
     <mask>*.ra</mask>
     <mask>*.h</mask>
     <mask>*Weak*</mask>
-    <mask>CMakeLists.txt</mask>
     <mask>*.h*</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>CMakeLists.txt</mask>
   </component>
 </application>

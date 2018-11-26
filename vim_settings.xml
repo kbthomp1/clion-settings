@@ -855,6 +855,9 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/one-ring/sampling/CMakeLists.txt" timestamp="1543241844512">
+        <mark key="'" line="146" column="4" />
+      </file>
       <file name="$USER_HOME$/one-ring/enigma/test/GraphTests.cpp" timestamp="1537814033863">
         <mark key="'" line="21" column="27" />
         <mark key="[" line="34" column="22" />
@@ -1769,6 +1772,9 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/one-ring/t-infinity/CMakeLists.txt" timestamp="1543241879065">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/hefss++/data/kinetic_data_converter.py" timestamp="1496430224882">
         <mark key="'" line="36" column="65" />
         <mark key="[" line="62" column="0" />
@@ -2315,12 +2321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="263" column="20" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="417" column="4" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="418" column="80" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
-      <jump line="152" column="54" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="30" column="40" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="87" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="118" column="87" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="121" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2415,6 +2415,12 @@
       <jump line="132" column="48" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="524" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" />
       <jump line="44" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/BlockVector.h" />
+      <jump line="118" column="8" filename="$USER_HOME$/one-ring/sampling/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/sampling/CMakeLists.txt" />
+      <jump line="6" column="0" filename="$USER_HOME$/one-ring/sampling/CMakeLists.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/one-ring/sampling/CMakeLists.txt" />
+      <jump line="146" column="4" filename="$USER_HOME$/one-ring/sampling/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/t-infinity/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5828,7 +5834,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>nlohmann_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCBpdGVyYXRpb247CiAgICBTTkVTR2V0SXRlcmF0aW9uTnVtYmVyKHBldHNjX3NuZXMsICZpdGVyYXRpb24pOwogICAgaWYgKGl0ZXJhdGlvbiA+IDAgYW5kIHMtPnNldHRpbmdzWyJ1c2UgcmVzaWR1YWwgc21vb3RoaW5nIl0pCiAgICAgICAgVmVjQVhQWShyZXNpZHVhbCwgMS4wLCBzLT5yZXNpZHVhbF9zbW9vdGhlcl9zb3VyY2VfdGVybS5nZXRWZWMoKSk7Cg==</text>
@@ -5874,9 +5880,9 @@
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>nlohmann_</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern>nlohmann_</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5884,9 +5890,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SNESSetJac</entry>
-        <entry>jacobian free</entry>
-        <entry>solution_update</entry>
         <entry>calc</entry>
         <entry>calcResidual</entry>
         <entry>calcPetsc</entry>
@@ -5904,6 +5907,9 @@
         <entry>calcSourceTerm</entry>
         <entry>petsc_solution</entry>
         <entry>const</entry>
+        <entry>find_package</entry>
+        <entry>sampling</entry>
+        <entry>nlohmann_</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

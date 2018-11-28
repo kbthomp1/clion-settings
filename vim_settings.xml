@@ -951,6 +951,7 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
       </file>
+      <file name="$USER_HOME$/one-ring/parfait/parfait/GraphOrderings.h" timestamp="1543439607960" />
       <file name="$USER_HOME$/one-ring/ra/test/ThermoCurveFitsTests.cpp" timestamp="1531234095962">
         <mark key="'" line="48" column="48" />
         <mark key="[" line="52" column="78" />
@@ -1300,6 +1301,7 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/LAURA-5/CMakeLists.txt" timestamp="1543328428471" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/BoundaryConditions.h" timestamp="1521829658242">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="540" column="39" />
@@ -1547,8 +1549,8 @@
         <mark key="." line="48" column="46" />
         <mark key="^" line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1543247421210">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1543440026330">
+        <mark key="'" line="67" column="12" />
         <mark key="k" line="60" column="33" />
         <mark key="[" line="596" column="95" />
         <mark key="]" line="596" column="95" />
@@ -1580,6 +1582,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/SolutionInitializationTests.cpp" timestamp="1543265980261" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/RelizabilityController.h" timestamp="1525270615338">
         <mark key="'" line="3" column="10" />
         <mark key="[" line="13" column="0" />
@@ -1759,12 +1762,8 @@
         <mark key="." line="87" column="78" />
         <mark key="^" line="87" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/Graph.h" timestamp="1543249086937">
-        <mark key="'" line="19" column="36" />
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="37" />
-        <mark key="^" line="93" column="37" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/Graph.h" timestamp="1543439454498">
+        <mark key="'" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1534871006071">
         <mark key="'" line="26" column="16" />
@@ -2466,14 +2465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="49" filename="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" />
-      <jump line="104" column="56" filename="$USER_HOME$/one-ring/hypersolve/test/ViscousTermsTests.cpp" />
-      <jump line="29" column="17" filename="$USER_HOME$/LAURA-5/src/LocalTimestepping.h" />
-      <jump line="75" column="0" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
-      <jump line="264" column="15" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="324" column="18" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="328" column="65" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="335" column="45" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="337" column="47" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="344" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="347" column="41" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
@@ -2566,6 +2557,14 @@
       <jump line="418" column="51" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousStressUtilities.h" />
       <jump line="127" column="1" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousStressUtilities.h" />
+      <jump line="15" column="60" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="21" column="80" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="93" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/Graph.h" />
+      <jump line="58" column="34" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="52" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="57" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="67" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2576,7 +2575,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC1zbmVzX2xpbmVzZWFyY2hfdHlwZSBidCIs</text>
+        <text>comm</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -5976,58 +5975,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC1zbmVzX2xpbmVzZWFyY2hfdHlwZSBidCIs</text>
+        <text>comm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw=</text>
+        <text>initial_Q</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsKICAgICAgICAgICAgcy0+UEVUU2NUb0VuaWdtYShjdXJyZW50X3NvbHV0aW9uLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIFBhcmZhaXQ6OnN5bmNWZWN0b3Iocy0+bXAsIHMtPnNvbHV0aW9uLmdldFZlY3RvcigpLCBzLT5nbG9iYWxfdG9fbG9jYWwsIHMtPnN5bmNfcGF0dGVybik7CiAgICAgICAgICAgIHMtPmNhbGNSZXNpZHVhbChzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIHMtPmFkZFJlc2lkdWFsU21vb3RoZXJTb3VyY2VUZXJtVG9SZXNpZHVhbChzLT52ZWN0b3JfcmhzKTsKICAgICAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhyZXNpZHVhbCwgcy0+dmVjdG9yX3Jocyk7CiAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBNZXNzYWdlUGFzc2VyIG1wOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhbGxvd19wcmludGluZykgcHJpbnRmKCJVc2luZyBDb3B5UmVzaWR1YWxUb1BldHNjXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsKICAgICAgICAgICAgcy0+UEVUU2NUb0VuaWdtYShjdXJyZW50X3NvbHV0aW9uLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIFBhcmZhaXQ6OnN5bmNWZWN0b3Iocy0+bXAsIHMtPnNvbHV0aW9uLmdldFZlY3RvcigpLCBzLT5nbG9iYWxfdG9fbG9jYWwsIHMtPnN5bmNfcGF0dGVybik7CiAgICAgICAgICAgIHMtPmNhbGNSZXNpZHVhbChzLT52ZWN0b3JfcmhzLCBzLT5zb2x1dGlvbik7CiAgICAgICAgICAgIHMtPmFkZFJlc2lkdWFsU21vb3RoZXJTb3VyY2VUZXJtVG9SZXNpZHVhbChzLT52ZWN0b3JfcmhzKTsKICAgICAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhyZXNpZHVhbCwgcy0+dmVjdG9yX3Jocyk7CiAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhbGxvd19wcmludGluZykgcHJpbnRmKCJVc2luZyBjYWxjUGV0c2NSZXNpZHVhbFxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhbGxvd19wcmludGluZykgcHJpbnRmKCJVc2luZyBDb3B5UmVzaWR1YWxUb1BldHNjXG4iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhbGxvd19wcmludGluZykgcHJpbnRmKCJVc2luZyBjYWxjUGV0c2NSZXNpZHVhbFxuIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhyZXNpZHVhbCwgcy0+dmVjdG9yX3Jocyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy0+RW5pZ21hVG9QRVRTYyhyZXNpZHVhbCwgcy0+dmVjdG9yX3Jocyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw=</last-search>
+      <last-search>initial_Q</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw=</last-pattern>
+      <last-pattern>initial_Q</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6035,8 +6034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
-        <entry>xt</entry>
         <entry>iloc</entry>
         <entry>y</entry>
         <entry>z</entry>
@@ -6055,6 +6052,8 @@
         <entry>calcMat</entry>
         <entry>calcMatrix</entry>
         <entry encoding="base64">PDw=</entry>
+        <entry>comm</entry>
+        <entry>initial_Q</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

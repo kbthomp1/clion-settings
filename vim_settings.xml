@@ -2196,8 +2196,8 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1543347379839">
-        <mark key="'" line="413" column="51" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" timestamp="1543441914810">
+        <mark key="'" line="359" column="12" />
         <mark key="k" line="413" column="65" />
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="65" />
@@ -2465,15 +2465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="47" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="344" column="17" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="347" column="41" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="41" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/MeshUtilitiesTests.cpp" />
-      <jump line="3" column="19" filename="$USER_HOME$/LAURA-5/tests/unit_tests/MeshUtilitiesTests.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/MeshUtilitiesTests.cpp" />
-      <jump line="6" column="0" filename="$USER_HOME$/LAURA-5/src/shared_laura_variables.f90" />
-      <jump line="24" column="29" filename="$USER_HOME$/LAURA-5/src/laura_interface.h" />
-      <jump line="32" column="38" filename="$USER_HOME$/LAURA-5/src/laura_interface.h" />
       <jump line="9" column="8" filename="$USER_HOME$/LAURA-5/src/laura_interface.h" />
       <jump line="97" column="23" filename="$USER_HOME$/LAURA-5/src/structured_metrics.f90" />
       <jump line="106" column="58" filename="$USER_HOME$/LAURA-5/src/structured_metrics.f90" />
@@ -2565,6 +2556,15 @@
       <jump line="52" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="57" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
       <jump line="67" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="33" column="59" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="53" column="18" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="83" column="20" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="84" column="84" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="103" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="107" column="70" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="109" column="80" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="119" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="359" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5978,7 +5978,7 @@
         <text>comm</text>
       </register>
       <register name="/" type="4">
-        <text>initial_Q</text>
+        <text>iteration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0byBzID0gKFBFVFNjS1NQT25seU5vbkxpbmVhclNvbHZlciAqKSBzb2x2ZXJfZGF0YTsK</text>
@@ -6024,9 +6024,9 @@
       </register>
     </registers>
     <search>
-      <last-search>initial_Q</last-search>
+      <last-search>iteration</last-search>
       <last-offset />
-      <last-pattern>initial_Q</last-pattern>
+      <last-pattern>iteration</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6034,7 +6034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iloc</entry>
         <entry>y</entry>
         <entry>z</entry>
         <entry>LAURA</entry>
@@ -6054,6 +6053,7 @@
         <entry encoding="base64">PDw=</entry>
         <entry>comm</entry>
         <entry>initial_Q</entry>
+        <entry>iteration</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -919,8 +919,8 @@
         <mark key="." line="32" column="69" />
         <mark key="^" line="32" column="69" />
       </file>
-      <file name="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" timestamp="1542666843695">
-        <mark key="'" line="42" column="44" />
+      <file name="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" timestamp="1543868475151">
+        <mark key="'" line="73" column="113" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="61" column="36" />
@@ -1530,8 +1530,8 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1543440026330">
-        <mark key="'" line="67" column="12" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1543868487014">
+        <mark key="'" line="155" column="0" />
         <mark key="k" line="60" column="33" />
         <mark key="[" line="596" column="95" />
         <mark key="]" line="596" column="95" />
@@ -2387,8 +2387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/HyperSolveMiniApp.h" />
-      <jump line="93" column="25" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/HyperSolveMiniApp.h" />
       <jump line="101" column="14" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/HyperSolveMiniApp.h" />
       <jump line="198" column="0" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/Tensor.h" />
       <jump line="3" column="17" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/Tensor.h" />
@@ -2487,6 +2485,8 @@
       <jump line="29" column="80" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="48" column="83" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="162" column="25" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="73" column="113" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
+      <jump line="155" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5900,7 +5900,7 @@
         <text>getCurrentIteration</text>
       </register>
       <register name="/" type="4">
-        <text>time_integrator</text>
+        <text>domain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvY2FsX2Jsb2NrX2NvbHVtbiAhPSBsb2NhbF9ibG9ja19yb3cpIHJldHVybjsK</text>
@@ -5946,9 +5946,9 @@
       </register>
     </registers>
     <search>
-      <last-search>time_integrator</last-search>
+      <last-search>domain</last-search>
       <last-offset />
-      <last-pattern>time_integrator</last-pattern>
+      <last-pattern>domain</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -5956,7 +5956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uvw</entry>
         <entry>solution</entry>
         <entry>graph</entry>
         <entry>time_integ</entry>
@@ -5976,6 +5975,7 @@
         <entry>previous</entry>
         <entry>previous_solution</entry>
         <entry>time_integrator</entry>
+        <entry>domain</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -52,7 +52,9 @@
         <mark key="." line="145" column="43" />
         <mark key="^" line="145" column="43" />
       </file>
-      <file name="$USER_HOME$/one-ring/parfait/parfait/Metrics.h" timestamp="1544127419785" />
+      <file name="$USER_HOME$/one-ring/parfait/parfait/Metrics.h" timestamp="1544127476137">
+        <mark key="'" line="39" column="10" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.h" timestamp="1539868300481">
         <mark key="'" line="22" column="28" />
         <mark key="[" line="25" column="0" />
@@ -995,6 +997,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="100" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/ElementTests.cpp" timestamp="1544127875887">
+        <mark key="'" line="256" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
         <mark key="'" line="100" column="77" />
         <mark key="[" line="100" column="75" />
@@ -1397,10 +1402,10 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" timestamp="1544123671689">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/Element.h" timestamp="1544127573931">
         <mark key="'" line="107" column="12" />
-        <mark key="[" line="188" column="36" />
-        <mark key="]" line="188" column="36" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="232" column="9" />
         <mark key="." line="188" column="42" />
         <mark key="^" line="82" column="41" />
       </file>
@@ -2555,8 +2560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/one-ring/enigma/test/BackwardEulerTests.cpp" />
-      <jump line="16" column="64" filename="$USER_HOME$/one-ring/enigma/test/BackwardEulerTests.cpp" />
       <jump line="42" column="8" filename="$USER_HOME$/one-ring/enigma/test/BackwardEulerTests.cpp" />
       <jump line="77" column="8" filename="$USER_HOME$/one-ring/enigma/test/BackwardEulerTests.cpp" />
       <jump line="111" column="62" filename="$USER_HOME$/one-ring/enigma/test/BackwardEulerTests.cpp" />
@@ -2655,6 +2658,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
       <jump line="17" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/ViscousFlux.h" />
+      <jump line="39" column="10" filename="$USER_HOME$/one-ring/parfait/parfait/Metrics.h" />
+      <jump line="256" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ElementTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2664,8 +2669,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, real_difference, tolerance);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA0PgogICAgICAgIGNhbGNUZXRyYWhlZHJvbkZhY2VOb3JtYWwoc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA0PiBub2RlX2Nvb3JkaW5hdGVzKXsKCiAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gZWRnZV8wXzMgPSBub2RlX2Nvb3JkaW5hdGVzWzBdIC0gbm9kZV9jb29yZGluYXRlc1szXTsKICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBlZGdlXzFfMyA9IG5vZGVfY29vcmRpbmF0ZXNbMV0gLSBub2RlX2Nvb3JkaW5hdGVzWzNdOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IGVkZ2VfMl8zID0gbm9kZV9jb29yZGluYXRlc1syXSAtIG5vZGVfY29vcmRpbmF0ZXNbM107CgogICAgICAgICAgICBjb25zdCBkb3VibGUgc2l4dGggPSAxLjAgLyA2LjA7CgogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8xID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzFfMywgZWRnZV8yXzMpOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8yID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzJfMywgZWRnZV8wXzMpOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8zID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzBfMywgZWRnZV8xXzMpOwogICAgICAgICAgICAvLyBGSVhNRTogUGVyIEBtcGFyayBjb21wdXRlIHRoaXMgc3ltbWV0cmljYWxseSB0byB1bmRlcnN0YW5kIGltcGxpY2F0aW9uIGZvciBmcCByb3VuZC1vZmYKICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBub3JtYWxfNCA9IC0xLjAgKiAobm9ybWFsXzEgKyBub3JtYWxfMiArIG5vcm1hbF8zKTsKCiAgICAgICAgICAgIHJldHVybiB7bm9ybWFsXzEsIG5vcm1hbF8yLCBub3JtYWxfMywgbm9ybWFsXzR9OwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6071,7 +6076,7 @@
         <text>Volume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIkVycm9yOiBSSFMgZGlmZmVyZW5jZTogJWUgZ3JlYXRlciB0aGFuIHRvbGVyYW5jZTogJWVcbiIsIHJlYWxfZGlmZmVyZW5jZSwgdG9sZXJhbmNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmxpbmUgc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA0PgogICAgICAgIGNhbGNUZXRyYWhlZHJvbkZhY2VOb3JtYWwoc3RkOjphcnJheTxQYXJmYWl0OjpQb2ludDxkb3VibGU+LCA0PiBub2RlX2Nvb3JkaW5hdGVzKXsKCiAgICAgICAgICAgIFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4gZWRnZV8wXzMgPSBub2RlX2Nvb3JkaW5hdGVzWzBdIC0gbm9kZV9jb29yZGluYXRlc1szXTsKICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBlZGdlXzFfMyA9IG5vZGVfY29vcmRpbmF0ZXNbMV0gLSBub2RlX2Nvb3JkaW5hdGVzWzNdOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IGVkZ2VfMl8zID0gbm9kZV9jb29yZGluYXRlc1syXSAtIG5vZGVfY29vcmRpbmF0ZXNbM107CgogICAgICAgICAgICBjb25zdCBkb3VibGUgc2l4dGggPSAxLjAgLyA2LjA7CgogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8xID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzFfMywgZWRnZV8yXzMpOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8yID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzJfMywgZWRnZV8wXzMpOwogICAgICAgICAgICBQYXJmYWl0OjpQb2ludDxkb3VibGU+IG5vcm1hbF8zID0gc2l4dGggKiBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpjcm9zcyhlZGdlXzBfMywgZWRnZV8xXzMpOwogICAgICAgICAgICAvLyBGSVhNRTogUGVyIEBtcGFyayBjb21wdXRlIHRoaXMgc3ltbWV0cmljYWxseSB0byB1bmRlcnN0YW5kIGltcGxpY2F0aW9uIGZvciBmcCByb3VuZC1vZmYKICAgICAgICAgICAgUGFyZmFpdDo6UG9pbnQ8ZG91YmxlPiBub3JtYWxfNCA9IC0xLjAgKiAobm9ybWFsXzEgKyBub3JtYWxfMiArIG5vcm1hbF8zKTsKCiAgICAgICAgICAgIHJldHVybiB7bm9ybWFsXzEsIG5vcm1hbF8yLCBub3JtYWxfMywgbm9ybWFsXzR9OwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJub2RlOiAlbHUgZXFuOiAlZCBSSFM6ICVlIExIUzogJWVcbiIsIG5vZGVfaWQsIGVxbiwgcmVhbF9yZXNpZHVhbFtub2RlX2lkXVtlcW5dLAogICAgICAgICAgICAgICAgICAgZGR0X3Jlc2lkdWFsW25vZGVfaWRdW2Vxbl0udmFsdWUpOwo=</text>

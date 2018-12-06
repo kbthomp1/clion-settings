@@ -6067,7 +6067,7 @@
         <text>, real_difference, tolerance);</text>
       </register>
       <register name="/" type="4">
-        <text>CalcViscousCell</text>
+        <text>Volume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGYoIkVycm9yOiBSSFMgZGlmZmVyZW5jZTogJWUgZ3JlYXRlciB0aGFuIHRvbGVyYW5jZTogJWVcbiIsIHJlYWxfZGlmZmVyZW5jZSwgdG9sZXJhbmNlKTsK</text>
@@ -6113,9 +6113,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CalcViscousCell</last-search>
+      <last-search>Volume</last-search>
       <last-offset />
-      <last-pattern>CalcViscousCell</last-pattern>
+      <last-pattern>Volume</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6123,7 +6123,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateTime</entry>
         <entry>timestep</entry>
         <entry>residual_l2_norm</entry>
         <entry>applyUpdate</entry>
@@ -6143,6 +6142,7 @@
         <entry>species_mol</entry>
         <entry>calcViscousCell</entry>
         <entry>CalcViscousCell</entry>
+        <entry>Volume</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -1055,7 +1055,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544456614895">
+      <file name="/Dummy.txt" timestamp="1544459056413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/test/PETScKSPOnlyNonLinearSolver.cpp" timestamp="1542214176071">
@@ -1120,13 +1120,13 @@
         <mark key="^" line="204" column="31" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" timestamp="1544456884873">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" timestamp="1544459017080">
         <mark key="'" line="8" column="25" />
-        <mark key="[" line="109" column="51" />
+        <mark key="[" line="109" column="60" />
         <mark key="k" line="104" column="34" />
-        <mark key="]" line="109" column="51" />
-        <mark key="." line="109" column="51" />
-        <mark key="^" line="109" column="51" />
+        <mark key="]" line="109" column="60" />
+        <mark key="." line="109" column="60" />
+        <mark key="^" line="109" column="60" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ConservativeVariables.h" timestamp="1533644179709">
         <mark key="'" line="39" column="7" />
@@ -1648,11 +1648,11 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousFluxTests.cpp" timestamp="1544457481656">
-        <mark key="[" line="82" column="58" />
-        <mark key="]" line="82" column="59" />
-        <mark key="." line="82" column="59" />
-        <mark key="^" line="79" column="62" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousFluxTests.cpp" timestamp="1544458942741">
+        <mark key="[" line="78" column="89" />
+        <mark key="]" line="78" column="103" />
+        <mark key="." line="78" column="103" />
+        <mark key="^" line="78" column="103" />
       </file>
       <file name="$USER_HOME$/one-ring/enigma/enigma/PETScNonLinearSolver.hpp" timestamp="1542666417737">
         <mark key="'" line="519" column="0" />
@@ -1842,11 +1842,10 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" timestamp="1544456546689">
-        <mark key="[" line="81" column="90" />
-        <mark key="]" line="81" column="90" />
-        <mark key="." line="81" column="90" />
-        <mark key="^" line="77" column="46" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" timestamp="1544459160682">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/miniapps/hypersolve-miniapp/src/EdgeNormals.h" timestamp="1544206882965">
         <mark key="[" line="3" column="0" />
@@ -2360,12 +2359,12 @@
         <mark key="." line="68" column="44" />
         <mark key="^" line="68" column="44" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" timestamp="1544457680533">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" timestamp="1544458797216">
         <mark key="'" line="47" column="68" />
-        <mark key="[" line="135" column="49" />
-        <mark key="]" line="135" column="49" />
-        <mark key="." line="135" column="49" />
-        <mark key="^" line="135" column="48" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="151" column="68" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/PseudoTimeIntegratorFactory.h" timestamp="1522103384745">
         <mark key="'" line="7" column="13" />
@@ -2684,8 +2683,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6085,53 +6084,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_index</text>
+        <text encoding="base64">aSA9IDA7IGkgPCA7ICsraSkgew==</text>
       </register>
       <register name="/" type="4">
         <text>unit_normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdncmFkW2ldID0gZ3JhZFt3X2luZGV4XVtpXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBhdmVyYWdlX3Zpc2Nvc2l0eSA9IHRoZXJtb2R5bmFtaWNzLmNhbGNWaXNjb3NpdHkoYXZlcmFnZV9kZW5zaXRpZXNfb25fZWRnZS5kYXRhKCksIGF2ZXJhZ2VfdGVtcGVyYXR1cmUpOwogICAgICAgICAgICBhdXRvIGF2ZXJhZ2VfdGhlcm1hbF9jb25kdWNpdGl2aXR5ID0gdGhlcm1vZHluYW1pY3MuY2FsY1RoZXJtYWxDb25kdWN0aXZpdHkoYXZlcmFnZV9kZW5zaXRpZXNfb25fZWRnZS5kYXRhKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdmVyYWdlX3Zpc2Nvc2l0eSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4PFQsIDMsIDE+IHZncmFkID0gY2FsY0FscGhhRGFtcGluZ0dyYWRpZW50KHZfaW5kZXgsIHFsLCBxciwgZ3JhZGwsIGdyYWRyLCBlZGdlX3ZlY3RvciwgdW5pdF9ub3JtYWwpOwogICAgICAgICAgICBNYXRyaXg8VCwgMywgMT4gd2dyYWQgPSBjYWxjQWxwaGFEYW1waW5nR3JhZGllbnQod19pbmRleCwgcWwsIHFyLCBncmFkbCwgZ3JhZHIsIGVkZ2VfdmVjdG9yLCB1bml0X25vcm1hbCk7CiAgICAgICAgICAgIE1hdHJpeDxULCAzLCAxPiB0Z3JhZCA9IGNhbGNBbHBoYURhbXBpbmdHcmFkaWVudCh0ZW1wZXJhdHVyZV9pbmRleCwgcWwsIHFyLCBncmFkbCwgZ3JhZHIsIGVkZ2VfdmVjdG9yLCB1bml0X25vcm1hbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB1bml0X25vcm1hbCA9IGZhY2VfYXJlYTsKICAgICAgICAgICAgdW5pdF9ub3JtYWwubm9ybWFsaXplKCk7Cgo=</text>
+      <register name="2" type="8">
+        <text>dual_area
+dual_area
+dual_area</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4mIGVkZ2VfdmVjdG9yLAo=</text>
+      <register name="3" type="8">
+        <text>-
+-
+-</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8UGFyZmFpdDo6UG9pbnQ8VD4sIE51bUVxbnM+JiBncmFkciwK</text>
+        <text encoding="base64">amoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4mIHFyLAo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">MC4wKTsKQXBwcm94KG11ICogKGR1X2R5ICogZmFjZV9ub3JtYWxbMV0gKyBkd19keCAqIGZhY2Vfbm9ybWFsWzJdKSkpOwpBcHByb3gobXUgKiBkdV9keSAqIGZhY2Vfbm9ybWFsWzBdKSk7CkFwcHJveChtdSAqIGR3X2R4ICogZmFjZV9ub3JtYWxbMF0pKTsKQXBwcm94KGhlYXRfdHJhbnNmZXIgKyBQYXJmYWl0OjpQb2ludDxkb3VibGU+Ojpkb3QoZW5lcmd5X3N0cmVzcywgZmFjZV9ub3JtYWwpKSk7</text>
+        <text encoding="base64">ICsgcXJbdV9pbmRleF0pOwogKyBxclt2X2luZGV4XSk7CiArIHFyW3dfaW5kZXhdKTs=</text>
       </register>
       <register name="7" type="8">
-        <text>interior_flux
-interior_flux
-interior_flux
-interior_flux
-interior_flux</text>
+        <text>l
+l
+l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>0.5 * (
+0.5 * (
+0.5 * (</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGZsdXggPSBFZGdlRmx1eDo6Y2FsY0VkZ2VCYXNlZFZpc2NvdXNGbHV4KHFsLCBxciwgZ3JhZCwgZ3JhZCwgc29sdXRpb25fbWFwLCBlZGdlX3ZlY3RvciwgZmFjZV9ub3JtYWwsIHRoZXJtbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBhdmVyYWdlX3RyYW5zcG9ydF9wcm9wZXJ0aWVzID0gY2FsY0F2ZXJhZ2VUcmFuc3BvcnRQcm9wZXJ0aWVzT25FZGdlKGRlbnNpdHlfaW5kZXgsIHRlbXBlcmF0dXJlX2luZGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcSwgcSwgdGhlcm1vZHluYW1pY3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

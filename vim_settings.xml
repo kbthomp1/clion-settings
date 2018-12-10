@@ -371,6 +371,11 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="35" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidBoundaryTerms.hpp" timestamp="1544474245253">
+        <mark key="[" line="134" column="42" />
+        <mark key="]" line="134" column="42" />
+        <mark key="." line="134" column="42" />
+      </file>
       <file name="$USER_HOME$/hefss++/unit_tests/CMakeLists.txt" timestamp="1500417502148">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="17" column="33" />
@@ -634,6 +639,11 @@
         <mark key="]" line="28" column="134" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/MeshUtilities.cpp" timestamp="1544472657994">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="80" />
       </file>
       <file name="$USER_HOME$/one-ring/t_infinity/src/t_infinity.cpp" timestamp="1518464145132">
         <mark key="'" line="52" column="58" />
@@ -1120,13 +1130,13 @@
         <mark key="^" line="204" column="31" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" timestamp="1544459017080">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="109" column="60" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" timestamp="1544474998524">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="131" column="26" />
         <mark key="k" line="104" column="34" />
-        <mark key="]" line="109" column="60" />
-        <mark key="." line="109" column="60" />
-        <mark key="^" line="109" column="60" />
+        <mark key="]" line="131" column="30" />
+        <mark key="." line="131" column="30" />
+        <mark key="^" line="131" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/ConservativeVariables.h" timestamp="1533644179709">
         <mark key="'" line="39" column="7" />
@@ -1572,8 +1582,8 @@
         <mark key="^" line="43" column="60" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1542213210951">
-        <mark key="'" line="49" column="5" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" timestamp="1544475229353">
+        <mark key="'" line="53" column="9" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="44" />
         <mark key="." line="40" column="34" />
@@ -1592,6 +1602,9 @@
         <mark key="]" line="63" column="84" />
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/miniapp/src/Ddata.h" timestamp="1544474275989">
+        <mark key="'" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/Constraints.h" timestamp="1532626023172">
         <mark key="'" line="44" column="16" />
@@ -1842,10 +1855,13 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" timestamp="1544459160682">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" timestamp="1544474939757">
+        <mark key="'" line="82" column="63" />
+        <mark key="k" line="193" column="38" />
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="29" column="81" />
+        <mark key="." line="29" column="81" />
+        <mark key="^" line="29" column="81" />
       </file>
       <file name="$USER_HOME$/miniapps/hypersolve-miniapp/src/EdgeNormals.h" timestamp="1544206882965">
         <mark key="[" line="3" column="0" />
@@ -2574,27 +2590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="245" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="236" column="13" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="239" column="25" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="237" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="238" column="50" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="303" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="44" column="18" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="118" column="4" filename="$USER_HOME$/one-ring/enigma/test/MockSolverTerms.h" />
-      <jump line="298" column="32" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="61" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="79" column="14" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="83" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="86" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="81" column="38" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="89" column="100" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="91" column="87" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="94" column="39" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="205" column="66" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="220" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
-      <jump line="240" column="12" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="297" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="309" column="51" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="156" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2674,6 +2669,27 @@
       <jump line="135" column="105" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" />
       <jump line="136" column="115" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" />
       <jump line="47" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" />
+      <jump line="120" column="16" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="7" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="126" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="127" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="60" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mesh/MeshUtilities.cpp" />
+      <jump line="161" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="57" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="84" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="153" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="154" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="71" column="75" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="155" column="22" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="20" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="29" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="188" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="59" column="39" filename="$USER_HOME$/one-ring/hypersolve/miniapp/src/Ddata.h" />
+      <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="76" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousTerms.h" />
+      <jump line="68" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" />
+      <jump line="1" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" />
+      <jump line="53" column="9" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/Defaults.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2683,8 +2699,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>computeInteriorFlux</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6084,66 +6100,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aSA9IDA7IGkgPCA7ICsraSkgew==</text>
+        <text>computeInteriorFlux</text>
       </register>
       <register name="/" type="4">
-        <text>unit_normal</text>
+        <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBhdmVyYWdlX3Zpc2Nvc2l0eSA9IHRoZXJtb2R5bmFtaWNzLmNhbGNWaXNjb3NpdHkoYXZlcmFnZV9kZW5zaXRpZXNfb25fZWRnZS5kYXRhKCksIGF2ZXJhZ2VfdGVtcGVyYXR1cmUpOwogICAgICAgICAgICBhdXRvIGF2ZXJhZ2VfdGhlcm1hbF9jb25kdWNpdGl2aXR5ID0gdGhlcm1vZHluYW1pY3MuY2FsY1RoZXJtYWxDb25kdWN0aXZpdHkoYXZlcmFnZV9kZW5zaXRpZXNfb25fZWRnZS5kYXRhKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdmVyYWdlX3Zpc2Nvc2l0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnN0IFNvbHV0aW9uVmFyaWFibGVzPFQsIEVROjpOdW1FcW5zPiAmc29sdXRpb24pIGNvbnN0IG92ZXJyaWRlIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>dual_area
-dual_area
-dual_area</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgVmlzY291c0ZsdXggPSBIUzo6RWRnZUJhc2VkVmlzY291c0ZsdXg8ZGR0LCBFUTo6TnVtRXFucywgRVE6Ok51bVNwZWNpZXM+OwogICAgICAgICAgICBhdXRvIGdldF9wb2ludCA9IFsmXShpbnQgbm9kZSl7CiAgICAgICAgICAgICAgICByZXR1cm4gbWVzaC5ub2RlQ29vcmRpbmF0ZShub2RlKTsKICAgICAgICAgICAgfTsKICAgICAgICAgICAgY29uc3RleHByIGRvdWJsZSBrYXBwYSA9IDAuMDsKICAgICAgICAgICAgZm9yIChzaXplX3QgZWRnZV9pbmRleCA9IDA7IGVkZ2VfaW5kZXggPCBtZXNoLmVkZ2VzLnNpemUoKTsgKytlZGdlX2luZGV4KSB7CiAgICAgICAgICAgICAgICBpbnQgbGVmdF9ub2RlID0gbWVzaC5lZGdlc1tlZGdlX2luZGV4XVswXTsKICAgICAgICAgICAgICAgIGludCByaWdodF9ub2RlID0gbWVzaC5lZGdlc1tlZGdlX2luZGV4XVsxXTsKCiAgICAgICAgICAgICAgICBhdXRvIGFyZWEgPSBtZXNoLmR1YWxfbWV0cmljcy5lZGdlX2FyZWFzW2VkZ2VfaW5kZXhdOwogICAgICAgICAgICAgICAgYXV0byBlZGdlID0gSFM6OkdyYWRpZW50RXh0cmFwb2xhdGlvbjo6ZXh0cmFjdEVkZ2VWZWN0b3IobGVmdF9ub2RlLCByaWdodF9ub2RlLCBnZXRfcG9pbnQpOwoKICAgICAgICAgICAgICAgIGF1dG8gZ3JhZF9sID0gc29sdXRpb24uZ2V0U29sdXRpb25HcmFkaWVudChsZWZ0X25vZGUpOwogICAgICAgICAgICAgICAgYXV0byBncmFkX3IgPSBzb2x1dGlvbi5nZXRTb2x1dGlvbkdyYWRpZW50KHJpZ2h0X25vZGUpOwoKICAgICAgICAgICAgICAgIGF1dG8gcWwgPSBIUzo6R3JhZGllbnRFeHRyYXBvbGF0aW9uOjpleHRyYXBvbGF0ZVRvRHVhbEZhY2Uoc29sdXRpb25bbGVmdF9ub2RlXSwgc29sdXRpb25bcmlnaHRfbm9kZV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdyYWRfbCwgc2xvcGVfbGltaXRlcltsZWZ0X25vZGVdLCBrYXBwYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMC41ICogZWRnZSk7CiAgICAgICAgICAgICAgICBhdXRvIHFyID0gSFM6OkdyYWRpZW50RXh0cmFwb2xhdGlvbjo6ZXh0cmFwb2xhdGVUb0R1YWxGYWNlKHNvbHV0aW9uW3JpZ2h0X25vZGVdLCBzb2x1dGlvbltsZWZ0X25vZGVdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBncmFkX3IsIHNsb3BlX2xpbWl0ZXJbcmlnaHRfbm9kZV0sIGthcHBhLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtMC41ICogZWRnZSk7CgogICAgICAgICAgICAgICAgYXV0byBncmFkX2xfZGR0ID0gY3JlYXRlR3JhZEREVChncmFkX2wpOwogICAgICAgICAgICAgICAgYXV0byBncmFkX3JfZGR0ID0gY3JlYXRlR3JhZEREVChncmFkX3IpOwogICAgICAgICAgICAgICAgYXV0byBmbHV4X2Z1bmN0aW9uID0gWyZdKGNvbnN0IHN0ZDo6YXJyYXk8TGluZWFyaXplOjpEZGF0YTxULCBFUTo6TnVtRXFucz4sIEVROjpOdW1FcW5zPiAmcWxfZGR0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHN0ZDo6YXJyYXk8TGluZWFyaXplOjpEZGF0YTxULCBFUTo6TnVtRXFucz4sIEVROjpOdW1FcW5zPiAmcXJfZGR0KSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFZpc2NvdXNGbHV4OjpjYWxjRWRnZUJhc2VkVmlzY291c0ZsdXgocWxfZGR0LCBxcl9kZHQsIGdyYWRfbF9kZHQsIGdyYWRfcl9kZHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc29sdXRpb24uZ2V0U29sdXRpb25NYXAoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlZGdlLCBhcmVhLCB0aGVybW9keW5hbWljc19kZHQpOwogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIERlbnNlTWF0cml4PFQsIEVROjpOdW1FcW5zLCBFUTo6TnVtRXFucz4gZEZkUUx7fSwgZEZkUVJ7fTsKICAgICAgICAgICAgICAgIHN0ZDo6dGllKGRGZFFMLmFycmF5KCksIGRGZFFSLmFycmF5KCkpID0gSFM6OkF1dG9EaWZmOjplZGdlX2phY29iaWFuKHFsLCBxciwgZmx1eF9mdW5jdGlvbik7CgogICAgICAgICAgICAgICAgbGhzLT5hZGQobGVmdF9ub2RlLCBsZWZ0X25vZGUsIGVxdWF0aW9uX21hcCwgZXF1YXRpb25fbWFwLCBkRmRRTC5kYXRhKCkpOwogICAgICAgICAgICAgICAgbGhzLT5hZGQobGVmdF9ub2RlLCByaWdodF9ub2RlLCBlcXVhdGlvbl9tYXAsIGVxdWF0aW9uX21hcCwgZEZkUVIuZGF0YSgpKTsKICAgICAgICAgICAgICAgIGxocy0+c3VidHJhY3QocmlnaHRfbm9kZSwgcmlnaHRfbm9kZSwgZXF1YXRpb25fbWFwLCBlcXVhdGlvbl9tYXAsIGRGZFFSLmRhdGEoKSk7CiAgICAgICAgICAgICAgICBsaHMtPnN1YnRyYWN0KHJpZ2h0X25vZGUsIGxlZnRfbm9kZSwgZXF1YXRpb25fbWFwLCBlcXVhdGlvbl9tYXAsIGRGZFFMLmRhdGEoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
-        <text>-
--
--</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxzdGQ6OmFycmF5PFQsIEVROjpOdW1FcW5zPiwgTkNvcm5lcnM+IGZsdXg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gZ3JhZF9kZHQgPSBjcmVhdGVHcmFkRERUKCBhdXRvIGdyYWQgPSBRLmdldFNvbHV0aW9uR3JhZGllbnQobm9kZV9pZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gZ3JhZCA9IFEuZ2V0U29sdXRpb25HcmFkaWVudChub2RlX2lkKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICsgcXJbdV9pbmRleF0pOwogKyBxclt2X2luZGV4XSk7CiArIHFyW3dfaW5kZXhdKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gcV9kZHQgPSBMaW5lYXJpemU6OklkZW50aXR5KFFbbm9kZV9pZF0pOwogICAgICAgICAgICAgICAgYXV0byBncmFkX2RkdCA9IGNyZWF0ZUdyYWRERFQoUS5nZXQpCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>l
-l
-l</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gZ3JhZCA9IFEuZ2V0U29sdXRpb25HcmFkaWVudChub2RlX2lkKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text>0.5 * (
-0.5 * (
-0.5 * (</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8UGFyZmFpdDo6UG9pbnQ8ZGR0PiwgRVE6Ok51bUVxbnM+IGdyYWRfbF9kZHQsIGdyYWRfcl9kZHQ7CiAgICAgICAgICAgICAgICBmb3IgKHNpemVfdCBlcW4gPSAwOyBlcW4gPCBFUTo6TnVtRXFuczsgKytlcW4pIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDM7ICsraSkgewogICAgICAgICAgICAgICAgICAgICAgICBncmFkX2xfZGR0W2Vxbl1baV0gPSBncmFkX2xbZXFuXVtpXTsKICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZF9yX2RkdFtlcW5dW2ldID0gZ3JhZF9yW2Vxbl1baV07CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBhdmVyYWdlX3RyYW5zcG9ydF9wcm9wZXJ0aWVzID0gY2FsY0F2ZXJhZ2VUcmFuc3BvcnRQcm9wZXJ0aWVzT25FZGdlKGRlbnNpdHlfaW5kZXgsIHRlbXBlcmF0dXJlX2luZGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcSwgcSwgdGhlcm1vZHluYW1pY3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unit_normal</last-search>
+      <last-search>use</last-search>
       <last-offset />
-      <last-pattern>unit_normal</last-pattern>
+      <last-pattern>use</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6151,15 +6159,6 @@ l</text>
     </search>
     <history>
       <history-search>
-        <entry>previous_solution</entry>
-        <entry>time_integrator</entry>
-        <entry>domain</entry>
-        <entry>v</entry>
-        <entry>rw</entry>
-        <entry>w</entry>
-        <entry>tgrad</entry>
-        <entry>ugrad</entry>
-        <entry>species_mol</entry>
         <entry>calcViscousCell</entry>
         <entry>CalcViscousCell</entry>
         <entry>Volume</entry>
@@ -6171,6 +6170,15 @@ l</text>
         <entry>edge_</entry>
         <entry>edge_no</entry>
         <entry>unit_normal</entry>
+        <entry>area</entry>
+        <entry>typedef</entry>
+        <entry>ViscousFlux</entry>
+        <entry>cell_id</entry>
+        <entry>formB</entry>
+        <entry>T</entry>
+        <entry>iden</entry>
+        <entry>dent</entry>
+        <entry>use</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

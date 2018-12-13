@@ -1673,12 +1673,12 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1544716759862">
-        <mark key="'" line="289" column="0" />
-        <mark key="[" line="560" column="50" />
-        <mark key="]" line="560" column="63" />
-        <mark key="." line="560" column="63" />
-        <mark key="^" line="560" column="63" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" timestamp="1544730048467">
+        <mark key="'" line="625" column="8" />
+        <mark key="[" line="206" column="50" />
+        <mark key="]" line="206" column="50" />
+        <mark key="." line="206" column="50" />
+        <mark key="^" line="206" column="52" />
       </file>
       <file name="$USER_HOME$/one-ring/plugin-refine/CMakeLists.txt" timestamp="1543255091961">
         <mark key="[" line="1" column="8" />
@@ -2503,13 +2503,6 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/TermsFactory.hpp" timestamp="1544716342398">
-        <mark key="'" line="62" column="33" />
-        <mark key="[" line="57" column="86" />
-        <mark key="]" line="57" column="98" />
-        <mark key="." line="57" column="98" />
-        <mark key="^" line="57" column="98" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBoundaryConditionTerms.hpp" timestamp="1542223686667">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="49" column="20" />
@@ -2657,9 +2650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/Element.h" />
-      <jump line="90" column="48" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/HyperSolveMiniApp.h" />
-      <jump line="111" column="0" filename="$USER_HOME$/miniapps/hypersolve-miniapp/src/HyperSolveMiniApp.h" />
       <jump line="103" column="34" filename="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" />
       <jump line="8" column="25" filename="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" />
       <jump line="133" column="105" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedViscousFlux.h" />
@@ -2757,6 +2747,9 @@
       <jump line="57" column="33" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/TermsFactory.hpp" />
       <jump line="51" column="12" filename="$USER_HOME$/one-ring/hypersolve/test/EdgeBasedViscousTermsTests.cpp" />
       <jump line="289" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="621" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="630" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
+      <jump line="632" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HyperSolve.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2767,7 +2760,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>inviscid_terms</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -6167,10 +6160,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>inviscid_terms</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Linear</text>
+        <text>total_number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkaXNjcmV0aXphdGlvbi0+YWRkVGVybXMoImludmlzY2lkIiwgaW52aXNjaWRfdGVybXMpOwo=</text>
@@ -6216,9 +6209,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Linear</last-search>
+      <last-search>total_number</last-search>
       <last-offset />
-      <last-pattern>Linear</last-pattern>
+      <last-pattern>total_number</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -6226,7 +6219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iden</entry>
         <entry>dent</entry>
         <entry>use</entry>
         <entry>solution</entry>
@@ -6246,6 +6238,7 @@
         <entry>1</entry>
         <entry>_rhs</entry>
         <entry>Linear</entry>
+        <entry>total_number</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -1389,12 +1389,12 @@
         <mark key="." line="8" column="54" />
         <mark key="^" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/one-ring/CMakeLists.txt" timestamp="1543255582993">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
+      <file name="$USER_HOME$/one-ring/CMakeLists.txt" timestamp="1545081248452">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/laura_clean/src/petsc_solver_adapter.cpp" timestamp="1536610440088">
         <mark key="'" line="18" column="31" />
@@ -1866,10 +1866,6 @@
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/CMakeLists.txt" timestamp="1545076965034">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="92" column="22" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
-        <mark key="^" line="93" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/MeshUtilities.h" timestamp="1520295554615">
         <mark key="'" line="42" column="8" />
@@ -2556,9 +2552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.hpp" />
-      <jump line="1" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.hpp" />
-      <jump line="77" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.hpp" />
       <jump line="19" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
       <jump line="22" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
       <jump line="23" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
@@ -2656,6 +2649,9 @@
       <jump line="17" column="54" filename="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" />
       <jump line="0" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" />
       <jump line="1" column="20" filename="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" />
+      <jump line="14" column="16" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
+      <jump line="52" column="21" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
+      <jump line="12" column="17" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2665,8 +2661,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>INCLUDE_DIRS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJsYXN0ZXIKICAgIGJvYi1kZWYK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2675,58 +2671,77 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>INCLUDE_DIRS</text>
+        <text>one_ring_package</text>
       </register>
       <register name="/" type="4">
-        <text>MMS</text>
+        <text>plugin-sfe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKEhTOjpNYW51ZmFjdHVyZWRTb2x1dGlvbiBQVUJMSUMgJHtNQVNBX0lOQ0xVREVfRElSU30pCg==</text>
+        <text encoding="base64">ICAgIGFkZF9zdWJkaXJlY3RvcnkoJHtBUkdWMH0gJHtDTUFLRV9TT1VSQ0VfRElSfS8ke0FSR1YwfS8ke0JVSUxEX0RJUkVDVE9SWX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldChNQVNBX0lOQ0xVREVfRElSU19GT1JfRElTQ1JFVElaQVRJT04gJHtNQVNBX0lOQ0xVREVfRElSU30pCiAgICBzZXQoTUFTQV9MSUJSQVJJRVNfRk9SX0RJU0NSRVRJWkFUSU9OICR7TUFTQV9MSUJSQVJJRVN9KQo=</text>
+        <text encoding="base64">ICAgIGJsYXN0ZXIKICAgIGJvYi1kZWYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAke01BU0FfSU5DTFVERV9ESVJTX0ZPUl9ESVNDUkVUSVpBVElPTn0K</text>
+        <text encoding="base64">bWFjcm8oYWRkX29uZV9yaW5nX3BhY2thZ2UpCiAgICBhZGRfc3ViZGlyZWN0b3J5KCR7QVJHVjB9ICR7Q01BS0VfU09VUkNFX0RJUn0vJHtBUkdWMH0vJHtCVUlMRF9ESVJFQ1RPUll9KQplbmRtYWNybygpCgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAke01BU0FfTElCUkFSSUVTX0ZPUl9ESVNDUkVUSVpBVElPTn0K</text>
+        <text encoding="base64">YWRkX29uZV9yaW5nX3BhY2thZ2UoY2F0Y2gyKQphZGRfb25lX3JpbmdfcGFja2FnZShoeXBlcnNvbHZlKQphZGRfb25lX3JpbmdfcGFja2FnZShsb2tpKQphZGRfb25lX3JpbmdfcGFja2FnZShlbmlnbWEpCmFkZF9vbmVfcmluZ19wYWNrYWdlKGVudm95KQphZGRfb25lX3JpbmdfcGFja2FnZShwbHVnaW4tZnVudG9mZW0pCmFkZF9vbmVfcmluZ19wYWNrYWdlKE1lc3NhZ2VQYXNzZXIpCmFkZF9vbmVfcmluZ19wYWNrYWdlKG5sb2htYW5uX2pzb24pCmFkZF9vbmVfcmluZ19wYWNrYWdlKG9jdG1lc2gpCmFkZF9vbmVfcmluZ19wYWNrYWdlKHBhcmZhaXQpCmFkZF9vbmVfcmluZ19wYWNrYWdlKHBsdWdpbi1wYXJmYWl0KQphZGRfb25lX3JpbmdfcGFja2FnZSh0LWluZmluaXR5KQphZGRfb25lX3JpbmdfcGFja2FnZShyYSkKYWRkX29uZV9yaW5nX3BhY2thZ2UocGx1Z2luLXJlZmluZSkKYWRkX29uZV9yaW5nX3BhY2thZ2Uoc2FtcGxpbmcpCmFkZF9vbmVfcmluZ19wYWNrYWdlKHBsdWdpbi1zZmUpCmFkZF9vbmVfcmluZ19wYWNrYWdlKHBsdWdpbi10YWNzKQphZGRfb25lX3JpbmdfcGFja2FnZSh0cmFjZXIpCmFkZF9vbmVfcmluZ19wYWNrYWdlKHZ1bGNhbi1zdXBwb3J0KQphZGRfb25lX3JpbmdfcGFja2FnZSh5b2dhKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKE1BU0FfRk9VTkQpCiAgICB0YXJnZXRfY29tcGlsZV9kZWZpbml0aW9ucyhEaXNjcmV0aXphdGlvbiBQVUJMSUMgSEFWRV9NQVNBKQogICAgc2V0KE1BU0FfSU5DTFVERV9ESVJTX0ZPUl9ESVNDUkVUSVpBVElPTiAke01BU0FfSU5DTFVERV9ESVJTfSkKICAgIHNldChNQVNBX0xJQlJBUklFU19GT1JfRElTQ1JFVElaQVRJT04gJHtNQVNBX0xJQlJBUklFU30pCmVuZGlmKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4tcGFyZmFpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIUzo6U29sdXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwbHVnaW4tZnVudG9mZW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoSFM6Ok1NUyBBTElBUyBJbnRlcmZhY2VzKQo=</text>
+        <text encoding="base64">ICAgIENhdGNoMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkPElOU1RBTExfSU5URVJGQUNFOmh5cGVyc29sdmUvaW5jbHVkZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJvbmdCQ0ZhY3RvcnkuaHBwKQo=</text>
+      <register name="8" type="8">
+        <text>add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory
+add_subdirectory</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIZWF0RXF1YXRpb25GbHV4LmgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MMS</last-search>
+      <last-search>plugin-sfe</last-search>
       <last-offset />
-      <last-pattern>MMS</last-pattern>
+      <last-pattern>plugin-sfe</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2734,7 +2749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateNodeLocations</entry>
         <entry>freezeNodes</entry>
         <entry>initial</entry>
         <entry>all_eq</entry>
@@ -2754,6 +2768,7 @@
         <entry>NoRe</entry>
         <entry>TemperatureReal</entry>
         <entry>MMS</entry>
+        <entry>plugin-sfe</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

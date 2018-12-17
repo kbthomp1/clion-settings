@@ -1157,12 +1157,13 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1545073903858">
-        <mark key="'" line="8" column="40" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="91" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1545081948354">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="6" column="10" />
+        <mark key="k" line="126" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/CMakeLists.txt" timestamp="1545073936180">
         <mark key="'" line="28" column="16" />
@@ -2252,9 +2253,12 @@
         <mark key="^" line="60" column="67" />
         <mark key="." line="60" column="67" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1545077029235">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="10" column="32" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/CMakeLists.txt" timestamp="1545081969593">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="48" column="31" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidTerms.h" timestamp="1539869259373">
         <mark key="'" line="26" column="10" />
@@ -2552,7 +2556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
       <jump line="22" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
       <jump line="23" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
       <jump line="24" column="67" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/EdgeBasedFluxFactory.h" />
@@ -2652,6 +2655,7 @@
       <jump line="14" column="16" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
       <jump line="52" column="21" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
       <jump line="12" column="17" filename="$USER_HOME$/one-ring/CMakeLists.txt" />
+      <jump line="126" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2661,8 +2665,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJsYXN0ZXIKICAgIGJvYi1kZWYK</text>
+      <register name="&quot;" type="4">
+        <text>discretization</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2671,7 +2675,7 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>one_ring_package</text>
+        <text>discretization</text>
       </register>
       <register name="/" type="4">
         <text>plugin-sfe</text>

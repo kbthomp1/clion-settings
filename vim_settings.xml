@@ -566,6 +566,14 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1545165202146">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="6" column="10" />
+        <mark key="k" line="126" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
         <mark key="'" line="29" column="52" />
         <mark key="[" line="33" column="13" />
@@ -2559,7 +2567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
       <jump line="25" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
       <jump line="26" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
       <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
@@ -2659,6 +2666,7 @@
       <jump line="144" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
       <jump line="72" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
       <jump line="91" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
+      <jump line="1" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2725,7 +2733,7 @@ mass_flux);</text>
         <text encoding="base64">bm9ubGluZWFyX3NvbHZlcnMgPSBbIlBFVFNjIiwgIkphY29iaSJdCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -2778,9 +2786,9 @@ mass_flux);</text>
         <entry>2</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>vsp</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

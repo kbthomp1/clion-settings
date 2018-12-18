@@ -2559,9 +2559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.hpp" />
-      <jump line="189" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
-      <jump line="8" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/DensityTemperatureRealizability.h" />
       <jump line="20" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
       <jump line="25" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
       <jump line="26" column="30" filename="$USER_HOME$/one-ring/hypersolve/src/helpers/TemperatureRealizability.h" />
@@ -2659,6 +2656,9 @@
       <jump line="34" column="17" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_solvers/test_nonlinear_solvers.py" />
       <jump line="37" column="18" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_solvers/test_nonlinear_solvers.py" />
       <jump line="52" column="70" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_solvers/test_nonlinear_solvers.py" />
+      <jump line="144" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
+      <jump line="72" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
+      <jump line="91" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2668,8 +2668,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvJiBmIDogcG9pbnRfZm9yY2VzLm1hc3NfZmx1eCkKICAgICAgICAgICAgICAgIGZvcmNlcy5tYXNzX2ZsdXggKz0gZjsKICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvJiBmIDogcG9pbnRfZm9yY2VzLm1hc3NfZmx1eCkKICAgICAgICAgICAgICAgIGZvcmNlcy5tYXNzX2ZsdXggKz0gZjsKICAgICAgICAgICAgZm9yY2VzLm1hc3NfZmx1eCA9IG1wLlBhcmFsbGVsU3VtKGZvcmNlcy5tYXNzX2ZsdXgpOwogICAgICAgICAgICBmb3JjZXMuRnggPSBtcC5QYXJhbGxlbFN1bShyZXNpZHVhbF9zdW1bc29sdXRpb25fbWFwW0hTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eV1dKTsKICAgICAgICAgICAgZm9yY2VzLkZ5ID0gbXAuUGFyYWxsZWxTdW0ocmVzaWR1YWxfc3VtW3NvbHV0aW9uX21hcFtIUzo6VmFyaWFibGU6OnlfdmVsb2NpdHldXSk7CiAgICAgICAgICAgIGZvcmNlcy5GeiA9IG1wLlBhcmFsbGVsU3VtKHJlc2lkdWFsX3N1bVtzb2x1dGlvbl9tYXBbSFM6OlZhcmlhYmxlOjp6X3ZlbG9jaXR5XV0pOwogICAgICAgICAgICBmb3JjZXMuc3VyZmFjZV9oZWF0aW5nID0gbXAuUGFyYWxsZWxTdW0ocmVzaWR1YWxfc3VtW3NvbHV0aW9uX21hcFtIUzo6VmFyaWFibGU6OnRlbXBlcmF0dXJlX3N0YXJ0XV0pOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2678,58 +2678,60 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>mass_flux</text>
       </register>
       <register name="/" type="4">
-        <text>solver</text>
+        <text>getAllBoundaryTags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zmx1aWRfc29sdmVyLmdldF9pbnRlcm5hbF9zb2x2ZXIoKS51cGRhdGVOb2RlTG9jYXRpb25zKG5vZGVfbG9jYXRpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yY2VzLm1hc3NfZmx1eCA9IHN1bVBvaW50Rm9yY2UocG9pbnRfZm9yY2VzLm1hc3NfZmx1eCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHlwZXJzb2x2ZSA9IHNvbHZlci5nZXRfaW50ZXJuYWxfc29sdmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvJiBmIDogcG9pbnRfZm9yY2VzLm1hc3NfZmx1eCkKICAgICAgICAgICAgICAgIGZvcmNlcy5tYXNzX2ZsdXggKz0gZjsKICAgICAgICAgICAgZm9yIChjb25zdCBhdXRvJiBmIDogcG9pbnRfZm9yY2VzLm1hc3NfZmx1eCkKICAgICAgICAgICAgICAgIGZvcmNlcy5tYXNzX2ZsdXggKz0gZjsKICAgICAgICAgICAgZm9yY2VzLm1hc3NfZmx1eCA9IG1wLlBhcmFsbGVsU3VtKGZvcmNlcy5tYXNzX2ZsdXgpOwogICAgICAgICAgICBmb3JjZXMuRnggPSBtcC5QYXJhbGxlbFN1bShyZXNpZHVhbF9zdW1bc29sdXRpb25fbWFwW0hTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eV1dKTsKICAgICAgICAgICAgZm9yY2VzLkZ5ID0gbXAuUGFyYWxsZWxTdW0ocmVzaWR1YWxfc3VtW3NvbHV0aW9uX21hcFtIUzo6VmFyaWFibGU6OnlfdmVsb2NpdHldXSk7CiAgICAgICAgICAgIGZvcmNlcy5GeiA9IG1wLlBhcmFsbGVsU3VtKHJlc2lkdWFsX3N1bVtzb2x1dGlvbl9tYXBbSFM6OlZhcmlhYmxlOjp6X3ZlbG9jaXR5XV0pOwogICAgICAgICAgICBmb3JjZXMuc3VyZmFjZV9oZWF0aW5nID0gbXAuUGFyYWxsZWxTdW0ocmVzaWR1YWxfc3VtW3NvbHV0aW9uX21hcFtIUzo6VmFyaWFibGU6OnRlbXBlcmF0dXJlX3N0YXJ0XV0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bm9ubGluZWFyX3NvbHZlcnMgPSBbIlBFVFNjIiwgIkphY29iaSJdCgo=</text>
+      <register name="2" type="8">
+        <text>mass_flux);
+mass_flux);
+mass_flux);</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1bTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHNfY29uZmlnID0gY29uZmlnWyJIeXBlclNvbHZlIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHNfZGlyZWN0b3J5ID0gY29uZmlnWyJmbHVpZCBzb2x2ZXIgcGx1Z2luIl1bImRpcmVjdG9yeSJdCmhzX25hbWUgPSBjb25maWdbImZsdWlkIHNvbHZlciBwbHVnaW4iXVsibmFtZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCA7ICsrbm9kZV9pZCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHNfY29uZmlnID0gY29uZmlnWyJIeXBlclNvbHZlIl0KaHNfZGlyZWN0b3J5ID0gY29uZmlnWyJmbHVpZCBzb2x2ZXIgcGx1Z2luIl1bImRpcmVjdG9yeSJdCmhzX25hbWUgPSBjb25maWdbImZsdWlkIHNvbHZlciBwbHVnaW4iXVsibmFtZSJdCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgZGVuc2l0eV9pbmRleCA9IHNvbHV0aW9uX21hcFtIUzo6VmFyaWFibGU6OmRlbnNpdHlfc3RhcnRdOyBkZW5zaXR5X2luZGV4IDwgc29sdXRpb25fbWFwW0hTOjpWYXJpYWJsZTo6ZGVuc2l0eV9lbmRdOyArK2RlbnNpdHlfaW5kZXgpCiAgICAgICAgICAgICAgICBmb3JjZXMubWFzc19mbHV4ICs9IHJlc2lkdWFsX3N1bVtkZW5zaXR5X2luZGV4XTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNvbHZlciA9IGluZmluaXR5LmdldEZsdWlkU29sdmVyKG1lc2gsIGNvbW0sIGpzb24uZHVtcHMoaHNfY29uZmlnKSwgaHNfZGlyZWN0b3J5LCBoc19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRfZm9yY2VzLm1hc3NfZmx1eAoKICAgICAgICAgICAgc3RkOjphcnJheTxULCBOdW1FcW5zPiByZXNpZHVhbF9zdW07CiAgICAgICAgICAgIHJlc2lkdWFsX3N1bS5maWxsKDAuMCk7CgogICAgICAgICAgICBhdXRvIHJlc2lkdWFsID0gY2FsY0JvdW5kYXJ5UmVzaWR1YWwoYm91bmRhcnlfdGFnLCBRLCB0ZXJtcyk7CiAgICAgICAgICAgIGZvciAoaW50IG5vZGVfaWQgPSAwOyBub2RlX2lkIDwgbWVzaC5ub2RlQ291bnQoKTsgKytub2RlX2lkKSB7CiAgICAgICAgICAgICAgICBpZiAobWVzaC5ub2RlT3duZXIobm9kZV9pZCkgPT0gbXAuUmFuaygpKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yIChzaXplX3QgZXFuID0gMDsgZXFuIDwgTnVtRXFuczsgKytlcW4pCiAgICAgICAgICAgICAgICAgICAgICAgIHJlc2lkdWFsX3N1bVtlcW5dICs9IHJlc2lkdWFsW25vZGVfaWRdW2Vxbl07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGNvbnN0IGF1dG8gJnNvbHV0aW9uX21hcCA9IFEuZ2V0U29sdXRpb25NYXAoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVzaF9maWxlbmFtZSA9IGNvbmZpZ1sibWVzaCBmaWxlbmFtZSJdCnBwX2RpcmVjdG9yeSA9IGNvbmZpZ1sicHJlcHJvY2Vzc29yIHBsdWdpbiJdWyJkaXJlY3RvcnkiXQpwcF9uYW1lID0gY29uZmlnWyJwcmVwcm9jZXNzb3IgcGx1Z2luIl1bIm5hbWUiXQpwcmVwcm9jZXNzb3IgPSBpbmZpbml0eS5nZXRQcmVQcm9jZXNzb3IocHBfZGlyZWN0b3J5LCBwcF9uYW1lKQptZXNoID0gcHJlcHJvY2Vzc29yLmltcG9ydE1lc2gobWVzaF9maWxlbmFtZSwgY29tbSkK</text>
+        <text encoding="base64">aHlwZXJzb2x2ZSA9IHNvbHZlci5nZXRfaW50ZXJuYWxfc29sdmVyKCkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm9ubGluZWFyX3NvbHZlcnMgPSBbIlBFVFNjIiwgIkphY29iaSJdCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>solver</last-search>
+      <last-search>getAllBoundaryTags</last-search>
       <last-offset />
-      <last-pattern>solver</last-pattern>
+      <last-pattern>getAllBoundaryTags</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2737,7 +2739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moni</entry>
         <entry>NoRe</entry>
         <entry>TemperatureReal</entry>
         <entry>MMS</entry>
@@ -2757,6 +2758,7 @@
         <entry>Mesh</entry>
         <entry>success</entry>
         <entry>solver</entry>
+        <entry>getAllBoundaryTags</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

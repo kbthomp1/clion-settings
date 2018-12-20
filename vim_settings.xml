@@ -480,12 +480,12 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="78" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" timestamp="1545262613887">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" timestamp="1545263485645">
         <mark key="'" line="18" column="64" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="66" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" timestamp="1531404564359">
         <mark key="'" line="73" column="45" />
@@ -542,6 +542,10 @@
         <mark key="]" line="91" column="42" />
         <mark key="^" line="91" column="42" />
         <mark key="." line="91" column="42" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/solvers/CMakeLists.txt" timestamp="1545263967883">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Configuration.h" timestamp="1544741397992">
         <mark key="'" line="13" column="0" />
@@ -834,8 +838,12 @@
         <mark key="^" line="49" column="53" />
         <mark key="." line="49" column="53" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1544822159254">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CMakeLists.txt" timestamp="1545263470372">
         <mark key="'" line="20" column="26" />
+        <mark key="[" line="82" column="82" />
+        <mark key="]" line="82" column="82" />
+        <mark key="." line="82" column="82" />
+        <mark key="^" line="82" column="82" />
       </file>
       <file name="$USER_HOME$/hefss++/src/TransportPerfectGas.cpp" timestamp="1511895406815">
         <mark key="'" line="21" column="18" />
@@ -1514,12 +1522,12 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/one-ring/masa/CMakeLists.txt" timestamp="1545262789542">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="23" />
+      <file name="$USER_HOME$/one-ring/masa/CMakeLists.txt" timestamp="1545264189663">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/OldDensityTemperatureRealizability.h" timestamp="1538070330043">
         <mark key="'" line="29" column="18" />
@@ -2038,8 +2046,11 @@
         <mark key="^" line="21" column="91" />
         <mark key="." line="21" column="91" />
       </file>
-      <file name="$USER_HOME$/one-ring/t-infinity/t-infinity/CMakeLists.txt" timestamp="1545142057466">
-        <mark key="'" line="181" column="20" />
+      <file name="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" timestamp="1545263947587">
+        <mark key="'" line="77" column="4" />
+      </file>
+      <file name="$USER_HOME$/one-ring/t-infinity/t-infinity/CMakeLists.txt" timestamp="1545264336794">
+        <mark key="'" line="133" column="0" />
         <mark key="[" line="181" column="26" />
         <mark key="]" line="181" column="25" />
         <mark key="^" line="181" column="25" />
@@ -2587,6 +2598,10 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/StrongBCFactory.h" timestamp="1545233694875">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="92" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryCondition.h" timestamp="1541788493957">
         <mark key="'" line="831" column="57" />
         <mark key="[" line="19" column="0" />
@@ -2657,6 +2672,10 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="/usr/local/include/enigma/RealizabilityController.h" timestamp="1545073731293">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="120" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/helpers/Ddata.h" timestamp="1539954926139">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="198" column="100" />
@@ -2708,13 +2727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="31" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
-      <jump line="72" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
-      <jump line="91" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SurfaceIntegrator.h" />
-      <jump line="1" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
-      <jump line="182" column="26" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
-      <jump line="170" column="62" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
-      <jump line="80" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/MeshUtilitiesTests.cpp" />
       <jump line="34" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MeshUtilitiesTests.cpp" />
       <jump line="116" column="22" filename="$USER_HOME$/one-ring/hypersolve/test/MeshUtilitiesTests.cpp" />
       <jump line="122" column="40" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
@@ -2808,6 +2820,13 @@
       <jump line="57" column="8" filename="$USER_HOME$/one-ring/masa/src/masa.h" />
       <jump line="1108" column="2" filename="$USER_HOME$/one-ring/masa/src/masa_core.cpp" />
       <jump line="18" column="64" filename="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" />
+      <jump line="86" column="16" filename="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" />
+      <jump line="96" column="4" filename="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" />
+      <jump line="77" column="4" filename="$USER_HOME$/one-ring/parfait/parfait/CMakeLists.txt" />
+      <jump line="45" column="32" filename="$USER_HOME$/one-ring/masa/CMakeLists.txt" />
+      <jump line="141" column="36" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/CMakeLists.txt" />
+      <jump line="148" column="36" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/CMakeLists.txt" />
+      <jump line="133" column="0" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2817,8 +2836,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKE1hbnVmYWN0dXJlZFNvbHV0aW9uIElOVEVSRkFDRSBtYXNoOjptYXNhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Solvers</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2827,60 +2846,58 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>${MASA_LIBRARIES}</text>
+        <text>Solvers</text>
       </register>
       <register name="/" type="4">
-        <text>masa</text>
+        <text>plugins_py</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2NvbXBpbGVfZGVmaW5pdGlvbnMobWFzYSBQUklWQVRFIE1BU0FfQ1hYPSR7Q01BS0VfQ1hYX0NPTVBJTEVSfSkK</text>
+        <text encoding="base64">c2V0X3Byb3BlcnR5KFRBUkdFVCBTb2x2ZXJzIFBST1BFUlRZIFBPU0lUSU9OX0lOREVQRU5ERU5UX0NPREUgT04pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKE1hbnVmYWN0dXJlZFNvbHV0aW9uIElOVEVSRkFDRSBtYXNoOjptYXNhKQo=</text>
+        <text encoding="base64">ICAgIHRhcmdldF9saW5rX2xpYnJhcmllcyhNYW51ZmFjdHVyZWRTb2x1dGlvbiBJTlRFUkZBQ0UgbWFzYTo6bWFzYSkKZW5kaWYoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkY5MCBDb25maWcgICA9ICIgPDwgTUFTQV9GQyBNQVNBX0ZDRkxBR1MgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">aWYgKE1BU0FfRk9VTkQpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVNBX0NYWCAgICAgICAgICAgICJAQ1hYQCIKI2RlZmluZSBNQVNBX0NYWEZMQUdTICAgICAgICJAQ1hYRkxBR1NAIgoK</text>
+        <text encoding="base64">ZW5kaWYoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkY5MCBDb25maWcgICA9ICIgPDwgTUFTQV9GQyBNQVNBX0ZDRkxBR1MgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">aWYoTUFTQV9GT1VORCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVNBX0ZDICAgICAgICAgICAgICJARkNAIgojZGVmaW5lIE1BU0FfRkNGTEFHUyAgICAgICAgIkBGQ0ZMQUdTQCIKCg==</text>
+        <text encoding="base64">ICAgIHRhcmdldF9pbmNsdWRlX2RpcmVjdG9yaWVzKE1hbnVmYWN0dXJlZFNvbHV0aW9uIElOVEVSRkFDRSBtYXNoOjptYXNhKQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkY5MCBDb25maWcgICA9ICIgPDwgTUFTQV9GQyBNQVNBX0ZDRkxBR1MgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVNBX01JTk9SX1ZFUlNJT04gIEBHRU5FUklDX01JTk9SX1ZFUlNJT05ACiNkZWZpbmUgTUFTQV9NSUNST19WRVJTSU9OICBAR0VORVJJQ19NSUNST19WRVJTSU9OQAo=</text>
+        <text encoding="base64">I2RlZmluZSBNQVNBX0NYWCAgICAgICAgICAgICJAQ1hYQCIKI2RlZmluZSBNQVNBX0NYWEZMQUdTICAgICAgICJAQ1hYRkxBR1NAIgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNvbmZpZy5oPiAgICAgICAgLy8gZm9yIE1BU0FfRVhDRVBUSU9OUyBjb25kaXRpb25hbAo=</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkY5MCBDb25maWcgICA9ICIgPDwgTUFTQV9GQyBNQVNBX0ZDRkxBR1MgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNvbmZpZy5oPiAgICAgICAgLy8gZm9yIE1BU0FfRVhDRVBUSU9OUyBjb25kaXRpb25hbAo=</text>
+        <text encoding="base64">I2RlZmluZSBNQVNBX0ZDICAgICAgICAgICAgICJARkNAIgojZGVmaW5lIE1BU0FfRkNGTEFHUyAgICAgICAgIkBGQ0ZMQUdTQCIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>masa</last-search>
+      <last-search>plugins_py</last-search>
       <last-offset />
-      <last-pattern>masa</last-pattern>
+      <last-pattern>plugins_py</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2888,8 +2905,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mms_term</entry>
-        <entry>createDisc</entry>
         <entry>listFie</entry>
         <entry>list</entry>
         <entry>os.</entry>
@@ -2908,6 +2923,8 @@
         <entry>sum_xyz</entry>
         <entry>MASA_FC</entry>
         <entry>masa</entry>
+        <entry>NAMESPACE</entry>
+        <entry>plugins_py</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

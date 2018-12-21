@@ -1577,13 +1577,12 @@
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="87" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1545345379746">
-        <mark key="'" line="262" column="78" />
-        <mark key="k" line="240" column="32" />
-        <mark key="[" line="408" column="52" />
-        <mark key="]" line="408" column="52" />
-        <mark key="^" line="408" column="52" />
-        <mark key="." line="408" column="52" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1545399833876">
+        <mark key="'" line="204" column="0" />
+        <mark key="k" line="241" column="32" />
+        <mark key="[" line="93" column="16" />
+        <mark key="]" line="93" column="17" />
+        <mark key="." line="93" column="17" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe/t_infinity_plugin_src/sfe_grid_accessors.F90" timestamp="1503352086632">
         <mark key="'" line="102" column="33" />
@@ -2762,10 +2761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="424" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
-      <jump line="480" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
-      <jump line="576" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
       <jump line="577" column="21" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
       <jump line="582" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
       <jump line="205" column="92" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
@@ -2862,6 +2857,10 @@
       <jump line="16" column="3" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="255" column="78" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="44" column="68" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="50" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="106" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
+      <jump line="204" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2871,8 +2870,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNjsgKytpKQo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2884,10 +2883,10 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>dimensionalize</text>
+        <text>TEST_CASE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGU8c2l6ZV90IE51bVNwZWNpZXM+CnN0ZDo6YXJyYXk8ZG91YmxlLCBOdW1TcGVjaWVzKzQ+Cm5vbmRpbWVuc2lvbmFsaXplSW5wdXRTdGF0ZShjb25zdCBzdGQ6OmFycmF5PGRvdWJsZSwgTnVtU3BlY2llcys0PiAmaW5wdXRfc3RhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6Tm9uZGltZW5zaW9uYWxpemF0aW9uICZub25kaW0pIHsKICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCBOdW1TcGVjaWVzICsgND4gb3V0cHV0e307CiAgICBmb3IgKHNpemVfdCBpID0gMDsgaSA8IE51bVNwZWNpZXM7ICsraSkKICAgICAgICBvdXRwdXRbaV0gPSBub25kaW0ubm9uZGltZW5zaW9uYWxEZW5zaXR5KGlucHV0X3N0YXRlW2ldKTsKICAgIGZvciAoc2l6ZV90IGkgPSBOdW1TcGVjaWVzOyBpIDwgTnVtU3BlY2llcyArIDM7ICsraSkKICAgICAgICBvdXRwdXRbaV0gPSBub25kaW0ubm9uZGltZW5zaW9uYWxTcGVlZChpbnB1dF9zdGF0ZVtpXSk7CiAgICBvdXRwdXRbTnVtU3BlY2llcyArIDNdID0gbm9uZGltLm5vbmRpbWVuc2lvbmFsUHJlc3N1cmUoaW5wdXRfc3RhdGVbTnVtU3BlY2llcyArIDNdKTsKICAgIHJldHVybiBvdXRwdXQ7Cn0K</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNjsgKytpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2930,9 +2929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dimensionalize</last-search>
+      <last-search>TEST_CASE</last-search>
       <last-offset />
-      <last-pattern>dimensionalize</last-pattern>
+      <last-pattern>TEST_CASE</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2940,7 +2939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Vac</entry>
         <entry>densities</entry>
         <entry>Vacuum</entry>
         <entry>pressureTo</entry>
@@ -2960,6 +2958,7 @@
         <entry>nondim</entry>
         <entry>Riemann</entry>
         <entry>dimensionalize</entry>
+        <entry>TEST_CASE</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

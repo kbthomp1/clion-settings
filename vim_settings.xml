@@ -410,13 +410,13 @@
         <mark key="." line="38" column="19" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1548706308618">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" timestamp="1548709331884">
         <mark key="'" line="27" column="27" />
         <mark key="k" line="202" column="63" />
-        <mark key="[" line="552" column="76" />
-        <mark key="]" line="552" column="78" />
-        <mark key="." line="552" column="78" />
-        <mark key="^" line="552" column="78" />
+        <mark key="[" line="550" column="0" />
+        <mark key="]" line="550" column="0" />
+        <mark key="." line="550" column="0" />
+        <mark key="^" line="548" column="48" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/PetscMatrixFreeTests.cpp" timestamp="1522424869035">
         <mark key="'" line="46" column="0" />
@@ -1718,8 +1718,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" timestamp="1545422763952">
-        <mark key="'" line="513" column="58" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" timestamp="1548709344744">
+        <mark key="'" line="636" column="102" />
         <mark key="[" line="533" column="84" />
         <mark key="]" line="533" column="99" />
         <mark key="^" line="533" column="99" />
@@ -2104,11 +2104,12 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBCFactory.hpp" timestamp="1548706084815">
-        <mark key="[" line="114" column="8" />
-        <mark key="]" line="114" column="67" />
-        <mark key="." line="114" column="67" />
-        <mark key="^" line="114" column="67" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBCFactory.hpp" timestamp="1548709230584">
+        <mark key="'" line="91" column="53" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="104" column="67" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/test/ThermoCurveFitsTests.cpp" timestamp="1531234095962">
         <mark key="'" line="48" column="48" />
@@ -2475,8 +2476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="83" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
-      <jump line="139" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="140" column="26" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="143" column="108" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
       <jump line="166" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/WeakBoundaryConditionsTests.cpp" />
@@ -2575,6 +2574,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ForceIntegratorTests.cpp" />
       <jump line="11" column="9" filename="$USER_HOME$/one-ring/hypersolve/test/AdjointSolverTests.cpp" />
       <jump line="14" column="99" filename="$USER_HOME$/one-ring/hypersolve/test/AdjointSolverTests.cpp" />
+      <jump line="101" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBCFactory.hpp" />
+      <jump line="636" column="102" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2584,8 +2585,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFNFQ1RJT04oInN1YnNvbmljIikgewogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBxX2ludGVyaW9yID0gezAuOCwgMC4yLCAxMC4wLCAwLjIsIDAuMywgMzAwLjB9OwogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBleHBlY3RlZCA9IHs2LjM4Mzg5N2UtMDUsIDEuNTk1OTc0ZS0wNSwgMS45NTI5OThlKzAzLCAtMy4wNDcwMDJlKzAzLCAwLjAsIDMuODA4MTQ3ZSswMn07CiAgICAgICAgUkVRVUlSRShjaGVja0JDVHdvU3BlY2llc0dhcyhjb25maWcuZHVtcCgpLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgfQogICAgU0VDVElPTigic3VwZXJzb25pYyIpIHsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNj4gcV9pbnRlcmlvciA9IHswLjgsIDAuMiwgNTAwMC4wLCAyMDAuMCwgMTAwLjAsIDMwMC4wfTsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNj4gZXhwZWN0ZWQgPSBxX2ludGVyaW9yOwogICAgICAgIFJFUVVJUkUoY2hlY2tCQ1R3b1NwZWNpZXNHYXMoY29uZmlnLmR1bXAoKSwgcV9pbnRlcmlvciwgZXhwZWN0ZWQpKTsKICAgIH0K</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2594,49 +2595,49 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IC0gdHdvIHNwZWNpZXMiKXs=</text>
       </register>
       <register name="/" type="4">
         <text>boundary_condi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIHdlYWtfYmNfbWFwID0gSFM6OldlYWtCQ0ZhY3Rvcnk8ZG91YmxlLCBMYW1pbmFyUGVyZmVjdEdhcz46OmJ1aWxkV2Vha0JDTWFwKGJjX2NvbmZpZywgInJvZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVybW9keW5hbWljcyk7Cg==</text>
+        <text encoding="base64">VEVTVF9DQVNFKCJGYWN0b3J5IGNhbiBjcmVhdGUgYSBSaWVtYW5uIGJjIC0gdHdvIHNwZWNpZXMiKXsKICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZzsKICAgIGNvbmZpZ1sidHlwZSJdID0gInJpZW1hbm4iOwogICAgY29uZmlnWyJkZW5zaXRpZXMiXSA9IHs4LmUtNCwgMi5lLTR9OwogICAgY29uZmlnWyJ2ZWxvY2l0eSJdID0gezUwMDAuMCwgMC4wLCAwLjB9OwogICAgY29uZmlnWyJ0ZW1wZXJhdHVyZSJdID0gMTAwMC4wOwogICAgU0VDVElPTigic3Vic29uaWMiKSB7CiAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDY+IHFfaW50ZXJpb3IgPSB7MC44LCAwLjIsIDEwLjAsIDAuMiwgMC4zLCAzMDAuMH07CiAgICAgICAgc3RkOjphcnJheTxkb3VibGUsIDY+IGV4cGVjdGVkID0gezYuMzgzODk3ZS0wNSwgMS41OTU5NzRlLTA1LCAxLjk1Mjk5OGUrMDMsIC0zLjA0NzAwMmUrMDMsIDAuMCwgMy44MDgxNDdlKzAyfTsKICAgICAgICBSRVFVSVJFKGNoZWNrQkNUd29TcGVjaWVzR2FzKGNvbmZpZy5kdW1wKCksIHFfaW50ZXJpb3IsIGV4cGVjdGVkKSk7CiAgICB9CiAgICBTRUNUSU9OKCJzdXBlcnNvbmljIikgewogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBxX2ludGVyaW9yID0gezAuOCwgMC4yLCA1MDAwLjAsIDIwMC4wLCAxMDAuMCwgMzAwLjB9OwogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBleHBlY3RlZCA9IHFfaW50ZXJpb3I7CiAgICAgICAgUkVRVUlSRShjaGVja0JDVHdvU3BlY2llc0dhcyhjb25maWcuZHVtcCgpLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgfQp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZyA9IG5sb2htYW5uOjpqc29uOjpwYXJzZShqc29uX2xpdGVyYWwpOwo=</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oInN1YnNvbmljIikgewogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBxX2ludGVyaW9yID0gezAuOCwgMC4yLCAxMC4wLCAwLjIsIDAuMywgMzAwLjB9OwogICAgICAgIHN0ZDo6YXJyYXk8ZG91YmxlLCA2PiBleHBlY3RlZCA9IHs2LjM4Mzg5N2UtMDUsIDEuNTk1OTc0ZS0wNSwgMS45NTI5OThlKzAzLCAtMy4wNDcwMDJlKzAzLCAwLjAsIDMuODA4MTQ3ZSswMn07CiAgICAgICAgUkVRVUlSRShjaGVja0JDVHdvU3BlY2llc0dhcyhjb25maWcuZHVtcCgpLCBxX2ludGVyaW9yLCBleHBlY3RlZCkpOwogICAgfQogICAgU0VDVElPTigic3VwZXJzb25pYyIpIHsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNj4gcV9pbnRlcmlvciA9IHswLjgsIDAuMiwgNTAwMC4wLCAyMDAuMCwgMTAwLjAsIDMwMC4wfTsKICAgICAgICBzdGQ6OmFycmF5PGRvdWJsZSwgNj4gZXhwZWN0ZWQgPSBxX2ludGVyaW9yOwogICAgICAgIFJFUVVJUkUoY2hlY2tCQ1R3b1NwZWNpZXNHYXMoY29uZmlnLmR1bXAoKSwgcV9pbnRlcmlvciwgZXhwZWN0ZWQpKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ1siZGVuc2l0aWVzIl0gPSB7OC5lLTQsIDIuZS00fTsKICAgIGNvbmZpZ1sidmVsb2NpdHkiXSA9IHs1MDAwLjAsIDAuMCwgMC4wfTsK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmxvaG1hbm46Ompzb246OnBhcnNlKGJjX2NvbmZpZyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicm9lIik7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmxvaG1hbm46Ompzb246OnBhcnNlKGJjX2NvbmZpZyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicm9lIik7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5sb2htYW5uOjpqc29uIGNvbmZpZyA9IG5sb2htYW5uOjpqc29uOjpwYXJzZShqc29uX2xpdGVyYWwpOwo=</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuZmx1eF9mdW5jdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmxvaG1hbm46Ompzb246OnBhcnNlKGJjX2NvbmZpZyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicm9lIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLCBubG9obWFubjo6anNvbjo6cGFyc2Uoc2V0dGluZ3MuYm91bmRhcnlfY29uZGl0aW9ucyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWFrX2JjX21hcChIUzo6V2Vha0JDRmFjdG9yeTxULCBFUT46OmJ1aWxkV2Vha0JDTWFwKGJvdW5kYXJ5X2NvbmRpdGlvbnNfanNvbiwgZmx1eF9mdW5jdGlvbiwgdGhlcm1vZHluYW1pY3MpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZXJtb2R5bmFtaWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmxvaG1hbm46Ompzb246OnBhcnNlKGJjX2NvbmZpZyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicm9lIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3MuZmx1eF9mdW5jdGlvbikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

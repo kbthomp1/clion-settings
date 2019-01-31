@@ -47,6 +47,7 @@
       <file name="/LLDB" timestamp="1548873928397">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/interfaces/ManufacturedSolutionTerms.h" timestamp="1548958293788" />
       <file name="$USER_HOME$/one-ring/hypersolve/src/LaminarTerms.h" timestamp="1521755639349">
         <mark key="'" line="36" column="31" />
         <mark key="[" line="14" column="42" />
@@ -152,11 +153,11 @@
         <mark key="." line="61" column="25" />
         <mark key="^" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1548950240415">
+      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1548958667419">
         <mark key="'" line="902" column="37" />
-        <mark key="[" line="1057" column="0" />
+        <mark key="[" line="1024" column="0" />
         <mark key="k" line="1057" column="0" />
-        <mark key="]" line="1057" column="125" />
+        <mark key="]" line="1024" column="109" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -172,13 +173,13 @@
         <mark key="." line="4" column="109" />
         <mark key="^" line="4" column="109" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1548951252486">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1548958673307">
+        <mark key="'" line="154" column="94" />
         <mark key="k" line="97" column="29" />
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="108" column="31" />
-        <mark key="." line="108" column="31" />
-        <mark key="^" line="108" column="31" />
+        <mark key="[" line="152" column="26" />
+        <mark key="]" line="152" column="26" />
+        <mark key="." line="152" column="26" />
+        <mark key="^" line="151" column="22" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1545075930028">
         <mark key="'" line="42" column="21" />
@@ -607,6 +608,7 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/test/CellLSQGradientsTests.cpp" timestamp="1548873742735" />
       <file name="$USER_HOME$/one-ring/hypersolve/utils/run_fet.py" timestamp="1548795495587">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="14" column="56" />
@@ -2722,11 +2724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/ManufacturedSolutionBCTests.cpp" />
-      <jump line="82" column="41" filename="$USER_HOME$/one-ring/hypersolve/test/ManufacturedSolutionBCTests.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/ManufacturedSolutionBCTests.cpp" />
-      <jump line="22" column="36" filename="$USER_HOME$/one-ring/hypersolve/test/ManufacturedSolutionBCTests.cpp" />
-      <jump line="59" column="11" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.h" />
       <jump line="157" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="4" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="61" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.h" />
@@ -2822,6 +2819,11 @@
       <jump line="42" column="63" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="43" column="76" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="151" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="48" column="41" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="152" column="106" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="153" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="154" column="94" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2831,11 +2833,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>rho
-rho
-rho
-rho</text>
+      <register name="&quot;" type="4">
+        <text>v_0 + v_x * sin(a_vx * PI * x / L) + v_y * cos(a_vy * PI * y / L) + v_z * sin(a_vz * PI * z / L);</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2844,68 +2843,68 @@ rho</text>
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>T(masa_eval_3d_exact_t(xyz[0], xyz[1], xyz[2]))};</text>
+        <text>v_0 + v_x * sin(a_vx * PI * x / L) + v_y * cos(a_vy * PI * y / L) + v_z * sin(a_vz * PI * z / L);</text>
       </register>
       <register name="/" type="4">
-        <text>NumSpecies</text>
+        <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmhvXzAgPSBtYXNhX2dldF9wYXJhbSgicmhvXzAiKTsKICAgIGF1dG8gcmhvX3ggPSBtYXNhX2dldF9wYXJhbSgicmhvX3giKTsKICAgIGF1dG8gcmhvX3kgPSBtYXNhX2dldF9wYXJhbSgicmhvX3kiKTsKICAgIGF1dG8gcmhvX3ogPSBtYXNhX2dldF9wYXJhbSgicmhvX3oiKTsKICAgIGF1dG8gYV9yaG94ID0gbWFzYV9nZXRfcGFyYW0oImFfcmhveCIpOwogICAgYXV0byBhX3Job3kgPSBtYXNhX2dldF9wYXJhbSgiYV9yaG95Iik7CiAgICBhdXRvIGFfcmhveiA9IG1hc2FfZ2V0X3BhcmFtKCJhX3Job3oiKTsK</text>
+        <text encoding="base64">ICBleGFjdF92ID0gdl8wICsgdl94ICogY29zKGFfdnggKiBQSSAqIHggLyBMKSArIHZfeSAqIHNpbihhX3Z5ICogUEkgKiB5IC8gTCkgKyB2X3ogKiBzaW4oYV92eiAqIFBJICogeiAvIEwpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>rho
-rho
-rho
-rho</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIGV4cGVjdGVkX3UgPSB1XzAgKyB1X3ggKiBzaW4oYV91eCAqIFBJICogeCAvIEwpICsgdV95ICogY29zKGFfdXkgKiBQSSAqIHkgLyBMKSArIHVfeiAqIHNpbihhX3V6ICogUEkgKiB6IC8gTCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>rho
-rho
-rho</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIGV4cGVjdGVkX3UgPSB1XzAgKyB1X3ggKiBzaW4oYV91eCAqIFBJICogeCAvIEwpICsgdV95ICogY29zKGFfdXkgKiBQSSAqIHkgLyBMKSArIHVfeiAqIHNpbihhX3V6ICogUEkgKiB6IC8gTCk7Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>rho
+rho
+rho</text>
+      </register>
+      <register name="5" type="8">
         <text>rho
 rho
 rho
 rho</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>rho
+rho
+rho</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiUEkgPSAlZVxuIiwgUEkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dG8gZXhwZWN0ZWRfZGVuc2l0eSA9IHN0ZDo6Y29zKEFfeCAqIHh5elswXSkgKiBzdGQ6OmNvcyhCX3kgKiB4eXpbMV0pICogc3RkOjpjb3MoQ196ICogeHl6WzJdKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBQSSA9IHN0ZDo6YXRhbigxLjApKjQ7Cg==</text>
+      <register name="7" type="8">
+        <text>rho
+rho
+rho
+rho</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzaW5nIG1hc2E6Om1hbnVmYWN0dXJlZF9zb2x1dGlvbjxTY2FsYXI+OjpQSTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text>_
-_
-_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiUEkgPSAlZVxuIiwgUEkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NumSpecies</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern>NumSpecies</last-pattern>
+      <last-pattern>w</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2913,9 +2912,6 @@ _</text>
     </search>
     <history>
       <history-search>
-        <entry>globalNode</entry>
-        <entry>::nodeOwner</entry>
-        <entry>globalCellId</entry>
         <entry>cellCount</entry>
         <entry>globalCell</entry>
         <entry>Strong</entry>
@@ -2933,6 +2929,9 @@ _</text>
         <entry>PI</entry>
         <entry>NumEqns</entry>
         <entry>NumSpecies</entry>
+        <entry>rho</entry>
+        <entry>u</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

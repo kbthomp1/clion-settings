@@ -482,8 +482,8 @@
         <mark key="." line="42" column="83" />
         <mark key="^" line="42" column="83" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1548776128896">
-        <mark key="'" line="175" column="14" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1548975084384">
+        <mark key="'" line="33" column="25" />
         <mark key="[" line="423" column="0" />
         <mark key="]" line="431" column="92" />
       </file>
@@ -2682,8 +2682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
-      <jump line="117" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="61" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
@@ -2782,6 +2780,8 @@
       <jump line="45" column="91" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryTerms.hpp" />
       <jump line="75" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryTerms.hpp" />
       <jump line="81" column="94" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryTerms.hpp" />
+      <jump line="32" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="33" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2804,7 +2804,7 @@
         <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>ghost</text>
+        <text>createDisc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIGUgPSBnaG9zdF9lZGdlICogMC4wMDE7Cg==</text>
@@ -2850,9 +2850,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ghost</last-search>
+      <last-search>createDisc</last-search>
       <last-offset />
-      <last-pattern>ghost</last-pattern>
+      <last-pattern>createDisc</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2860,7 +2860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
         <entry>at</entry>
         <entry>json_config</entry>
         <entry>3d</entry>
@@ -2880,6 +2879,7 @@
         <entry>log</entry>
         <entry>LOG</entry>
         <entry>ghost</entry>
+        <entry>createDisc</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

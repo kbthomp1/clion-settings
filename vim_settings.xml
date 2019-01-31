@@ -153,11 +153,11 @@
         <mark key="." line="61" column="25" />
         <mark key="^" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1548958667419">
+      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1548958894091">
         <mark key="'" line="902" column="37" />
-        <mark key="[" line="1024" column="0" />
+        <mark key="[" line="903" column="0" />
         <mark key="k" line="1057" column="0" />
-        <mark key="]" line="1024" column="109" />
+        <mark key="]" line="903" column="103" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
         <mark key="'" line="48" column="44" />
@@ -173,13 +173,12 @@
         <mark key="." line="4" column="109" />
         <mark key="^" line="4" column="109" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1548958673307">
-        <mark key="'" line="154" column="94" />
-        <mark key="k" line="97" column="29" />
-        <mark key="[" line="152" column="26" />
-        <mark key="]" line="152" column="26" />
-        <mark key="." line="152" column="26" />
-        <mark key="^" line="151" column="22" />
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1548960226256">
+        <mark key="k" line="36" column="29" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1545075930028">
         <mark key="'" line="42" column="21" />
@@ -502,12 +501,12 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="78" column="19" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" timestamp="1548880971177">
-        <mark key="'" line="19" column="64" />
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/CMakeLists.txt" timestamp="1548959934107">
+        <mark key="'" line="20" column="64" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidFlux.cpp" timestamp="1531404564359">
         <mark key="'" line="73" column="45" />
@@ -609,6 +608,11 @@
         <mark key="." line="6" column="40" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CellLSQGradientsTests.cpp" timestamp="1548873742735" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1548959956183">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/utils/run_fet.py" timestamp="1548795495587">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="14" column="56" />
@@ -1035,12 +1039,12 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" timestamp="1548950693834">
-        <mark key="'" line="38" column="76" />
-        <mark key="[" line="40" column="22" />
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="8" column="64" />
-        <mark key="." line="40" column="22" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" timestamp="1548960191007">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="47" column="66" />
+        <mark key="]" line="47" column="66" />
+        <mark key="^" line="47" column="66" />
+        <mark key="." line="47" column="66" />
       </file>
       <file name="$USER_HOME$/hefss++/data/convert.py" timestamp="1498593791826">
         <mark key="'" line="12" column="31" />
@@ -2724,10 +2728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
-      <jump line="4" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
-      <jump line="61" column="52" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.h" />
-      <jump line="196" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="185" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="8" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="116" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
@@ -2746,7 +2746,6 @@
       <jump line="117" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" />
       <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
-      <jump line="60" column="8" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="61" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="88" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="12" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
@@ -2824,6 +2823,11 @@
       <jump line="152" column="106" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="153" column="75" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="154" column="94" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="102" column="40" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="163" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="164" column="129" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="60" column="64" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2833,8 +2837,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>v_0 + v_x * sin(a_vx * PI * x / L) + v_y * cos(a_vy * PI * y / L) + v_z * sin(a_vz * PI * z / L);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIGR1YWxfdm9sdW1lID0gbWVzaC5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2843,68 +2847,58 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>v_0 + v_x * sin(a_vx * PI * x / L) + v_y * cos(a_vy * PI * y / L) + v_z * sin(a_vz * PI * z / L);</text>
+        <text encoding="base64">ICogZHVhbF92b2x1bWU=</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>calcSource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleGFjdF92ID0gdl8wICsgdl94ICogY29zKGFfdnggKiBQSSAqIHggLyBMKSArIHZfeSAqIHNpbihhX3Z5ICogUEkgKiB5IC8gTCkgKyB2X3ogKiBzaW4oYV92eiAqIFBJICogeiAvIEwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byB6X21vbWVudHVtID0gVChtYXNhX2V2YWxfM2Rfc291cmNlX3Job193KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGV4cGVjdGVkX3UgPSB1XzAgKyB1X3ggKiBzaW4oYV91eCAqIFBJICogeCAvIEwpICsgdV95ICogY29zKGFfdXkgKiBQSSAqIHkgLyBMKSArIHVfeiAqIHNpbihhX3V6ICogUEkgKiB6IC8gTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGR1YWxfdm9sdW1lID0gbWVzaC5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGV4cGVjdGVkX3UgPSB1XzAgKyB1X3ggKiBzaW4oYV91eCAqIFBJICogeCAvIEwpICsgdV95ICogY29zKGFfdXkgKiBQSSAqIHkgLyBMKSArIHVfeiAqIHNpbihhX3V6ICogUEkgKiB6IC8gTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>rho
-rho
-rho</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>rho
-rho
-rho
-rho</text>
+      <register name="5" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>rho
-rho
-rho</text>
+      <register name="6" type="2">
+        <text encoding="base64">CmNsYXNzIEV1bGVyRXF1YXRpb25zTU1TIHsKCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>rho
-rho
-rho
-rho</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHBhcmZhaXQvVGhyb3cuaD4KI2luY2x1ZGUgPE1hbnVmYWN0dXJlZFNvbHV0aW9uVGVybXMuaD4KI2luY2x1ZGUgPFRoZXJtb1N0YXRlLmg+CiNpbmNsdWRlIDxNZXNoLmg+CiNpbmNsdWRlIDxtYXNhLmg+CgpuYW1lc3BhY2UgSFMgewogICAgdGVtcGxhdGUgPHR5cGVuYW1lIFQ+CiAgICBjbGFzcyBFdWxlckVxdWF0aW9uc01NUyA6IHB1YmxpYyBNYW51ZmFjdHVyZWRTb2x1dGlvblRlcm1zPFQsIDU+IHsKICAgIHB1YmxpYzoKICAgICAgICBFdWxlckVxdWF0aW9uc01NUyhjb25zdCBIUzo6TWVzaCAmbWVzaF9pbiwgY29uc3QgVGhlcm1vU3RhdGU8VCwgMT4mIHRoZXJtb2R5bmFtaWNzX2luKQogICAgICAgICAgICAgICAgOiBtZXNoKG1lc2hfaW4pLAogICAgICAgICAgICAgICAgICB0aGVybW9keW5hbWljcyh0aGVybW9keW5hbWljc19pbiksCiAgICAgICAgICAgICAgICAgIGFsbF9lcXVhdGlvbnMoRW5pZ21hOjpnZXRBbGxFcXVhdGlvbnM8NT4oKSkgewogICAgICAgICAgICBpbnQgZXJyID0gMDsKICAgICAgICAgICAgZXJyICs9IE1BU0E6Om1hc2FfaW5pdDxkb3VibGU+KCJldWxlciBlcXVhdGlvbiBoeXBlcnNvbHZlIE1NUyIsICJldWxlcl8zZCIpOwogICAgICAgICAgICBlcnIgKz0gbWFzYV9zYW5pdHlfY2hlY2soKTsKICAgICAgICAgICAgaWYgKGVyciAhPSAwKQogICAgICAgICAgICAgICAgVEhST1coIk1BU0EgaXMgYW5ncnkiKTsKICAgICAgICB9CiAgICAgICAgdm9pZCBmb3JtQihFbmlnbWE6OlZlY3RvcjxULCA1PiAqcmhzLCBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgNT4gJnNvbHV0aW9uKSBjb25zdCBvdmVycmlkZSB7CiAgICAgICAgICAgIGZvciAoaW50IG5vZGVfaWQgPSAwOyBub2RlX2lkIDwgbWVzaC5ub2RlQ291bnQoKTsgKytub2RlX2lkKSB7CiAgICAgICAgICAgICAgICBhdXRvIHh5eiA9IG1lc2gubm9kZUNvb3JkaW5hdGUobm9kZV9pZCk7CiAgICAgICAgICAgICAgICBhdXRvIHNvdXJjZV90ZXJtID0gY2FsY1NvdXJjZVRlcm0oeHl6KTsKICAgICAgICAgICAgICAgIGF1dG8gdm9sdW1lID0gbWVzaC5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdOwogICAgICAgICAgICAgICAgZm9yIChhdXRvJiBSIDogc291cmNlX3Rlcm0pCiAgICAgICAgICAgICAgICAgICAgUiAqPSB2b2x1bWU7CiAgICAgICAgICAgICAgICByaHMtPmFkZChub2RlX2lkLCBhbGxfZXF1YXRpb25zLCBzb3VyY2VfdGVybS5kYXRhKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB2b2lkIGZvcm1BKEVuaWdtYTo6TWF0cml4PFQsIDU+ICpsaHMsIGNvbnN0IEhTOjpTb2x1dGlvblZhcmlhYmxlczxULCA1PiAmc29sdXRpb24pIGNvbnN0IG92ZXJyaWRlIHt9CiAgICAgICAgdm9pZCBnZXRKYWNvYmlhbkJvdW5kYXJ5Q29udHJpYnV0aW9uKGNvbnN0IHN0ZDo6c2V0PGludD4gJmJvdW5kYXJ5X2NlbGxfaWRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFbmlnbWE6Ok1hdHJpeDxULCA1PiAqbGhzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBIUzo6U29sdXRpb25WYXJpYWJsZXM8VCwgNT4gJnNvbHV0aW9uKSBjb25zdCBvdmVycmlkZSB7fQoKICAgICAgICB2b2lkIGdldFJlc2lkdWFsQm91bmRhcnlDb250cmlidXRpb24oY29uc3Qgc3RkOjpzZXQ8aW50PiAmYm91bmRhcnlfY2VsbF9pZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVuaWdtYTo6VmVjdG9yPFQsIDU+ICpyaHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEhTOjpTb2x1dGlvblZhcmlhYmxlczxULCA1PiAmc29sdXRpb24pIGNvbnN0IG92ZXJyaWRlIHt9CgogICAgICAgIHN0ZDo6YXJyYXk8VCwgNT4KICAgICAgICBjYWxjRXhhY3RTb2x1dGlvbihjb25zdCBQYXJmYWl0OjpQb2ludDxkb3VibGU+ICZ4eXosIGRvdWJsZSB0aW1lKSBjb25zdCBvdmVycmlkZSB7CiAgICAgICAgICAgIFQgZGVuc2l0eShtYXNhX2V2YWxfM2RfZXhhY3RfcmhvKHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgVCB1KG1hc2FfZXZhbF8zZF9leGFjdF91KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgVCB2KG1hc2FfZXZhbF8zZF9leGFjdF92KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgVCB3KG1hc2FfZXZhbF8zZF9leGFjdF93KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgVCBwcmVzc3VyZShtYXNhX2V2YWxfM2RfZXhhY3RfcCh4eXpbMF0sIHh5elsxXSwgeHl6WzJdKSk7CiAgICAgICAgICAgIGF1dG8gdGVtcGVyYXR1cmUgPSB0aGVybW9keW5hbWljcy5jYWxjVGVtcGVyYXR1cmUoJmRlbnNpdHksIHByZXNzdXJlKTsKICAgICAgICAgICAgcmV0dXJuIHtkZW5zaXR5LCB1LCB2LCB3LCB0ZW1wZXJhdHVyZX07CiAgICAgICAgfQoKICAgICAgICBzdGQ6OmFycmF5PFQsIDU+IGNhbGNTb3VyY2VUZXJtKGNvbnN0IFBhcmZhaXQ6OlBvaW50PGRvdWJsZT4mIHh5eikgY29uc3QgewogICAgICAgICAgICBhdXRvIG1hc3MgPSBUKG1hc2FfZXZhbF8zZF9zb3VyY2VfcmhvKHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgYXV0byB4X21vbWVudHVtID0gVChtYXNhX2V2YWxfM2Rfc291cmNlX3Job191KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgYXV0byB5X21vbWVudHVtID0gVChtYXNhX2V2YWxfM2Rfc291cmNlX3Job192KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgYXV0byB6X21vbWVudHVtID0gVChtYXNhX2V2YWxfM2Rfc291cmNlX3Job193KHh5elswXSwgeHl6WzFdLCB4eXpbMl0pKTsKICAgICAgICAgICAgYXV0byB0b3RhbF9lbmVyZ3kgPSBUKG1hc2FfZXZhbF8zZF9zb3VyY2VfcmhvX2UoeHl6WzBdLCB4eXpbMV0sIHh5elsyXSkpOwogICAgICAgICAgICByZXR1cm4ge21hc3MsIHhfbW9tZW50dW0sIHlfbW9tZW50dW0sIHpfbW9tZW50dW0sIHRvdGFsX2VuZXJneX07CiAgICAgICAgfQoKICAgIHByaXZhdGU6CiAgICAgICAgY29uc3QgSFM6Ok1lc2gmIG1lc2g7CiAgICAgICAgY29uc3QgSFM6OlRoZXJtb1N0YXRlPFQsIDE+IHRoZXJtb2R5bmFtaWNzOwogICAgICAgIGNvbnN0IHN0ZDo6dmVjdG9yPGludD4gYWxsX2VxdWF0aW9uczsKICAgIH07Cn0KCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiUEkgPSAlZVxuIiwgUEkpOwo=</text>
+        <text encoding="base64">Ly8KLy8gICAgICAgIGF1dG8gbW1zX2Zyb21fZmFjdG9yeSA9IEhTOjpNYW51ZmFjdHVyZWRTb2x1dGlvbkZhY3Rvcnk8ZG91YmxlPjo6Y3JlYXRlTU1TVGVybShtZXNoKTsKLy8gICAgICAgIFJFUVVJUkUoZXVsZXJfZXFuX21tcy5jYWxjRXhhY3RTb2x1dGlvbih4eXosIHRpbWUpWzBdID09IG1tc19mcm9tX2ZhY3RvcnktPmNhbGNFeGFjdFNvbHV0aW9uKHh5eiwwLjApWzBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>calcSource</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern>calcSource</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2912,8 +2906,6 @@ rho</text>
     </search>
     <history>
       <history-search>
-        <entry>cellCount</entry>
-        <entry>globalCell</entry>
         <entry>Strong</entry>
         <entry>Tan</entry>
         <entry>EQ::</entry>
@@ -2932,6 +2924,8 @@ rho</text>
         <entry>rho</entry>
         <entry>u</entry>
         <entry>w</entry>
+        <entry>U</entry>
+        <entry>calcSource</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -170,12 +170,12 @@
         <mark key="." line="4" column="109" />
         <mark key="^" line="4" column="109" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1548963642912">
+      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1549028329928">
         <mark key="k" line="36" column="29" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="24" column="80" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1545075930028">
         <mark key="'" line="42" column="21" />
@@ -482,10 +482,13 @@
         <mark key="." line="42" column="83" />
         <mark key="^" line="42" column="83" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1548975084384">
-        <mark key="'" line="33" column="25" />
-        <mark key="[" line="423" column="0" />
-        <mark key="]" line="431" column="92" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1549028836935">
+        <mark key="'" line="138" column="0" />
+        <mark key="k" line="576" column="24" />
+        <mark key="[" line="578" column="48" />
+        <mark key="]" line="578" column="58" />
+        <mark key="." line="578" column="58" />
+        <mark key="^" line="578" column="58" />
       </file>
       <file name="$USER_HOME$/one-ring/plugin-refine/refine/src/ref_inflate.c" timestamp="1548962874584">
         <mark key="'" line="48" column="0" />
@@ -598,10 +601,12 @@
         <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/CellLSQGradientsTests.cpp" timestamp="1548873742735" />
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1548959956183">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1549028318067">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="44" column="66" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/utils/run_fet.py" timestamp="1548795495587">
         <mark key="'" line="12" column="0" />
@@ -2682,19 +2687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
-      <jump line="61" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="88" column="29" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="12" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="553" column="2" filename="$USER_HOME$/one-ring/masa/src/euler.cpp" />
-      <jump line="484" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
-      <jump line="751" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBC.h" />
-      <jump line="96" column="37" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="97" column="13" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="647" column="0" filename="$USER_HOME$/one-ring/masa/src/euler.cpp" />
-      <jump line="303" column="4" filename="$USER_HOME$/one-ring/masa/src/masa_internal.h" />
-      <jump line="2263" column="11" filename="$USER_HOME$/one-ring/masa/src/masa_internal.h" />
       <jump line="82" column="3" filename="$USER_HOME$/one-ring/masa/src/masa_internal.h" />
       <jump line="445" column="14" filename="$USER_HOME$/one-ring/masa/src/masa_internal.h" />
       <jump line="454" column="10" filename="$USER_HOME$/one-ring/masa/src/masa_internal.h" />
@@ -2782,6 +2774,19 @@
       <jump line="81" column="94" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/WeakBoundaryTerms.hpp" />
       <jump line="32" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
       <jump line="33" column="25" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="575" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="138" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="8" column="38" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="9" column="72" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="11" column="56" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="14" column="62" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="21" column="89" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="32" column="89" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="34" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="35" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="38" column="69" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="39" column="82" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="37" column="28" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2791,8 +2796,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBzY2FsaW5nID0gMC4wMTsK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2801,58 +2806,61 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>createDisc</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGUgPSBnaG9zdF9lZGdlICogMC4wMDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmFycmF5PFQsIE51bUVxbnM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBzY2FsaW5nID0gMC4wMTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIHJlYWxfCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlID0gZ2hvc3RfZWRnZSAqIHNjYWxpbmc7Cg==</text>
+      <register name="2" type="8">
+        <text>)
+)
+)
+)</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGUgPSBnaG9zdF9lZGdlICogc2NhbGluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHtkZW5zaXR5LCB1LCB2LCB3LCB0ZW1wZXJhdHVyZX07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGUgPSBnaG9zdF9lZGdlICogMC4wMDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxULCBOdW1FcW5zPiBleGFjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlID0gZ2hvc3RfZWRnZSAqIDEuMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxULCBOdW1FcW5zPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIm5vcm1hbDogJWUgZ2hvc3Q6ICVlXG4iLCBjb3JuZXJfYXJlYXNbY29ybmVyXS5tYWduaXR1ZGUoKSwgZ2hvc3RfZWRnZS5tYWduaXR1ZGUoKSAvIDMuMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkOjphcnJheTxULCBOdW1FcW5zPiBzb3VyY2VfdGVybTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dG8gbW1zX3Rlcm1zID0gSFM6Ok1hbnVmYWN0dXJlZFNvbHV0aW9uRmFjdG9yeTxkb3VibGU+OjpjcmVhdGVNTVNUZXJtKG1lc2gpOwovLyAgICAgICAgYXV0byBtbXNfc3Ryb25nX2JjID0gc3RkOjptYWtlX3NoYXJlZDxNYW51ZmFjdHVyZWRTb2x1dGlvblN0cm9uZ0JDPGRvdWJsZSwgMT4+KG1tc190ZXJtcyk7Ci8vICAgICAgICBhdXRvIGJvdW5kYXJ5X3RhZ3MgPSBIUzo6TWVzaFV0aWxpdGllczo6YnVpbGRCb3VuZGFyeUNlbGxUYWdzKG1lc2gpOwovLyAgICAgICAgU3Ryb25nQkNNYXA8ZG91YmxlLCAxPiBzdHJvbmdfYmNfbWFwOwovLyAgICAgICAgZm9yIChpbnQgdGFnIDogYm91bmRhcnlfdGFncykKLy8gICAgICAgICAgICAgICAgc3Ryb25nX2JjX21hcFt0YWddID0gbW1zX3N0cm9uZ19iYzsKLy8gICAgICAgIHJldHVybiBzdHJvbmdfYmNfbWFwOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRvdWJsZSBzY2FsaW5nID0gMC4wMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBlID0gZ2hvc3RfZWRnZSAqIHNjYWxpbmc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZDo6YXJyYXk8VCwgTnVtRXFucz4gcmVzaWR1YWwxLCByZXNpZHVhbDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIGUgPSBnaG9zdF9lZGdlICogc2NhbGluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createDisc</last-search>
+      <last-search>5</last-search>
       <last-offset />
-      <last-pattern>createDisc</last-pattern>
+      <last-pattern>5</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2860,7 +2868,6 @@
     </search>
     <history>
       <history-search>
-        <entry>at</entry>
         <entry>json_config</entry>
         <entry>3d</entry>
         <entry>x</entry>
@@ -2880,6 +2887,7 @@
         <entry>LOG</entry>
         <entry>ghost</entry>
         <entry>createDisc</entry>
+        <entry>5</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

@@ -591,6 +591,9 @@
         <mark key="." line="70" column="4" />
         <mark key="^" line="70" column="4" />
       </file>
+      <file name="$USER_HOME$/one-ring/parfait/parfait/test/PointTest.cpp" timestamp="1549383593715">
+        <mark key="'" line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/LAURA-5/src/Discretization.h" timestamp="1537974083580">
         <mark key="'" line="42" column="59" />
         <mark key="[" line="52" column="56" />
@@ -1040,7 +1043,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549375896641">
+      <file name="/Dummy.txt" timestamp="1549383430206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/IntegratedForcesCostFunctionTests.cpp" timestamp="1545425640284">
@@ -2168,10 +2171,8 @@
         <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/one-ring/blaster/CMakeLists.txt" timestamp="1549381195096">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/TransportPerfectGas.h" timestamp="1529437745892">
         <mark key="'" line="25" column="13" />
@@ -2571,8 +2572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="76" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="151" column="7" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="48" column="41" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="152" column="106" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
@@ -2671,6 +2670,8 @@
       <jump line="38" column="15" filename="$USER_HOME$/one-ring/blaster/CMakeLists.txt" />
       <jump line="39" column="22" filename="$USER_HOME$/one-ring/blaster/CMakeLists.txt" />
       <jump line="16" column="0" filename="$USER_HOME$/one-ring/harness/CMakeLists.txt" />
+      <jump line="132" column="41" filename="$USER_HOME$/one-ring/parfait/parfait/test/PointTest.cpp" />
+      <jump line="13" column="16" filename="$USER_HOME$/one-ring/parfait/parfait/test/PointTest.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2681,7 +2682,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>blaster_class</text>
+        <text encoding="base64">ICo9IGI7</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2690,51 +2691,49 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>blaster_class</text>
+        <text encoding="base64">ICo9IGI7</text>
       </register>
       <register name="/" type="4">
         <text>blaster</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5zdGFsbChGSUxFUyAke0NNQUtFX0JJTkFSWV9ESVJ9L2JsYXN0ZXJfY2xhc3MubW9kIAogICAgICAgIERFU1RJTkFUSU9OIGluY2x1ZGUpCg==</text>
+        <text encoding="base64">ICAgIFBvaW50PHN0ZDo6Y29tcGxleDxkb3VibGU+PiBhKDEsIDAsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMvbXBpX2ludGVyZmFjZXMuRjkwCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBiID0gMC41Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMvbXBpX2ludGVyZmFjZXMuRjkwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0KEhFQURFUl9GSUxFUwogICAgKQoKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3RzL2hhcm5lc3MuRjkwCiAgICB0ZXN0cy9zdHVmZi5jcHAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKGhhcm5lc3MgUkVRVUlSRUQpCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text>tests
-tests
-tests</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFBvaW50PHN0ZDo6Y29tcGxleDxkb3VibGU+PiBiKDEsIDAsIDApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF1dG8gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzcmMvbXBpX2ludGVyZmFjZXMuRjkwCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0ZvcnRyYW5fRkxBR1MgIiR7Q01BS0VfRm9ydHJhbl9GTEFHU30gLWciKQoK</text>
+        <text encoding="base64">ICAgICAgICBzcmMvbXBpX2ludGVyZmFjZXMuRjkwCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVzdHMgJHtURVNUX1NSQ30pClNFVF9UQVJHRVRfUFJPUEVSVElFUyh0ZXN0cyBQUk9QRVJUSUVTIExJTktFUl9MQU5HVUFHRSBGb3J0cmFuKQp0YXJnZXRfbGlua19saWJyYXJpZXModGVzdHMgUFVCTElDCiAgICAgICAgYmxhc3RlcgogICAgICAgICR7TVBJX0xJQlJBUklFU30KICAgICAgICBwYXJmYWl0OjpwYXJmYWl0CiAgICAgICAgKQoKaW5zdGFsbChGSUxFUyAke0NNQUtFX0JJTkFSWV9ESVJ9L2JsYXN0ZXJfY2xhc3MubW9kCiAgICAgICAgREVTVElOQVRJT04gaW5jbHVkZSkKCmluc3RhbGwoRklMRVMgJHtIRUFERVJfRklMRVN9CiAgICAgICAgREVTVElOQVRJT04gaW5jbHVkZSkKCg==</text>
+        <text encoding="base64">c2V0KEhFQURFUl9GSUxFUwogICAgKQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

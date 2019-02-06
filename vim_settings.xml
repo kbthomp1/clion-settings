@@ -146,7 +146,7 @@
         <mark key="." line="61" column="25" />
         <mark key="^" line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1549482346888">
+      <file name="$USER_HOME$/one-ring/masa/src/euler.cpp" timestamp="1549485344290">
         <mark key="'" line="975" column="104" />
       </file>
       <file name="$USER_HOME$/hefss++/src/ChemicalReaction.h" timestamp="1496434369517">
@@ -589,11 +589,12 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1549482197661">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="23" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="30" column="23" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1549485997118">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/utils/run_fet.py" timestamp="1548795495587">
         <mark key="'" line="12" column="0" />
@@ -2626,8 +2627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/one-ring/blaster/CMakeLists.txt" />
-      <jump line="38" column="15" filename="$USER_HOME$/one-ring/blaster/CMakeLists.txt" />
       <jump line="39" column="22" filename="$USER_HOME$/one-ring/blaster/CMakeLists.txt" />
       <jump line="16" column="0" filename="$USER_HOME$/one-ring/harness/CMakeLists.txt" />
       <jump line="132" column="41" filename="$USER_HOME$/one-ring/parfait/parfait/test/PointTest.cpp" />
@@ -2726,6 +2725,8 @@
       <jump line="683" column="24" filename="$USER_HOME$/one-ring/masa/src/euler.cpp" />
       <jump line="65" column="22" filename="$USER_HOME$/one-ring/masa/src/euler.cpp" />
       <jump line="975" column="104" filename="$USER_HOME$/one-ring/masa/src/euler.cpp" />
+      <jump line="12" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="18" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2735,8 +2736,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>subtract</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFzYV9kaXNwbGF5X3BhcmFtKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2748,64 +2749,62 @@
         <text>subtract</text>
       </register>
       <register name="/" type="4">
-        <text>Gamma</text>
+        <text encoding="base64">XDxtYXNhX3NldF9wYXJhbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvIG1tcyA9IGRpc2NyZXRpemF0aW9uLT5nZXRNTVNUZXJtKCJldWxlciBNTVMiKTsKICAgICAgICBjb25zdGV4cHIgZG91YmxlIHRpbWUgPSAwLjA7CiAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLT5ub2RlQ291bnQoKTsgKytub2RlX2lkKQogICAgICAgICAgICBpbml0aWFsX3NvbHV0aW9uW25vZGVfaWRdID0gbW1zLT5jYWxjRXhhY3RTb2x1dGlvbihtZXNoLT5ub2RlQ29vcmRpbmF0ZShub2RlX2lkKSwgdGltZSk7CiAgICAgICAgaWYobXAuUmFuaygpID09IDApCiAgICAgICAgICAgIHByaW50ZigiU2V0dGluZyB0byBpbml0aWFsIHN0YXRlIGZyb20gTU1TXG4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjcmV0aXphdGlvbi0+Z2V0TU1TVGVybSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFzYV9kaXNwbGF5X3BhcmFtKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXNjcmV0aXphdGlvbi0+Z2V0TU1TVGVybSgpCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiBJbXBsZW1lbnQgdXNlci1zcGVjaWVkIGluaXRpYWwgY29uZGl0aW9ucwogICAgY29uc3RleHByIGRvdWJsZSBkaW1lbnNpb25hbF90ZW1wZXJhdHVyZSA9IDMwMC4wOwogICAgY29uc3QgZG91YmxlIG5vbmRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoZGltZW5zaW9uYWxfdGVtcGVyYXR1cmUpOwogICAgaWYobXAuUmFuaygpID09IDApIHsKICAgICAgICBwcmludGYoIlNldHRpbmcgdG8gaW5pdGlhbCBzdGF0ZSBkaW1lbnNpb25hbDogICAgJWVcbiIsIGRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlKTsKICAgICAgICBwcmludGYoIlNldHRpbmcgdG8gaW5pdGlhbCBzdGF0ZSBub25kaW1lbnNpb25hbDogJWVcbiIsIG5vbmRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlKTsKICAgIH0KICAgIGZvciAoYXV0byYgdGVtcGVyYXR1cmUgOiBzb2x1dGlvbi5zb2x1dGlvbigpKQogICAgICAgIHRlbXBlcmF0dXJlWzBdID0gbm9uZGltZW5zaW9uYWxfdGVtcGVyYXR1cmU7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIUzo6U29sdXRpb25WYXJpYWJsZXM8ZG91YmxlLCAxPiBROwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFEoaW5pdGlhbGl6ZVNvbHV0aW9uKG1lc2gtPm5vZGVDb3VudCgpKSksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiBJbXBsZW1lbnQgdXNlci1zcGVjaWVkIGluaXRpYWwgY29uZGl0aW9ucwogICAgY29uc3RleHByIGRvdWJsZSBkaW1lbnNpb25hbF90ZW1wZXJhdHVyZSA9IDMwMC4wOwogICAgY29uc3QgZG91YmxlIG5vbmRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlID0gbm9uZGltZW5zaW9uYWxpemF0aW9uLm5vbmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoZGltZW5zaW9uYWxfdGVtcGVyYXR1cmUpOwogICAgaWYobXAuUmFuaygpID09IDApIHsKICAgICAgICBwcmludGYoIlNldHRpbmcgdG8gaW5pdGlhbCBzdGF0ZSBkaW1lbnNpb25hbDogICAgJWVcbiIsIGRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlKTsKICAgICAgICBwcmludGYoIlNldHRpbmcgdG8gaW5pdGlhbCBzdGF0ZSBub25kaW1lbnNpb25hbDogJWVcbiIsIG5vbmRpbWVuc2lvbmFsX3RlbXBlcmF0dXJlKTsKICAgIH0KICAgIGZvciAoYXV0byYgdGVtcGVyYXR1cmUgOiBzb2x1dGlvbi5zb2x1dGlvbigpKQogICAgICAgIHRlbXBlcmF0dXJlWzBdID0gbm9uZGltZW5zaW9uYWxfdGVtcGVyYXR1cmU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBIUzo6U29sdXRpb25WYXJpYWJsZXM8ZG91YmxlLCAxPiBROwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIFEoaW5pdGlhbGl6ZVNvbHV0aW9uKG1lc2gtPm5vZGVDb3VudCgpKSksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChqc29uX2NvbmZpZy5hdCgidmVyaWZ5IHdpdGggTU1TIikpIHsKICAgICAgICBhdXRvIG1tcyA9IGRpc2NyZXRpemF0aW9uLT5nZXRNTVNUZXJtKCJldWxlciBNTVMiKTsKICAgICAgICBjb25zdGV4cHIgZG91YmxlIHRpbWUgPSAwLjA7CiAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLT5ub2RlQ291bnQoKTsgKytub2RlX2lkKSB7CiAgICAgICAgICAgIFFbbm9kZV9pZF0gPSBtbXMtPmNhbGNFeGFjdFNvbHV0aW9uKG1lc2gtPm5vZGVDb29yZGluYXRlKG5vZGVfaWQpLCB0aW1lKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhTOjpTb2x1dGlvblZhcmlhYmxlczxkb3VibGUsIEVROjpOdW1FcW5zPiBROwo=</text>
+        <text encoding="base64">ICAgIGlmIChqc29uX2NvbmZpZy5hdCgidmVyaWZ5IHdpdGggTU1TIikpIHsKICAgICAgICBhdXRvIG1tcyA9IGRpc2NyZXRpemF0aW9uLT5nZXRNTVNUZXJtKCJldWxlciBNTVMiKTsKICAgICAgICBjb25zdGV4cHIgZG91YmxlIHRpbWUgPSAwLjA7CiAgICAgICAgZm9yIChpbnQgbm9kZV9pZCA9IDA7IG5vZGVfaWQgPCBtZXNoLT5ub2RlQ291bnQoKTsgKytub2RlX2lkKSB7CiAgICAgICAgICAgIFFbbm9kZV9pZF0gPSBtbXMtPmNhbGNFeGFjdFNvbHV0aW9uKG1lc2gtPm5vZGVDb29yZGluYXRlKG5vZGVfaWQpLCB0aW1lKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Gamma</last-search>
+      <last-search encoding="base64">XDxtYXNhX3NldF9wYXJhbVw+</last-search>
       <last-offset />
-      <last-pattern>Gamma</last-pattern>
+      <last-pattern encoding="base64">XDxtYXNhX3NldF9wYXJhbVw+</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gids</entry>
-        <entry>test</entry>
         <entry>blaster</entry>
         <entry>Field</entry>
         <entry>volume</entry>
@@ -2824,6 +2823,8 @@
         <entry>verify with MMS</entry>
         <entry>k</entry>
         <entry>Gamma</entry>
+        <entry>masa</entry>
+        <entry encoding="base64">XDxtYXNhX3NldF9wYXJhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

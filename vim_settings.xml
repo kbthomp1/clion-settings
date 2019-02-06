@@ -160,13 +160,6 @@
         <mark key="." line="4" column="109" />
         <mark key="^" line="4" column="109" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" timestamp="1549028329928">
-        <mark key="k" line="36" column="29" />
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="55" />
-        <mark key="^" line="37" column="55" />
-      </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/TurbulenceTermsTests.cpp" timestamp="1545075930028">
         <mark key="'" line="42" column="21" />
         <mark key="[" line="5" column="0" />
@@ -984,12 +977,12 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" timestamp="1548972999457">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" timestamp="1549467889177">
+        <mark key="'" line="26" column="37" />
         <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="29" />
-        <mark key="." line="27" column="29" />
-        <mark key="^" line="27" column="29" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/hefss++/data/convert.py" timestamp="1498593791826">
         <mark key="'" line="12" column="31" />
@@ -2587,9 +2580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="94" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="102" column="40" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="163" column="0" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="164" column="129" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="60" column="64" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
       <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
@@ -2687,6 +2677,9 @@
       <jump line="69" column="15" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
       <jump line="70" column="57" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
       <jump line="100" column="0" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
+      <jump line="17" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
+      <jump line="23" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
+      <jump line="26" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2696,8 +2689,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>subtract</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2706,10 +2699,10 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>exact temperature</text>
+        <text>subtract</text>
       </register>
       <register name="/" type="4">
-        <text>Field</text>
+        <text>volume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0gZWxzZSBpZiAoImV4YWN0IHRlbXBlcmF0dXJlIiA9PSBuYW1lICkgewo=</text>
@@ -2755,9 +2748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Field</last-search>
+      <last-search>volume</last-search>
       <last-offset />
-      <last-pattern>Field</last-pattern>
+      <last-pattern>volume</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2765,7 +2758,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
         <entry>disretization</entry>
         <entry>discretization</entry>
         <entry>discretization-error</entry>
@@ -2785,6 +2777,7 @@
         <entry>test</entry>
         <entry>blaster</entry>
         <entry>Field</entry>
+        <entry>volume</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

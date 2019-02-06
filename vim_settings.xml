@@ -453,6 +453,13 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1549475066858">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="177" column="62" />
+        <mark key="]" line="177" column="60" />
+        <mark key="^" line="177" column="60" />
+        <mark key="." line="177" column="60" />
+      </file>
       <file name="$USER_HOME$/one-ring/plugin-refine/refine/src/ref_inflate.c" timestamp="1548962874584">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="398" column="11" />
@@ -601,12 +608,12 @@
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1549469933992">
-        <mark key="k" line="197" column="48" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="68" column="55" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1549475906962">
+        <mark key="k" line="192" column="48" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="55" column="115" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
         <mark key="'" line="29" column="52" />
@@ -2580,9 +2587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="129" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="60" column="64" filename="$USER_HOME$/one-ring/hypersolve/test/MASATermsTests.cpp" />
-      <jump line="22" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
       <jump line="7" column="10" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
       <jump line="76" column="15" filename="$USER_HOME$/one-ring/t-infinity/t-infinity/plugins_py.cpp" />
@@ -2680,6 +2684,9 @@
       <jump line="17" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="23" column="53" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
       <jump line="26" column="37" filename="$USER_HOME$/one-ring/hypersolve/src/mms/HeatEquationMMS.h" />
+      <jump line="111" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="176" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="39" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2689,8 +2696,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>subtract</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIG1tc19zdHJvbmdfYmMgPSBzdGQ6Om1ha2Vfc2hhcmVkPE1hbnVmYWN0dXJlZFNvbHV0aW9uU3Ryb25nQkM8ZG91YmxlLCAxPj4obW1zX3Rlcm1zKTsKICAgICAgICBhdXRvIGJvdW5kYXJ5X3RhZ3MgPSBIUzo6TWVzaFV0aWxpdGllczo6YnVpbGRCb3VuZGFyeUNlbGxUYWdzKCptZXNoLmdldCgpKTsKICAgICAgICBTdHJvbmdCQ01hcDxkb3VibGUsIDE+IHN0cm9uZ19iY19tYXA7CiAgICAgICAgZm9yIChpbnQgdGFnIDogYm91bmRhcnlfdGFncykKICAgICAgICAgICAgc3Ryb25nX2JjX21hcFt0YWddID0gbW1zX3N0cm9uZ19iYzsKICAgICAgICBkaXNjcmV0aXphdGlvbi0+c2V0U3Ryb25nQm91bmRhcnlDb25kaXRpb25zKHN0cm9uZ19iY19tYXApOwo=</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2702,55 +2709,55 @@
         <text>subtract</text>
       </register>
       <register name="/" type="4">
-        <text>volume</text>
+        <text>updateNode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoImV4YWN0IHRlbXBlcmF0dXJlIiA9PSBuYW1lICkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR1cmJ1bGVuY2VfdGVybXMoY3JlYXRlVHVyYnVsZW5jZVRlcm1zKHRoZXJtb2R5bmFtaWNzKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvIG1tc19zdHJvbmdfYmMgPSBzdGQ6Om1ha2Vfc2hhcmVkPE1hbnVmYWN0dXJlZFNvbHV0aW9uU3Ryb25nQkM8ZG91YmxlLCAxPj4obW1zX3Rlcm1zKTsKICAgICAgICBhdXRvIGJvdW5kYXJ5X3RhZ3MgPSBIUzo6TWVzaFV0aWxpdGllczo6YnVpbGRCb3VuZGFyeUNlbGxUYWdzKCptZXNoLmdldCgpKTsKICAgICAgICBTdHJvbmdCQ01hcDxkb3VibGUsIDE+IHN0cm9uZ19iY19tYXA7CiAgICAgICAgZm9yIChpbnQgdGFnIDogYm91bmRhcnlfdGFncykKICAgICAgICAgICAgc3Ryb25nX2JjX21hcFt0YWddID0gbW1zX3N0cm9uZ19iYzsKICAgICAgICBkaXNjcmV0aXphdGlvbi0+c2V0U3Ryb25nQm91bmRhcnlDb25kaXRpb25zKHN0cm9uZ19iY19tYXApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RkOjpwb3cobWVzaC0+ZHVhbF9tZXRyaWNzLm5vZGVfdm9sdW1lc1tub2RlX2lkXSwgMS4wIC8gMy4wKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9ybSA9ICVlXG4iLCBub3JtKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RkOjpwb3cobWVzaC0+ZHVhbF9tZXRyaWNzLm5vZGVfdm9sdW1lc1tub2RlX2lkXSwgMS4wIC8gMy4wKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigidHJpKCVlLCAlZSkgPSAlc1xuIiwgciwgcywgZXZhbHVhdGUociwgcykudG9fc3RyaW5nKCkuY19zdHIoKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Zigibm9ybSA9ICVlXG4iLCBub3JtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gbGFtYmRhID0gMS4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigidHJpKCVlLCAlZSkgPSAlc1xuIiwgciwgcywgZXZhbHVhdGUociwgcykudG9fc3RyaW5nKCkuY19zdHIoKSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgYXV0byBzYW1wbGVzID0gdHJpLnNhbXBsZSgxMDApOwovLyAgICBQYXJmYWl0OjpQb2ludFdyaXRlcjo6d3JpdGUzREZpbGUoInN1cmZhY2UuM0QiLCBzYW1wbGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gbGFtYmRhID0gMS4wOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNFQ1RJT04oInZlcmlmeSBuZXd0b24gbGluZSBzZWFyY2giKSB7CiAgICAgICAgUkVRVUlSRSh0cmkubGluZVNlYXJjaFNjYWxpbmcocXVlcnksIDEuMCwgMS4wLCAwLjI1LCAwLjUpID09IDAuMCk7CiAgICAgICAgUkVRVUlSRSh0cmkubGluZVNlYXJjaFNjYWxpbmcocXVlcnksIC0wLjUsIC0wLjc1LCAwLjAsIDAuMCkgPT0gMC41KTsKICAgICAgICBSRVFVSVJFKHRyaS5saW5lU2VhcmNoU2NhbGluZyhxdWVyeSwgLTAuMjUsIC0wLjUsIDAuMCwgMC4wKSA9PSAxLjApOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgYXV0byBzYW1wbGVzID0gdHJpLnNhbXBsZSgxMDApOwovLyAgICBQYXJmYWl0OjpQb2ludFdyaXRlcjo6d3JpdGUzREZpbGUoInN1cmZhY2UuM0QiLCBzYW1wbGVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNFQ1RJT04oInZlcmlmeSBuZXd0b24gbGluZSBzZWFyY2giKSB7CiAgICAgICAgUkVRVUlSRSh0cmkubGluZVNlYXJjaFNjYWxpbmcocXVlcnksIDEuMCwgMS4wLCAwLjI1LCAwLjUpID09IDAuMCk7CiAgICAgICAgUkVRVUlSRSh0cmkubGluZVNlYXJjaFNjYWxpbmcocXVlcnksIC0wLjUsIC0wLjc1LCAwLjAsIDAuMCkgPT0gMC41KTsKICAgICAgICBSRVFVSVJFKHRyaS5saW5lU2VhcmNoU2NhbGluZyhxdWVyeSwgLTAuMjUsIC0wLjUsIDAuMCwgMC4wKSA9PSAxLjApOwogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2FsaW5nID0gbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>volume</last-search>
+      <last-search>updateNode</last-search>
       <last-offset />
-      <last-pattern>volume</last-pattern>
+      <last-pattern>updateNode</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2758,7 +2765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disretization</entry>
         <entry>discretization</entry>
         <entry>discretization-error</entry>
         <entry>euler mms</entry>
@@ -2778,6 +2784,7 @@
         <entry>blaster</entry>
         <entry>Field</entry>
         <entry>volume</entry>
+        <entry>updateNode</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

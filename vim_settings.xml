@@ -465,6 +465,14 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1549898039117">
+        <mark key="'" line="423" column="63" />
+        <mark key="k" line="568" column="31" />
+        <mark key="[" line="570" column="115" />
+        <mark key="]" line="571" column="84" />
+        <mark key="." line="571" column="84" />
+        <mark key="^" line="571" column="84" />
+      </file>
       <file name="$USER_HOME$/one-ring/plugin-refine/refine/src/ref_inflate.c" timestamp="1548962874584">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="398" column="11" />
@@ -562,7 +570,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549575878978">
+      <file name="/Dummy.txt" timestamp="1549898286132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/ra/src/CMakeLists.txt" timestamp="1530138604490">
@@ -632,6 +640,14 @@
         <mark key="]" line="47" column="1" />
         <mark key="." line="38" column="115" />
         <mark key="^" line="38" column="78" />
+      </file>
+      <file name="$USER_HOME$/one-ring/hypersolve/src/HeatEquationPlugin.cpp" timestamp="1549583244670">
+        <mark key="'" line="164" column="9" />
+        <mark key="k" line="163" column="31" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="164" column="75" />
       </file>
       <file name="$USER_HOME$/one-ring/sfe-plugin/sfe/air.f90" timestamp="1523881980065">
         <mark key="'" line="29" column="52" />
@@ -1146,7 +1162,7 @@
         <mark key="^" line="32" column="71" />
         <mark key="." line="32" column="71" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidTerms.h" timestamp="1549492513923">
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/InviscidTerms.h" timestamp="1549898505314">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="34" column="97" />
         <mark key="]" line="34" column="97" />
@@ -2708,8 +2724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
-      <jump line="38" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
       <jump line="55" column="88" filename="$USER_HOME$/one-ring/enigma/enigma/NonLinearSolverFactory.h" />
       <jump line="29" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
       <jump line="42" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/solvers/NonLinearSolverFactory.hpp" />
@@ -2808,6 +2822,8 @@
       <jump line="45" column="49" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="102" column="0" filename="$USER_HOME$/one-ring/enigma/test/MockSolverTerms.h" />
       <jump line="58" column="17" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
+      <jump line="573" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="423" column="63" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2830,7 +2846,7 @@
         <text>1.1;</text>
       </register>
       <register name="/" type="4">
-        <text>calcSource</text>
+        <text>Euler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcVswXSA9IDEuMTsK</text>
@@ -2876,9 +2892,9 @@
       </register>
     </registers>
     <search>
-      <last-search>calcSource</last-search>
+      <last-search>Euler</last-search>
       <last-offset />
-      <last-pattern>calcSource</last-pattern>
+      <last-pattern>Euler</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2886,7 +2902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diagonal_block</entry>
         <entry>mass_matrix</entry>
         <entry>timestep</entry>
         <entry>time_matrix</entry>
@@ -2906,6 +2921,7 @@
         <entry>calcSour</entry>
         <entry>computeN</entry>
         <entry>calcSource</entry>
+        <entry>Euler</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

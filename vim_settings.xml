@@ -609,11 +609,12 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1549983192834">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" timestamp="1550003298990">
+        <mark key="'" line="41" column="86" />
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="62" />
+        <mark key="^" line="51" column="62" />
+        <mark key="." line="51" column="62" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/utils/run_fet.py" timestamp="1549554218165">
         <mark key="'" line="12" column="0" />
@@ -2760,11 +2761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="64" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
-      <jump line="51" column="52" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
-      <jump line="35" column="41" filename="$USER_HOME$/one-ring/enigma/test/ResidualSmootherTests.cpp" />
-      <jump line="26" column="8" filename="$USER_HOME$/one-ring/enigma/enigma/ResidualSmoother.h" />
-      <jump line="93" column="47" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="224" column="16" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="149" column="0" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
       <jump line="134" column="43" filename="$USER_HOME$/one-ring/enigma/enigma/PETScKSPOnlyNonLinearSolver.h" />
@@ -2860,6 +2856,11 @@
       <jump line="9" column="14" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="205" column="20" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
       <jump line="8" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
+      <jump line="20" column="24" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="23" column="93" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="34" column="93" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="37" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
+      <jump line="41" column="86" filename="$USER_HOME$/one-ring/hypersolve/src/mms/EulerEquationsMMS.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2882,7 +2883,7 @@
         <text>nb</text>
       </register>
       <register name="/" type="4">
-        <text>solution_is_realizable</text>
+        <text>solution</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcSgxOm52YXIsIDE6cGxhbmVfc2l6ZSkgPSBzb2xuKG5iKSVibGtzKDE6bnZhciwgMTpwbGFuZV9zaXplLCBuYikK</text>
@@ -2928,9 +2929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>solution_is_realizable</last-search>
+      <last-search>solution</last-search>
       <last-offset />
-      <last-pattern>solution_is_realizable</last-pattern>
+      <last-pattern>solution</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2938,7 +2939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>relax_sol</entry>
         <entry>call thermo</entry>
         <entry>calc_residual</entry>
         <entry>Disc</entry>
@@ -2958,6 +2958,7 @@
         <entry>relax_so</entry>
         <entry>relax_solution</entry>
         <entry>solution_is_realizable</entry>
+        <entry>solution</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

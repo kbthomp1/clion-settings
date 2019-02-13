@@ -465,13 +465,11 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1550068108101">
-        <mark key="'" line="126" column="0" />
-        <mark key="k" line="496" column="31" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="260" column="5" />
-        <mark key="^" line="266" column="5" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1550069613940">
+        <mark key="k" line="493" column="31" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="251" column="70" />
+        <mark key="." line="249" column="0" />
       </file>
       <file name="$USER_HOME$/one-ring/plugin-refine/refine/src/ref_inflate.c" timestamp="1548962874584">
         <mark key="'" line="48" column="0" />
@@ -507,10 +505,10 @@
         <mark key="." line="79" column="45" />
         <mark key="^" line="83" column="3" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.h" timestamp="1550009223352">
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="45" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.h" timestamp="1550069154609">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
         <mark key="^" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/CellGradients.h" timestamp="1520601226887">
@@ -2394,11 +2392,13 @@
         <mark key="^" line="200" column="8" />
         <mark key="." line="121" column="13" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" timestamp="1550067937300">
-        <mark key="'" line="75" column="59" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" timestamp="1550069537076">
+        <mark key="'" line="142" column="101" />
+        <mark key="k" line="90" column="19" />
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="93" column="49" />
+        <mark key="." line="93" column="49" />
+        <mark key="^" line="93" column="49" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/test/SparseBlockMatrixTests.cpp" timestamp="1513704163126">
         <mark key="'" line="470" column="4" />
@@ -2769,32 +2769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4679" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2768" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="46" column="26" filename="$USER_HOME$/LAURA-5/src/petsc_solver_adapter.cpp" />
-      <jump line="4101" column="9" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4961" column="4" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="138" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="130" column="0" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_unit_tests.F90" />
-      <jump line="4969" column="9" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4960" column="9" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4955" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="2643" column="20" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="4968" column="9" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="490" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="4954" column="0" filename="$USER_HOME$/LAURA-5/src/relax_laura.f90" />
-      <jump line="471" column="0" filename="$USER_HOME$/LAURA-5/src/laura_interface.f90" />
-      <jump line="80" column="4" filename="$USER_HOME$/LAURA-5/tests/unit_tests/fortran_test_harness.F90" />
-      <jump line="18" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="38" column="30" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1039" column="0" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1062" column="52" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1107" column="29" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1172" column="35" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1498" column="37" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1630" column="35" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="1697" column="37" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
-      <jump line="819" column="4" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="874" column="51" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="1441" column="14" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
       <jump line="1530" column="37" filename="$USER_HOME$/LAURA-5/PHYSICS_MODULES/thermodynamics.f90" />
@@ -2851,9 +2825,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="21" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="23" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
-      <jump line="26" column="60" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="27" column="61" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
-      <jump line="29" column="90" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="31" column="51" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="40" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="41" column="57" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
@@ -2869,6 +2841,34 @@
       <jump line="179" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
       <jump line="237" column="4" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
       <jump line="126" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="128" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="20" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="134" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="131" column="44" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="15" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="101" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="130" column="0" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="330" column="65" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="76" column="46" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="90" column="19" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="11" column="35" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="25" column="68" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="29" column="98" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="96" column="49" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="106" column="70" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="107" column="71" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="109" column="100" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="26" column="74" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="30" column="41" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="78" column="88" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="79" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="80" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="81" column="80" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="82" column="96" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="108" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="270" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
+      <jump line="141" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
+      <jump line="142" column="101" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2879,7 +2879,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS1kZW5zaXR5IiA9PSBuYW1lKXsKICAgICAgICBpbnQgZGVuc2l0eV9pbmRleCA9IFEuZ2V0U29sdXRpb25WYXJJbmRleChIUzo6VmFyaWFibGU6OmRlbnNpdHlfc3RhcnQpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRGVuc2l0eShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bZGVuc2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXUiID09IG5hbWUpewogICAgICAgIGludCB4X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1beF92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXYiID09IG5hbWUpewogICAgICAgIGludCB5X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6eV92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1beV92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXciID09IG5hbWUpewogICAgICAgIGludCB6X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6el92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bel92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXRlbXBlcmF0dXJlIiA9PSBuYW1lKXsKICAgICAgICBpbnQgdGVtcGVyYXR1cmVfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxUZW1wZXJhdHVyZShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bdGVtcGVyYXR1cmVfaW5kZXhdKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZigiaHlwZXJzb2x2ZS1zYS12YXIiID09IG5hbWUpewogICAgICAgIFEuZ2V0VmFyaWFibGUobm9kZV9pZCwgSFM6OlZhcmlhYmxlOjp0dXJidWxlbmNlX3N0YXJ0LCAmeCk7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eSh4KTsK</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2888,58 +2888,58 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>solution-update-temperature</text>
+        <text>density</text>
       </register>
       <register name="/" type="4">
-        <text>getSca</text>
+        <text>NumEq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0WyJzb2x1dGlvbi11cGRhdGUtdGVtcGVyYXR1cmUiXSA9IHN0ZDo6dmVjdG9yPFQ+KG1lc2gubm9kZUNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLW5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bdHVyYl9pbmRleF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS1kZW5zaXR5IiA9PSBuYW1lKXsKICAgICAgICBpbnQgZGVuc2l0eV9pbmRleCA9IFEuZ2V0U29sdXRpb25WYXJJbmRleChIUzo6VmFyaWFibGU6OmRlbnNpdHlfc3RhcnQpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRGVuc2l0eShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bZGVuc2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXUiID09IG5hbWUpewogICAgICAgIGludCB4X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6eF92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1beF92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXYiID09IG5hbWUpewogICAgICAgIGludCB5X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6eV92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1beV92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXciID09IG5hbWUpewogICAgICAgIGludCB6X3ZlbG9jaXR5X2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6el92ZWxvY2l0eSk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxTcGVlZChzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bel92ZWxvY2l0eV9pbmRleF0pOwogICAgfQogICAgZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXRlbXBlcmF0dXJlIiA9PSBuYW1lKXsKICAgICAgICBpbnQgdGVtcGVyYXR1cmVfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0ZW1wZXJhdHVyZV9zdGFydCk7CiAgICAgICAgcmV0dXJuIC1ub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxUZW1wZXJhdHVyZShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bdGVtcGVyYXR1cmVfaW5kZXhdKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZigiaHlwZXJzb2x2ZS1zYS12YXIiID09IG5hbWUpewogICAgICAgIFEuZ2V0VmFyaWFibGUobm9kZV9pZCwgSFM6OlZhcmlhYmxlOjp0dXJidWxlbmNlX3N0YXJ0LCAmeCk7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eSh4KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZigic29sdXRpb24tdXBkYXRlLXNhLXZhciIgPT0gbmFtZSl7CiAgICAgICAgaW50IHR1cmJfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjp0dXJidWxlbmNlX3N0YXJ0KTsKICAgICAgICByZXR1cm4gLW5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bdHVyYl9pbmRleF0pOwo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZigiaW52aXNjaWQteC1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnhbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiaW52aXNjaWQteS1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnlbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiaW52aXNjaWQtei1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnpbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigidmlzY291cy14LWZvcmNlIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2Uoc29sdXRpb25fb3V0cHV0LnZpc2NvdXNfcG9pbnRfZm9yY2VzLkZ4W25vZGVfaWRdKTsKICAgIH0KICAgIGVsc2UgaWYoInZpc2NvdXMteS1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC52aXNjb3VzX3BvaW50X2ZvcmNlcy5GeVtub2RlX2lkXSk7CiAgICB9CiAgICBlbHNlIGlmKCJ2aXNjb3VzLXotZm9yY2UiID09IG5hbWUpewogICAgICAgIHJldHVybiBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxGb3JjZShzb2x1dGlvbl9vdXRwdXQudmlzY291c19wb2ludF9mb3JjZXMuRnpbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiZGVuc2l0eS1saW1pdGVyIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lm5vZGVfYmFzZWRfc2xvcGVfbGltaXRlcltub2RlX2lkXVswXTsKICAgIH0KICAgIGVsc2UgaWYoInUtbGltaXRlciIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIHNvbHV0aW9uX291dHB1dC5ub2RlX2Jhc2VkX3Nsb3BlX2xpbWl0ZXJbbm9kZV9pZF1bMV07CiAgICB9CiAgICBlbHNlIGlmKCJ2LWxpbWl0ZXIiID09IG5hbWUpewogICAgICAgIHJldHVybiBzb2x1dGlvbl9vdXRwdXQubm9kZV9iYXNlZF9zbG9wZV9saW1pdGVyW25vZGVfaWRdWzJdOwogICAgfQogICAgZWxzZSBpZigidy1saW1pdGVyIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lm5vZGVfYmFzZWRfc2xvcGVfbGltaXRlcltub2RlX2lkXVszXTsKICAgIH0KICAgIGVsc2UgaWYoInRlbXBlcmF0dXJlLWxpbWl0ZXIiID09IG5hbWUpewogICAgICAgIHJldHVybiBzb2x1dGlvbl9vdXRwdXQubm9kZV9iYXNlZF9zbG9wZV9saW1pdGVyW25vZGVfaWRdWzRdOwogICAgfQogICAgZWxzZSBpZigiYm91bmRhcnkteC1hcmVhIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsQXJlYShzb2x1dGlvbl9vdXRwdXQuYm91bmRhcnlfYXJlYV9pbl9ncmlkX3VuaXRzW25vZGVfaWRdWzBdKTsKICAgIH0KICAgIGVsc2UgaWYoImJvdW5kYXJ5LXktYXJlYSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEFyZWEoc29sdXRpb25fb3V0cHV0LmJvdW5kYXJ5X2FyZWFfaW5fZ3JpZF91bml0c1tub2RlX2lkXVsxXSk7CiAgICB9CiAgICBlbHNlIGlmKCJib3VuZGFyeS16LWFyZWEiID09IG5hbWUpewogICAgICAgIHJldHVybiBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxBcmVhKHNvbHV0aW9uX291dHB1dC5ib3VuZGFyeV9hcmVhX2luX2dyaWRfdW5pdHNbbm9kZV9pZF1bMl0pOwogICAgfQogICAgZWxzZSBpZigiYm91bmRhcnktYXJlYSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEFyZWEoc29sdXRpb25fb3V0cHV0LmJvdW5kYXJ5X2FyZWFfaW5fZ3JpZF91bml0c1tub2RlX2lkXS5tYWduaXR1ZGUoKSk7CiAgICB9CiAgICBlbHNlIGlmKCJkdWFsLXZvbHVtZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbFZvbHVtZShtZXNoLT5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdKTsKICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZigiaW52aXNjaWQteC1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnhbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiaW52aXNjaWQteS1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnlbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiaW52aXNjaWQtei1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC5pbnZpc2NpZF9wb2ludF9mb3JjZXMuRnpbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigidmlzY291cy14LWZvcmNlIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsRm9yY2Uoc29sdXRpb25fb3V0cHV0LnZpc2NvdXNfcG9pbnRfZm9yY2VzLkZ4W25vZGVfaWRdKTsKICAgIH0KICAgIGVsc2UgaWYoInZpc2NvdXMteS1mb3JjZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEZvcmNlKHNvbHV0aW9uX291dHB1dC52aXNjb3VzX3BvaW50X2ZvcmNlcy5GeVtub2RlX2lkXSk7CiAgICB9CiAgICBlbHNlIGlmKCJ2aXNjb3VzLXotZm9yY2UiID09IG5hbWUpewogICAgICAgIHJldHVybiBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxGb3JjZShzb2x1dGlvbl9vdXRwdXQudmlzY291c19wb2ludF9mb3JjZXMuRnpbbm9kZV9pZF0pOwogICAgfQogICAgZWxzZSBpZigiZGVuc2l0eS1saW1pdGVyIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lm5vZGVfYmFzZWRfc2xvcGVfbGltaXRlcltub2RlX2lkXVswXTsKICAgIH0KICAgIGVsc2UgaWYoInUtbGltaXRlciIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIHNvbHV0aW9uX291dHB1dC5ub2RlX2Jhc2VkX3Nsb3BlX2xpbWl0ZXJbbm9kZV9pZF1bMV07CiAgICB9CiAgICBlbHNlIGlmKCJ2LWxpbWl0ZXIiID09IG5hbWUpewogICAgICAgIHJldHVybiBzb2x1dGlvbl9vdXRwdXQubm9kZV9iYXNlZF9zbG9wZV9saW1pdGVyW25vZGVfaWRdWzJdOwogICAgfQogICAgZWxzZSBpZigidy1saW1pdGVyIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gc29sdXRpb25fb3V0cHV0Lm5vZGVfYmFzZWRfc2xvcGVfbGltaXRlcltub2RlX2lkXVszXTsKICAgIH0KICAgIGVsc2UgaWYoInRlbXBlcmF0dXJlLWxpbWl0ZXIiID09IG5hbWUpewogICAgICAgIHJldHVybiBzb2x1dGlvbl9vdXRwdXQubm9kZV9iYXNlZF9zbG9wZV9saW1pdGVyW25vZGVfaWRdWzRdOwogICAgfQogICAgZWxzZSBpZigiYm91bmRhcnkteC1hcmVhIiA9PSBuYW1lKXsKICAgICAgICByZXR1cm4gbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsQXJlYShzb2x1dGlvbl9vdXRwdXQuYm91bmRhcnlfYXJlYV9pbl9ncmlkX3VuaXRzW25vZGVfaWRdWzBdKTsKICAgIH0KICAgIGVsc2UgaWYoImJvdW5kYXJ5LXktYXJlYSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEFyZWEoc29sdXRpb25fb3V0cHV0LmJvdW5kYXJ5X2FyZWFfaW5fZ3JpZF91bml0c1tub2RlX2lkXVsxXSk7CiAgICB9CiAgICBlbHNlIGlmKCJib3VuZGFyeS16LWFyZWEiID09IG5hbWUpewogICAgICAgIHJldHVybiBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxBcmVhKHNvbHV0aW9uX291dHB1dC5ib3VuZGFyeV9hcmVhX2luX2dyaWRfdW5pdHNbbm9kZV9pZF1bMl0pOwogICAgfQogICAgZWxzZSBpZigiYm91bmRhcnktYXJlYSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEFyZWEoc29sdXRpb25fb3V0cHV0LmJvdW5kYXJ5X2FyZWFfaW5fZ3JpZF91bml0c1tub2RlX2lkXS5tYWduaXR1ZGUoKSk7CiAgICB9CiAgICBlbHNlIGlmKCJkdWFsLXZvbHVtZSIgPT0gbmFtZSl7CiAgICAgICAgcmV0dXJuIG5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbFZvbHVtZShtZXNoLT5kdWFsX21ldHJpY3Mubm9kZV92b2x1bWVzW25vZGVfaWRdKTsKICAgIH0KICAgIGVsc2UgaWYoImh5cGVyc29sdmUtc2EtdmFyIiA9PSBuYW1lKXsKICAgICAgICBRLmdldFZhcmlhYmxlKG5vZGVfaWQsIEhTOjpWYXJpYWJsZTo6dHVyYnVsZW5jZV9zdGFydCwgJngpOwogICAgICAgIHJldHVybiBub25kaW1lbnNpb25hbGl6YXRpb24uZGltZW5zaW9uYWxLaW5lbWF0aWNWaXNjb3NpdHkoeCk7CiAgICB9CiAgICBlbHNlIGlmKCJzb2x1dGlvbi11cGRhdGUtZGVuc2l0eSIgPT0gbmFtZSl7CiAgICAgICAgaW50IGRlbnNpdHlfaW5kZXggPSBRLmdldFNvbHV0aW9uVmFySW5kZXgoSFM6OlZhcmlhYmxlOjpkZW5zaXR5X3N0YXJ0KTsKICAgICAgICByZXR1cm4gLW5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbERlbnNpdHkoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdW2RlbnNpdHlfaW5kZXhdKTsKICAgIH0KICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS11IiA9PSBuYW1lKXsKICAgICAgICBpbnQgeF92ZWxvY2l0eV9pbmRleCA9IFEuZ2V0U29sdXRpb25WYXJJbmRleChIUzo6VmFyaWFibGU6OnhfdmVsb2NpdHkpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsU3BlZWQoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdW3hfdmVsb2NpdHlfaW5kZXhdKTsKICAgIH0KICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS12IiA9PSBuYW1lKXsKICAgICAgICBpbnQgeV92ZWxvY2l0eV9pbmRleCA9IFEuZ2V0U29sdXRpb25WYXJJbmRleChIUzo6VmFyaWFibGU6OnlfdmVsb2NpdHkpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsU3BlZWQoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdW3lfdmVsb2NpdHlfaW5kZXhdKTsKICAgIH0KICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS13IiA9PSBuYW1lKXsKICAgICAgICBpbnQgel92ZWxvY2l0eV9pbmRleCA9IFEuZ2V0U29sdXRpb25WYXJJbmRleChIUzo6VmFyaWFibGU6OnpfdmVsb2NpdHkpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsU3BlZWQoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdW3pfdmVsb2NpdHlfaW5kZXhdKTsKICAgIH0KICAgIGVsc2UgaWYoInNvbHV0aW9uLXVwZGF0ZS10ZW1wZXJhdHVyZSIgPT0gbmFtZSl7CiAgICAgICAgaW50IHRlbXBlcmF0dXJlX2luZGV4ID0gUS5nZXRTb2x1dGlvblZhckluZGV4KEhTOjpWYXJpYWJsZTo6dGVtcGVyYXR1cmVfc3RhcnQpOwogICAgICAgIHJldHVybiAtbm9uZGltZW5zaW9uYWxpemF0aW9uLmRpbWVuc2lvbmFsVGVtcGVyYXR1cmUoc29sdXRpb25fb3V0cHV0Lmxhc3Rfc29sdXRpb25fdXBkYXRlW25vZGVfaWRdW3RlbXBlcmF0dXJlX2luZGV4XSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gLW5vbmRpbWVuc2lvbmFsaXphdGlvbi5kaW1lbnNpb25hbEtpbmVtYXRpY1Zpc2Nvc2l0eShzb2x1dGlvbl9vdXRwdXQubGFzdF9zb2x1dGlvbl91cGRhdGVbbm9kZV9pZF1bdHVyYl9pbmRleF0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRwdXRbInNvbHV0aW9uLXVwZGF0ZS1kZW5zaXR5Il1bbm9kZV9pZF0gPSAtbm9uZGltLmRpbWVuc2lvbmFsRGVuc2l0eShkUVtub2RlX2lkXVswXSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRwdXRbInNvbHV0aW9uLXVwZGF0ZS11Il1bbm9kZV9pZF0gPSAtbm9uZGltLmRpbWVuc2lvbmFsU3BlZWQoZFFbbm9kZV9pZF1bMV0pOwogICAgICAgICAgICAgICAgICAgIG91dHB1dFsic29sdXRpb24tdXBkYXRlLXYiXVtub2RlX2lkXSA9IC1ub25kaW0uZGltZW5zaW9uYWxTcGVlZChkUVtub2RlX2lkXVsyXSk7CiAgICAgICAgICAgICAgICAgICAgb3V0cHV0WyJzb2x1dGlvbi11cGRhdGUtdyJdW25vZGVfaWRdID0gLW5vbmRpbS5kaW1lbnNpb25hbFNwZWVkKGRRW25vZGVfaWRdWzNdKTsKICAgICAgICAgICAgICAgICAgICBvdXRwdXRbInNvbHV0aW9uLXVwZGF0ZS10ZW1wZXJhdHVyZSJdW25vZGVfaWRdID0gLW5vbmRpbS5kaW1lbnNpb25hbFRlbXBlcmF0dXJlKGRRW25vZGVfaWRdWzRdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBzdGQ6OnZlY3RvcjxzdGQ6OmFycmF5PFQsIEVROjpOdW1FcW5zPj4gJmRRLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0WyJkdWFsLXZvbHVtZSJdID0gbm9uZGltLmRpbWVuc2lvbmFsVm9sdW1lKG1lc2guZHVhbF9tZXRyaWNzLm5vZGVfdm9sdW1lcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getSca</last-search>
+      <last-search>NumEq</last-search>
       <last-offset />
-      <last-pattern>getSca</last-pattern>
+      <last-pattern>NumEq</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -2947,10 +2947,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bind</entry>
-        <entry>dq</entry>
-        <entry>update</entry>
-        <entry>realiz</entry>
         <entry>relax_solution_at_block</entry>
         <entry>relax_so</entry>
         <entry>relax_solution</entry>
@@ -2960,13 +2956,17 @@
         <entry>MeshInterface</entry>
         <entry>dual</entry>
         <entry>dual vo</entry>
-        <entry>adjoint_solution</entry>
         <entry>-limiter</entry>
         <entry>T</entry>
         <entry>AtNode</entry>
         <entry>solution-update-u</entry>
         <entry>calcSolve</entry>
         <entry>getSca</entry>
+        <entry>adjoint_solution</entry>
+        <entry>last_solution_update</entry>
+        <entry>NumEqns</entry>
+        <entry>dQ</entry>
+        <entry>NumEq</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/\r/g</entry>

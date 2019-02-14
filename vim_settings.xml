@@ -1056,12 +1056,12 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="39" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" timestamp="1550154067078">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="43" column="74" />
-        <mark key="." line="43" column="74" />
-        <mark key="^" line="43" column="74" />
+      <file name="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" timestamp="1550155094448">
+        <mark key="'" line="55" column="80" />
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/SparsityPatternBuilders.h" timestamp="1539809085901">
         <mark key="'" line="44" column="0" />
@@ -2845,7 +2845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="76" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="270" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
       <jump line="141" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="142" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
@@ -2945,6 +2944,7 @@
       <jump line="24" column="37" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
       <jump line="38" column="0" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
+      <jump line="54" column="80" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2954,8 +2954,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>list2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbl92YWx1ZSA9IGV4cGVjdGVkX2dyYWRpZW50c1tuXVtdCg==</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2964,7 +2964,7 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>list2</text>
+        <text>[1.0, 300.0, 0.0, 0.0, 200.0])</text>
       </register>
       <register name="/" type="4">
         <text>expected_names</text>
@@ -2973,28 +2973,28 @@
         <text encoding="base64">dGVtcGxhdGUgY2xhc3MgSFM6OlNvbHZlT3V0cHV0PGRvdWJsZSwgTGFtaW5hclBlcmZlY3RHYXM+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbl92YWx1ZSA9IGV4cGVjdGVkX2dyYWRpZW50c1tuXVtdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmFzc2VydCBsZW4oZXhwZWN0ZWRfZ3JhZGllbnRzKSA9PSBsZW4oc29sdXRpb25fZmllbGRfbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbgo=</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmFzc2VydCBsZW4oZXhwZWN0ZWRfZ3JhZGllbnRzKSA9PSBsZW4oc29sdXRpb25fZmllbGRfbmFtZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwZWN0ZWRfZ3JhZGllbnRzID0ge30KaiA9IDAuMApmb3IgbmFtZSBpbiBzb2x1dGlvbl9maWVsZF9uYW1lczoKICAgIGV4cGVjdGVkX2dyYWRpZW50c1tuYW1lXSA9IFtqICsgMC4xLCBqICsgMC4yLCBqICsgMC4zXQogICAgaiArPSAxLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ZXhwZWN0ZWRfZ3JhZGllbnRzID0ge30KaiA9IDAuMApmb3IgbmFtZSBpbiBzb2x1dGlvbl9maWVsZF9uYW1lczoKICAgIGV4cGVjdGVkX2dyYWRpZW50c1tuYW1lXSA9IFtqICsgMC4xLCBqICsgMC4yLCBqICsgMC4zXQogICAgaiArPSAxLjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>

@@ -494,8 +494,8 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1550095819639">
-        <mark key="'" line="313" column="96" />
+      <file name="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" timestamp="1550166856407">
+        <mark key="'" line="301" column="8" />
         <mark key="k" line="312" column="7" />
         <mark key="[" line="346" column="54" />
         <mark key="]" line="346" column="56" />
@@ -1056,12 +1056,12 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="39" />
       </file>
-      <file name="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" timestamp="1550155094448">
-        <mark key="'" line="55" column="80" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="24" column="49" />
-        <mark key="." line="24" column="49" />
-        <mark key="^" line="24" column="49" />
+      <file name="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" timestamp="1550166912507">
+        <mark key="'" line="57" column="80" />
+        <mark key="[" line="35" column="67" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="13" />
       </file>
       <file name="$USER_HOME$/one-ring/hypersolve/src/mesh/SparsityPatternBuilders.h" timestamp="1539809085901">
         <mark key="'" line="44" column="0" />
@@ -2845,7 +2845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="47" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
       <jump line="141" column="18" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="142" column="50" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
       <jump line="105" column="12" filename="$USER_HOME$/one-ring/hypersolve/src/discretization/SolveOutput.h" />
@@ -2945,6 +2944,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
       <jump line="38" column="0" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
       <jump line="54" column="80" filename="$USER_HOME$/one-ring/hypersolve/acceptance/verify_fields/visualize-without-solve.py" />
+      <jump line="301" column="8" filename="$USER_HOME$/one-ring/hypersolve/src/NavierStokesSolver.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2954,8 +2954,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbl92YWx1ZSA9IGV4cGVjdGVkX2dyYWRpZW50c1tuXVtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>_gradients</text>
       </register>
       <register name="j" type="4">
         <text />
@@ -2964,40 +2964,40 @@
         <text>jkk</text>
       </register>
       <register name="-" type="4">
-        <text>[1.0, 300.0, 0.0, 0.0, 200.0])</text>
+        <text>_gradients</text>
       </register>
       <register name="/" type="4">
-        <text>expected_names</text>
+        <text>vis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVtcGxhdGUgY2xhc3MgSFM6OlNvbHZlT3V0cHV0PGRvdWJsZSwgTGFtaW5hclBlcmZlY3RHYXM+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbl92YWx1ZSA9IGV4cGVjdGVkX2dyYWRpZW50c1tuXVtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb2x1dGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbl92YWx1ZSA9IGV4cGVjdGVkX2dyYWRpZW50c1tuXVtdCg==</text>
       </register>
       <register name="r" type="4">
         <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmFzc2VydCBsZW4oZXhwZWN0ZWRfZ3JhZGllbnRzKSA9PSBsZW4oc29sdXRpb25fZmllbGRfbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2x1dGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmFzc2VydCBsZW4oZXhwZWN0ZWRfZ3JhZGllbnRzKSA9PSBsZW4oc29sdXRpb25fZmllbGRfbmFtZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwZWN0ZWRfZ3JhZGllbnRzID0ge30KaiA9IDAuMApmb3IgbmFtZSBpbiBzb2x1dGlvbl9maWVsZF9uYW1lczoKICAgIGV4cGVjdGVkX2dyYWRpZW50c1tuYW1lXSA9IFtqICsgMC4xLCBqICsgMC4yLCBqICsgMC4zXQogICAgaiArPSAxLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ZXhwZWN0ZWRfZ3JhZGllbnRzID0ge30KaiA9IDAuMApmb3IgbmFtZSBpbiBzb2x1dGlvbl9maWVsZF9uYW1lczoKICAgIGV4cGVjdGVkX2dyYWRpZW50c1tuYW1lXSA9IFtqICsgMC4xLCBqICsgMC4yLCBqICsgMC4zXQogICAgaiArPSAxLjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -3013,9 +3013,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expected_names</last-search>
+      <last-search>vis</last-search>
       <last-offset />
-      <last-pattern>expected_names</last-pattern>
+      <last-pattern>vis</last-pattern>
       <last-replace encoding="base64">LCA=</last-replace>
       <last-substitute>normal</last-substitute>
       <last-dir>1</last-dir>
@@ -3023,8 +3023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calcSolver</entry>
-        <entry>calcSolve</entry>
         <entry>node_based_</entry>
         <entry>syncer</entry>
         <entry>ANN</entry>
@@ -3043,6 +3041,8 @@
         <entry>time</entry>
         <entry>expect</entry>
         <entry>expected_names</entry>
+        <entry>initialize</entry>
+        <entry>vis</entry>
       </history-search>
       <history-cmd>
         <entry>s/ \s*/, /g</entry>
